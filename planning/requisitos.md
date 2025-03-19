@@ -10,3 +10,4 @@
 - Se pueden exportar las cancioens a pdf
 - Se pueden registrar himnos (foto whatsapp)
 - Se da una pantalla de inicio con salutacion inicial y personaliza tu himnario
+- Se pueden compartir los himnos rapidamente como imagenes para enviarlas por whatsapp
