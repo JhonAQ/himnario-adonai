@@ -2,6 +2,7 @@ import {ScrollView, View, Text, TextInput } from 'react-native';
 import SearchBar from './components/SearchBar';
 import Section from './components/Section';
 import CardHymn from './components/CardHymn';
+import ListCard from './components/ListCard';
 
 const Main = () => {
   return (
@@ -14,9 +15,31 @@ const Main = () => {
           <Text className="font-josefin font-light text-sm text-gray-500">Abrir ahora</Text>
         </View>
         <SearchBar className="mt-7" />
-        <Section title="Vistos recientemente">
-          <CardHymn></CardHymn>
-          <CardHymn></CardHymn>
+        <Section title="Vistos recientemente" className="mt-8">
+          <CardHymn dataHymn={{
+            title: "Padre celestial, acuerdate de mi",
+            key: "F#",
+            type: "Adoracion",
+            index: 223,
+            verses: 4,
+            like: false
+          }}/>
+
+          <CardHymn dataHymn={{
+            title: "Canto a ti",
+            key: "E#m",
+            type: "Adoracion",
+            index: 223,
+            verses: 4,
+            like: true
+          }}/>
+        </Section>
+        <Section className="mt-5" title="Categorías">
+          <ListCard dataCategory={{
+            category: "Canciones de adoración",
+            hymns: 50, 
+            favorites: 4
+          }}/>
         </Section>
       </ScrollView>
 
