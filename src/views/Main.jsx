@@ -10,9 +10,9 @@ const Main = () => {
           <Text className="font-josefin font-medium">Himno 220 • Viento recio</Text>
           <Text className="font-josefin font-light text-sm text-gray-500">Abrir ahora</Text>
         </View>
-        <SearchBar/>
+        <SearchBar className="mt-7"/>
       </View>
-      <View className="tabs">
+      <View className="">
 
       </View>
     </View>
