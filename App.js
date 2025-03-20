@@ -5,7 +5,6 @@ import Main from './src/views/Main';
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
 import { useEffect } from 'react';
-import Humillacion from './src/views/Humillacion';
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };

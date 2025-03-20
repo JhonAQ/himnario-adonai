@@ -7,6 +7,17 @@ module.exports = {
       fontFamily: {
         josefin: ["JosefinSans-Regular", "JosefinSans-Medium", "JosefinSans-Bold", "JosefinSans-Light", "JosefinSans-SemiBold"],
         josefinSemibold: ["JosefinSans-SemiBold"],
+      },
+      colors:{
+        // UIbase: "#FAFAFA",
+        UIbase: "#F8F8F8",
+        UIwhite: "#FFFFFF" ,
+        UIblack: "#0D0D0D",
+        UIgray1: "#323232",
+        UIgray2: "#606060",
+        UIcontr1: "#F3E3AA",
+        UIcontr2: "#2E62A6",
+        UIPlaceH: "#d7d7d7"
       }
     },
   },
