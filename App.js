@@ -14,6 +14,7 @@ export default function App() {
     "JosefinSans-Regular": require("./assets/fonts/JosefinSans-Regular.ttf"),
     "JosefinSans-Medium": require("./assets/fonts/JosefinSans-Medium.ttf"),
     "JosefinSans-Light": require("./assets/fonts/JosefinSans-Light.ttf"),
+    "JosefinSans-ExtraLight": require("./assets/fonts/JosefinSans-ExtraLight.ttf"),
     "JosefinSans-Bold": require("./assets/fonts/JosefinSans-Bold.ttf"),
     "JosefinSans-SemiBold": require("./assets/fonts/JosefinSans-SemiBold.ttf")
   });
