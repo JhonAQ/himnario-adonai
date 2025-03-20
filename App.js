@@ -4,9 +4,8 @@ import './global.css';
 import Main from './src/views/Main';
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
-import { useEffect, useCallback } from 'react';
-
-SplashScreen.preventAutoHideAsync();
+import { useEffect } from 'react';
+import Humillacion from './src/views/Humillacion';
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
@@ -20,10 +19,13 @@ export default function App() {
     "JosefinSans-SemiBold": require("./assets/fonts/JosefinSans-SemiBold.ttf")
   });
 
-  const onLayoutRootView = useCallback(async () => {
-    if (loadedFonts) {
-      await SplashScreen.hideAsync();
+  useEffect(() => {
+    async function hideSplashScreen() {
+      if (loadedFonts) {
+        await SplashScreen.hideAsync();
+      }
     }
+    hideSplashScreen();
   }, [loadedFonts]);
 
   if (!loadedFonts) {
@@ -31,8 +33,6 @@ export default function App() {
   }
 
   return (
-    <View onLayout={onLayoutRootView} style={{ flex: 1 }}>
-      <Main />
-    </View>
+    <Humillacion/>
   );
 }
