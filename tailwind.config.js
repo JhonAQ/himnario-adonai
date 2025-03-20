@@ -11,7 +11,7 @@ module.exports = {
       },
       colors:{
         // UIbase: "#FAFAFA",
-        UIbase: "#F8F8F8",
+        UIbase: "#F3F3F3",
         UIwhite: "#FFFFFF" ,
         UIblack: "#0D0D0D",
         UIgray1: "#323232",

@@ -29,8 +29,8 @@ const Main = () => {
             title: "Canto a ti",
             key: "E#m",
             type: "Adoracion",
-            index: 223,
-            verses: 4,
+            index: 133,
+            verses: 5,
             like: true
           }}/>
         </Section>
@@ -39,6 +39,11 @@ const Main = () => {
             category: "Canciones de adoración",
             hymns: 50, 
             favorites: 4
+          }}/>
+          <ListCard dataCategory={{
+            category: "Coritos",
+            hymns: 80, 
+            favorites: 0
           }}/>
         </Section>
       </ScrollView>
