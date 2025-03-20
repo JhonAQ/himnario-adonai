@@ -33,6 +33,6 @@ export default function App() {
   }
 
   return (
-    <Humillacion/>
+    <Main/>
   );
 }
