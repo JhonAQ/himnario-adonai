@@ -27,7 +27,7 @@ const Hymn = ({himno}) => {
 
         {
           himno.lyrics.map((lyric, index) => (
-            <SectionLyric lyrics={lyric}/>
+            <SectionLyric key={index} lyrics={lyric}/>
           ))
         }
         </View>
@@ -40,10 +40,12 @@ const Hymn = ({himno}) => {
 const styles = StyleSheet.create({
   shadowProp: {
     shadowColor: '#171717',
-    shadowOffset: {width: 0, height: 2},
+    shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.2,
     shadowRadius: 12,
+    // Para android
+    elevation: 5, 
   }
-})
+});
 
 export default Hymn

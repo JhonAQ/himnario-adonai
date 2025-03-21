@@ -8,6 +8,7 @@ module.exports = {
       fontFamily: {
         josefin: ["JosefinSans-Regular", "JosefinSans-Medium", "JosefinSans-Bold", "JosefinSans-Light", "JosefinSans-SemiBold"],
         josefinSemibold: ["JosefinSans-SemiBold"],
+        josefinBold: ["JosefinSans-Bold"]
       },
       colors:{
         // UIbase: "#FAFAFA",
