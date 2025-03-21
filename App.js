@@ -1,7 +1,8 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import './global.css';
-import Main from './src/views/Main';
+import Main from './src/screens/Main';
+import Hymn from './src/screens/Hymn';
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
 import { useEffect } from 'react';
@@ -33,6 +34,6 @@ export default function App() {
   }
 
   return (
-    <Main/>
+    <Hymn/>
   );
 }
