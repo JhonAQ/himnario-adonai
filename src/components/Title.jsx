@@ -3,9 +3,9 @@ import {View, Text } from "react-native";
 
 const Title = ({ title }) => {
   return (
-    <View className='title mb-5 flex-row items-center gap-2 '>
-      <Entypo name="chevron-small-left" size={24} color="black" />
-      <Text className="font-josefin font-medium leading-none translate-y-0.5 text-xl">
+    <View className='title -translate-x-2 mb-5 flex-row justify-start items-center gap-2 '>
+      <Entypo className='' name="chevron-small-left" size={24} color="black" />
+      <Text className="font-josefin font-semibold leading-none translate-y-0.5 text-xl">
         {title}
       </Text>
     </View>
