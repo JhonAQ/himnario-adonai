@@ -4,32 +4,70 @@ import { StyleSheet } from 'react-native';
 import Title from '../components/Title';
 import SectionLyric from '../components/SectionLyric';
 import Himno from '../utils/CantoATi.js';
+import { useRoute } from '@react-navigation/native';
 
-const Hymn = ({himno}) => {
+const recentlyViewed = [
+  {
+    title: "Padre celestial, acuerdate de mi",
+    key: "F#",
+    type: "Adoracion",
+    index: 223,
+    verses: 4,
+    like: false
+  },
+  {
+    title: "Canto a ti",
+    key: "E#m",
+    type: "Adoracion",
+    index: 133,
+    verses: 5,
+    like: true
+  }
+]
 
-  //Proction
-  himno = Himno;
+const Hymn = () => {
+
+  const route = useRoute();
+  const { dataHymn } = route.params;
+
+  const lyrics = [
+    {
+      "type": "Coro",
+      "lines": [
+        "Demos gracias al Señor, demos gracias",
+        "demos gracias por su amor."
+      ]
+    },
+    {
+      "type": "Verso 1",
+      "lines": [
+        "Por la mañana las aves cantan",
+        "las alabanzas de Cristo el Salvador",
+        "y tú, amigo, ¿por qué no cantas",
+        "las alabanzas de Cristo el Salvador?"
+      ]
+    }]
 
   return (
     <View className='w-full h-full flex-col justify-start'>
       <View className="header w-full flex gap-0.5 pt-10 pb-3 px-8 bg-UIbase" style={[styles.shadowProp]}>
-        <Title title={himno.title}></Title>
+        <Title title={dataHymn.title}></Title>
         <View className='topBar flex-row justify-between items-center'>
           <Text className='font-josefin text-base'>
-            Himno {himno.number} • {himno.verses} versos
+            Himno {dataHymn.index} • {dataHymn.verses} versos
           </Text>
-          <Text className='font-josefin text-base'>{himno.key}</Text>
-          <Like/>
+          <Text className='font-josefin text-base'>{dataHymn.key}</Text>
+          <Like />
         </View>
       </View>
       <ScrollView className='px-14 py-9'>
         <View className='lyrics flex-col gap-5'>
 
-        {
-          himno.lyrics.map((lyric, index) => (
-            <SectionLyric key={index} lyrics={lyric}/>
-          ))
-        }
+          {
+            lyrics.map((lyric, index) => (
+              <SectionLyric key={index} lyrics={lyric} />
+            ))
+          }
         </View>
 
       </ScrollView>
@@ -44,7 +82,7 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 12,
     // Para android
-    elevation: 5, 
+    elevation: 5,
   }
 });
 
