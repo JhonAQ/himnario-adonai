@@ -1,15 +1,16 @@
-import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import './global.css';
-import Main from './src/screens/Main';
-import Hymn from './src/screens/Hymn';
-import Index from './src/screens/Index';
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
 import { useEffect } from 'react';
+import {NavigationContainer} from '@react-navigation/native';
+import MyTabs from './src/navigation/MyTabs';
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
+
+const Tab = createBottomTabNavigator();
 
 export default function App() {
   const [loadedFonts] = useFonts({
@@ -35,6 +36,8 @@ export default function App() {
   }
 
   return (
-    <Hymn/>
+    <NavigationContainer>
+      <MyTabs/>
+    </NavigationContainer>
   );
 }

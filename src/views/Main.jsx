@@ -47,9 +47,6 @@ const Main = () => {
           }}/>
         </Section>
       </ScrollView>
-
-
-
     </View>
   );
 };

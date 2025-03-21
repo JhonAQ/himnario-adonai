@@ -5,3 +5,4 @@ Esta lista sirve para anotar aqui cosas pequeñás o detalles pequeños que se m
 - Quitar el "no esta en foco"
 - Ponerle tilde a categorias
 - Cranear poner bis
+- Saber que paso con el import {}
