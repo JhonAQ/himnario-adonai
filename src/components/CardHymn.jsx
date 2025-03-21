@@ -1,10 +1,15 @@
-import { Text, View } from "react-native";
+import { Text, TouchableOpacity, View } from "react-native";
 import Like from "./Like";
+import { useNavigation } from "@react-navigation/native";
 
 const CardHymn = ({dataHymn}) => {
   const like = true;
+  const navigation = useNavigation();
   return (
-    <View className="bg-UIwhite w-[48%] rounded-lg">
+    <TouchableOpacity
+    onPress={() => navigation.navigate('HymnStack')}
+    activeOpacity={0.6}
+    className="bg-UIwhite w-[48%] rounded-lg">
       <View className="card-image bg-slate-400 h-28 relative rounded-lg">
         <Like className="absolute top-2 right-2" like={dataHymn.like}/>
       </View>
@@ -24,7 +29,7 @@ const CardHymn = ({dataHymn}) => {
           {dataHymn.key}
         </Text>
       </View>
-    </View>
+    </TouchableOpacity>
   )
 }
 
