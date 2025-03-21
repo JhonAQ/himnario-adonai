@@ -1,6 +1,6 @@
 import { ScrollView, View, Text, TextInput } from 'react-native';
 import Like from '../components/Like';
-import { StyleSheet } from 'nativewind';
+import { StyleSheet } from 'react-native';
 import Title from '../components/Title';
 import SectionLyric from '../components/SectionLyric';
 import Himno from '../utils/CantoATi.js';
