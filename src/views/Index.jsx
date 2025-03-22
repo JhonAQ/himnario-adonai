@@ -15,7 +15,6 @@ const Index = () => {
 
   useEffect(() => {
     setHideBar(true);
-    return () => setHideBar(false);
   }, []);
 
   return (

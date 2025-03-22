@@ -5,6 +5,7 @@ import CardHymn from '../components/CardHymn';
 import ListCard from '../components/ListCard';
 import { useTabBar } from '../context/TabBarContext';
 import { useEffect } from 'react';
+import { useFocusEffect } from '@react-navigation/native';
 
 const recentlyViewed = [
 {
@@ -28,9 +29,10 @@ const recentlyViewed = [
 const Home = () => {
   const {setHideBar} = useTabBar();
 
-  useEffect(() => {
+  useFocusEffect(() => {
     setHideBar(false);
-  }, []);
+  });
+
   return (
     <View className="w-full h-full bg-slate-500 flex items-center justify-center">
 

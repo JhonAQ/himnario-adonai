@@ -13,7 +13,6 @@ const Hymn = () => {
 
   useEffect(() => {
     setHideBar(true);
-    return () => setHideBar(true);
   }, []);
 
   const route = useRoute();
