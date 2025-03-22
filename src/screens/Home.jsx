@@ -3,6 +3,8 @@ import SearchBar from '../components/SearchBar';
 import Section from '../components/Section';
 import CardHymn from '../components/CardHymn';
 import ListCard from '../components/ListCard';
+import { useTabBar } from '../context/TabBarContext';
+import { useEffect } from 'react';
 
 const recentlyViewed = [
 {
@@ -24,6 +26,11 @@ const recentlyViewed = [
 ]
 
 const Home = () => {
+  const {setHideBar} = useTabBar();
+
+  useEffect(() => {
+    setHideBar(false);
+  }, []);
   return (
     <View className="w-full h-full bg-slate-500 flex items-center justify-center">
 
