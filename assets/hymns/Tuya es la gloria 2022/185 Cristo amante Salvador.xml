@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>185 Cristo amante Salvador</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="185"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cristo, amante Salvador,<br/>ten clemencia hoy de mí.<br/>Con tu amor ayúdame<br/>tu mensaje a predicar.<br/> <br/>	Padre Dios, dame hoy<br/>	tu gran fuerza y poder<br/>	para testificar<br/>	de tu gran salvación.<br/> <br/>Guíame, Señor Jesús,<br/>con tu espíritu de amor,<br/>por doquier a proclamar<br/>tu perdón y salvación.<br/> <br/>Te doy gracias, ¡oh, Señor!,<br/>por tu sacrosanto amor,<br/>siempre yo te serviré,<br/>sin cesar te alabaré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

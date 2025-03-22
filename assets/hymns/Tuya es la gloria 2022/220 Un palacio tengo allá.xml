@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>220 Un palacio tengo allá</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="220"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>//Un palacio tengo allá<br/>más lindo que el sol//<br/>con mi buen Jesús.<br/> <br/>	//Bendito Cristo, <br/>	contigo estaré//<br/>	en el más allá.<br/> <br/>//Si tú quieres ir al cielo,<br/>ven al Señor,//<br/>ven sin demorar.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

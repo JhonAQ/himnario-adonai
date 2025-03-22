@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>144 Por la senda marcharé</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="144"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Por la senda marcharé de Jesús mi Salvador<br/>con profundo amor. <br/>Él su protección me da y también su gran amor; <br/>gozo tengo ya.<br/>/Iba tan perdido yo, su llamado mi alma oyó;<br/>él ya me salvó./<br/> <br/>¿A quién yo tendré temor? Si voy con mi Salvador, ¡qué seguridad!<br/>Mis tristezas ya quitó. Él vive en mi corazón, <br/>sí salvado soy.<br/>/Buenas nuevas yo daré; para siempre cantaré <br/>por mi libertad./<br/> <br/>Si tú puedes ya pensar por la senda a marchar, <br/>parte ya tendrás. <br/>Pues, tus culpas en la cruz Cristo por amor llevó, <br/>hoy acéptale.<br/>/Te dará felicidad, gozo, paz y libertad. <br/>No esperes más./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

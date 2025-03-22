@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>007 Diez mil razones</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="7"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>	Que todo lo que soy alabe al Señor,<br/>	todo mi corazón.<br/>	De tu grande amor cantaré,<br/>	tu nombre alabaré.<br/> <br/>Sale el sol, es un nuevo amanecer,<br/>cantaré a ti otra vez.<br/>Sea lo que venga, confiaré en ti.<br/>Alabaré en el anochecer.<br/> <br/>Tu amor no tiene fin y tú eres para siempre,<br/>y bondadoso es tu corazón.<br/>Por todo lo que has hecho, yo sigo cantando.<br/>Diez mil razones para alabar.<br/> <br/>Y en ese día cuando ya no tenga fuerza,<br/>y se acerque tu gloria,<br/>mi alma cantará de tu amor sin final.<br/>Diez mil años y para siempre más.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

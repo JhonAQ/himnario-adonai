@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>129 El que habita al abrigo de Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="129"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>El que habita al abrigo de Dios<br/>morará bajo sombras de amor;<br/>sobre él no vendrá ningún mal<br/>y en sus alas feliz vivirá.<br/> <br/>¡Oh, yo quiero habitar al abrigo de Dios!;<br/>solo allí encontraré paz y profundo amor.<br/>Mi delicia con él comunión disfrutar<br/>y yo siempre su nombre alabar.<br/> <br/>El que habita al abrigo de Dios<br/>ciertamente muy feliz será;<br/>ángeles guardarán su salud<br/>y sus pies nunca resbalarán.<br/> <br/>El que habita al abrigo de Dios<br/>para siempre seguro estará;<br/>caerán mil y diez mil por doquier,<br/>mas a él no vendrá mortandad.<br/> <br/>Sal 91:1-3<br/></lines>
+			</verse>
+	</lyrics>
+</song>

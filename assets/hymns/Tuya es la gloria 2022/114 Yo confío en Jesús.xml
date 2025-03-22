@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>114 Yo confío en Jesús</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="114"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Yo confío en Jesús,<br/>y ya salvo soy;<br/>por su muerte en la cruz <br/>a la gloria voy.<br/> <br/>	Cristo dio por mí <br/>sangre carmesí,<br/>	y por su muerte en la cruz <br/>la vida me dio Jesús.<br/> <br/>Todo fue pagado ya,<br/>nada debo yo;<br/>salvación perfecta da, <br/>quien por mí murió.<br/> <br/>Mi perfecta salvación <br/>eres, mi Jesús;<br/>mi completa redención, <br/>mi gloriosa luz.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

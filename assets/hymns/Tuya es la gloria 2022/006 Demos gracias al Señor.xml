@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>006 Demos gracias al Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="6"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>	/Demos gracias al Señor, demos gracias,<br/>	demos gracias por su amor./<br/> <br/>Por la mañana las aves cantan<br/>las alabanzas de Cristo el Salvador.<br/>Y tú, amigo, ¿por qué no cantas<br/>las alabanzas de Cristo el Salvador?	 <br/> <br/>Y las estrellas de noche brillan<br/>y nos alumbran por el amor de Dios.<br/>Y tú amigo, mirando al cielo,<br/>¿por qué no alabas al Salvador Jesús?<br/>	 <br/>En el calvario murió inocente<br/>por tus pecados clavado en una cruz.<br/>Y si tú quieres la vida eterna,<br/>¿por qué no acudes al Salvador Jesús?</lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>233 Iremos todos con alegría</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="233"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Iremos todos con alegría<br/>a la presencia del Salvador.<br/>En tiempos tristes, tiempos gozosos,<br/>iremos juntos con fe y amor.<br/> <br/>	Cristo, amor eterno,<br/>	santo y benigno, Dios de perdón.<br/>	Siempre ama a todos,<br/>	y les ofrece su salvación.<br/> <br/>Allí en el cielo ya preparado<br/>hay un lugar hermoso y feliz.<br/>Con Jesucristo do reinaremos,<br/>siempre gozosos, limpios del mal.<br/> <br/>Hermano mío, nunca te alejes<br/>del buen camino del Redentor,<br/>y protegidos juntos iremos,<br/>hasta que estemos con el Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

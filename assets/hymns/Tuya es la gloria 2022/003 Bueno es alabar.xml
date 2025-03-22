@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>003 Bueno es alabar</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="3"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Bueno es alabar, ¡oh, Señor!, tu nombre<br/>darte gloria honra y honor, por siempre.<br/>Bueno es alabarte Jesús, y gozarme en tu poder.<br/> <br/>	Porque grande eres tú, grande son tus obras.<br/>	Porque grande eres tú, grande es tu amor,<br/>	grande es tu gloria.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

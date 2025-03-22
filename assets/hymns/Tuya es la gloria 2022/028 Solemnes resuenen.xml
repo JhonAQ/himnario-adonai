@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>028 Solemnes resuenen</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="28"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Solemnes resuenen las voces de amor<br/>con gran regocijo tributen loor<br/>al Rey Soberano, el Buen Salvador;<br/>dignísimo es él del más alto honor.	<br/>	 <br/>	Alabad, alabad, alabad al gran Rey;<br/>	adorad, adorad, adoradle su grey.<br/>	Es nuestro escudo, baluarte y sostén,<br/>	El Omnipotente por siglos. Amén.<br/> <br/>Su amor infinito, ¿qué lengua dirá?<br/>Y ¿quién sus bondades jamás sondeará?<br/>Su misericordia no puede faltar,<br/>mil himnos alaben su nombre sin par.<br/> <br/>Inmensa la obra de Cristo en la cruz,<br/>enorme la culpa se ve por su luz.<br/>Al mundo él vino, nos iluminó,<br/>y por nuestras culpas el justo murió.	 <br/> <br/>Velad, fieles todos, velad con fervor, <br/>que viene muy pronto Jesús el Señor.<br/>Con notas alegres vendrá a reinar;<br/>a su eterna gloria os ha de llevar.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>316 Tu nombre levantaré</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="316"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Tu nombre levantaré, <br/>me deleito en adorarte,<br/>te agradezco que en mi vida estés,<br/>que vinieras a salvarme.<br/> <br/>Dejaste el trono para mostrarnos la luz<br/>de tu trono a la cruz y mi deuda pagar<br/>de la cruz al morir, de la muerte a tu trono.<br/>Tu nombre levantaré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>139 Nuestro Padre Celestial</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="139"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Nuestro Padre celestial <br/>a sus hijos los protege;<br/>ni los pájaros ni estrellas, <br/>han tenido tal albergue.	<br/> <br/>Dios los cuida y alimenta, <br/>y cual plantas que florecen,<br/>él los guarda presuroso, <br/>y en sus brazos los recoge.<br/> <br/>Dios su gracia les otorga; <br/>sus tristezas él conoce;<br/>no se olvidará de ellos, <br/>ni en la vida, ni en la muerte.<br/> <br/>Y aunque pasen muchos siglos, <br/>Dios a ellos no abandona;<br/>su propósito es amar; <br/>los preservará en la gloria.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

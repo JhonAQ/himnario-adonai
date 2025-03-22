@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>257 En tu cena nos juntamos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="257"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>En tu cena nos juntamos,<br/>Señor, para celebrar<br/>tu pasión y cruel muerte<br/>y en tu grande amor pensar.<br/>Grande amor, grande amor,<br/>y en tu grande amor pensar.<br/> <br/>Redimidos, ya tenemos<br/>por tu muerte comunión;<br/>en el pan te recordamos,<br/>Dios de nuestra salvación.<br/>Salvación, salvación,<br/>Dios de nuestra salvación.<br/> <br/>En la copa confesamos<br/>que tu sangre es eficaz;<br/>por tu salvación perfecta<br/>esperamos ver tu faz.<br/>Ver tu faz, ver tu faz,<br/>esperamos ver tu faz.<br/> <br/>Por tu gracia congregados<br/>en tu paz y con tu amor,<br/>en espíritu cantamos<br/>a ti, nuestro Redentor.<br/>Redentor, Redentor,<br/>a ti, nuestro Redentor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

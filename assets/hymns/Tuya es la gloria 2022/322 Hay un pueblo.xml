@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>322 Hay un pueblo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="322"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Hay un pueblo que vive muy feliz,<br/>y ese pueblo es el pueblo de Dios./<br/> <br/>/Y ese pueblo vive así,<br/>porque un día conoció<br/>a Jesús, al Salvador.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

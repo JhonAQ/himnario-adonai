@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>043 Gloria a Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="43"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>	Gloria a Dios.<br/>	Gloria a Dios.<br/>	<br/>Aquel niño que ha venido<br/>se hizo hombre por amor.<br/>Ha crecido y ha sufrido<br/>los dolores de una cruz.<br/> <br/>Ha vencido a la muerte<br/>y hoy vive en mi ser.<br/>Ya han pasado dos mil años<br/>y no tarda en volver.<br/> <br/>Te agradezco por salvarme<br/>hoy te adoro, mi Señor.<br/>Dios con nosotros,<br/>admirable Emanuel.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

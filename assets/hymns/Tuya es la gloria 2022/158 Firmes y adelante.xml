@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>158 Firmes y adelante</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="158"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Firmes y adelante, huestes de la fe,<br/>sin temor alguno, que Jesús nos ve.<br/>Jefe soberano, Cristo al frente va,<br/>y la regia enseña tremolando está.<br/> <br/>	Firmes y adelante, huestes de la fe,<br/>	sin temor alguno, que Jesús nos ve.<br/> <br/>Al sagrado nombre de nuestro Adalid<br/>tiembla el enemigo y huye de la lid.<br/>Nuestra es la victoria, dad a Dios loor;<br/>y óigalo el averno lleno de pavor.<br/> <br/>Muévase potente la iglesia de Dios,<br/>de los ya gloriosos marchamos en pos.<br/>Somos solo un cuerpo y uno es el Señor,<br/>una la esperanza y uno nuestro amor.<br/> <br/>Tronos y coronas pueden perecer,<br/>de Jesús la Iglesia constante ha de ser.<br/>Nada en contra suya prevalecerá,<br/>porque la promesa nunca faltará.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

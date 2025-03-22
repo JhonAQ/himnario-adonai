@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>128 Dulce comunión</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="128"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Dulce comunión la que gozo ya<br/>en los brazos de mi Salvador;<br/>¡Qué gran bendición en su paz me da!<br/>¡Oh!, yo siento en mí su tierno amor.<br/> <br/>	Libre, salvo, del pecado y del temor;<br/>	libre, salvo, en los brazos de mi Salvador.<br/> <br/>¡Cuán dulce es vivir, cuán dulce es gozar!,<br/>en los brazos de mi Salvador,<br/>allí quiero ir y con él morar,<br/>siendo objeto de su tierno amor.<br/> <br/>No hay que temer ni que desconfiar,<br/>en los brazos de mi Salvador;<br/>por su gran poder él me guardará<br/>de los lazos del engañador.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

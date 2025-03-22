@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>326 No importa de dónde tú vengas</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="326"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>No importa de dónde tú vengas,<br/>sí detrás del Calvario tú estás.<br/>Si tu corazón es como el mío,<br/>dame la mano y mi hermano serás.<br/> <br/>/Dame la mano, dame la mano,<br/>mane la mano y mi hermano serás./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

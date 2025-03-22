@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>263 Si yo no tengo amor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="263"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>	/Si yo no tengo amor,<br/>	yo nada soy, Señor./<br/> <br/>El amor es comprensivo,<br/>el amor es servicial,<br/>el amor no tiene envidia,<br/>el amor no busca el mal.<br/> <br/>El amor nunca se irrita,<br/>el amor no es descortés,<br/>el amor no es egoísta,<br/>el amor nunca es doblez.<br/> <br/>El amor disculpa todo,<br/>el amor es caridad,<br/>no se alegra de lo injusto,<br/>solo goza en la verdad.<br/> <br/>El amor soporta todo,<br/>el amor todo lo cree,<br/>el amor todo lo espera,<br/>el amor es siempre fe.<br/> <br/>Nuestra fe, nuestra esperanza<br/>frente a Dios terminarán.<br/>El amor es algo eterno,<br/>nunca, nunca pasará.<br/> <br/>1 Co 13:1-7<br/></lines>
+			</verse>
+	</lyrics>
+</song>

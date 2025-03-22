@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>037 Al ver las estrellas</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="37"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Al ver las estrellas brillar recuerdo yo,<br/>que Jesús el hijo de Dios vino a nacer.<br/>Y su luz me hace pensar en el amor<br/>del buen Jesús, quien en la cruz por mí murió. <br/> <br/>	En Belén nació mi buen Jesús,<br/>	vino al mundo para salvar al pecador.<br/>	Él por mí dejó su gloria allí,<br/>	por mí murió en una cruz, mi Salvador. <br/> <br/>De la virgen Cristo Jesús nació en Belén,<br/>el único hijo de Dios, el Salvador.<br/>Su venida nos demostró el gran amor<br/>y la gracia del Padre Dios al pecador.		 <br/> <br/>Un mensaje de gozo y paz el ángel dio.<br/>Los pastores al escuchar, fueron a ver<br/>con gran gozo, al Salvador nacido allí,<br/>le alabaron con mucha fe y dulce amor.<br/> <br/>Al ver la estrella brillar, señal de Dios,<br/>los magos al niño Jesús fueron a ver.<br/>Sus regalos ofrecieron con mucho amor,<br/>alabando de corazón al Salvador.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>248 Ya mi vida se la debo a Jesús</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="248"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Ya mi vida se la debo a Jesús, porque<br/>él murió en la cruz por mí./<br/> <br/>	/Vida nueva encontré en la cruz de Jesús,<br/>	porque Cristo mi deuda pagó./<br/> <br/>/Yo me rindo a los pies de Jesús mi Señor,<br/>porque fui un infiel pecador./<br/> <br/>/Pecador, el Santo Espíritu te llama a ti,<br/>ven a Cristo y salvo serás./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

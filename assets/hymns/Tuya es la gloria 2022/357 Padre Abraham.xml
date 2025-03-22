@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>357 Padre Abraham</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="357"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>	Padre Abraham tenía muchos hijos,<br/>	muchos hijos tiene el padre Abraham.<br/>	Yo soy uno y tú también,<br/>	y todos alabemos al Señor.<br/> <br/>Brazo derecho…<br/> <br/>Brazo derecho, brazo izquierdo…<br/> <br/>Brazo derecho, brazo izquierdo, pie derecho…<br/> <br/>Brazo derecho, brazo izquierdo, pie derecho, pie izquierdo….<br/> <br/>Brazo derecho, brazo izquierdo, pie derecho, pie izquierdo, cabeza arriba, cabeza abajo….<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>143 Paz en la tormenta</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="143"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cuando lloras por las veces que intentaste <br/>y tratas de olvidar las lágrimas que lloraste,<br/>solo tienes pena y tristeza,<br/>y el futuro incierto esperas.<br/>En paz en medio de la tormenta. <br/> <br/>Muchas veces me siento igual que tú,<br/>y mi corazón anhela algo real.<br/>El Señor viene a mí <br/>y me ayuda a seguir,<br/>en paz en medio de la tormenta.<br/> <br/>	Puedes tener paz en la tormenta,<br/>	fe y esperanza cuando no puedas seguir.<br/>	Aun con tu mundo hecho pedazos <br/>	el Señor guiará tus pasos.<br/>	En paz en medio de la tormenta.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

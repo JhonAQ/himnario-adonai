@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>217 La mansión celestial</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="217"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>La mansión celestial de mi Dios y Señor<br/>nunca terminará, pues eterna será.<br/>Mas mi hogar terrenal pronto disipará,<br/>como sombra y neblina desvanecerá.<br/> <br/>	/Sin mirar hacia atrás ni volver a pecar,<br/>	Vamos pues con Jesús al hogar celestial./<br/> <br/>Para andar con Jesús y servirle a él<br/>necesario es cumplir con su gran voluntad.<br/>Por su muerte en la cruz fortaleza nos dio.<br/>Pues sigamos con fe al bendito Jesús.<br/> <br/>Venceremos al mal, a la muerte y dolor.<br/>Solo en Cristo el Señor hay victoria y poder.<br/>En los cielos con Dios viviremos sin fin,<br/>alabando a Jesús por su gran salvación.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

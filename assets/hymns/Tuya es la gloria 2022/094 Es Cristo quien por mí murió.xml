@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>094 Es Cristo quien por mí murió</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="94"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Es Cristo quien por mí murió, <br/>mis culpas él borró.<br/>¡Cuán grandes penas él sufrió!, <br/>¡cuán grande es su amor!<br/> <br/>	¡Oh, cuánto le alabo!, <br/>	¡oh, cuánto le adoro!,<br/>	y siempre le sigo <br/>	de todo corazón.<br/> <br/>Jesús su sangre derramó,<br/>el Rey por mí murió;<br/>por mí, porque él me amó, <br/>mi iniquidad limpió.<br/> <br/>¡Oh!, nunca puedo yo pagar, <br/>la deuda de su amor;<br/>estoy aquí, mi Salvador, <br/>recíbeme, Señor.	<br/> <br/>Vivir con Cristo me trae paz; <br/>con él habitaré;<br/>pues suyo soy, y de hoy en más<br/>a nadie temeré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -7,6 +7,7 @@ import { useEffect } from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import MyTabs from "./src/navigation/MyTabs";
 import { TabBarProvider } from "./src/context/TabBarContext";
+import { Platform } from "react-native";
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
@@ -37,10 +38,12 @@ export default function App() {
   }
 
   return (
-    <TabBarProvider>
-      <NavigationContainer>
-        <MyTabs />
-      </NavigationContainer>
-    </TabBarProvider>
+    <View className={"h-full " + (Platform.OS === "web" ? "w-full max-w-[500px] mx-auto" : "w-full")}>
+      <TabBarProvider>
+        <NavigationContainer>
+          <MyTabs />
+        </NavigationContainer>
+      </TabBarProvider>
+    </View>
   );
 }

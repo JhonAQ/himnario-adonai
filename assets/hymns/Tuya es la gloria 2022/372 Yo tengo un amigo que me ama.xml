@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>372 Yo tengo un amigo que me ama</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="372"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Yo tengo un amigo que me ama,<br/>me ama, me ama.<br/>Yo tengo un amigo que me ama,<br/>su nombre es Jesús.<br/> <br/>/Él me ama, él me ama,<br/>él me ama con su tierno amor./<br/> <br/>Tú tienes un amigo que te ama,<br/>te ama, te ama.<br/>Tú tienes un amigo que te ama,<br/>su nombre es Jesús.<br/> <br/>Tenemos un amigo que nos ama,<br/>nos ama, nos ama.<br/>Tenemos un amigo que nos ama,<br/>su nombre es Jesús.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

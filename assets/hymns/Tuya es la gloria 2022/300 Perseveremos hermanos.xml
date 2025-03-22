@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>300 Perseveremos hermanos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="300"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Perseveremos hermanos<br/>en la fe, en la fe.<br/>La venida del Señor<br/>cerca está, cerca está./<br/> <br/>Hermano mío, nunca desmayes,<br/>cuando la gente habla contra ti.<br/>Mejor procurar mirar al cielo.<br/>/El Señor Jesús está contigo./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>125 De paz inundada</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="125"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>De paz inundada mi senda ya esté<br/>o cúbrala un mar de aflicción.<br/>Cualquiera que sea mi suerte, diré:<br/>Estoy bien, estoy bien, con mi Dios.<br/> <br/>	Estoy bien (estoy bien)<br/>	con mi Dios (con mi Dios).<br/>	Estoy bien, estoy bien<br/>	con mi Dios.<br/> <br/>Ya venga la prueba o me tiente Satán,<br/>¡Controle a mi ser su verdad!<br/>Que Cristo sangró por mi ruin condición,<br/>y por siempre mi alma salvó.<br/> <br/>¡Oh!, cuánto me gozo en su salvación,<br/>fue pleno su amor y perdón.<br/>Mi Cristo en la cruz para siempre clavó.<br/>¡Rinde honor, alma, a tu Salvador!<br/> <br/>Señor, apresura el día de tu llegar,<br/>desciende en gran majestad.<br/>Y mientras espero que vuelvas, diré: <br/>¡Está bien con mi alma, Señor!<br/></lines>
+			</verse>
+	</lyrics>
+</song>

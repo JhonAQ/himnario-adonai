@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>313 Te alabarán Jehová</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="313"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Te alabarán, ¡oh, Jehová!, todos los reyes,<br/>todos los reyes de la tierra,<br/>porque han oído los dichos de tu boca<br/>y cantarán los caminos de Jehová.<br/> <br/>/Porque la gloria de Jehová es grande,<br/>porque Jehová es excelso en sus caminos.<br/>Porque Jehová atiende al humilde<br/>más mira de lejos al altivo.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

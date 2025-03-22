@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>317 Tu nombre oh Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="317"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Tu nombre, ¡oh, Dios!, exaltaré,<br/>tu majestad levantaré.<br/>Por siempre te proclamaré,<br/>mi alabanza elevaré.<br/> <br/>Porque digno, digno eres tú,<br/>a ti sea honor y poder.<br/>Digno, digno eres tú,<br/>recibe adoración, Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

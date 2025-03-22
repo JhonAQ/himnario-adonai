@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>080 Mantos y palmas desplegando va</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="80"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Mantos y palmas desplegando va<br/>el pueblo alegre de Jerusalén.<br/>Y allí, a lo lejos, se comienza a ver<br/>a Cristo montado que llegando está.<br/>Y mientras mil voces resuenan por allí:			 <br/>¡Hosanna al que viene<br/>en el nombre del Señor!<br/>Y como un estruendo<br/>de gran aclamación<br/>prorrumpen en voz triunfal!<br/> <br/>¡Hosanna! ¡Hosanna al Rey!<br/>¡Hosanna! ¡Hosanna al Rey!		<br/> <br/>Como en la entrada de Jerusalén,<br/>hoy día nosotros vamos a cantar <br/>al Rey de reyes, nuestro Salvador,<br/>montando en un burro con gran esplendor.<br/>Palabras de vida dará el Redentor,<br/>su cuerpo y sangre,				 <br/>él nos ministrará.<br/>Por eso, honremos<br/>con gran exclamación,<br/>cantemos todos al Rey.<br/> <br/>Como en la entrada de Jerusalén,<br/>un día nosotros vamos a cantar <br/>a Jesucristo que vendrá otra vez<br/>para llevarnos a su eterno hogar.<br/>Y mientras mil voces resuenan por allí:<br/>¡Hosanna al que viene<br/>en el nombre del Señor!<br/>Y como un estruendo<br/>de gran aclamación <br/>prorrumpen en voz triunfal.<br/>Mt 21:9; Mc 11:9; Jn 12:13<br/></lines>
+			</verse>
+	</lyrics>
+</song>

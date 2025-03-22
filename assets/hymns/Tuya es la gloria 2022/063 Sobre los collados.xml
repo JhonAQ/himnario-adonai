@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>063 Sobre los collados</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="63"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Sobre los collados y también por valles<br/>tú atravesaste, mi buen Jesucristo.<br/>De pueblo en pueblo siempre enseñaste<br/>con palabras bellas, con misericordia.<br/> <br/>	/Señor Jesucristo, quiero que me enseñes<br/>	como hablar a otros de tu amor eterno./<br/> <br/>Aquí en este mundo de sed anduviste,<br/>hambriento y cansado, Señor, tú sufriste.<br/>Con amor curaste a muchos enfermos,<br/>y tú consolaste a los afligidos.<br/> <br/>La cruz tan pesada tú, Señor, llevaste<br/>hasta el Calvario, donde tú moriste.<br/>Con grande agonía en la cruz sufriste,<br/>tu sangre vertiste para redimirme.<br/> <br/>Con amor profundo salvación me diste,<br/>y tú me conduces hasta el santo cielo.<br/>¡Cuán inmensurable es tu amor divino!<br/>¡Cuán incomparables son, Señor, tus obras!<br/></lines>
+			</verse>
+	</lyrics>
+</song>

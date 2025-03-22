@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>249 Cristo me ama</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="249"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cristo me ama, me ama a mí,<br/>su Palabra dice así;<br/>niños pueden ir a él,<br/>quien es nuestro amigo fiel.<br/> <br/>	Sí, Cristo me ama,<br/>	sí, Cristo me ama,<br/>	sí, Cristo me ama,<br/>	la Biblia dice así.<br/> <br/>Cristo me ama, él murió,<br/>y la gloria nos abrió;<br/>mis pecados borrará,<br/>me dará la entrada allá.<br/> <br/>Cristo me ama, débil soy,<br/>pero a él las gracias doy;<br/>que en el cielo vive ya,<br/>y del mal me librará.<br/> <br/>Cristo me ama, de verdad<br/>y me cuida en su bondad;<br/>me conduce el buen Pastor,<br/>es mi guía y protector.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>184 Ama a tus prójimos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="184"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Ama a tus prójimos, piensa en sus almas,<br/>diles la historia del buen Salvador;<br/>cuida del huérfano, hazte su amigo;<br/>Cristo es Padre y fiel Salvador.<br/> <br/>	Habla al incrédulo, mira el peligro;<br/>	Dios le perdonará, Dios le amará.<br/> <br/>Aunque recházanle, tiene paciencia<br/>hasta que pueda les dar la salud;<br/>venle los ángeles cerca del trono;<br/>vigiláranles con solicitud.<br/> <br/>Habla a tus prójimos, Cristo te ayuda;<br/>Dios fortaleza, gustoso dará;<br/>él te bendecirá en tus esfuerzos,<br/>a gloria eterna él te llevará.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

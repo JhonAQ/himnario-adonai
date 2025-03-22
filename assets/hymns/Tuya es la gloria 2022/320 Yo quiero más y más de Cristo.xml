@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>320 Yo quiero más y más de Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="320"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Yo quiero más y más de Cristo,<br/>yo quiero más de su poder.<br/>Yo quiero más de su presencia,<br/>yo quiero más y más de él.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

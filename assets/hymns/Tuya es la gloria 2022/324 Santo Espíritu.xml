@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>324 Santo Espíritu</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="324"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Santo Espíritu llena mi vida,<br/>pues por Cristo yo quiero brillar.<br/>Santo Espíritu llena mi vida,<br/>úsame las almas a salvar.<br/> <br/>Alabanzas, alabanzas,<br/>alabanzas doy a Cristo el Rey.<br/>Alabanzas, alabanzas,<br/>alabanzas doy al Rey.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

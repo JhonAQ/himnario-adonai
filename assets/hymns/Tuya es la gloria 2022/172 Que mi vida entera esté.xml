@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>172 Que mi vida entera esté</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="172"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Que mi vida entera esté<br/>consagrada a ti, Señor;<br/>que a mis manos pueda guiar<br/>el impulso de tu amor.<br/> <br/>	Lávame en tu sangre, Salvador, <br/>	límpiame de toda mi maldad;<br/>	traigo a ti mi vida, para ser, Señor;<br/>	tuya por la eternidad.<br/> <br/>Que mis pies tan solo en pos<br/>de lo santo puedan ir,<br/>y que, a ti, Señor, mi voz,<br/>se complazca en bendecir.<br/> <br/>Que mi tiempo todo esté<br/>consagrado a tu loor,<br/>que mis labios al hablar, <br/>hablen solo de tu amor.<br/> <br/>Toma, ¡oh, Dios!, mi voluntad <br/>y hazla tuya, nada más;<br/>toma, sí, mi corazón,<br/>por tu trono lo tendrás.<br/> <br/>Toma tú, mi amor, que hoy<br/>a tus pies vengo a poner;<br/>toma todo lo que soy,<br/>todo tuyo quiero ser.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>362 Quién creó los astros</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="362"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¿Quién creó los astros?<br/>Los astros, los astros.<br/>¿Quién creó los astros?<br/>Dios en los cielos.<br/> <br/>¿Quién creó las aves?<br/>Las aves, las aves.<br/>¿Quién creó las aves?<br/>Dios en los cielos.<br/> <br/>¿Quién creó los peces?<br/>Los peces, los peces.<br/>¿Quién creó los peces?<br/>Dios en los cielos.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

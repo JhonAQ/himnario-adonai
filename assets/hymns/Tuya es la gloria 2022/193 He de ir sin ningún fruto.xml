@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>193 He de ir sin ningún fruto</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="193"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¿He de ir sin ningún fruto<br/>que presente a mi Señor?<br/>No le llevo ni un trofeo,<br/>ni servicio de valor.<br/> <br/>	¿He de ir sin ningún fruto?<br/>	¿He de ver a Cristo así?<br/>	Con el tiempo mal gastado,<br/>	¿he de presentarme allí?<br/> <br/>De la muerte no me asusto,<br/>Cristo es ya mi Salvador.<br/>Para él nada yo he hecho<br/>esto, sí, me da dolor.<br/> <br/>Darle todo yo quisiera<br/>de los años que perdí<br/>caminando en la ceguera,<br/>pero a Satanás los di.<br/> <br/>Pasa el día y llega noche:<br/>¡Trabajad cuando haya luz!<br/>Lo verán, y sin reproche, <br/>quienes sirvan a Jesús.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

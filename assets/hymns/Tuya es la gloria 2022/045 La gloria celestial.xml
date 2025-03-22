@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>045 La gloria celestial</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="45"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>La gloria celestial dejó Jesús el Salvador,<br/>al mundo por nosotros descendió.<br/>Y en un pesebre de Belén el Redentor nació<br/>para salvar al hombre pecador.<br/> <br/>	Cristo el Señor (Cristo el Señor)<br/>	ya descendió (ya descendió).<br/>	Un bello astro su venir mostró<br/>	al mundo sí (al mundo sí)<br/>	para salvar (para salvar).<br/>	Recibe sin tardar al Salvador. <br/> <br/>Los ángeles con alabanzas proclamaron ya <br/>que el Salvador Jesús nacido fue.<br/>Y los pastores escuchando con temor y fe<br/>muy pronto fueron a adorar al rey.<br/> <br/>El gran amor del Salvador maravilloso es.<br/>Él quiere darte su perdón y paz.<br/>Recíbelo de corazón y limpio ya serás,<br/>así con Cristo siempre vivirás.</lines>
+			</verse>
+	</lyrics>
+</song>

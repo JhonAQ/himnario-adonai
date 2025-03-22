@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>275 Aunque un ejército</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="275"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Aunque un ejército acampe contra mí,<br/>no temerá mi corazón./<br/> <br/>/Aunque contra mí se levanta guerra,<br/>yo estaré confiado en mi Salvador./<br/> <br/>Sal 27:3<br/></lines>
+			</verse>
+	</lyrics>
+</song>

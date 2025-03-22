@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>297 Oh que amor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="297"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Oh, qué amor! <br/>¡Qué inmenso amor!,<br/>el de mi Salvador.<br/> <br/>Dios desde el cielo al Salvador<br/>mandó a morir por mí. <br/>Por ti murió, por mí murió;<br/>dio sangre carmesí.<br/> <br/>¡Oh, qué amor! <br/>¡Qué inmenso amor!,<br/>el de mi Salvador.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

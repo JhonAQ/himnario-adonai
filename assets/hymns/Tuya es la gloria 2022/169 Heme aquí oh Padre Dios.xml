@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>169 Heme aquí oh Padre Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="169"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Heme aquí, ¡oh, Padre Dios!, ten piedad de mí, Señor. <br/>Lléname de tu poder, para que te siga fiel.<br/> <br/>	/Guíame, ¡oh, Señor!, en tu senda de luz, <br/>	y contigo feliz hasta el fin seguiré./<br/> <br/>Solo por tu gran amor me salvaste del pecar.<br/>Por tan grande redención mi alabanza te daré. <br/> <br/>Porque errados muchos van, olvidando tu amor, <br/>dame ayuda y poder para hablar de ti, Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

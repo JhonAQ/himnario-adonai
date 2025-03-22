@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>106 Qué me puede dar perdón</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="106"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¿Qué me puede dar perdón?<br/>Solo de Jesús la sangre.<br/>¿Y un nuevo corazón? <br/>Solo de Jesús la sangre.<br/>	<br/>	Precioso es el raudal, <br/>que limpia todo mal;<br/>	no hay otro manantial, <br/>solo de Jesús la sangre.<br/> <br/>Fue el rescate eficaz, <br/>solo de Jesús la sangre;<br/>trajo santidad y paz, <br/>solo de Jesús la sangre.<br/> <br/>Veo para mi salud, <br/>solo de Jesús la sangre,<br/>tiene de sanar virtud, <br/>solo de Jesús la sangre.<br/> <br/>Cantaré junto a sus pies,<br/>solo de Jesús la sangre.<br/>El Cordero digno es, <br/>solo de Jesús la sangre.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>304 Por los valles y los cerros</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="304"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Por los valles y los cerros<br/>yo cantando voy,<br/>mi Señor Jesús pues conmigo está,<br/>Mi consolador, él me cuidará.<br/> <br/>En mis noches de tristeza <br/>me consolará,<br/>me ayudará, mi fiel Salvador,<br/>me ayudará, mi fiel Salvador.<br/> <br/>/Él me ama y me cuida,<br/>me alienta y me guarda.<br/>Reconozco su amor,<br/>dondequiera que ande yo./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

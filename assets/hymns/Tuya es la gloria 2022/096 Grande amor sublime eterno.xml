@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>096 Grande amor sublime eterno</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="96"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Grande amor, sublime, eterno,<br/>más profundo es que la mar;<br/>y más alto que los cielos,<br/>insondable es y sin par.<br/> <br/>	Él me abrirá la puerta<br/>	y así entrar podré.<br/>	Redención él ha comprado<br/>	y perdón me da por fe.<br/> <br/>Grande amor, sublime, eterno,<br/>en la cruenta cruz murió<br/>mi bendito Jesucristo;<br/>mi castigo así llevó.<br/> <br/>Grande amor, sublime, eterno,<br/>soy indigno pecador,<br/>mas el Hijo incomparable<br/>dio su vida en mi favor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

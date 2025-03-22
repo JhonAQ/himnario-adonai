@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>085 Envíanos Padre tu Espíritu Santo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="85"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>	Envíanos, Padre, tu Espíritu Santo,<br/>	que nos prometiera tu hijo el Señor.<br/> <br/>Que venga a tu iglesia<br/>con todos sus dones<br/>y nos dé el coraje de vivir tu amor.<br/> <br/>Que nos dé su ciencia, <br/>su sabiduría,<br/>el entendimiento para orar a Dios.<br/> <br/>Nos traiga el consejo,<br/>la piedad de hijos.<br/>Nos dé fortaleza y el temor a Dios.<br/> <br/>Sus lenguas de fuego,<br/>repártelas, Padre<br/>y danos a todos la paz y el perdón.<br/> <br/>Tu Espíritu Santo, <br/>nos llene de gozo<br/>y sea en nosotros Palabra de Dios.<br/> <br/>Is 11:2; Hch 2:1-21<br/></lines>
+			</verse>
+	</lyrics>
+</song>

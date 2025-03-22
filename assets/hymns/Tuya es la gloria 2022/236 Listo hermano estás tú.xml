@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>236 Listo hermano estás tú</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="236"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¿Listo, hermano, estás tú para entrar<br/>en los cielos a morar con Dios?<br/>Y hermana, ¿preparada estas<br/>para ver a Cristo el Salvador?<br/>/En el santo hogar Cristo te dará<br/>gozo sinigual y vida eternal./<br/> <br/>Todos vamos junto con Jesús<br/>animándonos con mucho amor.<br/>Si tu hermano en pecado está,<br/>pronto ayúdale a volver a Dios.<br/>/Ya vendrá Jesús, el glorioso Rey,<br/>recompensa a dar al que sigue fiel./<br/> <br/>¡Qué gozoso y feliz será<br/>el encuentro con Cristo, el Señor!<br/>Las tristezas se terminarán, <br/>siempre gozaremos con Jesús.<br/>/Adelante, pues, al celeste hogar<br/>a vivir con Dios por la eternidad./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

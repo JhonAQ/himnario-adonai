@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>267 La bendición</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="267"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Dios te guarde y bendiga,<br/>que extienda su amor<br/>y te muestre favor.<br/>Dios te mire con agrado<br/>y te dé paz.<br/> <br/>//Amén.//<br/> <br/>Que te cubra con su gracia <br/>hasta mil generaciones<br/>tu familia, y tus hijos,<br/>y los hijos, de tus hijos.<br/> <br/>Su presencia te acompañe,<br/>donde quiera que tú vayas.<br/>Que te llene, te rodee,<br/>va contigo, va contigo.<br/> <br/>De mañana y de noche,<br/>en tu entrada y salida,<br/>en tu llanto y alegría<br/>él te ama, él te ama.<br/> <br/>//Amén.//<br/>Nm 6:24-26<br/></lines>
+			</verse>
+	</lyrics>
+</song>

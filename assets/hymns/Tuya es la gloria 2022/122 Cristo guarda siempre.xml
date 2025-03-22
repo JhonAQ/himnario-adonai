@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>122 Cristo guarda siempre</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="122"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cristo guarda siempre, puedo en él confiar;<br/>no me deja nunca, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/> <br/>	¡Nada, no, nada me ha de mover!<br/>	¡Nada, no, nada me ha de mover!<br/>	Pues, cual la Roca eterna de los siglos<br/>	firme estaré.<br/> <br/>Fuerte es Jesucristo, puedo en él confiar;<br/>todo me ha provisto, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.	<br/> <br/>En la noche oscura, puedo en él confiar;<br/>mi alma está segura, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/> <br/>Muchos me abandonan, puedo en él confiar;<br/>otros me engañan, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos,<br/>firme estaré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

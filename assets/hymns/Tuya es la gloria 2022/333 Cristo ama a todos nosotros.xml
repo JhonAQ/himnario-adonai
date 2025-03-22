@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>333 Cristo ama a todos nosotros</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="333"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cristo ama a todos nosotros,<br/>pequeños y grandes,<br/>pequeños y grandes.<br/>Cristo ama a todos nosotros,<br/>ama a todos nosotros.<br/> <br/>Ama a papito,<br/>ama a mamita,<br/>ama a mi hermano<br/>y a mi hermanita.<br/>Ama a mí, ama a ti,<br/>ama a todos nosotros.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

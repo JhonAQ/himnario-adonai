@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>071 Cantemos todos de corazón</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="71"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cantemos todos de corazón<br/>por Jesucristo y su pasión.<br/>Quien por la culpa nuestra sufrió<br/>muerte cruenta allí en la cruz.<br/> <br/>	Alabaremos al Salvador,<br/>	quien por nosotros quiso sufrir;<br/>	démosle gracias por el perdón, <br/>	que proveyó por el pecador.<br/> <br/>El sol brillante se obscureció<br/>la tierra entera se estremeció.<br/>Empero Cristo resucitó,<br/>y para siempre él vivirá.<br/> <br/>Hoy en el cielo reina Jesús.<br/>Pero un día regresará,<br/>para llevarnos con él a estar<br/>donde paz, gozo siempre habrá.</lines>
+			</verse>
+	</lyrics>
+</song>

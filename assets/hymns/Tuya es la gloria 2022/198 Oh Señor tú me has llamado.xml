@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>198 Oh Señor tú me has llamado</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="198"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Oh, Señor!, tú me has llamado <br/>muchas veces a servirte.<br/>Desde ahora ya estoy listo<br/>para entrar en tu servicio.<br/> <br/>Salvador, te pido que me ayudes<br/>a anunciar tu evangelio.<br/>Salvador, te ruego que me guíes<br/>a servirte en tu obra.<br/> <br/>Mucha gente no conoce<br/>tu gran salvación y gracia.<br/>Si escuchan tu llamado.<br/>serán limpios del pecado.<br/> <br/>¡Oh, Señor!, tu obra es grande,<br/>pero pocos los obreros.<br/>Con tu espíritu conmueve<br/>corazones a servirte.<br/> <br/>Ya que somos redimidos<br/>por tu sangre derramada,<br/>predicando tu mensaje<br/>venceremos el pecado.<br/> <br/>Mt 9:37; Lc 10:2<br/></lines>
+			</verse>
+	</lyrics>
+</song>

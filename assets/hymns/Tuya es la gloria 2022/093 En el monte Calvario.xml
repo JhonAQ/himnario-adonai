@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>093 En el monte Calvario</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="93"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>En el monte Calvario se vio una cruz<br/>emblema de afrenta y dolor,<br/>y yo quiero esa cruz do murió mi Jesús<br/>por salvar al más vil pecador.<br/>	<br/>	¡Oh!, yo siempre amaré esa cruz,<br/>	en sus triunfos mi gloria será;<br/>	y algún día en vez de una cruz,<br/>	mi corona Jesús me dará.<br/> <br/>Aunque el mundo desprecie la cruz de Jesús,<br/>para mí tiene suma atracción,<br/>porque en ella llevó el Cordero de Dios<br/>mi pecado y mi condenación.<br/> <br/>En la cruz do su sangre Jesús derramó<br/>hermosura contemplo en visión,<br/>pues en ella el Cordero inmolado murió,<br/>para darme pureza y perdón.	<br/> <br/>Yo seré siempre fiel a la cruz de Jesús,<br/>sus desprecios con él sufriré;<br/>y algún día feliz con los santos en luz,<br/>para siempre su gloria tendré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

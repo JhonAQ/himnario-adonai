@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>027 Sin ti nada somos en el mundo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="27"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Sin ti nada somos en el mundo,<br/>sin ti nada podemos hacer.<br/>/Ni las hojas de los árboles se mueven, <br/>si no es por tu poder./<br/> <br/>Contigo Jesucristo en el mundo<br/>contigo todo podemos hacer.<br/>/Contra el diablo, contra el mundo y la carne<br/>siempre podemos vencer./<br/> <br/>La sangre de tu pacto sempiterno,<br/>la promesa del Espíritu de Dios<br/>/son las bases infalibles de la vida<br/>gloria a ti, Señor Jesús./</lines>
+			</verse>
+	</lyrics>
+</song>

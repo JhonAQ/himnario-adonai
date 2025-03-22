@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>361 Pueblos todos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="361"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Pueblos todos batid las manos,<br/>alabad a Dios con voz de júbilo.<br/>Pueblos todos batid las manos,<br/>alabad al Dios de Israel.<br/> <br/>Cantad a Dios, cantad,<br/>cantad a nuestro Rey,<br/>porque Dios es el Rey<br/>de toda la tierra.<br/> <br/>Cantad a Dios, cantad,<br/>cantad a nuestro Rey,<br/>palmeando nuestras manos,<br/>danzando en nuestros pies.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

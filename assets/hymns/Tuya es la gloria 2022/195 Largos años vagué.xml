@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>195 Largos años vagué</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="195"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Largos años vagué por la senda del mal,<br/>sin consuelo, sin fe, sin amor.<br/>Y la sombra fatal, de la senda que hallé,<br/>puso en mi alma la hiel del dolor.<br/> <br/>	A mis pies el infierno se abrió,<br/>	y clamé con el alma a Jesús.<br/>	Y al instante el infierno cambió<br/>	en la hermosa visión de la cruz.<br/> <br/>Desde entonces por él ya no soy lo que fui<br/>una sombra sin Dios y sin luz,<br/>Mi existencia le di, y le quiero ser fiel,<br/>me constriñe el amor de mi rey.<br/> <br/>Peregrino, que vas por el valle del mal,<br/>tu senda solo es de dolor,<br/>esa carga fatal que en el alma llevas,<br/>ven, y ponla a los pies de Jesús.<br/> <br/>Es hermoso decir, ya no soy lo que fui.<br/>Hoy me impulsa el amor de Jesús.<br/>Sus palabras oír y hoy ansío morir,<br/>abrazado por siempre a su cruz.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

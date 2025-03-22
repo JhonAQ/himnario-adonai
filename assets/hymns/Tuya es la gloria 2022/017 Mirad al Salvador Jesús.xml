@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>017 Mirad al Salvador Jesús</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="17"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Mirad al Salvador Jesús,<br/>El Príncipe benigno,<br/>por mí muriendo en la cruz,<br/>por mí, tan vil, indigno.<br/> <br/>	De amor la prueba hela aquí:<br/>	El Salvador murió por mí,<br/>	por mí, por mí,<br/>	Jesús murió por mí.<br/> <br/>El sol su rostro encubrió<br/>al ver su agonía;<br/>la dura peña se partió;<br/>¿lo oyes, alma mía?			 <br/> <br/>Y yo también al ver la cruz,<br/>por ella soy vencido;<br/>mi corazón te doy, Jesús,<br/>a tu amor rendido.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

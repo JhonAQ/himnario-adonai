@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>340 El teléfono</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="340"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Yo tengo un teléfono para hablar con Dios,<br/>yo tengo un teléfono para hablar con Dios.<br/> <br/>Ese teléfono no tiene número,<br/>ese teléfono es la oración, <br/>ese teléfono no tiene número, <br/>ese teléfono es la oración.<br/>_____ tiene un teléfono para hablar con Dios.<br/> <br/>Todos tienen un teléfono para hablar con Dios.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

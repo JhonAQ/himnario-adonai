@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>013 Hoy y siempre</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="13"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines> Por la gracia de tu nombre te alabaré,<br/> por la historia del calvario te adoraré,<br/> por tu vida, por tu muerte, por tu sangre en la cruz,<br/> por tu amor inexplicable te alabaré.<br/> <br/> Con toda la devoción te alabaré,<br/> con toda mi gratitud te exaltaré,<br/> con mi vida, con mi mente, con mi alma y corazón,<br/> con todas mis fuerzas te alabaré.<br/> <br/>	/Te alabaré, Señor, te alabaré./<br/> 	Nada ni nadie entre tú y yo;<br/> 	hoy y siempre te alabaré.</lines>
+			</verse>
+	</lyrics>
+</song>

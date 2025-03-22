@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>359 Pedro Santiago y Juan</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="359"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Pedro, Santiago y Juan en el barquito/<br/>en el mar de Galilea.<br/> <br/>/Tiraron las redes, mas no sacaron nada/<br/>en el mar de Galilea.<br/> <br/>/Jesús mandó lanzar del otro lado/<br/>en el mar de Galilea.<br/> <br/>/Sacaron las redes, llenas de pececito/<br/>en el mar de Galilea.<br/> <br/>Uno, dos, tres, pescaditos<br/>cuatro, cinco, seis pescaditos<br/>siete, ocho, nueve pescaditos<br/>más un pescadito son diez.<br/>Jn 21:1-8<br/></lines>
+			</verse>
+	</lyrics>
+</song>

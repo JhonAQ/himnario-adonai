@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>219 Pronto vuelve Jesucristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="219"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Pronto vuelve Jesucristo a juzgar a este mundo<br/>con divina potestad.<br/>Esperemos la llegada de aquel hermoso día. ¡Preparaos, cristiandad!<br/> <br/>	Cuando venga Jesucristo, <br/>	temblará el mundo entero;<br/>	no dará el sol su lumbre,<br/>	ni la luna, ni los astros;<br/>	solo Cristo brillará.<br/> <br/>De manera repentina volverá desde la gloria<br/>nuestro Salvador Jesús. <br/>Con cuán grande alegría lo veremos en las nubes <br/>en su refulgente luz.<br/> <br/>Los por Cristo redimidos trabajemos en su viña<br/>proclamando su amor. <br/>Seguiremos con firmeza esperando la venida <br/>de Jesús el Salvador.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

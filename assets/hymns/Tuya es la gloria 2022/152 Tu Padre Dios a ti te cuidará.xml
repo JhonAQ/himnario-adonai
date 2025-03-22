@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>152 Tu Padre Dios a ti te cuidará</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="152"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Tu Padre Dios, a ti te cuidará<br/>por dondequiera que camines tú,<br/>su Espíritu te fortalecerá.<br/>Así guiado tú feliz serás.<br/> <br/>	Cristo ya viene, viene con poder.<br/>	Reunidos todos por la eternidad.<br/>	Cristo ya viene, viene con poder.<br/>	Reunidos todos por la eternidad.<br/> <br/>En alegría o en tribulación<br/>su gran amor jamás te dejará.<br/>Jesús te colmará de bendición<br/>por dondequiera te defenderá.<br/> <br/>Tu Padre Dios, a ti te cuidará,<br/>en tu camino brillará su luz.<br/>Te alumbrará, confianza te dará,<br/>hasta que venga Cristo el Señor.</lines>
+			</verse>
+	</lyrics>
+</song>

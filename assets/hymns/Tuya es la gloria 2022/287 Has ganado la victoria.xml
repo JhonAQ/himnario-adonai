@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>287 Has ganado la victoria</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="287"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Has ganado la victoria, la victoria para mí;<br/>al pecado has vencido y has ganado<br/>la batalla tú por mí./<br/> <br/>/Porque tú eres mi Dios en los cielos,<br/>tú eres mi Dios en la tierra./<br/> <br/>Tú eres mi Dios, y te alabaré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

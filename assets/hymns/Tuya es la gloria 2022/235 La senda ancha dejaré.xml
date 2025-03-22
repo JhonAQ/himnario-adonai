@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>235 La senda ancha dejaré</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="235"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>La senda ancha dejaré,<br/>yo quiero por la angosta andar,<br/>y muchos no sabrán por qué,<br/>mas voy a mi celeste hogar.<br/> <br/>	No puede el mundo ser mi hogar,<br/>	no puede el mundo ser mi hogar;<br/>	en gloria tengo mi mansión.<br/>	No puede el mundo ser mi hogar.<br/> <br/>Algunos quieren verme ir<br/>por el sendero de maldad;<br/>oír no puedo su llamar,<br/>pues voy a mi celeste hogar.<br/> <br/>¡Oh!, ven conmigo, pecador,<br/>y sigue en pos del Salvador.<br/>¿Por qué no quieres tú buscar,<br/>la hermosa tierra más allá?<br/></lines>
+			</verse>
+	</lyrics>
+</song>

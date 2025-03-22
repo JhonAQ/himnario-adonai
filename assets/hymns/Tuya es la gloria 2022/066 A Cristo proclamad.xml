@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>066 A Cristo proclamad</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="66"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>A Cristo proclamad, <br/>triunfante Salvador;<br/>venció la muerte con poder, <br/>cantad al Redentor.				 <br/>Jesús resucitó, <br/>su triunfo pregonad<br/>y la grandeza de su amor, <br/>al mundo publicad.	<br/> <br/>Al Salvador Jesús <br/>con gozo dad loor;<br/>al Rey de reyes aclamad, <br/>altísimo Señor;<br/>es digno solo él <br/>de gloria sin igual,<br/>pues con su sangre nos abrió <br/>precioso manantial.<br/> <br/>Cristo, Profeta y Rey, <br/>Señor y Mediador,<br/>subió al cielo con poder,<br/>triunfante Redentor.				 <br/>Gozando hoy su grey<br/>de plena libertad,<br/>ensalce el nombre de Jesús <br/>y alabe su bondad.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

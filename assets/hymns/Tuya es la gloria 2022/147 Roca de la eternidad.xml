@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>147 Roca de la eternidad</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="147"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Roca de la eternidad,<br/>fuiste abierta tú por mí.<br/>Sé mi escondedero fiel.<br/>Solo encuentro paz en ti,<br/>rico, limpio manantial,<br/>en el cual lavado fui.<br/> <br/>Aunque sea siempre fiel,<br/>aunque llore sin cesar;<br/>del pecado no podré<br/>justificación lograr.<br/>Solo en ti teniendo fe<br/>deuda tal podré pagar.<br/> <br/>Mientras haya de vivir,<br/>y al instante de expirar,<br/>cuando vaya a responder <br/>en tu augusto tribunal:<br/>Sé mi escondedero fiel,<br/>roca de la eternidad.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

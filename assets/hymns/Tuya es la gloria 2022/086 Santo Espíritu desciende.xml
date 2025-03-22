@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>086 Santo Espíritu desciende</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="86"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Santo Espíritu, desciende<br/>a mi pobre corazón;<br/>llénalo de tu presencia,<br/>y haz en él tu habitación.	<br/> <br/>	¡Llena hoy, llena hoy,<br/>	llena hoy mi corazón!<br/>	Santo Espíritu, desciende<br/>	y haz en mí tu habitación.<br/> <br/>De tu gracia puedes darme<br/>inundando el corazón,<br/>ven, que mucho necesito,<br/>dame hoy tu bendición.<br/>	 <br/>Débil soy, ¡oh! sí muy débil, <br/>y a tus pies postrado estoy,<br/>esperando que tu gracia<br/>con poder me llene hoy.<br/> <br/>Dame paz, consuelo y gozo,<br/>cúbreme hoy en tu perdón.<br/>Tú confortas y redimes,<br/>tú das grande salvación.<br/> <br/>Santo Espíritu, tú eres,<br/>ese prometido don;<br/>mucho anhelo recibirte,<br/>dame hoy tu santa unción.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

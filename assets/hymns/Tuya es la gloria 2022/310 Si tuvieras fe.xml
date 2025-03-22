@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>310 Si tuvieras fe</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="310"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Si tuvieras fe como un grano de mostaza,<br/>eso lo dice el Señor./<br/> <br/>/Tú le dirías a la montaña:<br/>Muévete, muévete./<br/> <br/>/Y la montaña se moverá, se moverá,<br/>se moverá./<br/> <br/>Mt 17:19-20<br/></lines>
+			</verse>
+	</lyrics>
+</song>

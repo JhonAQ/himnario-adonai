@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>256 Elevemos alabanzas</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="256"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Elevemos alabanzas <br/>al eterno Creador. <br/>Por sus obras gloriosas <br/>denle cantos y honor. <br/>Él es santo, santo, santo, <br/>infinito su amor, <br/>el Señor del universo, <br/>que mandó al Salvador. <br/> <br/>¡Gracias al resucitado!, <br/>¡exaltado Rey Jesús!<br/>Que nos quites el pecado<br/>por tu muerte en la cruz. <br/> <br/>Gracias canta el creyente <br/>al viviente Redentor. <br/>En verdad, está presente <br/>perdonando al deudor. <br/>En el pan y en el vino, <br/>Santa Cena del Señor, <br/>Él nos da su don divino, <br/>y nos une en amor. <br/> <br/>Sí, creemos la promesa <br/>de nuestro Buen Pastor, <br/>que invita a su mesa <br/>al perdido pecador. <br/>En su sangre y su cuerpo, <br/>entregados en dolor, <br/>Cristo, el eterno Verbo, <br/>nos da vida y favor.<br/> <br/>Is 6:3<br/> <br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>168 Haz lo que quieras de mí Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="168"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Haz lo que quieras de mí, Señor;<br/>tú el alfarero, yo el barro soy;<br/>dócil y humilde anhelo ser,<br/>pues tu deseo es mi querer.<br/> <br/>Haz lo que quieras de mí, Señor;<br/>mírame y prueba mi corazón;<br/>lávame y quita toda maldad<br/>para que pueda contigo estar.<br/> <br/>Haz lo que quieras de mí, Señor;<br/>cura mis llagas y mi dolor.<br/>Tuyo es, ¡oh, Cristo!, todo poder;<br/>tu mano extiende y sanaré.<br/> <br/>Haz lo que quieras de mí, Señor;<br/>guía mi vida, Señor, aquí.<br/>De tu potencia llena mi ser,<br/>y el mundo a Cristo pueda en mi ver.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

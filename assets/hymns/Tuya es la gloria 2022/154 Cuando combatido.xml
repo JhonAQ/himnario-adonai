@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>154 Cuando combatido</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="154"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cuando combatido por la adversidad<br/>creas ya perdida tu felicidad;<br/>mira lo que el cielo para ti guardó,<br/>cuenta las riquezas que el Señor te dio.	<br/> <br/>	¿Bendiciones? ¡Cuántas tienes ya!<br/>	¿Bendiciones? Dios te manda más.<br/>	¿Bendiciones? ¡Te sorprenderás!<br/>	Cuando veas lo que Dios por ti hará.<br/> <br/>¿Andas agobiado por algún pesar?<br/>¿Duro te parece amarga cruz llevar?<br/>Cuenta las promesas del Señor Jesús,<br/>y de las tinieblas nacerá la luz.<br/> <br/>Cuando de otros veas la prosperidad <br/>y tus pies claudiquen tras de su maldad,<br/>cuenta las riquezas que tendrás por fe<br/>donde el oro es polvo que hollará tu pie.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

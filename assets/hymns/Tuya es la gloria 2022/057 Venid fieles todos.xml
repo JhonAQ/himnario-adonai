@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>057 Venid fieles todos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="57"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Venid, fieles todos, a Belén marchemos<br/>de gozo triunfantes, henchidos de amor,<br/>y al Rey de los cielos humildes veremos.<br/>	<br/>	Venid, adoremos, venid adoremos,<br/>	venid, adoremos a Cristo el Señor.<br/>	 <br/>Él que es hijo eterno del eterno Padre,<br/>y Dios verdadero que al mundo creó,<br/>del seno virgíneo nació de una madre.<br/> <br/>En pobre pesebre yace reclinado,<br/>al hombre ofreciendo eternal salvación,<br/>el santo Mesías, el Verbo humanado.<br/> <br/>Cantad jubilosas, celestes criaturas;<br/>resuenen los cielos con vuestra canción:<br/>Al Dios bondadoso, ¡gloria en las alturas!<br/> <br/>Jesús, celebramos tu bendito nombre<br/>con himnos solemnes de grato loor;<br/>por siglos eternos adórete el hombre.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

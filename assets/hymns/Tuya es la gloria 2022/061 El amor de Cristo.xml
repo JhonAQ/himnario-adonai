@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>061 El amor de Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="61"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Profundo es el amor de Cristo,<br/>más que el infierno y la maldad; <br/>dejó su trono y su gloria<br/>para traernos hacia él. <br/>Más ancho es el amor de Cristo, <br/>que el foso que nos separó. <br/>Me alcanzó en mis tinieblas, <br/>solo en él hay salvación.<br/> <br/>Más profundo que el mar, <br/>más allá del cielo está. <br/>Tu amor me bastará.<br/> <br/>Más fuerte es el amor de Cristo, <br/>que mi enemigo más feroz.<br/>Me sostiene en la tormenta,<br/>las aguas no me cubrirán. <br/>Me guiará el amor de Cristo,<br/>en el más hondo valle aquí;<br/>me pastoreará por siempre,<br/>y me guarda junto a él.<br/> <br/>	Más profundo que el mar…<br/> <br/>	Más fuerte que la tempestad, <br/>	venció el pecado y la maldad.<br/>	Tu amor me bastará.<br/> <br/>Más dulce es el amor de Cristo,<br/>mientras más cerca estoy del fin.<br/>Disfrutaré su amor por siempre,<br/>ante su trono estaré.<br/>Me llenará el amor de Cristo<br/>al su rostro contemplar.<br/>Yo lo amaré por siempre,<br/>su alabanza cantaré.<br/>Ef 3:14-19<br/></lines>
+			</verse>
+	</lyrics>
+</song>

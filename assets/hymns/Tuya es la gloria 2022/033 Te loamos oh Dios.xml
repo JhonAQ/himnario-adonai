@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>033 Te loamos oh Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="33"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Te loamos, ¡oh, Dios!, con unánime voz,<br/>porque en Cristo, tu hijo, nos diste perdón. <br/>	<br/>	¡Aleluya!, te alabamos, ¡cuán grande es tu amor!<br/>	¡Aleluya!, te adoramos, bendito Señor.<br/> <br/>Te loamos, Jesús, pues tu trono de luz<br/>has dejado por darnos salud en la cruz.<br/> <br/>Te damos loor, santo Consolador,<br/>que nos llenas de gozo y santo valor.	 <br/> <br/>Unidos load, a la gran trinidad,<br/>que es la fuente de gracia, virtud y verdad.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

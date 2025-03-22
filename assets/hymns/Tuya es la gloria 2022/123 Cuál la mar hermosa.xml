@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>123 Cuál la mar hermosa</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="123"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Cuál la mar hermosa es la paz de Dios!,<br/>fuerte y gloriosa, es eterna paz.<br/>Grande y perfecta, premio de la cruz;<br/>fruto del Calvario, obra de Jesús.<br/> <br/>	Descansando en Cristo,<br/>	siempre paz tendré;<br/>	en Jehová confiando, <br/>	nada temeré.	<br/> <br/>En el gran refugio de la paz de Dios,<br/>nunca hay molestias, es perfecta paz.<br/>Nunca negra duda, pena ni pesar,<br/>vejaciones crueles pueden acosar.<br/> <br/>Toda nuestra vida cuidará Jesús;<br/>Cristo nunca cambia, él es nuestra paz.<br/>Fuertes y seguros en el Salvador,<br/>siempre moraremos en su grande amor.<br/> <br/>¡Oh, Señor amado!, tú nos das quietud;<br/>de ti recibimos celestial salud.<br/>Haznos conocerte, te amaremos más;<br/>sé tú nuestro dueño, Príncipe de Paz.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

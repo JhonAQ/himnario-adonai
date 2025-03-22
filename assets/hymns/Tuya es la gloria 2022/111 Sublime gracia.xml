@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>111 Sublime gracia</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="111"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Sublime gracia del Señor <br/>que a un infeliz salvó;<br/>fui ciego mas hoy miro yo, <br/>perdido y él me halló.<br/> <br/>Su gracia me enseñó a temer, <br/>mis dudas ahuyentó;<br/>¡Oh, cuán precioso fue a mí ser <br/>cuando él me transformó!<br/> <br/>En los peligros o aflicción <br/>que yo he tenido aquí;<br/>su gracia siempre me libró, <br/>y me guiará feliz.<br/> <br/>Y cuando en Sión por siglos mil <br/>brillando esté cual sol;<br/>yo cantaré por siempre allí <br/>su amor que me salvó.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

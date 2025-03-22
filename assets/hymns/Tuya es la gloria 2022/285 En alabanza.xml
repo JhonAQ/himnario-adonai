@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>285 En alabanza</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="285"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>En alabanza de tu pueblo<br/>tú me estableciste, ¡oh, Señor!<br/>En alabanza de tu pueblo<br/>tú me estableciste con poder.<br/> <br/>	Me has creado para alabarte,<br/>	para la gloria de tu nombre.<br/>	Me has creado para adorarte<br/>	en espíritu y verdad.<br/> <br/>Tú me llamaste a proclamar<br/>en las naciones que eres rey. <br/>Con todo gozo pondré en alto <br/>el santo nombre de Jesús.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

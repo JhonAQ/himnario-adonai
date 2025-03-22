@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>078 La tumba lo encerró</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="78"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>La tumba le encerró, Cristo, mi Cristo;<br/>el alba allí esperó Cristo el Señor.<br/> <br/>	Cristo la tumba venció,<br/>	y con gran poder resucitó;<br/>	de sepulcro y muerte Cristo es vencedor,<br/>	vive para siempre nuestro Salvador;<br/>	¡Gloria a Dios! ¡Gloria a Dios!<br/>	El Señor resucitó.<br/> <br/>De guardas escapó, Cristo, mi Cristo;<br/>el sello destruyó Cristo el Señor.<br/> <br/>La muerte dominó Cristo, mi Cristo;<br/>y su poder venció Cristo el Señor.</lines>
+			</verse>
+	</lyrics>
+</song>

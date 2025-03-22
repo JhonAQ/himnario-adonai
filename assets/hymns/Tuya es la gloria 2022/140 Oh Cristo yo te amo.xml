@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>140 Oh Cristo yo te amo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="140"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Oh, Cristo yo te amo!, que mío eres sé;<br/>ya todo pecado por ti dejaré.<br/>¡Oh, Cristo precioso!, por ti salvo soy<br/>Jesús, si te amaba yo te amo más hoy.<br/> <br/>Me amaste primero, y así te amo a ti,<br/>pues sobre el Calvario moriste por mí;<br/>por lo que sufriste mi vida te doy;<br/>Jesús, si te amaba, yo te amo más hoy.<br/> <br/>Y mientras que viva yo en este vaivén,<br/>en la hora final de la muerte también,<br/>yo te amaré siempre; cantándote estoy:<br/>“Jesús, si te amaba, yo te amo más hoy.”<br/> <br/>Al fin en tu gloria por gracia entraré,<br/>y allí con los santos loor te daré;<br/>por siglos eternos a cantarte voy:<br/>“Jesús, si te amaba yo te amo más hoy.”<br/></lines>
+			</verse>
+	</lyrics>
+</song>

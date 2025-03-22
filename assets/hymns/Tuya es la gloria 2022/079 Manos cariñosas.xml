@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>079 Manos cariñosas</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="79"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Manos cariñosas, manos de Jesús,<br/>manos que llevaron la pesada cruz,<br/>manos que supieron sólo hacer el bien,<br/>¡Gloria a esas manos! ¡Aleluya, amén!.<br/> <br/>Blancas azucenas, lirios de amor,<br/>fueron esas manos de mi Redentor.<br/>Manos que a los ciegos dieron la visión<br/>con el real consuelo de su gran perdón.<br/> <br/>Manos que supieron calmar el dolor,<br/>¡Oh, manos divinas de mi Redentor!<br/>Que multiplicaron los peces y el pan,<br/>manos milagrosas que la vida dan.<br/> <br/>Manos que sufrieron el clavo y la cruz,<br/>manos redentoras de mi buen Jesús,<br/>de esas manos bellas yo confiado estoy;<br/>ellas van guiando, pues al cielo voy.<br/> <br/>¡Oh, Jesús! tus manos yo las vi en visión<br/>y vertí mi llanto con el corazón;<br/>vi sus dos heridas y la sangre vi<br/>que Tú derramaste por salvarme a mí.</lines>
+			</verse>
+	</lyrics>
+</song>

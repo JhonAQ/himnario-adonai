@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>298 Oh yo quiero que Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="298"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/¡Oh, yo quiero que Cristo ande conmigo!,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/> <br/>/Cuando tenga problemas, que ande conmigo,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/> <br/>/Cuando yo esté solo, que ande conmigo,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/></lines>
+			</verse>
+	</lyrics>
+</song>

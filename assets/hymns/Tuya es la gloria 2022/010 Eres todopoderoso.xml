@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>010 Eres todopoderoso</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="10"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>La única razón de mi adoración <br/>eres tú, mi Jesús. <br/>El único motivo para vivir<br/>eres tú, mi Señor.<br/>Mi única verdad está en ti,<br/>eres mi luz y mi salvación.<br/>Mi único amor eres tú, Señor, <br/>y por siempre te alabaré. <br/> <br/>	/Tú eres todopoderoso, <br/>	eres grande y majestuoso,<br/>	eres fuerte, invencible,<br/>	y no hay nadie como tú./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>178 Oh Señor escucha mi oración</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="178"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Oh, Señor, escucha mi oración.<br/>Dame tu gran poder para oír tu voz./<br/> <br/>	/Tus palabras, oh, Señor, <br/>	son más dulces que la miel.<br/>	Me confortan, me dan paz,<br/>	me hablan de tu amor./	<br/> <br/>/Hay riquezas en el mundo aquí.<br/>Todas sí, oh, Señor, se terminarán./<br/> <br/>/Aunque tan hermosa es la flor,<br/>nunca ha de durar, se marchitará./</lines>
+			</verse>
+	</lyrics>
+</song>

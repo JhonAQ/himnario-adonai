@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>100 Lejos de mi Padre Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="100"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Lejos de mi Padre Dios, <br/>por Jesús fui hallado,<br/>por su gracia y por su amor, <br/>fui por él salvado.<br/> <br/>	Es Jesús, el Señor, <br/>mi esperanza eterna.<br/>	Él me amó y me salvó <br/>en su gracia tierna.<br/> <br/>En Jesús mi Salvador <br/>pongo mi confianza;<br/>toda mi necesidad<br/>suple en abundancia.<br/> <br/>Cerca de mi buen Pastor<br/>vivo cada día;<br/>toda gracia en su Señor<br/>halla el alma mía.<br/> <br/>Guárdame, Señor Jesús, <br/>para que no caiga.<br/>Cual sarmiento de la vid,<br/>vida de ti traiga.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

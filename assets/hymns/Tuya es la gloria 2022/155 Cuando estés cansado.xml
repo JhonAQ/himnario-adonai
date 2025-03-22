@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>155 Cuando estés cansado</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="155"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cuando estés cansado y abatido,<br/>dilo a Cristo, dilo a Cristo;<br/>si te sientes débil, confundido,<br/>dilo a Cristo el Señor.<br/>Dilo a Cristo, dilo a Cristo,<br/>él es tu amigo más fiel.<br/>No hay otro amigo como Cristo,<br/>dilo tan solo a él.<br/> <br/>Cuando estés de tentación cercado,<br/>mira a Cristo, mira a Cristo;<br/>cuando rugen huestes de pecado,<br/>mira a Cristo el Señor.<br/>Mira a Cristo, mira a Cristo,<br/>él es tu amigo más fiel.<br/>No hay otro amigo como Cristo<br/>dilo tan solo a él.<br/> <br/>Si se apartan otros de la senda,<br/>sigue a Cristo, sigue a Cristo;<br/>si acrecienta en torno la contienda,<br/>sigue a Cristo el Señor.<br/> <br/>Sigue a Cristo, sigue a Cristo,<br/>él es tu amigo más fiel.<br/>No hay otro amigo como Cristo <br/>dilo tan solo a él.<br/> <br/>Cuando llegue la final jornada,<br/>fía en Cristo, fía en Cristo;<br/>te dará en el cielo franca entrada,<br/>fía en Cristo el Señor.<br/>Fía en Cristo, fía en Cristo,<br/>él es tu amigo más fiel.<br/>No hay otro amigo como Cristo<br/>dilo tan solo a él.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

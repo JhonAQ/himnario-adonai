@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>166 De gloria en gloria</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="166"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>De gloria en gloria te veo,<br/>cuanto más te conozco,<br/>quiero saber más de ti,<br/>mi Dios, cual buen alfarero.<br/>Quebrántame, transfórmame,<br/>moldéame a tu imagen, Señor.<br/> <br/>	/Quiero ser más como tú,<br/>	ver la vida como tú;<br/>	saturarme de tu espíritu<br/>	y reflejar al mundo tu amor./<br/>	/Y reflejar al mundo tu amor./<br/> <br/>2 Co 3:18; Is 64:8; Jer 18:1-6<br/></lines>
+			</verse>
+	</lyrics>
+</song>

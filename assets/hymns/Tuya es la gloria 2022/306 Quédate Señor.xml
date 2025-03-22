@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>306 Quédate Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="306"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Quédate, Señor, quédate, Señor,<br/>quédate, Señor, en cada corazón.<br/>Quédate, Señor, quédate, Señor,<br/>quédate, Señor en mí.<br/> <br/>¡Oh, Cristo mío!, haz de mi alma un altar<br/>para adorarte con devoción.<br/>¡Oh, Cristo mío!, haz de mi alma un altar<br/>para adorarte de todo corazón.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

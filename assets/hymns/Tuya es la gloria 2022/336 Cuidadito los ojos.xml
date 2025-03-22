@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>336 Cuidadito los ojos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="336"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cuidadito los ojitos lo que miran,<br/>cuidadito los ojitos lo que miran.<br/>Hay un Dios de amor que mirando está.<br/>Cuidadito los ojitos lo que miran.<br/> <br/>Cuidadito los oídos lo que oyen…<br/> <br/>Cuidadito la boquita lo que habla…<br/> <br/>Cuidadito las manitos lo que hacen…<br/> <br/>Cuidadito los piecitos donde andan…<br/></lines>
+			</verse>
+	</lyrics>
+</song>

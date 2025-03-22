@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>052 Oíd su voz</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="52"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Oíd su voz: Ya cerca está,<br/>es Cristo nuestro Dios;<br/>el corazón brindémosle <br/>cual trono de él en nos. <br/> <br/>Potente él viene a destruir<br/>con fuerza divinal,<br/>los hierros de cruel prisión,<br/>que púsonos Satán.<br/> <br/>Fulgente él viene a redimir<br/>la mente del error;<br/>y a dar esplendorosa luz,<br/>al ciego pecador.<br/> <br/>Amante él viene a dar salud<br/>a todo corazón,<br/>y encontrará en él perdón<br/>el pobre pecador.<br/> <br/>¡Oh, Príncipe de paz! venid,<br/>oíd nuestra oración,<br/>y el mundo lleno se verá<br/>del nombre del Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

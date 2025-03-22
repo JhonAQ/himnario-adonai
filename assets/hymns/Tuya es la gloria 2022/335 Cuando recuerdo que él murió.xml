@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>335 Cuando recuerdo que él murió</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="335"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cuando recuerdo que él murió por mí,<br/>no vuelvo atrás, nunca más, ¡aleluya!<br/>Cuando recuerdo que él murió por mí,<br/>no vuelvo atrás, nunca más.<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más, ¡aleluya!<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más.<br/> <br/>Cuando recuerdo que resucitó ...<br/> <br/>Cuando recuerdo que pronto vendrá ...<br/> <br/>Cuando recuerdo que él vive en mí ...<br/></lines>
+			</verse>
+	</lyrics>
+</song>

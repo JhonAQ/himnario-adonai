@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>005 Canto a ti</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="5"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Canto a ti, a ti Jesús,<br/>con todo mi corazón te adoraré.<br/>Quiero exaltar tu nombre, <br/>proclamar tu santidad,<br/>eres digno de que todos te adoren./<br/> <br/>Canto a ti, porque tú eres <br/>el Príncipe de paz.<br/>Es a ti a quien adoro <br/>por tu gran majestad.<br/>Te adoro a ti con toda mi alma, <br/>con mi voz declararé,<br/>/que el Señor de todo eres tú./</lines>
+			</verse>
+	</lyrics>
+</song>

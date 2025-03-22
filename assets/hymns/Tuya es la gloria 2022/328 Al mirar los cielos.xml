@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>328 Al mirar los cielos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="328"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Al mirar los cielos, <br/>al mirar el sol,<br/>pienso en su poder,<br/>que los formó.<br/>Aunque el hombre nada es,<br/>sin embargo, tú lo ves.<br/>Aunque el hombre nada es, <br/>sin embargo, lo visitas.<br/>Al mirar los cielos,<br/>al mirar el sol,<br/>pienso en su gran poder,<br/>que los formó,<br/>que los formó.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -7,3 +7,4 @@ Esta lista sirve para anotar aqui cosas pequeñás o detalles pequeños que se m
 - Cranear poner bis
 - Saber que paso con el import {}
 - Solucionar favoritos, crear un nuevo screen solo para favoritos, y pasar una propiedad a card hym diciendo si es favorito o no  para actualizar el link que lleva al hacer onpress
+- Como deshabilitar features en web (esto no es mvp xd todo: moverlo)

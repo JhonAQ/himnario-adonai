@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>110 Solo Cristo salva</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="110"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Solo Cristo salva de pecado y dolor.<br/>Derramó su sangre para darnos libertad.<br/>No hay otro nombre que ofrece salvación.<br/>Solo Cristo salva, dando gozo y perdón.<br/> <br/>Solo Cristo salva, de tristeza y pesar<br/>Dando paz y gozo, consolando con su amor.<br/>No hay otro nombre que ofrece salvación.<br/>Solo Cristo salva, dando gozo y perdón.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

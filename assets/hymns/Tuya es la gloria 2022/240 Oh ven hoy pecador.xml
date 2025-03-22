@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>240 Oh ven hoy pecador</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="240"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Oh, ven hoy, pecador, a Jesús! En su amor<br/>del pecado y la ira te quiere salvar.<br/>Seguiremos con fe a Jesús el Señor<br/>hasta al cielo llegar juntamente con él.<br/> <br/>Ven a él, pecador, ven al buen Salvador;<br/>aceptando al Señor hallarás salvación.<br/>Sin tardar, ven a él, y confiando en su amor<br/>con Jesús vivirás en su eterna mansión. <br/> <br/>Por amor él sufrió en la cruz do murió<br/>para dar libertad del pecado atroz.<br/>Por la fe en la sangre que él derramó,<br/>viviremos por siempre allí con Jesús.<br/> <br/>Jesucristo me dio el descanso y paz,<br/>ha colmado mi vida de gozo y amor.<br/>Del pecado y tinieblas él me libertó,<br/>y mi guía será al celeste hogar.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

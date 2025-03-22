@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>352 Maravilloso es el amor de Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="352"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Maravilloso es el amor de Dios,<br/>maravilloso es el amor de Dios,<br/>maravilloso es el amor de Dios.<br/>Maravilloso es.<br/> <br/>Tan alto, no puedo subir allá,<br/>tan profundo, no puedo bajar allá,<br/>tan ancho, no puedo alcanzar allá,<br/>Maravilloso es.<br/> <br/>Ef 3:18<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>301 Poema de salvación</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="301"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cristo, moriste en una cruz,<br/>resucitaste con poder.<br/>Perdona mis pecados hoy,<br/>sé mi Señor y Salvador.<br/> <br/>	Cámbiame y hazme otra vez<br/>	y ayúdame a serte fiel.<br/>	Cámbiame y hazme otra vez<br/>	y ayúdame a serte fiel.<br/></lines>
+			</verse>
+	</lyrics>
+</song>
