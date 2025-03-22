@@ -1,11 +1,12 @@
-import { StyleSheet, Text, View } from 'react-native';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import './global.css';
+import { StyleSheet, Text, View } from "react-native";
+import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import "./global.css";
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
-import { useEffect } from 'react';
-import {NavigationContainer} from '@react-navigation/native';
-import MyTabs from './src/navigation/MyTabs';
+import { useEffect } from "react";
+import { NavigationContainer } from "@react-navigation/native";
+import MyTabs from "./src/navigation/MyTabs";
+import { TabBarProvider } from "./src/context/TabBarContext";
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
@@ -19,7 +20,7 @@ export default function App() {
     "JosefinSans-Light": require("./assets/fonts/JosefinSans-Light.ttf"),
     "JosefinSans-ExtraLight": require("./assets/fonts/JosefinSans-ExtraLight.ttf"),
     "JosefinSans-Bold": require("./assets/fonts/JosefinSans-Bold.ttf"),
-    "JosefinSans-SemiBold": require("./assets/fonts/JosefinSans-SemiBold.ttf")
+    "JosefinSans-SemiBold": require("./assets/fonts/JosefinSans-SemiBold.ttf"),
   });
 
   useEffect(() => {
@@ -36,8 +37,10 @@ export default function App() {
   }
 
   return (
-    <NavigationContainer>
-      <MyTabs/>
-    </NavigationContainer>
+    <TabBarProvider>
+      <NavigationContainer>
+        <MyTabs />
+      </NavigationContainer>
+    </TabBarProvider>
   );
 }

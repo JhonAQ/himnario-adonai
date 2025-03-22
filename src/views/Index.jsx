@@ -5,8 +5,17 @@ import Title from '../components/Title';
 import SectionLyric from '../components/SectionLyric';
 import SearchBar from '../components/SearchBar';
 import CardHymn from '../components/CardHymn';
+import { useTabBar } from '../context/TabBarContext';
+import { useEffect } from 'react';
+
 
 const Index = () => {
+
+  const {setHideBar} = useTabBar();
+
+  useEffect(() => {
+    setHideBar(true);
+  }, []);
 
   return (
     <View className='w-full h-full flex-col justify-start bg-UIbase'>
