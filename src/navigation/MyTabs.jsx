@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Favorites from '../screens/Favorites';
 import Icon from 'react-native-vector-icons/Ionicons';
@@ -7,6 +7,7 @@ import HomeStackScreen from './HomeStackScreen';
 const Tab = createBottomTabNavigator();
 
 export default function MyTabs() {
+
   return (
     <Tab.Navigator
       screenOptions={({ route }) => ({
