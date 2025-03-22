@@ -4,6 +4,7 @@ import Favorites from '../screens/Favorites';
 import Icon from 'react-native-vector-icons/Ionicons';
 import HomeStackScreen from './HomeStackScreen';
 import { useTabBar } from '../context/TabBarContext';
+import FavoritesStackScreen from './FavoriteStackScreen';
 
 const Tab = createBottomTabNavigator();
 
@@ -34,7 +35,8 @@ export default function MyTabs() {
       })}
     >
       <Tab.Screen name="Home" component={HomeStackScreen} />
-      <Tab.Screen name="Favoritos" component={Favorites} />
+      {/* prealphaversion */}
+      {/* <Tab.Screen name="Favoritos" component={FavoritesStackScreen} /> */}
     </Tab.Navigator>
   );
 }
