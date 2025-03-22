@@ -3,10 +3,13 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Favorites from '../screens/Favorites';
 import Icon from 'react-native-vector-icons/Ionicons';
 import HomeStackScreen from './HomeStackScreen';
+import { useTabBar } from '../context/TabBarContext';
 
 const Tab = createBottomTabNavigator();
 
 export default function MyTabs() {
+
+  const { hideBar } = useTabBar();
 
   return (
     <Tab.Navigator
@@ -25,6 +28,9 @@ export default function MyTabs() {
         tabBarActiveTintColor: 'black',
         tabBarInactiveTintColor: 'gray',
         headerShown: false,
+        tabBarStyle:{
+          display: hideBar ? 'none' : 'flex'
+        }
       })}
     >
       <Tab.Screen name="Home" component={HomeStackScreen} />

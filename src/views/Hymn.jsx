@@ -5,27 +5,15 @@ import Title from '../components/Title';
 import SectionLyric from '../components/SectionLyric';
 import Himno from '../utils/CantoATi.js';
 import { useRoute } from '@react-navigation/native';
-
-const recentlyViewed = [
-  {
-    title: "Padre celestial, acuerdate de mi",
-    key: "F#",
-    type: "Adoracion",
-    index: 223,
-    verses: 4,
-    like: false
-  },
-  {
-    title: "Canto a ti",
-    key: "E#m",
-    type: "Adoracion",
-    index: 133,
-    verses: 5,
-    like: true
-  }
-]
+import { useTabBar } from '../context/TabBarContext';
 
 const Hymn = () => {
+  const {setHideBar} = useTabBar();
+
+  useEffect(() => {
+    setHideBar(true);
+    return () => setHideBar(false);
+  }, []);
 
   const route = useRoute();
   const { dataHymn } = route.params;
