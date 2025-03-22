@@ -1,10 +1,14 @@
-import { Text, View } from "react-native";
+import { useNavigation } from "@react-navigation/native";
+import { Text, TouchableOpacity, View } from "react-native";
+
 
 const ListCard = ({dataCategory}) => {
-  return (
-    <View className="flex-row rounded-lg bg-UIwhite w-full">
-      <View className="card-image rounded-lg h-24 w-[40%] bg-slate-400">
 
+  const navigation = useNavigation();
+
+  return (
+    <TouchableOpacity activeOpacity={0.6} onPress={()=> navigation.navigate("IndexStack")} className="flex-row rounded-lg bg-UIwhite w-full">
+      <View className="card-image rounded-lg h-24 w-[40%] bg-slate-400">
       </View>
       <View className="card-info grow py-4 pl-6 flex-col items-start justify-center gap-0.5">
         <Text className="font-josefin mb-1 font-medium">
@@ -17,7 +21,7 @@ const ListCard = ({dataCategory}) => {
           {dataCategory.favorites} Favoritos
         </Text>
       </View>
-    </View>
+    </TouchableOpacity>
   )
 }
 
