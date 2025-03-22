@@ -6,6 +6,7 @@ import SectionLyric from '../components/SectionLyric';
 import Himno from '../utils/CantoATi.js';
 import { useRoute } from '@react-navigation/native';
 import { useTabBar } from '../context/TabBarContext';
+import { useEffect } from 'react';
 
 const Hymn = () => {
   const {setHideBar} = useTabBar();

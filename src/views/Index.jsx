@@ -6,6 +6,7 @@ import SectionLyric from '../components/SectionLyric';
 import SearchBar from '../components/SearchBar';
 import CardHymn from '../components/CardHymn';
 import { useTabBar } from '../context/TabBarContext';
+import { useEffect } from 'react';
 
 
 const Index = () => {
