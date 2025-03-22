@@ -37,10 +37,10 @@ export default function App() {
   }
 
   return (
-    <NavigationContainer>
-      <TabBarProvider>
+    <TabBarProvider>
+      <NavigationContainer>
         <MyTabs />
-      </TabBarProvider>
-    </NavigationContainer>
+      </NavigationContainer>
+    </TabBarProvider>
   );
 }
