@@ -3,6 +3,12 @@
 > [!WARNING]
 > App en desarrollo, estado actual: Developing the MVP
 
+> [!IMPORTANT]
+> Pre-alpha version available! You can check out the live preview on Vercel.
+>
+> 
+> **Important: This is just a web preview, the project is focused on Android development, so many of the features are mobile-only and won't be displayed properly on the web.**
+
 ## Descripción
 Himnario Adonai es una app que facilita el tener los himnos del la reunión al a mano para le grupo cristiano 'Adonai', los usuarios pueden acceder a la base de datos de himnos propios, ver acordes, reproducir canciones y compartirlas rápidamente.
 La aplicación esta optimizada para ser rápida, ligera y fácil de usar, con un enfoque especial en aplicaciones de consumo de streaming y minimal apps.
