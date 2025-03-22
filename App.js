@@ -38,7 +38,7 @@ export default function App() {
   }
 
   return (
-    <View className={"h-full " + (Platform.OS === "web" ? "w-full max-w-[500px] mx-auto" : "w-full")}>
+    <View className={"h-full " + (Platform.OS === "web" ? "w-full max-w-[400px] mx-auto" : "w-full")}>
       <TabBarProvider>
         <NavigationContainer>
           <MyTabs />
