@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>208 Al mundo Cristo Jesús</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="208"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Al mundo Cristo Jesús<br/>de los cielos pronto vendrá.<br/>Con gran poder volverá,<br/>y su gloria todos verán.<br/> <br/>	¡Glorioso día será!<br/>	Todos los salvados de Dios<br/>	cara a cara a Cristo verán.<br/>	Muertos resucitarán<br/>	y recibirán a Jesús.<br/>	Listos esperemos a él.<br/> <br/>Cristo vendrá otra vez,<br/>poderoso Rey y Señor.<br/>Sus hijos fieles irán<br/>a los cielos junto a Jesús.<br/> <br/>Cristo Jesús reinará<br/>y la recompensa dará.<br/>Felices todos serán<br/>al estar con Cristo el Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>019 No hay lugar más alto</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="19"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>A tus pies arde mi corazón;<br/>a tus pies entrego lo que soy.<br/>Es el lugar de mi seguridad,<br/>donde nadie me puede señalar.<br/> <br/>Me perdonaste, me acercaste a tu presencia,<br/>me levantaste, hoy me postro a adorarte.<br/> <br/>	No hay lugar más alto,<br/>	más grande, que estar a tus pies,<br/>	que estar a tus pies.<br/>	No hay lugar más alto,<br/>	más grande, que estar a tus pies,<br/>	que estar a tus pies.<br/> <br/>/ Y aquí permaneceré,<br/>postrado a tus pies.<br/>Y aquí permaneceré,<br/>a los pies de Cristo./<br/> <br/>Mc 5:32-34; Lc 7:50<br/></lines>
+			</verse>
+	</lyrics>
+</song>

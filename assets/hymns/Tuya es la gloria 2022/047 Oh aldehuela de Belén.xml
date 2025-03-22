@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>047 Oh aldehuela de Belén</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="47"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Oh, aldehuela de Belén!, afortunada tú,<br/>pues en tus campos brilla hoy la sempiterna luz.<br/>El Hijo tan deseado con santa expectación,<br/>el anunciado Salvador, en ti, Belén, nació.<br/> <br/>Allá do el Redentor nació; los ángeles están<br/>velando todos con amor al niño sin igual.<br/>¡Estrellas rutilantes a Dios la gloria dad!<br/>Pues hoy el cielo nos mostró su buena voluntad.<br/> <br/>Calladamente Dios nos da su incomparable don;<br/>así también impartirá sus bendiciones hoy.<br/>Ningún oído acaso perciba su venir,<br/>más el de humilde corazón le habrá de recibir.<br/> <br/>¡Oh santo niño de Belén! Desciende con tu paz;<br/>en nuestras almas nace hoy limpiando todo mal.<br/>Los ángeles del cielo te anuncian al nacer:<br/>Ven con nosotros a morar, ¡oh, Cristo, Emanuel!<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>145 Protegido</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="145"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cuando yo esté angustiado y vacío,<br/>Espíritu ven sobre mí.<br/>Hazme vencer, te suplico.<br/>Necesito estar junto a ti.<br/> <br/>Protegido bajo tus alas, <br/>mi amor, Señor, yo te daré.<br/>Y con gozo elevaré un nuevo canto<br/>y tú transformarás mi ser.<br/> <br/>Mi alma tiene sed, mi ser te anhela.<br/>En desierto y sequedad allí estarás,<br/>y podré ver tu poder, veré tu gloria,<br/>y mis manos en lo alto alzaré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

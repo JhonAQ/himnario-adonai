@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>261 Escucha oh Dios nuestra oración</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="261"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Escucha, ¡oh, Dios!, nuestra oración<br/>que se dirige a ti<br/>por los que en perdurable unión<br/>se enlazan hoy aquí.<br/> <br/>Pon tu mirada de bondad<br/>en ellos, buen Jesús;<br/>infunde en ambos la piedad<br/>y dales pura luz.<br/> <br/>Sobre ellos haz, Señor, bajar<br/>tu santa bendición,<br/>a fin que puedan alcanzar<br/>la eterna salvación.<br/> <br/>Lc 24:28-29<br/></lines>
+			</verse>
+	</lyrics>
+</song>

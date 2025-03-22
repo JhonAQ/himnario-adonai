@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>276 Cantaré al Señor por siempre</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="276"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Cantaré al Señor por siempre,<br/>su diestra es todo poder./<br/>/Echó a la mar a quien los perseguía,<br/>jinete y caballo echó a la mar./<br/>Echó a la mar los carros del faraón.<br/>Oh-oh-oh, ¡hey!, ¡hey!<br/>La la la…<br/>/Mi padre es Dios, y yo le exalto.<br/>Mi padre es Dios y le alabaré./<br/>Ex 14:28<br/></lines>
+			</verse>
+	</lyrics>
+</song>

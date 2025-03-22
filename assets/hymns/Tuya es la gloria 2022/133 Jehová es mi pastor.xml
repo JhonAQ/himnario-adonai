@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>133 Jehová es mi pastor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="133"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Jehová es mi pastor, <br/>nada me faltará.<br/>En lugares delicados <br/>él me pastoreará./<br/> <br/>Aleluya (aleluya),<br/>aleluya (aleluya).<br/>Aleluya (aleluya),<br/>aleluya.<br/> <br/>/Caminando yo voy<br/>por la senda de Dios;<br/>él me da su amor<br/>y también su perdón./<br/> <br/>/Padre nuestro que estás<br/>aquí en mi corazón,<br/>no te alejes de mí,<br/>aunque soy pecador./<br/> <br/>/Quiero orar por ti <br/>con todo el corazón.<br/>para que seas feliz,<br/>para que seas mejor./<br/> <br/>Sal 23<br/></lines>
+			</verse>
+	</lyrics>
+</song>

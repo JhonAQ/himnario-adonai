@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>142 Padre celestial acuérdate de mí</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="142"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Padre celestial, acuérdate de mí.<br/>Solamente tú conoces mi existir.<br/>/Tú eres mi Señor, ¿a quién acudiré?<br/>Siempre ¡oh, Señor!, acuérdate de mí./<br/> <br/>Aun mis amistades me olvidaron ya <br/>al saber que soy cristiano de verdad.<br/>/Donde tú me lleves, yo te seguiré,<br/>a tu lado iré guiado por la fe./<br/> <br/>De mi hogar Señor, acuérdate también,<br/>habla, ¡oh, mi Dios!, a cada corazón.<br/>/Solamente tú conoces su vivir.<br/>Con tu amor bendito puedes redimir./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

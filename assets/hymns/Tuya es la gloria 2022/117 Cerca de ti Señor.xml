@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>117 Cerca de ti Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="117"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cerca de ti, Señor, quiero morar;<br/>tu grande, tierno amor quiero gozar.<br/>Llena mi pobre ser, limpia mi corazón,<br/>hazme tu rostro ver en comunión.	<br/> <br/>Pasos inciertos doy, el sol se va;<br/>mas si contigo estoy, no temo ya.<br/>Himnos de gratitud ferviente cantaré,<br/>y fiel a ti, Jesús, siempre seré.<br/> <br/>Día feliz veré creyendo en ti,<br/>en que yo habitaré, cerca de ti.<br/>Mi voz alabará tu dulce nombre allí,<br/>y mi alma gozará cerca de ti.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

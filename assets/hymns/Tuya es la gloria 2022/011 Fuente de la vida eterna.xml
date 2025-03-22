@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>011 Fuente de la vida eterna</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="11"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Fuente de la vida eterna y de toda bendición;<br/>ensalzar tu gracia tierna, debe cada corazón.<br/>Tu piedad inagotable, abundante en perdonar, <br/>único ser adorable, gloria a ti debemos dar.<br/> <br/>De los cánticos celestes te quisiéramos cantar;<br/>entonados por las huestes que lograste rescatar.<br/>Almas que a buscar viniste porque les tuviste amor,<br/>de ellas te compadeciste con tiernísimo favor.<br/> <br/>Toma nuestros corazones, llénalos de tu verdad,<br/>de tu Espíritu, los dones y de toda santidad.<br/>Guíanos en obediencia, humildad, amor y fe.<br/>Nos ampare tu clemencia, Salvador, propicio sé.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

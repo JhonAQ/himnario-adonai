@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>084 Doquier el hombre esté</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="84"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Doquier el hombre esté, la nueva proclamad;<br/>doquier haya aflicción, miserias y dolor.<br/>Cristianos, anunciad que el Padre nos envió<br/>el fiel Consolador.<br/> <br/>	El fiel Consolador, el fiel Consolador<br/>	que Dios nos prometió al mundo descendió.<br/>	Doquier el hombre esté, decid que 	vino ya <br/>el fiel Consolador.<br/> <br/>La noche ya pasó, y al fin brilló la luz,<br/>que vino a disipar la sombra del terror;<br/>así del alma fue aurora celestial<br/>el fiel Consolador.<br/> <br/>Él es quien da salud y plena libertad<br/>a los que encadenó el fiero tentador;<br/>los rotos hierros hoy dirán que vino ya<br/>el fiel Consolador.				<br/> <br/>¡Oh, grande eterno amor!, mi lengua débil es<br/>para poder hablar del don que recibí,<br/>al renovar en mí la imagen celestial,<br/>el fiel Consolador.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

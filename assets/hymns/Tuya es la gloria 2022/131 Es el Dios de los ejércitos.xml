@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>131 Es el Dios de los ejércitos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="131"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Es el Dios de los ejércitos en quien yo confiaré;<br/>y con címbalos de gozo al Señor ensalzaré.<br/>Él despide los relámpagos, más nunca temeré.<br/>Él es mi Protector.<br/> <br/>	¡Gloria, gloria, aleluya!<br/>	¡Gloria, gloria, aleluya!<br/>	¡Gloria, gloria, aleluya!<br/>	A Cristo doy loor.<br/> <br/>Con ejército no gana sus victorias el Señor;<br/>ni con fuerza lucha en contra de Luzbel, el tentador.<br/>La potencia del Espíritu ha dicho el Dios de amor,<br/>es lo que vencerá.<br/> <br/>En Belén de Palestina el Señor Jesús nació,<br/>y después de treinta años en la cruenta cruz murió.<br/>Pero vive para siempre, pues la tumba ya venció. <br/>Su nombre alabaré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

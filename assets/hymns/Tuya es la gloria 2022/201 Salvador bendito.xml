@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>201 Salvador bendito</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="201"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Salvador bendito, quiero suplicarte<br/>que tú siempre mores en mi corazón.<br/>Guíame, ¡oh, Cristo!, por tu santa senda<br/>andaré contigo sin mirar atrás.<br/> <br/>	¡Oh, Señor!, te alabo porque tú me amaste<br/>	y por mí has muerto en la cruenta cruz.<br/>	Sé que tú ofreces salvación a todos,<br/>	de ese amor bendito testificaré.<br/> <br/>Salvador bendito, a ti hoy me entrego<br/>para que me guíes con tu amor y fe.<br/>Dame, Padre amante, tu poder divino<br/>para que yo pueda predicar de ti.<br/> <br/>Aunque el diablo traiga muchas tentaciones<br/>para que yo caiga en pecado vil,<br/>Cristo, con tu fuerza sin temor alguno<br/>venceré al diablo y huirá de mí.<br/> <br/>Salvador bendito, yo he prometido<br/>por doquier seguirte y servirte fiel.<br/>Aunque vengan pruebas, penas o dolores<br/>con tu amor y gracia me protegerás.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

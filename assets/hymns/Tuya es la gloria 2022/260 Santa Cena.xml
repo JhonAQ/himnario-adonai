@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>260 Santa Cena</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="260"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Santa Cena para mí eres memorial aquí;<br/>tú me enseñas con verdad el misterio de bondad;<br/>me recuerdas de la cruz del Cordero, mi Jesús.<br/> <br/>Nos elevas nuestro ser al angélico placer;<br/>tipificas con señal la crucifixión pascual<br/>comulguemos al tomar de Jesús y su penar.<br/> <br/>Participe el corazón de tu conmemoración;<br/>nos recuerdas al partir de Jesús y su venir;<br/>eres tú nuestra señal de su pacto divinal.<br/> <br/>Como sello del amor del divino Redentor<br/>volveremos a tomar y con Cristo disfrutar<br/>de la cena del Señor prenda fiel del viador.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

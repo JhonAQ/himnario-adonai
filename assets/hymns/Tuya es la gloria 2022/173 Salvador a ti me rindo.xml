@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>173 Salvador a ti me rindo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="173"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Salvador, a ti me rindo,<br/>y obedezco solo a ti;<br/>mi Guiador, mi Fortaleza,<br/>todo encuentra mi alma en ti.<br/> <br/>	Yo me rindo a ti,<br/>	yo me rindo a ti,<br/>	mis flaquezas y pecados<br/>	todo traigo a ti.<br/> <br/>Te confiesa sus delitos<br/>mi contrito corazón;<br/>oye, ¡oh, Cristo!, mi plegaria,<br/>quiero en ti tener perdón.<br/> <br/>A tus pies yo deposito<br/>mi riqueza, mi placer;<br/>que tu espíritu me llene<br/>y de ti sienta el poder.<br/> <br/>¡Oh, qué gozo encuentro en Cristo!<br/>¡Cuánta paz a mi alma da!<br/>A su causa me consagro,<br/>y su amor mi amor será.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

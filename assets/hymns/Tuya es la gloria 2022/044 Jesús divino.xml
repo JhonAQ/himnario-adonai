@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>044 Jesús divino</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="44"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Jesús divino, gran rey del mundo,<br/>excelso Dios hecho un ser mortal!<br/>Yo quiero amarte, veraz servirte,<br/>de mi alma luz, mi amor cabal.<br/> <br/>¡Lindos los prados, bellos los bosques,<br/>cuando adornados van con primor!<br/>Cristo es más puro, Cristo es más bello:<br/>de corazón le doy loor. <br/> <br/>Sol tan brillante, luna tan clara,<br/>de estrellas miles derraman luz:<br/>Mas nunca un ángel, tampoco arcángel,<br/>luce al igual que mi Jesús.<br/> <br/>¡Jesús divino, gran rey del mundo,<br/>excelso Dios hecho un ser mortal!<br/>Gloria te rindo, prez y alabanza,<br/>a ti, Señor, Dios eternal.</lines>
+			</verse>
+	</lyrics>
+</song>

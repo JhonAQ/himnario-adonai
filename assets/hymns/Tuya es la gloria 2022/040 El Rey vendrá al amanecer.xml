@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>040 El Rey vendrá al amanecer</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="40"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>El Rey vendrá al amanecer, <br/>y luz triunfante brillará;<br/>su gloria cubrirá el país, <br/>y el gozo abundará.<br/> <br/>¡Ven, oh, ven!, ¡oh, Rey Jesús!,<br/>¡ven, Emanuel!<br/>La iglesia te espera, pronto ven.<br/>¡Oh, ven, Emanuel!, ¡ven, Emanuel!<br/> <br/>No como un niño como ayer,<br/>ya no vendrá a luchar;<br/>vendrá coronado de esplendor:<br/>su luz refulgirá.<br/> <br/>El Rey vendrá al amanecer, <br/>y su belleza traerá.<br/>Aclama a Cristo el Señor:<br/>¡Oh!, Rey de reyes, ¡ven!</lines>
+			</verse>
+	</lyrics>
+</song>

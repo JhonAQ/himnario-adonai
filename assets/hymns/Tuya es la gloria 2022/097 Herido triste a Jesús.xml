@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>097 Herido triste a Jesús</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="97"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Herido, triste, a Jesús,<br/>mostréle mi dolor;<br/>perdido, errante, vi su luz,<br/>bendíjome en su amor.<br/>	<br/>	En la cruz, en la cruz, do primero vi la luz,<br/>	y las manchas de mi alma yo lavé;<br/>	fue allí por fe do vi a Jesús,<br/>	y siempre feliz con él seré.<br/> <br/>Sobre una cruz mi buen Jesús<br/>su sangre derramó<br/>por este pobre pecador,<br/>a quien así salvó.<br/> <br/>Venció a la muerte con poder,<br/>y el Padre le exaltó;<br/>confiar en él es mi placer.<br/>Morir no temo yo.<br/> <br/>Aunque él se fue, conmigo está<br/>el gran Consolador;<br/>por él entrada tengo ya<br/>al reino del Señor.<br/> <br/>Vivir en Cristo me da paz;<br/>con él habitaré;<br/>ya suyo soy y de hoy en más <br/>a nadie temeré.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

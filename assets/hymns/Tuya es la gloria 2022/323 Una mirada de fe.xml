@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>323 Una mirada de fe</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="323"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Una mirada de fe,<br/>una mirada al Señor,<br/>es lo que puede salvar al pecador./<br/> <br/>/Y si tú vienes a Cristo Jesús,<br/>él te perdonará.<br/>Porque una mirada de fe,<br/>es lo que te puede salvar./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

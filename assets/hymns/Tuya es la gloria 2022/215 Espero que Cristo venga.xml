@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>215 Espero que Cristo venga</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="215"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Espero que Cristo venga,<br/>no tardará en venir.<br/>Y cuando llegue ese día,<br/>iré con él a morar.<br/> <br/>	Yo quiero vivir gozoso <br/>	al lado de mi Jesús.<br/>	En este mundo de penas<br/>	hay siempre de que sufrir.<br/> <br/>Mi Cristo mora en el cielo<br/>e intercede por mí.<br/>Me libra del vil pecado,<br/>es Cristo mi Salvador.<br/> <br/>Unámonos los hermanos<br/>que Cristo pronto vendrá.<br/>y aunque vengan las pruebas,<br/>él siempre nos guardará.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

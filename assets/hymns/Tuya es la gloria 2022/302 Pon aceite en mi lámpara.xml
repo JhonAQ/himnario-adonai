@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>302 Pon aceite en mi lámpara</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="302"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Pon aceite en mi lámpara, Señor;/<br/>que yo pueda servirte con amor.<br/>Pon aceite en mi lámpara, Señor.<br/> <br/>/Hermano mío, Cristo ya viene,<br/>mira tu lámpara si tiene aceite./<br/> <br/>Mt 25:1-13<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>180 Rogamos al buen Consolador</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="180"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Rogamos al buen Consolador<br/>nos conceda gracia, fe y fervor;<br/>él nos dé su ayuda,<br/>su mano fuerte<br/>nos ampare en la angustia y la muerte.<br/>Ten piedad, Señor.<br/> <br/>¡Oh, Sol de gracia, Divina luz,<br/>guíanos hacia el Señor Jesús!<br/>Haz que en él quedemos<br/>en todo día<br/>hasta entrar en su Edén de alegría.<br/>Ten piedad, Señor.<br/> <br/>Amor sin par, danos tu favor,<br/>llénanos de fervoroso amor,<br/>para que hermanado<br/>tu pueblo entero<br/>marche en paz por el mismo sendero.<br/>Ten piedad, Señor.<br/> <br/>Consuela fiel, poderoso Dios,<br/>de maldad y afrentas líbranos.<br/>Contra el enemigo cruel<br/>y malvado,<br/>sé, al fin, nuestro fuerte abogado.<br/>Ten piedad, Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

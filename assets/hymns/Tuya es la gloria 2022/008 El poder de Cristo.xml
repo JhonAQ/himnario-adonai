@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>008 El poder de Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="8"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/El poder de Cristo fue manifestado<br/>por las grandes obras de su creación./	<br/>	 <br/>	/Cristo es poderoso para redimir, <br/>	y él ha preparado para los salvados un glorioso hogar./<br/> <br/>/El poder de Cristo puede darte vida,<br/>si tú lo recibes en tu corazón./<br/> <br/>/El poder de Cristo siempre nos anima<br/>para andar la vida sin mirar atrás./</lines>
+			</verse>
+	</lyrics>
+</song>

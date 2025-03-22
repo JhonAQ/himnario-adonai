@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>232 Has hallado en Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="232"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¿Has hallado en Cristo plena salvación<br/>por la sangre que Cristo vertió?<br/>¿Toda mancha lava de tu corazón?<br/>¿Eres limpio en la sangre eficaz?<br/> <br/>	¿Eres limpio en la sangre,<br/>	en la sangre de Cristo Jesús?<br/>	¿Es tu corazón más blanco que la nieve?<br/>	¿Eres limpio en la sangre eficaz?<br/> <br/>¿Vives siempre al lado de tu Salvador <br/>por la sangre que él derramó?<br/>¿Del pecado eres siempre vencedor?<br/>¿Eres limpio en la sangre eficaz?<br/> <br/>¿Tendrás ropa blanca al venir Jesús?<br/>¿Eres limpio en la fuente de amor?<br/>¿Estás listo para la mansión de luz?<br/>¿Eres limpio en la sangre eficaz?	<br/> <br/>Cristo ofrece hoy perdón y salvación,<br/>¡Oh, acude a la cruz del Señor!<br/>Él la fuente es que limpiará tu ser,<br/>¡Oh, acepta su sangre eficaz!<br/></lines>
+			</verse>
+	</lyrics>
+</song>

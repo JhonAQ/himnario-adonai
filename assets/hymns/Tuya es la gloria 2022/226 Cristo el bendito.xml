@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>226 Cristo el bendito</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="226"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Cristo el bendito<br/>con su muerte cruenta<br/>al cielo la entrada<br/>él nos concedió./<br/> <br/>	/La puerta se cierra,<br/>	presuroso acude.<br/>	Apresúrate./<br/> <br/>/Cristo el bendito<br/>en su muerte cruenta<br/>su preciosa sangre<br/>por ti derramó./<br/> <br/>/Cristo el bendito<br/>su sangre preciosa<br/>lavar puede ahora<br/>a tu corazón./<br/> <br/>/Cristo el bendito<br/>en la cruz muriendo,<br/>preparó el camino<br/>a la salvación./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

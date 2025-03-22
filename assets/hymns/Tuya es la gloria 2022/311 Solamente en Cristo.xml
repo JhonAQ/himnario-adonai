@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>311 Solamente en Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="311"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Solamente en Cristo,<br/>solamente en él<br/>la salvación<br/>se encuentra en él.<br/>No hay otro nombre<br/>dado a los hombres.<br/>Solamente en Cristo,<br/>solamente en él.<br/> <br/>¡Oh!, qué regalo precioso<br/>Cristo me dio,<br/>llenó mi alma de gozo<br/>y me salvó.<br/>Ahora puedo cantar<br/>a grande voz<br/>y puedo testificar <br/>de su amor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>076 En la cruz</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="76"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Señor, conoces <br/>mi corazón,<br/>aun cuando te fallo,<br/>sé que me amas.<br/> <br/>Con tu presencia <br/>rodéame.<br/>En todo tiempo<br/>sé que me amas,<br/>sé que me amas.<br/> <br/>	Hoy me postro ante Jesús,<br/>	diste tu sangre en la cruz.<br/>	No hay otro amor igual.<br/>	Él murió y resucitó,<br/>	sobre la muerte venció.<br/>	Nada me separará.<br/> <br/>Mi escudo eres,<br/>mi protección.<br/>Tú me sostienes,<br/>sé que me amas.<br/> <br/>	Hoy me postro ante Jesús…<br/> <br/>/El velo rasgó,<br/>un camino abrió,<br/>todo consumado es./<br/> <br/>Aun en tormentas <br/>o tempestad<br/>tú estás conmigo.<br/>Sé que me amas,<br/>sé que me amas.<br/> <br/>Ef 3:12; 2 Co 3:12-17<br/></lines>
+			</verse>
+	</lyrics>
+</song>

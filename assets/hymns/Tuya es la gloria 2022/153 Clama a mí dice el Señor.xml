@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>153 Clama a mí dice el Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="153"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Clama a mí, dice el Señor,<br/>clama a mí, dice el Señor,<br/>clama a mí, dice el Señor,<br/>yo te responderé.<br/> <br/>En el tiempo de pruebas,<br/>en el tiempo de dolor,<br/>clama a mí, dice el Señor,<br/>yo te responderé.<br/> <br/>Si te sientes enfermo,<br/>y no tienes sanidad,<br/>clama a mí, dice el Señor,<br/>yo te responderé.<br/> <br/>Si no tienes dinero,<br/>y no tienes quien te dé,<br/>clama a mí, dice el Señor,<br/>y te responderé.<br/>Jer 33:3<br/></lines>
+			</verse>
+	</lyrics>
+</song>

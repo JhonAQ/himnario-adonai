@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>121 Cristo está conmigo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="121"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cristo está conmigo, ¡qué consolación!<br/>Su presencia aleja todo mi temor;<br/>tengo la promesa de mi Salvador:<br/>“No te dejaré nunca; siempre contigo estoy.”<br/> <br/>	No tengo temor, no tengo temor;<br/>	Jesús me ha prometido:<br/>	/”Siempre contigo estoy.”/<br/> <br/>Fuertes enemigos siempre cerca están;<br/>Cristo está más cerca, guárdame del mal;<br/>“Ten valor”, me dice, “soy tu defensor;<br/>no te dejaré nunca; siempre contigo estoy.”<br/> <br/>El que guarda mi alma, nunca se dormirá;<br/>si mi pie resbala, él me sostendrá;<br/>en mi vida diaria es mi protector;<br/>cuán fiel es su palabra: “Siempre contigo estoy.”<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>289 He llegado a este lugar</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="289"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/He llegado a este lugar <br/>con el propósito de estar junto a ti./<br/> <br/>/Porque soy una oveja, <br/>oveja de tu prado,<br/>necesitada de tu amor.<br/>Ven y tómame en tus brazos <br/>y venda mis heridas,<br/>porque solo tú sabes consolar./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

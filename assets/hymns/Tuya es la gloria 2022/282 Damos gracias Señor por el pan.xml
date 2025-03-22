@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>282 Damos gracias Señor por el pan</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="282"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Damos gracias, Señor, por el pan,<br/>damos gracias, Señor, por el pan.<br/>Por el pan espiritual<br/>que alimenta a cada cual,<br/>y también por el pan material. <br/>Amén.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

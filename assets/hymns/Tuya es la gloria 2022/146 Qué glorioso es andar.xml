@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>146 Qué glorioso es andar</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="146"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Qué glorioso es andar hacia el cielo con Jesús.<br/>¿Quién me puede apartar de su eterno y fiel amor?<br/>Desde que lo conocí en mi corazón hay luz.<br/>¿Quién me puede daño hacer? Cristo es mi Señor.<br/> <br/>	A la gloria yo voy con mi buen Señor;<br/>	él las puertas abrirá por su gran amor.<br/> <br/>Con alegre corazón voy al cielo de mi Dios.<br/>¿Quién me puede apartar de su eterno y fiel amor?<br/>Yo consagro a él mi voz su mensaje a proclamar.<br/>¿Quién me puede daño hacer? Cristo es mi Señor.<br/> <br/>Cristo me espera allá en su gloria celestial.<br/>¿Quién me puede apartar de su eterno y fiel amor?<br/>Cara a cara lo veré. ¡Qué gran gozo eternal!<br/>¿Quién me puede daño hacer? Cristo es mi Señor.<br/> <br/>Vamos juntos en la luz caminando con Jesús.<br/>¿Quién me puede apartar de su eterno y fiel amor?<br/>Aunque en este mundo vil encontremos pruebas mil.<br/>¿Quién me puede daño hacer? Cristo es el Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

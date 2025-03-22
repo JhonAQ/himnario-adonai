@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>280 Cristo es mi Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="280"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cristo es mi Señor.<br/>No me da temor<br/>declararle al mundo entero <br/>de su gran poder;<br/>en mi vida permitir <br/>que él se deje ver. <br/> <br/>Cristo es mi Señor.<br/>No me da temor<br/>demostrar con mis acciones, <br/>que él puede reinar <br/>en la vida de cualquiera, <br/>que se quiera entregar. <br/> <br/>Jesucristo, no me detendré<br/>de doblar mi rodilla <br/>y mi ser ante tu majestad. <br/>Jesucristo, te confesaré<br/>con mis labios declararé, <br/>que tú eres Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

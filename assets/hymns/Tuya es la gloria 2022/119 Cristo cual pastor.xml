@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>119 Cristo cual pastor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="119"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cristo, cual pastor, ¡oh, guía<br/>nuestros pasos en tu amor;<br/>nuestras almas siempre cuida;<br/>guárdalas, oh, Salvador!<br/>Cristo amante, Cristo amante,<br/>nos compraste por tu amor;<br/>Cristo amante, Cristo amante,<br/>somos tuyos ya, Señor.<br/> <br/>Tuyos somos, fiel amigo,<br/>sé tú nuestro defensor;<br/>da al rebaño tuyo abrigo<br/>de este mundo pecador.<br/>Cristo amante, Cristo amante,<br/>oye nuestra petición;<br/>Cristo amante, Cristo amante,<br/>oye nuestra petición.<br/> <br/>Aunque somos tan indignos,<br/>nos prometes recibir;<br/>y tú ofreces bendecirnos<br/>del pecado redimir.<br/>Cristo amante, Cristo amante,<br/>te buscamos hoy, Señor.<br/>Cristo amante, Cristo amante,<br/>te buscamos hoy, Señor.<br/> <br/>¡Oh, Pastor!, hoy te buscamos,<br/>te pedimos tu favor;<br/>llénanos de tu amor rogamos,<br/>óyenos, buen Salvador.<br/>Cristo amante, Cristo amante,<br/>en tu amor, ¡cuán fiel estás!<br/>Cristo amante, Cristo amante,<br/>hasta el fin nos amarás.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>083 Tuya es la gloria</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="83"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Tuya es la gloria!, victorioso Redentor,<br/>porque tú la muerte venciste, Señor.<br/>Quitan la gran piedra ángeles de luz,<br/>y en la tumba el lienzo guardan, ¡oh, Jesús!<br/> <br/>	¡Tuya es la gloria!, victorioso Redentor,<br/>	porque tú la muerte venciste, Señor.<br/> <br/>Vemos que llega el resucitado ya;<br/>ansias y temores él nos quitará.<br/>Que su iglesia alegre cante la canción:<br/>Vivo está; la muerte pierde su aguijón.<br/> <br/>¡Ya no dudamos, Príncipe de vida y paz!<br/>Sin ti no valemos; fortaleza das.<br/>Más que vencedores haznos por tu amor,<br/>y al hogar celeste llévanos, Señor.<br/> <br/>1 Co 15:54-57; Ro 8:37<br/></lines>
+			</verse>
+	</lyrics>
+</song>

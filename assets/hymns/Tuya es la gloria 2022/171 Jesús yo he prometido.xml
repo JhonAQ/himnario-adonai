@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>171 Jesús yo he prometido</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="171"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Jesús, yo he prometido servirte con amor;<br/>concédeme tu gracia, mi amigo y Salvador.<br/>No temeré la lucha, si tú a mi lado estás, <br/>ni perderé el camino, si tú conmigo vas.<br/> <br/>Estamos en el mundo y abunda tentación;<br/>muy suave es el engaño y necia la pasión.<br/>Ven tú, Jesús, más cerca, en mi necesidad<br/>y escuda al alma mía de toda iniquidad.<br/> <br/>Y si mi mente vaga, ya incierta, ya veloz, <br/>concédeme que oiga, Jesús, tu clara voz.<br/>Anímame si dudo, inspírame también,<br/>repréndeme, si temo en todo hacer el bien.<br/> <br/>Jesús, tú has prometido a todo aquel que va,<br/>siguiendo tus pisadas, que al cielo llegará.<br/>Sostenme en el camino y al fin con dulce amor,<br/>trasládame a tu gloria, mi amigo y Salvador.</lines>
+			</verse>
+	</lyrics>
+</song>

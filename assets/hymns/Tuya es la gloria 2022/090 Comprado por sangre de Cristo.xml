@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>090 Comprado por sangre de Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="90"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Comprado por sangre de Cristo<br/>con gozo al cielo yo voy; <br/>librado por gracia infinita<br/>ya sé que su hijo yo soy.<br/> <br/>	Lo sé, lo sé,<br/>comprado con sangre yo soy;<br/>	lo sé, lo sé, <br/> 	con Cristo al cielo yo voy.<br/> <br/>Soy libre de pena y culpa, <br/>su gozo él me hace sentir.<br/>Él llena de gracia mi alma,<br/>con él es tan dulce vivir.	<br/>		 <br/>En Cristo yo siempre medito,<br/>y nunca le puedo olvidar;<br/>callar sus favores no quiero,<br/>voy siempre a Jesús alabar.	<br/> <br/>Seguro sé que la belleza, <br/>del gran Rey yo voy a mirar;<br/>ahora me guarda y me guía, <br/>y siempre me quiere ayudar.<br/> <br/>Yo sé que me espera corona, <br/>la cual a los fieles dará<br/>Jesús Salvador; en el cielo<br/>mi alma con él estará.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

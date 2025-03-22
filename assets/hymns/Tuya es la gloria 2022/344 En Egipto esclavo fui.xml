@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>344 En Egipto esclavo fui</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="344"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>En Egipto esclavo fui,<br/>sí, sí, ¡oh, sí!<br/>En Egipto esclavo fui<br/>del vil faraón.<br/>/Triste, muy triste estaba,<br/>mi corazón lloraba,<br/>mas me libró el Señor, ¡aleluya!/<br/> <br/>	/Libre tú me hiciste, libre,<br/>	tú me hiciste libre.<br/>	Libre Señor, ¡aleluya!/<br/> <br/>Fue Moisés al faraón,<br/>sí, sí, ¡oh, sí!<br/>Fue Moisés al faraón,<br/>y le dijo así:<br/>/”Deja ir a mi pueblo<br/>para rendirme culto,<br/>ha dicho el Señor”, ¡aleluya!/<br/> <br/>Faraón se endureció,<br/>sí, sí, ¡oh, sí!<br/>Faraón se endureció,<br/>no los dejó ir.<br/>/Dios descendió diez plagas,<br/>desenvainó su espada,<br/>nos dio la libertad, ¡aleluya!/<br/> <br/>Ahora que ya libre soy,<br/>sí, sí, ¡oh, sí!<br/>Ahora que ya libre soy,<br/>libre para ti,<br/>/quiero rendirte culto,<br/>quiero cantarte gloria,<br/>gloria a ti, Señor, ¡aleluya!/<br/> <br/>Ex 7-13<br/></lines>
+			</verse>
+	</lyrics>
+</song>

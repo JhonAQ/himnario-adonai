@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>048 Oh cantad</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="48"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Oh, cantad!, ¡loores entonad!,<br/>al Padre que a su amado dio<br/>a ser del mundo el Salvador:<br/>¡Oh, cantad!, ¡loores entonad!<br/> <br/>¡Oh, servir con gratitud feliz!,<br/>a Cristo, el Príncipe de paz<br/>que eternamente reinará;<br/>¡Oh, servid con gratitud feliz!<br/>		 <br/>¡Anunciad!, ¡la grata nueva dad!<br/>Bendita nueva de salud,<br/>que en Belén nació Jesús:<br/>¡Anunciad!, ¡la grata nueva dad!<br/></lines>
+			</verse>
+	</lyrics>
+</song>

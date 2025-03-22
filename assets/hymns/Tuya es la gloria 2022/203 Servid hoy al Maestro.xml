@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>203 Servid hoy al Maestro</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="203"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Servid hoy al Maestro, las nuevas esparcid;<br/>iglesia del Dios vivo, a predicar salid.<br/>Creación del Padre eres en Cristo el Salvador;<br/>poder te da el Espíritu y también amor.<br/> <br/>Haz tuyo el plan de Cristo: ve, busca al pecador;<br/>rescata a los esclavos, pero hazlo con valor.<br/>Amar a los humildes; al que, en dolor calmar;<br/>las cargas de los otros tú debes aliviar.<br/> <br/>De Cristo sé el cuerpo, Jesús cabeza es;<br/>sé una carta abierta que el mundo pueda ver.<br/>De Cristo sé el templo, el fundamento es él; <br/>sé tú el altar de Cristo do le adores fiel.<br/> <br/>Cabeza de la iglesia, ven, danos tu pensar;<br/>queremos que nos guíes tu obra a realizar.<br/>Los dones de tu gracia impártenos, Señor;<br/>y que vivamos juntos con todos en amor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

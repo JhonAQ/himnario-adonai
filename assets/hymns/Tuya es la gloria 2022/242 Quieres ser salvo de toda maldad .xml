@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>242 Quieres ser salvo de toda maldad </title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="242"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¿Quieres ser salvo de toda maldad?<br/>Tan solo hay poder en mi Jesús.<br/>¿Quieres vivir y gozar santidad?<br/>Tan solo hay poder en Jesús.<br/> <br/>	Hay poder, poder, sinigual poder<br/>	en Jesús quien murió;<br/>	hay poder, poder, sinigual poder<br/>	en la sangre que él vertió.<br/> <br/>¿Quieres ser libre de orgullo y pasión?<br/>Tan solo hay poder en mi Jesús.<br/>¿Quieres vencer toda cruel tentación?<br/>Tan solo hay poder en Jesús.<br/> <br/>¿Quieres servir a tu Rey y Señor?<br/>Tan solo hay poder en mi Jesús.<br/>Ven, y ser salvo podrás en su amor,<br/>tan solo hay poder en Jesús.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

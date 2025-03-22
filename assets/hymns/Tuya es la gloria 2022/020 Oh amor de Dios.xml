@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>020 Oh amor de Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="20"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Oh, amor de Dios! Su inmensidad,<br/>el hombre no podría contar,<br/>ni comprender la gran verdad,<br/>que Dios al hombre pudo amar.<br/>Cuando el pecar entró al hogar<br/>de Adán y Eva en Edén,<br/>Dios los sacó, más prometió<br/>un salvador también.<br/> <br/>	¡Oh, amor de Dios!, brotando está.<br/>	¡Inmensurable, eternal!<br/>	Por las edades durará,<br/>	inagotable raudal.<br/> <br/>Si fuera tinta todo el mar,<br/>y todo el cielo un gran papel,<br/>y cada hombre un escritor,<br/>y cada hoja un pincel,<br/>nunca podrían describir<br/>el gran amor de Dios<br/>que al hombre pudo redimir<br/>de su pecado atroz.<br/>		 <br/>Y cuando el tiempo pasará<br/>con cada reino mundanal,<br/>y cada reino caerá<br/>con cada trama y plan carnal.<br/>El gran amor del Redentor<br/>por siempre durará;<br/>la gran canción de salvación<br/>su pueblo cantará.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

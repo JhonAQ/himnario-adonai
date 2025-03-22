@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>237 Nadie sabe la hora</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="237"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Nadie sabe la hora en que Cristo vendrá,<br/>nadie sabe qué día será.<br/>Ni los ángeles saben qué día vendrá,<br/>solo Dios, nadie más, solo Dios.<br/> <br/>	Jesucristo el Señor, pronto viene otra vez<br/>	con gran gloria y poder,<br/>	a los salvos por fe el Señor llevará<br/>	a gozar de su amor.<br/> <br/>Tal como aconteció en los días de Noé,<br/>así Cristo nos sorprenderá.<br/>A uno él llevará por ser salvo por fe,<br/>pero a otro tendrá que dejar.<br/> <br/>La Palabra de Dios dice: “Prepárense<br/>al glorioso Cristo a recibir”.<br/>Vida eterna gozosa Jesús nos dará,<br/>si con fe lo esperamos a él.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

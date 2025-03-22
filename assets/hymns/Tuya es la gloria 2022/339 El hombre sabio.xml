@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>339 El hombre sabio</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="339"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>El hombre sabio en la peña construyó,<br/>el hombre sabio en la peña construyó,<br/>el hombre sabio en la peña construyó,<br/>y la lluvia descendió.<br/> <br/>//Subió el río, y la lluvia descendió,//<br/>y la casa de la peña no cayó.<br/> <br/>//El insensato en la arena construyó,//<br/>y la lluvia descendió.<br/> <br/>//Subió el río, y la lluvia descendió,//<br/>y la casa en la arena se cayó.<br/> <br/>Mt 7:24-27; Lc 6:46-49<br/></lines>
+			</verse>
+	</lyrics>
+</song>

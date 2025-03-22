@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>212 Cuando al fin se termine</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="212"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cuando al fin se termine nuestra vida terrenal,<br/>y el río oscuro tenga que cruzar,<br/>en lejana ribera al Salvador conoceré,<br/>con sonrisa bienvenida me dará.<br/> <br/>	Yo podré reconocerle;<br/>	en la cruz Cristo me redimió.<br/>	Bien podré reconocerle<br/>	por heridas que allí recibió.<br/> <br/>¡Oh!, qué gozo será vivir allí con el Señor,<br/>y su rostro y hermosura contemplar.<br/>Sentiré grande gozo cuando me permita ver<br/>la mansión que ha prometido preparar.<br/> <br/>Nos esperan allí los que murieron en Jesús,<br/>ellos viven en presencia del Señor.<br/>¡Oh!, qué dulce y qué grato estar con ellos en reunión,<br/>nos será después de ver al Salvador.<br/> <br/>Por los bellos portales me conducirá Jesús,<br/>no habrá pecado, ni ningún dolor;<br/>gozaré con los suyos alabanzas entonar,<br/>más primero quiero ver a mi Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

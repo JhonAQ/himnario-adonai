@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>286 Has cambiado mi lamento</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="286"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Has cambiado mi lamento en baile,<br/>me ceñiste todo de alegría./<br/> <br/>Por tanto, a ti cantaré,<br/>gloria mía, gloria mía,<br/>y solo a ti danzaré,<br/>gloria mía, gloria mía.<br/> <br/>/!Oh, Adonai!, ¡oh, Adonai!,<br/>Dios del universo,<br/>Señor de la creación./<br/> <br/>/Los cielos cuentan tu gloria,<br/>tus hijos hoy te adoran<br/>por todas tus maravillas, Adonai./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

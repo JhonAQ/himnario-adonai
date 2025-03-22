@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>218 Pronto Cristo volverá</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="218"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Pronto Cristo volver<br/>al cielo nos llevará;<br/>su palabra dice así<br/>preparados esperemos.<br/> <br/>	/Jesucristo pronto vendrá<br/>	los salvos nos llevará;<br/>	estaremos con Jesús<br/>	disfrutando de su gloria./<br/> <br/>Seguidores de Jesús<br/>esperemos listos ya;<br/>proclamemos su poder<br/>y sigamos en sus pasos.<br/> <br/>Los de limpio corazón<br/>esperemos al Señor;<br/>trabajando con fervor<br/>sin descuido y sin fatiga.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

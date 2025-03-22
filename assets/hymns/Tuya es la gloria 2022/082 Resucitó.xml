@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>082 Resucitó</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="82"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>	Resucitó, resucitó, resucitó, ¡aleluya!<br/>	Aleluya, aleluya, aleluya, resucitó.	<br/> <br/>La muerte, donde está la muerte,<br/>dónde está mi muerte, donde su victoria.<br/> <br/>Gracias sean dadas al Padre,<br/>que nos pasó a su reino donde se vive de amor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -10,7 +10,8 @@ const CardHymn = ({dataHymn}) => {
     activeOpacity={0.6}
     className="bg-UIwhite w-[48%] rounded-lg">
       <View className="card-image bg-slate-400 h-28 relative rounded-lg">
-        <Like className="absolute top-2 right-2" like={dataHymn.like}/>
+        {/* beta version */}
+        {/* <Like className="absolute top-2 right-2" like={dataHymn.like}/> */}
       </View>
       <View className="card-info py-3 px-2">
         <View className="info-left gap-[3px]">

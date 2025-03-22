@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>223 Yo vivo Señor porque tú vives</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="223"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Yo vivo Señor, porque tú vives,<br/>porque tú vives, Señor, es que yo vivo.<br/>/Me das consuelo, me das abrigo,<br/>y en la aflicción, mi Señor, estás conmigo./<br/> <br/>Soy salvo, Señor, pues me salvaste,<br/>pues me salvaste, Señor, eternamente.<br/>/Yo voy al cielo, voy a la gloria,<br/>porque, Señor, tú me diste la victoria./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>350 Jonás</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="350"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Jonás no hizo caso a la Palabra de Dios,<br/>por eso en el mar profundo la gente lo arrojó.<br/>Y vino un pez muy grande y ¡pum!, se lo comió .<br/> <br/>/Porque no hizo caso a la Palabra de Dios./<br/> <br/>Y allá en el mar profundo en el vientre del animal<br/>Jonás se arrepintió de todo corazón,<br/>y el pez muy grande ¡pum! lo vomitó.<br/> <br/>//Jonás se fue corriendo a Nínive a predicar.//<br/> <br/>Jon 1-4<br/></lines>
+			</verse>
+	</lyrics>
+</song>

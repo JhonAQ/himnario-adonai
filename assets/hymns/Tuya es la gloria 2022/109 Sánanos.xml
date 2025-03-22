@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>109 Sánanos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="109"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Somos tu pueblo, y hoy venimos humillados ante ti,<br/>somos tu pueblo, necesitados de ti. <br/>Hemos pecado, hemos dejado tu camino, tu verdad. Nos humillamos, nuestra tierra sana hoy.<br/> <br/>¡Sánanos! ¡Sánanos!<br/>Es el clamor de este pueblo humillado ante ti.<br/>¡Sálvanos! ¡Sálvanos!<br/>Es la oración de tus hijos postrados ante ti.<br/>Sánanos, sánanos. Sánanos, sánanos. <br/> <br/>Somos tus hijos, reconocemos nuestro orgullo, nuestro error. <br/>Somos tus hijos, te pedimos hoy perdón.<br/> <br/>Invocamos hoy tu nombre y buscamos tu favor.<br/>¡Que tu luz nos alumbre para honrarte a ti, Señor!<br/>¡Sánanos!<br/></lines>
+			</verse>
+	</lyrics>
+</song>

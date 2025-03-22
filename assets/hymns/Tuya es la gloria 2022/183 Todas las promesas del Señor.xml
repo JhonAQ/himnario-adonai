@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>183 Todas las promesas del Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="183"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Todas las promesas del Señor Jesús,<br/>son apoyo poderoso de mi fe.<br/>Mientras viva aquí cercado de su luz,<br/>siempre en sus promesas confiaré.<br/> <br/>	Grandes, fieles, <br/>	las promesas que el Señor Jesús ha dado;<br/>	grandes, fieles, <br/>	en ellas para siempre confiaré.<br/> <br/>Todas sus promesas para el hombre fiel,<br/>el Señor, por su Palabra, cumplirá;<br/>y confiado sé que para siempre en él,<br/>paz eterna mi alma gozará.<br/> <br/>Todas las promesas del Señor serán,<br/>gozo y fuerza en nuestra vida terrenal.<br/>Ellas en la dura lid nos sostendrán,<br/>y triunfar podremos sobre el mal.<br/> <br/>Jos 21:45; 2 S 7:28; 2 Co 1:20; 2 P 1:4<br/></lines>
+			</verse>
+	</lyrics>
+</song>

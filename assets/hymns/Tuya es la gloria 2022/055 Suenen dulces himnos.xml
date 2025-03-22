@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>055 Suenen dulces himnos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="55"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Suenen dulces himnos gratos al Señor,<br/>y óiganse en concierto universal!<br/>Desde el alto cielo baja el Salvador<br/>para beneficio del mortal.<br/> <br/>	¡Gloria, gloria sea a nuestro Dios!<br/>	¡Gloria, sí, cantemos a una voz!,<br/>y el cantar de gloria que se oyó en Belén<br/>	¡sea nuestro cántico también!<br/> <br/>Montes y collados fluyan leche y miel<br/>y abundancia esparzan y solaz.<br/>¡Gócense los pueblos!, ¡gócese, Israel!,<br/>que a la tierra viene ya la paz.<br/> <br/>Salte de alegría lleno el corazón,<br/>la abatida y pobre humanidad;<br/>Dios se compadece viendo su aflicción,<br/>y les muestra buena voluntad.<br/> <br/>Lata en nuestros pechos noble gratitud,<br/>hacia quien nos brinda redención;<br/>y a Jesús el Cristo, que nos da salud,<br/>tributemos nuestra adoración.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

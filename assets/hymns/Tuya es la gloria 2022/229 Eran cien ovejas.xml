@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>229 Eran cien ovejas</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="229"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Eran cien ovejas<br/>que había en el rebaño.<br/>Eran cien ovejas<br/>que él, amante cuidó.<br/>Pero en una tarde,<br/>Al contarlas todas,<br/>le faltaba una, le faltaba una<br/>y triste lloró.<br/> <br/>	Las noventa y nueve dejó en el aprisco,<br/>	y por las montañas a buscarla fue.<br/>	La encontró gimiendo, temblando de frío.<br/>	Ungió sus heridas, la tomó en sus brazos,<br/>	y al redil volvió.<br/> <br/>Esta misma historia <br/>vuelve a repetirse.<br/>Todavía hay ovejas<br/>que errantes van.<br/>Andan por el mundo,<br/>sin Dios y sin consuelo,<br/>sin Dios y sin consuelo<br/>y sin su perdón.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

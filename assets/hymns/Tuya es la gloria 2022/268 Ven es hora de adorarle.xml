@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>268 Ven es hora de adorarle</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="268"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Ven, es hora de adorarle.<br/>Ven, abre tu corazón a él.<br/>Ven, ante su trono estamos.<br/>Ven, ante la majestad de Dios.<br/>¡Ven!<br/> <br/>Toda lengua confesará que él es Dios,<br/>las rodillas se doblarán,<br/>y un tesoro eterno tendrás en él,<br/>si escoges su amor.<br/> <br/>Sal 145:1-2<br/></lines>
+			</verse>
+	</lyrics>
+</song>

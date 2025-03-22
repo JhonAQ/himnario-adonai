@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>046 Noche de paz</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="46"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Noche de paz, noche de amor.<br/>Todo duerme en derredor.<br/>Entre los astros que esparcen su luz<br/>bella anunciando al niñito Jesús,<br/>/brilla la estrella de paz./<br/> <br/>Noche de paz, noche de amor.<br/>Oye humilde el fiel pastor<br/>coros celestes que anuncian salud,<br/>gracias y glorias en gran plenitud<br/>/por nuestro buen Redentor./	<br/> <br/>Noche de paz, noche de amor.<br/>Ved que bello resplandor<br/>luce en el rostro el niño Jesús,<br/>en el pesebre del mundo la luz,<br/>/astro de eterno fulgor./</lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>187 Cuando Cristo vino</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="187"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cuando Cristo vino a mi corazón,<br/>mi vida entera cambió.<br/>Su paz y su amor alejaron de mí,<br/>las dudas, las sombras y el temor.<br/>	<br/>	/Mi vida comenzó, cuando el Señor llegó<br/>	hoy puedo cantar de su amor./<br/> <br/>Cuando Cristo vino a mi corazón,<br/>poder sinigual encontré;<br/>en hombre nuevo él me trasformó,<br/>hoy vivo con meta y perdón.<br/>			<br/>En esta vida yo soy muy feliz,<br/>y quiero cantarte a ti.<br/>El Príncipe de paz ha llenado a mi ser,<br/>hoy tengo razón para vivir.	<br/> <br/>Hoy quiero que Cristo te salve a ti <br/>y cambie tu vida también.<br/>Piensa en la cruz donde él murió por ti<br/>y ábrele hoy tu corazón.<br/> <br/>	/Tu pasado acabará, vida nueva obtendrás,<br/>	y hoy podrás cantar de su amor./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

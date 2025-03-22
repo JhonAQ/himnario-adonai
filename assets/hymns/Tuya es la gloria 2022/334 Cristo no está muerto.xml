@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>334 Cristo no está muerto</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="334"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>//Cristo no está muerto, está vivo.//<br/>Lo siento en mis manos, lo siento en mis pies,<br/>lo siento en todo mi ser.<br/> <br/>La tengo, la tengo, la tengo, si la tengo <br/>la unción está sobre mí.<br/>Gloria Dios porque la tengo.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

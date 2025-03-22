@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>222 Vivo cada día</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="222"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Vivo cada día a tus pies orando,<br/>Pensando en tus dichos, Cristo Salvador.<br/>Del vivir en vano, líbrame te ruego,<br/>con fe victoriosa quiero trabajar.<br/> <br/>	Guíame a la gloria de tu santidad,<br/>	como el peregrino caminando estoy.<br/>	Gozar es mi anhelo contigo, Señor,<br/>	estar en el cielo por la eternidad.<br/> <br/>Pensando en riquezas aquí no las tengo<br/>pero tus promesas más que ellas son.<br/>Al fin de mi vida yo ansioso espero<br/>tu voz bendecida por siempre escuchar.<br/> <br/>Nunca tengas dudas de esas bendiciones,<br/>para ti son todas, si caminas fiel.<br/>Si a Cristo acudes, las dudas se alejan.<br/>Acepta y confía en tu Salvador<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>293 Libertad libertad</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="293"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Libertad, libertad, ¡oh!, qué buena<br/>es aquella que da el Salvador.<br/>Libertad a las almas perdidas,<br/>libertad de la condenación.<br/> <br/>Una vez era yo peregrino,<br/>cautivado en cadenas de error;<br/>mi maldad me tenía cautivo<br/>a una eterna y sin fin perdición.<br/> <br/>Yo no tuve en el mundo alegría,<br/>y agobiado viví en el error.<br/>Las cadenas del vil enemigo<br/>me quitó en su bondad el Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

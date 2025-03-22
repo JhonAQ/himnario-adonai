@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>074 Dios envió a su hijo Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="74"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Dios envió a su hijo Cristo. <br/>Él es salud, paz y perdón.<br/>Vivió y murió por mis pecados.<br/>Vacía está la tumba porque él triunfó.<br/> <br/>	Porque él vive triunfaré mañana,<br/>	porque él vive ya no hay temor.<br/>	porque yo sé que el futuro es suyo,<br/>	la vida vale más y más solo por él.<br/> <br/>Grato es tener a un tierno niño,<br/>tocar su piel, gozo nos da,<br/>pero es mejor la dulce calma<br/>que Cristo el rey nos puede dar, pues vivo está.<br/> <br/>Yo sé que un día el río cruzaré <br/>y con dolor batallaré.<br/>Y al ver la vida triunfando invicta <br/>veré gloriosas luces y veré al rey.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

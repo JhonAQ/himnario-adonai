@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>191 Hay una senda</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="191"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Hay una senda que el mundo no conoce,<br/>hay una senda que yo pude encontrar.<br/>/En Cristo tengo la salvación de mi alma,<br/>Cristo es la senda que me puede salvar./<br/> <br/>Las amistades y todos mis parientes<br/>fueron las gentes que yo relacioné.<br/>/Me aborrecieron por causa de su nombre<br/>cuando supieron que a Cristo me entregué./<br/> <br/>Aquel camino de tantos sufrimientos,<br/>aquel camino que el cielo me trazó,<br/>/fue transformado en aquel feliz momento, <br/>cuando mi Cristo al cielo me llamó./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>134 Jesús es la roca de mi salvación</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="134"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Jesús es la roca de mi salvación;<br/>él es quien me libra de condenación.<br/>Jesús es mi fuerte, mi gran protector;<br/>/yo quiero ser hijo de todo su amor./<br/> <br/>Jesús me defiende de negra traición;<br/>él lava las manchas de mi corazón.<br/>Jesús me rescata del mundo falaz;<br/>/me lleva a su seno, su seno de paz./<br/> <br/>Por eso en mis horas de negro dolor,<br/>yo busco el consuelo de mi Redentor.<br/>Venid, si por Cristo ser salvos queréis,<br/>/al lado de Cristo lugar hallaréis./	<br/> <br/>Su paz os ofrece, su paz él os da;<br/>aquel que lo busca ser salvo podrá.<br/>Yo fui mucho tiempo esclavo del mal,<br/>/mas hoy Jesucristo me dio libertad./<br/> <br/>Jesús es la fuente de la redención;<br/>él sana las llagas de mi corazón.<br/>Él sana al leproso, al ciego da luz,<br/>/por eso confío tan solo en Jesús./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

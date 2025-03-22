@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>255 Cordero de Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="255"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Cordero de Dios, Cordero de Dios,<br/>que quitas el pecado del mundo,<br/>ten piedad de nosotros,<br/>ten piedad de nosotros.<br/> <br/>Cordero de Dios, Cordero de Dios,<br/>que quitas el pecado del mundo,<br/>ten piedad de nosotros,<br/>ten piedad de nosotros.<br/> <br/>Cordero de Dios, Cordero de Dios,<br/>que quitas el pecado del mundo,<br/>danos la paz,<br/>danos la paz.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

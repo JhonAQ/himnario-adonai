@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>135 Me guía Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="135"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Me guía Cristo con su amor,<br/>me guía siempre mi Señor;<br/>él me dirige a serle fiel<br/>¡Con cuánto amor me guía él!<br/> <br/>Me guía él, me guía él;<br/>con cuánto amor me guía él.<br/>No abrigo dudas, ni temor,<br/>pues me conduce el buen Pastor.<br/> <br/>En las tristezas y el dolor<br/>me da consuelo, mi Señor.<br/>En dulce paz o en lucha cruel<br/>con gran bondad me guía él.<br/> <br/>Tu mano quiero yo tomar,<br/>Señor Jesús, y no dudar.<br/>Pues solo quien te sigue fiel,<br/>podrá decir: “Me guía él”.<br/> <br/>Y mi carrera al terminar<br/>y ya mis ojos a cerrar,<br/>no habrá en mi corazón temor,<br/>pues me guiará mi buen Pastor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

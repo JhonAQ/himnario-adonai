@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>103 Oh Jesús divino</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="103"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/¡Oh, Jesús divino!, Salvador tú eres./<br/>/Yo soy tan indigno, tú de Dios el Santo./<br/> <br/>/Hasta el Calvario, ¡oh, Jesús!, tú fuiste./<br/>/Al hogar del Padre donde me llamaste./<br/> <br/>/Todas mis maldades las limpió tu sangre./<br/>/En tu amor cambiaste mi ser tan indigno./<br/> <br/>/Yo vagaba ciego, tú me alumbraste./<br/>/Yo estando muerto, tú me diste vida./<br/> <br/>/Salvador tú eres, solo a ti yo sigo./<br/>/Eres poderoso para levantarme./<br/> <br/>/En tu amor fielmente quiero yo servirte./<br/>/De Dios en la gloria te veré muy pronto./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

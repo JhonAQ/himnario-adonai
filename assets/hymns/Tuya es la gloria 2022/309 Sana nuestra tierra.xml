@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>309 Sana nuestra tierra</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="309"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Vengo a ti, guíame,<br/>santifícame en ti.<br/>Quiero andar en tu verdad.<br/>Tómame, abrázame,<br/>mi corazón hoy vuelve a ti,<br/>solo a ti.<br/> <br/>Quiero humillarme, buscar tu rostro.<br/>Hoy me arrepiento delante de ti.<br/>Vengo a invocarte, inclina tu oído.<br/>Escucha y perdona mi rebelión.<br/> <br/>//Sana nuestra tierra//<br/>con tu amor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

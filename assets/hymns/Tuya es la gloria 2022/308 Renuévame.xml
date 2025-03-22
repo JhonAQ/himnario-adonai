@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>308 Renuévame</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="308"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Renuévame, Señor Jesús,<br/>ya no quiero ser igual.<br/>Renuévame, Señor Jesús, <br/>pon en mí tu corazón./<br/> <br/>Porque todo lo que hay dentro de mí<br/>necesita ser cambiado, Señor.<br/>Porque todo lo que hay dentro de mi corazón<br/>necesita más de ti. <br/></lines>
+			</verse>
+	</lyrics>
+</song>

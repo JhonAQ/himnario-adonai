@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>378 Padre Nuestro</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="378"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Padre nuestro que estás en los cielos, <br/>santificado sea tu nombre. <br/>Venga tu reino. <br/>Hágase tu voluntad, como en el cielo,<br/>así también en la tierra. <br/> <br/>El pan nuestro de cada día, dánoSalo hoy. <br/>Y perdónanos nuestras deudas, <br/>así como nosotros perdonamos a nuestros deudores. <br/>Y no nos dejes caer en la tentación, <br/>mas líbranos del mal; <br/> <br/>porque tuyo es el reino, y el poder, y la gloria, <br/>por los siglos de los siglos. <br/>Amén.									<br/>Mt 6:9-13<br/></lines>
+			</verse>
+	</lyrics>
+</song>

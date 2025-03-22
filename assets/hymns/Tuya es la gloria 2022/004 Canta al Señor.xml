@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>004 Canta al Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="4"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Mi Cristo, mi Rey, nadie es como tú<br/>toda mi vida, quiero exaltar<br/>las maravillas de tu amor.<br/>Consuelo, refugio, torre de fuerza y poder.<br/>todo mi ser, lo que yo soy<br/>nunca cese de adorar.<br/> <br/>Canta al Señor toda la creación,<br/>honra y poder majestad sea al Rey.<br/>Montes caerán, y el mar rugirá<br/>al sonar de su nombre.<br/>Canto con gozo al mirar tu poder,<br/>por siempre yo te amaré y diré:<br/>Incomparables promesas me das, Señor.<br/> <br/>Sal 98:7-8</lines>
+			</verse>
+	</lyrics>
+</song>

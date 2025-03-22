@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>069 Al Cristo vivo sirvo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="69"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Al Cristo vivo sirvo, y él en el mundo está;<br/>aunque otros lo negaren yo sé que él vive ya.<br/>Su mano tierna veo, su voz consuelo da,<br/>y cuando yo lo llamo, muy cerca está.<br/> <br/>Él vive, él vive, hoy vive el Salvador;<br/>conmigo está y me guardará mi amante Redentor.<br/>Él vive, él vive, me imparte salvación;<br/>sé que él viviendo está porque vive en mi corazón.<br/> <br/>En todo el mundo entero contemplo yo su amor,<br/>y al sentirme triste consuélame el Señor;<br/>seguro estoy que Cristo mi vida guiando está,<br/>y que otra vez al mundo regresará.		 <br/>	 <br/>Regocijad, cristianos, hoy himnos entonad;<br/>eternas aleluyas a Cristo el rey cantad.<br/>Ayuda y esperanza es del mundo pecador,<br/>no hay otro tan amante como el Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

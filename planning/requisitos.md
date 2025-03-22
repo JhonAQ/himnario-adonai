@@ -11,3 +11,4 @@
 - Se pueden registrar himnos (foto whatsapp)
 - Se da una pantalla de inicio con salutacion inicial y personaliza tu himnario
 - Se pueden compartir los himnos rapidamente como imagenes para enviarlas por whatsapp
+- Agregar un visor de carga en el splash para saber si es estan subiendo fuentes, recursos himnos, o por que demora tanto

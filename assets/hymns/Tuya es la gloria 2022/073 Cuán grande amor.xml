@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>073 Cuán grande amor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="73"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Rindiendo tu gloria viniste por mí,<br/>el cielo dejaste atrás.<br/>Aun siendo rey<br/>elegiste morir por mi paz.<br/> <br/>Tomaste la forma de un hombre, y así<br/>el mundo viniste a salvar.<br/>Golpeado, humillado,<br/>dolor soportaste hasta el fin.<br/> <br/>Diste tu vida por mí.<br/> <br/>¡Oh, cuán grande amor!,<br/>entregaste tú por mí.<br/>Por tu gracia hoy libre soy.<br/>Fuiste a la cruz<br/>sin importar quién soy.<br/>Con tu amor me envuelves hoy.<br/> <br/>Colgado en la cruz entregaste perdón,<br/>la gracia que no merecí.<br/>Mirando hacia el cielo<br/>gritaste: “¡Consumado es!” <br/> <br/>Diste tu vida por mí,<br/>diste tu vida por mí.<br/> <br/>	¡Oh, cuán grande amor!…<br/></lines>
+			</verse>
+	</lyrics>
+</song>

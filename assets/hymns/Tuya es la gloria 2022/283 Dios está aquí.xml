@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>283 Dios está aquí</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="283"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Dios está aquí, ¡aleluya!, <br/>tan cierto como el aire que respiro,<br/>tan cierto como la mañana se levanta,<br/>tan cierto como que le hablo, y me puede oír.<br/> <br/>Jesús estás aquí, ¡aleluya!,<br/>tan cierto como el aire que respiro,<br/>tan cierto como la mañana se levanta,<br/>tan cierto como que te hablo, y me puedes oír.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

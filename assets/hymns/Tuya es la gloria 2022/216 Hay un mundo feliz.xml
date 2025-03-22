@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>216 Hay un mundo feliz</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="216"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Hay un mundo feliz más allá,<br/>donde moran los santos en luz,<br/>tributando eterno loor,<br/>al invicto y glorioso Jesús.<br/> <br/>	En el mundo feliz<br/>	reinaremos con nuestro Señor;<br/>	en el mundo feliz<br/>	reinaremos con nuestro Señor.<br/> <br/>Cantaremos con gozo a Jesús,<br/>al Cordero que nos rescató;<br/>con su sangre vertida en la cruz<br/>los pecados del mundo quitó.<br/> <br/>Para siempre en el mundo feliz<br/>con los santos daremos loor,<br/>al triunfante y glorioso Jesús,<br/>a Jesús, nuestro Rey y Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

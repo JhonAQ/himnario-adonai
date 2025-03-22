@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>270 Un feliz cumpleaños Cristo te dará</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="270"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Un feliz cumpleaños Cristo te dará.<br/>Todos te deseamos la felicidad,<br/>y rogamos todos por un día feliz.<br/>Que Dios te bendiga ahora y siempre.<br/>Amén.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

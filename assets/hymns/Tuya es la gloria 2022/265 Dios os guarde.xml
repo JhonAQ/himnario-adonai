@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>265 Dios os guarde</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="265"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Dios os guarde siempre en santo amor,<br/>hasta el día en que lleguemos,<br/>a la patria do estaremos<br/>para siempre con el Salvador.<br/> <br/>	Al venir Jesús nos veremos<br/>	a los pies de nuestro Salvador;<br/>	reunidos todos seremos,<br/>	un redil con nuestro buen Pastor.<br/> <br/>Dios os guarde siempre en santo amor<br/>en la senda peligrosa;<br/>de esta vida tormentosa<br/>os conserve en paz y sin temor.<br/> <br/>Dios os guarde siempre en santo amor,<br/>os conduzca su bandera<br/>y os refuerce en gran manera<br/>con su Espíritu Consolador.<br/> <br/>Dios os guarde siempre en santo amor,<br/>con su gracia os sostenga, <br/>hasta que el Maestro venga<br/>a fundar su reino en esplendor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

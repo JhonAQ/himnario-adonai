@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>075 El Señor resucitó</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="75"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>El Señor resucitó, ¡Aleluya!<br/>Muerte y tumba ya venció; ¡Aleluya!<br/>Su poder y su virtud ¡Aleluya!<br/>Cautivó la esclavitud ¡Aleluya!.<br/> <br/>Él que al polvo se humilló, ¡Aleluya!<br/>Vencedor se levantó; ¡Aleluya!<br/>Y cantamos en verdad ¡Aleluya!<br/>Su gloriosa majestad. ¡Aleluya!.<br/> <br/>Él que a muerte se entregó, ¡Aleluya!<br/>Él que así nos redimió; ¡Aleluya!<br/>Hoy en gloria celestial ¡Aleluya!<br/>Reina en vida triunfal. ¡Aleluya!.<br/> <br/>Cristo nuestro Salvador, ¡Aleluya!<br/>De la muerte vencedor, ¡Aleluya!<br/>Pronto vamos sin cesar. ¡Aleluya!<br/>Tus loores a cantar. ¡Aleluya!.</lines>
+			</verse>
+	</lyrics>
+</song>

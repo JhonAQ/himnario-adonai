@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>356 Mira qué lindo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="356"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>///Mira qué lindo,<br/>qué lindo es el Señor.///<br/> <br/>/Nada igual a su belleza,<br/>nada igual a su poder,<br/>y todo lo que hace,<br/>lo hace por amor./<br/></lines>
+			</verse>
+	</lyrics>
+</song>

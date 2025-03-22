@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>376 El Credo Niceno</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="376"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Creo en un solo Dios, Padre todopoderoso, Creador del cielo y de la tierra y de todo lo visible e invisible.<br/> <br/>Y creo en un solo Señor Jesucristo, Hijo unigénito de Dios, engendrado del Padre antes de todos los siglos, Dios de Dios, luz de luz, verdadero Dios de verdadero Dios, engendrado y no hecho, consustancial al Padre, y por quien todas las cosas fueron hechas; <br/>el cual, por amor de nosotros y por nuestra salvación, descendió del cielo y, encarnado en la Virgen María por el Espíritu Santo, fue hecho hombre; <br/>y fue crucificado también por nosotros bajo el poder de Poncio Pilato. <br/>Padeció y fue sepultado, y resucitó al tercer día según las Escrituras; y ascendió a los cielos, y está sentado a la diestra del Padre y vendrá otra vez en gloria a juzgar a los vivos y a los muertos, y su reino no tendrá fin.<br/> <br/>Y creo en el Espíritu Santo, Señor y Dador de vida, que procede del Padre y del Hijo, que con el Padre y el Hijo juntamente es adorado y glorificado, que habló por medio de los profetas. <br/>Y creo en una santa iglesia cristiana y apostólica. Confieso que hay un solo bautismo para la remisión de los pecados; y espero la resurrección de los muertos y la vida del mundo venidero. <br/>Amén.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

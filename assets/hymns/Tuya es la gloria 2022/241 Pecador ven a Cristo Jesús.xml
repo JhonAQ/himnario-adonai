@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>241 Pecador ven a Cristo Jesús</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="241"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Pecador, ven a Cristo Jesús, <br/>y feliz para siempre serás.<br/>Que, si tú lo quisieras tener,<br/>al divino Señor hallarás.<br/> <br/>	Ven a él, ven a él,<br/>	que te espera tu buen Salvador;<br/>	ven a él, ven a él,<br/>	que te espera tu buen Salvador.<br/> <br/>Si cual hijo que necio pecó,<br/>vas buscando a sus pies compasión,<br/>tierno Padre en Jesús hallarás,<br/>y tendrás en sus brazos perdón.<br/> <br/>Si enfermo te sientes morir, <br/>él será tu doctor celestial;<br/>y hallarás en su sangre también<br/>medicina que cure tu mal.<br/> <br/>Ovejuela que huyó del redil,<br/>¡he aquí tu benigno Señor!<br/>Y en los hombros llevada serás<br/>de tan dulce y amante Pastor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

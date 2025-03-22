@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>068 Alabaré al Señor mi Dios</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="68"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Recordaré aquella cruz,<br/>donde sangró y murió Jesús.<br/>Heridas que por mí sufrió,<br/>crucificado Salvador.<br/> <br/>Su cuerpo envuelto en dolor,<br/>en el sepulcro reposó.<br/>En soledad él se quedó,<br/>Jesús, Mesías, el Señor.<br/> <br/>	Alabaré al Señor, mi Dios,<br/>	tu nombre yo proclamaré.<br/>	Eternamente te cantaré,<br/>	Señor, Señor, mi Dios.<br/> <br/>Pero al tercer amanecer;<br/>un gran estruendo se escuchó.<br/>¿Dónde está, muerte, tu aguijón?<br/>Cristo Jesús resucitó.<br/> <br/>Muy pronto él regresará;<br/>su rostro resplandecerá.<br/>En su presencia estaré,<br/>y cara a cara lo veré.<br/> <br/>1 Co 15:55<br/></lines>
+			</verse>
+	</lyrics>
+</song>

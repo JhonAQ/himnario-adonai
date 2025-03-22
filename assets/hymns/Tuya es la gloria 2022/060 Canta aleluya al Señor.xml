@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>060 Canta aleluya al Señor</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="60"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Canta aleluya al Señor,<br/>canta aleluya al Señor,<br/>canta aleluya, canta aleluya,<br/>canta aleluya al Señor.<br/> <br/>Cristo Jesús murió por ti,<br/>Cristo Jesús murió por ti,<br/>Cristo Jesús, Cristo Jesús,<br/>Cristo Jesús murió por ti.<br/> <br/>Él viene pronto a reinar,<br/>él viene pronto a reinar,<br/>él viene pronto, él viene pronto,<br/>él viene pronto a reinar.<br/> <br/>Quiero seguirle hasta el fin,<br/>quiero seguirle hasta el fin,<br/>quiero seguirle, quiero seguirle,<br/>quiero seguirle hasta el fin.</lines>
+			</verse>
+	</lyrics>
+</song>

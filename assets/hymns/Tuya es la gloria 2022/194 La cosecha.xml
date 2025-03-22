@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>194 La cosecha</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="194"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Alza tus ojos y mira, la cosecha está lista,<br/>el tiempo ha llegado, la mies está madura.<br/>Esfuérzate y sé valiente, levántate y predica <br/>a todas las naciones, que Cristo es la vida.<br/> <br/>	/Y será llena la tierra de su gloria,<br/>	se cubrirá como las aguas cubren la mar./<br/> <br/>No, no hay otro nombre dado a los hombres,<br/>Jesucristo es el Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>250 Este niño a bautizar</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="250"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Este niño a bautizar<br/>te traemos obedientes.<br/>Cristo, él viene aquí a tomar<br/>de tu gracia los presentes.<br/>Tú le ordenas que a ti venga,<br/>y tu reino así obtenga.<br/> <br/>Este niño pecador<br/>tu piedad viene implorando:<br/>muéstrenos tu grande amor,<br/>tu cordero a ti llamando.<br/>Hazlo tu hijo en ese suelo,<br/>para en paz llevarlo al cielo.<br/> <br/>Por tu sangre, ¡oh, buen Jesús!,<br/>quita su maldad innata;<br/>por tu muerte en una cruz<br/>su alma del morir rescata.<br/>Vístelo por tu obediencia<br/>con la ropa de inocencia.<br/> <br/>En tus brazos, buen Jesús,<br/>entregamos a este niño.<br/>Dale vida, fuerzas, luz,<br/>guíalo con fiel cariño;<br/>y a su nombre da cabida<br/>en tu libro de la vida.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

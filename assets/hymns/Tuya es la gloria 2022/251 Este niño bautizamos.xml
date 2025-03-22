@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>251 Este niño bautizamos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="251"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Este niño bautizamos <br/>en tu nombre, buen Señor;<br/>te pedimos que lo laves<br/>en la fuente de tu amor;<br/>que lo acojas como tuyo<br/>y le des tu protección,<br/>y lo cuentes desde ahora <br/>en la grey del buen pastor.<br/> <br/>Que salvado por la sangre <br/>de Jesús el Salvador<br/>siga siempre sus pisadas<br/>con fe viva y con amor;<br/>que tu espíritu divino<br/>le dirija y dé sostén <br/>en la lucha por la vida,<br/>y lo guíe hasta el Edén.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>192 He decidido seguir a Cristo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="192"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>He decidido seguir a Cristo.<br/>He decidido seguir a Cristo.<br/>He decidido seguir a Cristo.<br/>No vuelvo atrás, no vuelvo atrás.<br/> <br/>//El Rey de gloria me ha transformado.//<br/>No vuelvo atrás, no vuelvo atrás.<br/> <br/>//La vida vieja ya he dejado.//<br/>No vuelvo atrás, no vuelvo atrás.<br/> <br/>//La cruz delante, el mundo atrás.//<br/>No vuelvo atrás, no vuelvo atrás.<br/> <br/>//El diablo habla, no hay que oírlo.//<br/>No vuelvo atrás, no vuelvo atrás.<br/> <br/>//Ya viene Cristo, con él me voy.//<br/>No vuelvo atrás, no vuelvo atrás.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

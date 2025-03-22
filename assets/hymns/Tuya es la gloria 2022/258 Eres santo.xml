@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>258 Eres santo</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="258"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Eres santo, eres Dios<br/>por toda la eternidad,<br/>siempre tú muy cerca estás<br/>de tu pueblo, buen Señor.<br/> <br/>Te alabamos hoy aquí, <br/>te adoramos con fervor.<br/>A tu iglesia en vino y pan<br/>nueva vida así le das.<br/> <br/>Eres santo, eres Dios,<br/>te sentimos, <br/>la creación te da loor.<br/>Aleluya, aleluya, <br/>aleluya, aleluya, Señor.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>252 Nuestros hijos</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="252"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>Nuestros hijos, recibidos<br/>de tu mano, buen Señor,<br/>te los damos que los laves<br/>en la fuente de tu amor.<br/>Que los tomes como tuyos,<br/>dándoles la remisión<br/>y lugar les proporciones<br/>en la esplendorosa Sión.<br/> <br/>Que adoptados herederos<br/>de tu reino, buen Señor,<br/>puedan siempre encaminarse<br/>por senderos del amor.<br/>Que les sea el Paracleto<br/>fuerte auxilio, fiel sostén<br/>en la lucha de la vida,<br/>guiándolos hasta el Edén.<br/></lines>
+			</verse>
+	</lyrics>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>348 Hosanna</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="348"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Hosanna, hosanna, <br/>hosanna en las alturas./<br/> <br/>Levantamos tu nombre, <br/>llenos de gratitud<br/>te adoramos, Señor nuestro Dios.<br/>Hosanna en las alturas.<br/> <br/>Mt 21:9; Mc 11:9-10; Lc 19:38; Jn 12:13<br/></lines>
+			</verse>
+	</lyrics>
+</song>

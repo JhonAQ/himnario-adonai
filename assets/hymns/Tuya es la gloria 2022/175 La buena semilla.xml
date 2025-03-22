@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>175 La buena semilla</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="175"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>/Cuando estaba yo lejos del Señor,/<br/>/cayó la buena semilla a mi corazón./<br/> <br/>/Esa semilla fue la palabra de Dios,/<br/>/que cambió mi vida para la gloria de Dios.<br/> <br/>/Bendito Jehová, bendito Jesús,/<br/>/la honra y la gloria sea para ti./<br/> <br/>Mt 13:8; Mt 13:24; Mt 13:38; Lc 8:11<br/></lines>
+			</verse>
+	</lyrics>
+</song>

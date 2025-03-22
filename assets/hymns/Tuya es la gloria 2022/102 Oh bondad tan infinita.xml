@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+	<properties>
+			<titles>
+				<title>102 Oh bondad tan infinita</title>
+			</titles>
+			<authors>
+				<author>Tuya es la Gloria</author>
+			</authors>					
+			<publisher>Editorial Siembra</publisher>
+			<songbooks>
+				<songbook name="Tuya es la Gloria" entry="102"/>
+			</songbooks>					
+			</properties>
+			<lyrics>
+		<verse>
+				<lines>¡Oh, bondad tan infinita!,<br/>hacia el mundo pecador<br/>Dios, en Cristo revelando,<br/>su eternal y santo amor.<br/> <br/>	Es Jesús para mí, <br/>la esperanza de salud,<br/>	solo en él hallaré <br/>la divina plenitud.	<br/> <br/>Como el vasto firmamento, <br/>como el insondable mar,<br/>es la gracia salvadora, <br/>que Jesús al alma da.<br/> <br/>Aunque fueran tus pecados <br/>rojos como el carmesí;<br/>en el río del Calvario<br/>hay limpieza para ti.<br/></lines>
+			</verse>
+	</lyrics>
+</song>
