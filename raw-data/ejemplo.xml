@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Canto a Ti</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <copyright>Dominio Público o con permiso</copyright>
+    <released>Desconocido</released>
+    <key>C</key>
+    <tempo type="text">Moderado</tempo>
+    <verseOrder>v1 v2</verseOrder>
+    <themes>
+      <theme>Adoración</theme>
+      <theme>Alabanza</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <chord root="C"/>Canto a Ti, a Ti Je<chord root="G"/>sús,<br/>
+        <chord root="Am"/>con todo mi corazón te ado<chord root="Em"/>raré<br/>
+        <chord root="F"/>quiero exaltar tu nom<chord root="G"/>bre,<br/>
+        <chord root="C"/>proclamar tu santi<chord root="Am"/>dad<br/>
+        <chord root="F"/>que eres digno de que to<chord root="G"/>dos te ado<chord root="C"/>ren.
+      </lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+        <chord root="F"/>Canto a Ti porque Tú <chord root="G"/>eres<br/>
+        <chord root="C"/>el príncipe de paz<br/>
+        <chord root="G"/>es a Ti a quien adoro<br/>
+        <chord root="C"/>por tu gran majestad<br/>
+        <chord root="F"/>adoro a Ti con todo mi <chord root="G"/>alma<br/>
+        <chord root="C"/>con mi voz decla<chord root="Am"/>raré<br/>
+        <chord root="F"/>que el Señor de todo <chord root="G"/>eres <chord root="C"/>Tú.
+      </lines>
+    </verse>
+  </lyrics>
+</song>
