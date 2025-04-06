@@ -6,7 +6,9 @@
     "start": "expo start -c",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "view-hymn": "node ./scripts/view-hymn.js",
+    "vh": "node ./scripts/view-hymn.js"
   },
   "dependencies": {
     "@expo/metro-runtime": "~4.0.1",
@@ -21,6 +23,7 @@
     "expo-status-bar": "~2.0.1",
     "lucide-react-native": "^0.483.0",
     "nativewind": "^4.1.23",
+    "openlyrics-parser": "^1.1.6",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-native": "0.76.7",
