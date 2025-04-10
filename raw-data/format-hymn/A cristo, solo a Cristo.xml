@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>A Cristo, sólo a Cristo</title>
+    </titles>
+    <authors>
+      <author></author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria" entry="001"/>
+    </songbooks>
+    <key>G</key>
+    <publisher>Editorial Siembra</publisher>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        A Cristo, sólo a Cristo,<br/>
+        yo exaltaré.<br/>
+        A Cristo, sólo a Cristo,<br/>
+        yo adoraré.
+      </lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+        /Porque Él me ha dado vida<br/>
+        eterna, porque Él me ha dado<br/>
+        el poder, porque Él me ha<br/>
+        dado la victoria; Él es mi Rey.<br/>
+        A Cristo he proclamado Rey./
+      </lines>
+    </verse>
+  </lyrics>
+</song>
