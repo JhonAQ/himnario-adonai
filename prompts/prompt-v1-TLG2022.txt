@@ -30,32 +30,15 @@ Ejemplo de XML de himno correctamente estructurado:
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>
-        Jehová es mi pastor,<br/>
-        nada me faltará.<br/>
-        En lugares delicados<br/>
-        él me pastoreará.<br/><br/>
-      </lines>
+      <lines>Jehová es mi pastor,<br/>nada me faltará.<br/>En lugares delicados<br/>él me pastoreará.<br/></lines>
     </verse>
     <verse name="c">
-      <lines>
-        Aleluya (aleluya),<br/>
-        aleluya (aleluya).<br/>
-        Aleluya (aleluya),<br/>
-        aleluya.<br/>
-      </lines>
+      <lines>Aleluya (aleluya),<br/>aleluya (aleluya).<br/>Aleluya (aleluya),<br/>aleluya.<br/></lines>
     </verse>
     <verse name="v2">
-      <lines>
-        Caminando yo voy<br/>
-        por la senda de Dios;<br/>
-        él me da su amor<br/>
-        y también su perdón.<br/><br/>
-      </lines>
+      <lines>Caminando yo voy<br/>por la senda de Dios;<br/>él me da su amor<br/>y también su perdón.<br/></lines>
     </verse>
-    <comment>
-      Salmos 23
-    </comment>
+    <comment>Salmos 23</comment>
   </lyrics>
 </song>
 -----------------------------------------------------
@@ -69,7 +52,7 @@ Tus instrucciones son las siguientes:
 
 2. Propiedades:
    - En <titles>, elimina cualquier número o carácter adicional para dejar únicamente el título limpio (por ejemplo, transforma "081 Mi vida di por ti" en "Mi vida di por ti").
-   - En <authors>, si no se dispone de un autor correcto, coloca el valor "Desconocido".
+   - En <authors>, puedes buscar el autor/es del himno en internet, y de no haber un autor correcto, coloca el valor "Desconocido".
    - En <songbooks>, reemplaza el atributo name por "Tuya es la gloria 2022". Ajusta el atributo entry al número correcto sin dígitos innecesarios a la izquierda.
    - En <publisher>, conserva el valor "Editorial Siembra".
    - Agrega el elemento <key> solo si el himno original lo especifica (por ejemplo, "G"); si no aparece en el XML original, no se debe incluir en la salida.
@@ -79,7 +62,6 @@ Tus instrucciones son las siguientes:
        • Vida de Cristo
        • Iglesia y Comunidad
        • Arrepentimiento y Confesión
-       • Gratitud y Testimonio
        • Esperanza y Segunda Venida
        • Bautismo y Santa Cena
        • Oración y Devoción Personal
@@ -92,13 +74,15 @@ Tus instrucciones son las siguientes:
    - Agrega la sección <keywords> que contenga 5 palabras clave basadas en la letra del himno para agilizar las búsquedas. Cada palabra debe estar dentro de una etiqueta <keyword>.
 
 3. Letras:
-   - Separa la letra en segmentos lógicos utilizando únicamente la letra proporcionada en el XML (no busques la letra en otros sitios). Presta especial atención a la estructura de la canción.
+   - Separa la letra en segmentos lógicos utilizando únicamente la letra proporcionada en el XML (no busques la letra en otros sitios). Presta especial atención a la estructura de la canción que puedes encontrar en internet, pero solo usalo para saber la estructura.
    - Utiliza los siguientes tags:
        • <verse name="vX"> para cada verso.
        • <verse name="c"> para cada coro.
    - Asegúrate de que las líneas estén delimitadas correctamente usando <br/> y respeta las separaciones de párrafos (doble <br/>) que sean necesarias.
    - Versículos Bíblicos o Referencias: Si al final del himno se incluyen versículos o referencias de la Biblia (por ejemplo, "Isaías 7:14; Isaías 11:1-5..." o "Salmos 23"), extráelos del contenido principal y colócalos en una etiqueta <comment> al final del bloque <lyrics>.
    - Si el himno no tiene versículos bíblicos, no incluyas la etiqueta <comment> en la salida.
+   - Asegurate de no agregar espacios innecesarios entre las etiquetas o dentro de los versos. El formato debe ser limpio y estructurado.
+   - No incluyas etiquetas vacías o innecesarias. Por ejemplo, si no hay un coro, no incluyas la etiqueta <verse name="c">, ni repeticion de <br/>.
 
 4. Salida:
    - Devuélveme el XML completo, corregido, limpio y bien estructurado, siguiendo el formato de referencia y aplicando todas las correcciones indicadas.
