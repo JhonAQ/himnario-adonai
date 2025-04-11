@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>348 Hosanna</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="348"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Hosanna, hosanna, <br/>hosanna en las alturas./<br/> <br/>Levantamos tu nombre, <br/>llenos de gratitud<br/>te adoramos, Señor nuestro Dios.<br/>Hosanna en las alturas.<br/> <br/>Mt 21:9; Mc 11:9-10; Lc 19:38; Jn 12:13<br/></lines>
-			</verse>
+		<titles>
+			<title>Hosanna</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="348"/>
+		</songbooks>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Vida de Cristo</theme>
+		</themes>
+		<keywords>
+			<keyword>Hosanna</keyword>
+			<keyword>Adoración</keyword>
+			<keyword>Gratitud</keyword>
+			<keyword>Alturas</keyword>
+			<keyword>Alabanza</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>/Hosanna, hosanna, <br/>hosanna en las alturas./<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Levantamos tu nombre, <br/>llenos de gratitud<br/>te adoramos, Señor nuestro Dios.<br/>Hosanna en las alturas.<br/></lines>
+		</verse>
+		<comment>Mt 21:9; Mc 11:9-10; Lc 19:38; Jn 12:13</comment>
 	</lyrics>
 </song>

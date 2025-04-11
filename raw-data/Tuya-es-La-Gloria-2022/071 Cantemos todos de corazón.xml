@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>071 Cantemos todos de corazón</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="71"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cantemos todos de corazón<br/>por Jesucristo y su pasión.<br/>Quien por la culpa nuestra sufrió<br/>muerte cruenta allí en la cruz.<br/> <br/>	Alabaremos al Salvador,<br/>	quien por nosotros quiso sufrir;<br/>	démosle gracias por el perdón, <br/>	que proveyó por el pecador.<br/> <br/>El sol brillante se obscureció<br/>la tierra entera se estremeció.<br/>Empero Cristo resucitó,<br/>y para siempre él vivirá.<br/> <br/>Hoy en el cielo reina Jesús.<br/>Pero un día regresará,<br/>para llevarnos con él a estar<br/>donde paz, gozo siempre habrá.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cantemos todos de corazón</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="71"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Salvador</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Resurrección</keyword>
+      <keyword>Esperanza</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cantemos todos de corazón<br/>por Jesucristo y su pasión.<br/>Quien por la culpa nuestra sufrió<br/>muerte cruenta allí en la cruz.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Alabaremos al Salvador,<br/>quien por nosotros quiso sufrir;<br/>démosle gracias por el perdón,<br/>que proveyó por el pecador.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>El sol brillante se obscureció,<br/>la tierra entera se estremeció.<br/>Empero Cristo resucitó,<br/>y para siempre él vivirá.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hoy en el cielo reina Jesús.<br/>Pero un día regresará,<br/>para llevarnos con él a estar<br/>donde paz, gozo siempre habrá.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

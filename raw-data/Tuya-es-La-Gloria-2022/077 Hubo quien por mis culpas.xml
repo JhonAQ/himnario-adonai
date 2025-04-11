@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>077 Hubo quien por mis culpas</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="77"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Hubo quien por mis culpas muriera en la cruz,<br/>aún indigno y vil como soy;<br/>soy feliz, pues su sangre vertió mi Jesús,<br/>y con ella mis culpas borró.<br/> <br/>	Mis pecados llevó<br/>	en la cruz, do murió,<br/>	el sublime, el tierno Jesús.<br/>	Los desprecios sufrió,<br/>	y mi alma salvó,<br/>	Él cambió mis tinieblas en luz.<br/> <br/>Él es tierno y amante cual nadie lo fue,<br/>pues convierte al infiel corazón;<br/>y por esa paciencia y ternura, yo sé,<br/>que soy libre de condenación.<br/> <br/>Es mi anhelo constante a Cristo seguir,<br/>mi camino su ejemplo marcó;<br/>y por darme la vida<br/>Él quiso morir,<br/>en su cruz mi pecado clavó.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Hubo quien por mis culpas</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="77"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Cruz</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Luz</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hubo quien por mis culpas muriera en la cruz,<br/>aún indigno y vil como soy;<br/>soy feliz, pues su sangre vertió mi Jesús,<br/>y con ella mis culpas borró.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Mis pecados llevó<br/>en la cruz, do murió,<br/>el sublime, el tierno Jesús.<br/>Los desprecios sufrió,<br/>y mi alma salvó,<br/>Él cambió mis tinieblas en luz.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Él es tierno y amante cual nadie lo fue,<br/>pues convierte al infiel corazón;<br/>y por esa paciencia y ternura, yo sé,<br/>que soy libre de condenación.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es mi anhelo constante a Cristo seguir,<br/>mi camino su ejemplo marcó;<br/>y por darme la vida<br/>Él quiso morir,<br/>en su cruz mi pecado clavó.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

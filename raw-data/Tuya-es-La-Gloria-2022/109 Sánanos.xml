@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>109 Sánanos</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="109"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Somos tu pueblo, y hoy venimos humillados ante ti,<br/>somos tu pueblo, necesitados de ti. <br/>Hemos pecado, hemos dejado tu camino, tu verdad. Nos humillamos, nuestra tierra sana hoy.<br/> <br/>¡Sánanos! ¡Sánanos!<br/>Es el clamor de este pueblo humillado ante ti.<br/>¡Sálvanos! ¡Sálvanos!<br/>Es la oración de tus hijos postrados ante ti.<br/>Sánanos, sánanos. Sánanos, sánanos. <br/> <br/>Somos tus hijos, reconocemos nuestro orgullo, nuestro error. <br/>Somos tus hijos, te pedimos hoy perdón.<br/> <br/>Invocamos hoy tu nombre y buscamos tu favor.<br/>¡Que tu luz nos alumbre para honrarte a ti, Señor!<br/>¡Sánanos!<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Sánanos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="109"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Sánanos</keyword>
+      <keyword>Oración</keyword>
+      <keyword>Humildad</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Luz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Somos tu pueblo, y hoy venimos humillados ante ti,<br/>somos tu pueblo, necesitados de ti.<br/>Hemos pecado, hemos dejado tu camino, tu verdad.<br/>Nos humillamos, nuestra tierra sana hoy.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Sánanos! ¡Sánanos!<br/>Es el clamor de este pueblo humillado ante ti.<br/>¡Sálvanos! ¡Sálvanos!<br/>Es la oración de tus hijos postrados ante ti.<br/>Sánanos, sánanos. Sánanos, sánanos.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Somos tus hijos, reconocemos nuestro orgullo, nuestro error.<br/>Somos tus hijos, te pedimos hoy perdón.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Invocamos hoy tu nombre y buscamos tu favor.<br/>¡Que tu luz nos alumbre para honrarte a ti, Señor!<br/>¡Sánanos!<br/></lines>
+    </verse>
+  </lyrics>
 </song>

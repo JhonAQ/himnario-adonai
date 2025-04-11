@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>162 Amor amor amor amor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="162"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Amor, amor, amor, amor, <br/>hermanos míos, gozo, ¡oh, sí!<br/>Ama a tu prójimo como a un hermano.<br/>Dios es amor, Dios es amor.<br/> <br/>Perdón, perdón, perdón, perdón, <br/>hermanos míos, gozo, ¡oh, sí!<br/>Perdona a tu prójimo como a un hermano.<br/>Dios es amor, Dios es amor.<br/> <br/>Señor, Señor, Señor, Señor, <br/>nos amas siempre, gozo, ¡oh, sí!<br/>Tú eres el camino, la verdad y la vida.<br/>Tú eres el amor, verdadero amor,<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Amor amor amor amor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="162"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Amor y Perdón</theme>
+    </themes>
+    <keywords>
+      <keyword>Amor</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Prójimo</keyword>
+      <keyword>Hermandad</keyword>
+      <keyword>Señor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Amor, amor, amor, amor,<br/>hermanos míos, gozo, ¡oh, sí!<br/>Ama a tu prójimo como a un hermano.<br/>Dios es amor, Dios es amor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Perdón, perdón, perdón, perdón,<br/>hermanos míos, gozo, ¡oh, sí!<br/>Perdona a tu prójimo como a un hermano.<br/>Dios es amor, Dios es amor.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Señor, Señor, Señor, Señor,<br/>nos amas siempre, gozo, ¡oh, sí!<br/>Tú eres el camino, la verdad y la vida.<br/>Tú eres el amor, verdadero amor.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>116 Castillo fuerte es nuestro Dios</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="116"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Castillo fuerte es nuestro Dios, defensa y buen escudo;<br/>con su poder nos librará en este trance agudo.<br/>Con furia y con afán acósanos, Satán;<br/>por armas deja ver astucia y gran poder;<br/>cual él no hay en la tierra.<br/> <br/>Nuestro valor es nada aquí, con él todo es perdido;<br/>más por nosotros pugnará de Dios el Escogido.<br/>¿Sabéis quién es? Jesús, el que venció en la cruz,<br/>Señor de Sabaoth, y pues él solo es Dios,<br/>Él triunfa en la batalla.<br/> <br/>Aun si están demonios mil prontos a devorarnos,<br/>no temeremos, porque Dios sabrá aún prosperarnos.<br/>Que muestre su vigor Satán y su furor,<br/>dañarnos no podrá; pues condenado es ya <br/>por la Palabra Santa.<br/> <br/>Sin destruirla dejarán, aún mal de su grado,<br/>esta palabra del Señor, él lucha a nuestro lado.<br/>Que lleven con furor los bienes, vida, honor,<br/>los hijos, la mujer todo ha de perecer.<br/>De Dios el reino queda.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Castillo fuerte es nuestro Dios</title>
+    </titles>
+    <authors>
+      <author>Martín Lutero</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="116"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Castillo</keyword>
+      <keyword>Dios</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Batalla</keyword>
+      <keyword>Victoria</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Castillo fuerte es nuestro Dios, defensa y buen escudo;<br/>con su poder nos librará en este trance agudo.<br/>Con furia y con afán acósanos, Satán;<br/>por armas deja ver astucia y gran poder;<br/>cual él no hay en la tierra.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nuestro valor es nada aquí, con él todo es perdido;<br/>más por nosotros pugnará de Dios el Escogido.<br/>¿Sabéis quién es? Jesús, el que venció en la cruz,<br/>Señor de Sabaoth, y pues él solo es Dios,<br/>Él triunfa en la batalla.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aun si están demonios mil prontos a devorarnos,<br/>no temeremos, porque Dios sabrá aún prosperarnos.<br/>Que muestre su vigor Satán y su furor,<br/>dañarnos no podrá; pues condenado es ya<br/>por la Palabra Santa.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sin destruirla dejarán, aún mal de su grado,<br/>esta palabra del Señor, él lucha a nuestro lado.<br/>Que lleven con furor los bienes, vida, honor,<br/>los hijos, la mujer todo ha de perecer.<br/>De Dios el reino queda.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>269 Feliz cumpleaños</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="269"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Estamos contentos porque tú<br/>cumpliste un año más.<br/>Que Dios te bendiga toda la vida.<br/>Estamos contentos porque tú<br/>cumpliste un año más.<br/>Que seas muy feliz.<br/> <br/>/Que Dios te bendiga,<br/>que Dios te bendiga,<br/>que Dios te bendiga,<br/>hermano del alma y que seas feliz./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Feliz cumpleaños</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="269"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Cumpleaños</keyword>
+      <keyword>Bendición</keyword>
+      <keyword>Felicidad</keyword>
+      <keyword>Celebración</keyword>
+      <keyword>Vida</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Estamos contentos porque tú<br/>cumpliste un año más.<br/>Que Dios te bendiga toda la vida.<br/>Estamos contentos porque tú<br/>cumpliste un año más.<br/>Que seas muy feliz.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Que Dios te bendiga,<br/>que Dios te bendiga,<br/>que Dios te bendiga,<br/>hermano del alma y que seas feliz./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

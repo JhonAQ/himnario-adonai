@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>266 Dios te bendiga</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="266"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Dios te bendiga y te guarde<br/>y haga brillar su faz sobre ti./<br/> <br/>/Que te llene de su gracia,<br/>que te llene de su paz.<br/>Dios levante su rostro<br/>y haga brillar su faz sobre ti./<br/> <br/>Nm 6:24-26<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dios te bendiga</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="266"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Bendición</keyword>
+      <keyword>Gracia</keyword>
+      <keyword>Paz</keyword>
+      <keyword>Protección</keyword>
+      <keyword>Rostro</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Dios te bendiga y te guarde<br/>y haga brillar su faz sobre ti./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Que te llene de su gracia,<br/>que te llene de su paz.<br/>Dios levante su rostro<br/>y haga brillar su faz sobre ti./<br/></lines>
+    </verse>
+    <comment>Nm 6:24-26</comment>
+  </lyrics>
 </song>

@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>302 Pon aceite en mi lámpara</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="302"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Pon aceite en mi lámpara, Señor;/<br/>que yo pueda servirte con amor.<br/>Pon aceite en mi lámpara, Señor.<br/> <br/>/Hermano mío, Cristo ya viene,<br/>mira tu lámpara si tiene aceite./<br/> <br/>Mt 25:1-13<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Pon aceite en mi lámpara</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="302"/>
+    </songbooks>
+    <themes>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Aceite</keyword>
+      <keyword>Lámpara</keyword>
+      <keyword>Servicio</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Espera</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Pon aceite en mi lámpara, Señor;/<br/>que yo pueda servirte con amor.<br/>Pon aceite en mi lámpara, Señor.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Hermano mío, Cristo ya viene,<br/>mira tu lámpara si tiene aceite./<br/></lines>
+    </verse>
+    <comment>Mt 25:1-13</comment>
+  </lyrics>
 </song>

@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>293 Libertad libertad</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="293"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Libertad, libertad, ¡oh!, qué buena<br/>es aquella que da el Salvador.<br/>Libertad a las almas perdidas,<br/>libertad de la condenación.<br/> <br/>Una vez era yo peregrino,<br/>cautivado en cadenas de error;<br/>mi maldad me tenía cautivo<br/>a una eterna y sin fin perdición.<br/> <br/>Yo no tuve en el mundo alegría,<br/>y agobiado viví en el error.<br/>Las cadenas del vil enemigo<br/>me quitó en su bondad el Señor.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Libertad libertad</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="293"/>
+    </songbooks>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Libertad</keyword>
+      <keyword>Salvador</keyword>
+      <keyword>Cadenas</keyword>
+      <keyword>Perdición</keyword>
+      <keyword>Bondad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Libertad, libertad, ¡oh!, qué buena<br/>es aquella que da el Salvador.<br/>Libertad a las almas perdidas,<br/>libertad de la condenación.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Una vez era yo peregrino,<br/>cautivado en cadenas de error;<br/>mi maldad me tenía cautivo<br/>a una eterna y sin fin perdición.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo no tuve en el mundo alegría,<br/>y agobiado viví en el error.<br/>Las cadenas del vil enemigo<br/>me quitó en su bondad el Señor.</lines>
+    </verse>
+  </lyrics>
 </song>

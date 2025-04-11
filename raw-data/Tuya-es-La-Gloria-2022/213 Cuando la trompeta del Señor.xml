@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>213 Cuando la trompeta del Señor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="213"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cuando la trompeta del Señor se toque la final,<br/>con fulgor apunte el día eternal;<br/>y los redimidos suban a su casa celestial,<br/>cuando allá se pase lista yo estaré.<br/> <br/>	Cuando allá se pase lista,<br/>	cuando allá se pase lista, <br/>	cuando allá se pase lista,<br/>	a mi nombre yo feliz responderé.<br/> <br/>Resucitarán gloriosos los que han muerto en Jesús<br/>las delicias del Paraíso a gozar;<br/>y triunfantes entrarán en las mansiones de la luz;<br/>cuando allá se pase lista yo estaré.<br/> <br/>Trabajar es mi deseo sin cesar para el Señor,<br/>siempre hablando de su gracia y de su amor;<br/>cuando acabe aquí mi obra, y me llame el Salvador;<br/>cuando allá se pase lista yo estaré.</lines>
-			</verse>
+		<titles>
+			<title>Cuando la trompeta del Señor</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="213"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Esperanza y Segunda Venida</theme>
+		</themes>
+		<keywords>
+			<keyword>trompeta</keyword>
+			<keyword>lista</keyword>
+			<keyword>resurrección</keyword>
+			<keyword>eternidad</keyword>
+			<keyword>Salvador</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Cuando la trompeta del Señor se toque la final,<br/>con fulgor apunte el día eternal;<br/>y los redimidos suban a su casa celestial,<br/>cuando allá se pase lista yo estaré.<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>Cuando allá se pase lista,<br/>cuando allá se pase lista,<br/>cuando allá se pase lista,<br/>a mi nombre yo feliz responderé.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Resucitarán gloriosos los que han muerto en Jesús<br/>las delicias del Paraíso a gozar;<br/>y triunfantes entrarán en las mansiones de la luz;<br/>cuando allá se pase lista yo estaré.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Trabajar es mi deseo sin cesar para el Señor,<br/>siempre hablando de su gracia y de su amor;<br/>cuando acabe aquí mi obra, y me llame el Salvador;<br/>cuando allá se pase lista yo estaré.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

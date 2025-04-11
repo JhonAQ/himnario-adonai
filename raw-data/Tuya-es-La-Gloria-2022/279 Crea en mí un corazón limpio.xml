@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>279 Crea en mí un corazón limpio</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="279"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Crea en mí un corazón limpio, ¡oh, Dios!,<br/>y renueva tu espíritu en mí./<br/> <br/>No quites de mí tu presencia, Señor,<br/>no apartes de mí tu Santo Espíritu.<br/> <br/>Vuélveme el gozo de tu salvación<br/>y renueva tu espíritu en mí.<br/> <br/>Sal 51<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Crea en mí un corazón limpio</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="279"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>corazón</keyword>
+      <keyword>limpieza</keyword>
+      <keyword>Espíritu</keyword>
+      <keyword>presencia</keyword>
+      <keyword>salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="c">
+      <lines>/Crea en mí un corazón limpio, ¡oh, Dios!,<br/>y renueva tu espíritu en mí./</lines>
+    </verse>
+    <verse name="v1">
+      <lines>No quites de mí tu presencia, Señor,<br/>no apartes de mí tu Santo Espíritu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vuélveme el gozo de tu salvación<br/>y renueva tu espíritu en mí.</lines>
+    </verse>
+    <comment>Salmos 51</comment>
+  </lyrics>
 </song>

@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>138 No sé por qué la gracia</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="138"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>No sé por qué la gracia del Señor<br/>me hizo conocer;<br/>ni sé por qué su salvación me dio<br/>y salvo soy por él.<br/> <br/>	Mas yo sé a quién he creído<br/>	y es poderoso para guardarme;<br/>	y en ese día glorioso iré a morar con él.<br/> <br/>No sé por qué la gracia del Señor<br/>en mí por fe se demostró;<br/>ni sé por qué si solo creo en él,<br/>la paz encontraré.<br/> <br/>No sé por qué el Espíritu de Dios<br/>convence de pecar;<br/>ni sé por qué revela al pecador,<br/>cuán negra es la maldad.<br/> <br/>No sé la hora en que el Señor vendrá;<br/>de día o en oscuridad.<br/>¿Será en el valle o en el mar,<br/>qué mi Jesús vendrá?<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>No sé por qué la gracia</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="138"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Gracia</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Espíritu Santo</keyword>
+      <keyword>Segunda Venida</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No sé por qué la gracia del Señor<br/>me hizo conocer;<br/>ni sé por qué su salvación me dio<br/>y salvo soy por él.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Mas yo sé a quién he creído<br/>y es poderoso para guardarme;<br/>y en ese día glorioso iré a morar con él.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>No sé por qué la gracia del Señor<br/>en mí por fe se demostró;<br/>ni sé por qué si solo creo en él,<br/>la paz encontraré.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>No sé por qué el Espíritu de Dios<br/>convence de pecar;<br/>ni sé por qué revela al pecador,<br/>cuán negra es la maldad.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>No sé la hora en que el Señor vendrá;<br/>de día o en oscuridad.<br/>¿Será en el valle o en el mar,<br/>qué mi Jesús vendrá?<br/></lines>
+    </verse>
+  </lyrics>
 </song>

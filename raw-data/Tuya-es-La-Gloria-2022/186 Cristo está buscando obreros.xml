@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>186 Cristo está buscando obreros</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="186"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cristo está buscando obreros hoy<br/>que quieran ir con él.<br/>¿Quién dirá: “Señor contigo voy,<br/>yo quiero serte fiel”?<br/> <br/>	¡Oh, Señor!, es mucha la labor,<br/>	y obreros faltan ya;<br/>	danos luz, ardiente fe y valor,<br/>	y obreros siempre habrá.<br/> <br/>Cristo quiere mensajeros hoy,<br/>que anuncien su verdad.<br/>¿Quién dirá: “Señor yo listo estoy,<br/>haré tu voluntad”?<br/> <br/>Hay lugar si quieres trabajar,<br/>de Cristo es la labor;<br/>puedes de su gloria al mundo hablar,<br/>de su bondad y amor.<br/> <br/>¿Vives ya salvado por Jesús?,<br/>¿su amor conoces ya?<br/>¡Habla pues, anuncia que en la luz <br/>de Cristo vives ya!<br/></lines>
-			</verse>
+		<titles>
+			<title>Cristo está buscando obreros</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="186"/>
+		</songbooks>
+		<themes>
+			<theme>Misión y Evangelismo</theme>
+			<theme>Consagración y Servicio</theme>
+		</themes>
+		<keywords>
+			<keyword>obreros</keyword>
+			<keyword>mensajeros</keyword>
+			<keyword>trabajo</keyword>
+			<keyword>verdad</keyword>
+			<keyword>amor</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Cristo está buscando obreros hoy<br/>que quieran ir con él.<br/>¿Quién dirá: “Señor contigo voy,<br/>yo quiero serte fiel?<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>¡Oh, Señor!, es mucha la labor,<br/>y obreros faltan ya;<br/>danos luz, ardiente fe y valor,<br/>y obreros siempre habrá.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Cristo quiere mensajeros hoy,<br/>que anuncien su verdad.<br/>¿Quién dirá: “Señor yo listo estoy,<br/>haré tu voluntad?<br/></lines>
+		</verse>
+		<verse name="v4">
+			<lines>Hay lugar si quieres trabajar,<br/>de Cristo es la labor;<br/>puedes de su gloria al mundo hablar,<br/>de su bondad y amor.<br/></lines>
+		</verse>
+		<verse name="v5">
+			<lines>¿Vives ya salvado por Jesús?,<br/>¿su amor conoces ya?<br/>¡Habla pues, anuncia que en la luz<br/>de Cristo vives ya!<br/></lines>
+		</verse>
 	</lyrics>
 </song>

@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>179 Ora a tu Dios</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="179"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Ora a tu Dios de mañana, <br/>él oye tu oración;<br/>ora a tu Dios por la noche;<br/>con él tienes comunión.<br/> <br/>Dios oirá de mañana,<br/>él oye tu oración;<br/>Dios oirá por la noche;<br/>con él tienes comunión.<br/> <br/>Cristo vendrá por su pueblo,<br/>él reinará en Sión;<br/>pronto vendrá en las nubes;<br/>con él tienes comunión.<br/></lines>
-			</verse>
+		<titles>
+			<title>Ora a tu Dios</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>					
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="179"/>
+		</songbooks>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Oración y Devoción Personal</theme>
+		</themes>
+		<keywords>
+			<keyword>Dios</keyword>
+			<keyword>oración</keyword>
+			<keyword>comunión</keyword>
+			<keyword>mañana</keyword>
+			<keyword>noche</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Ora a tu Dios de mañana,<br/>él oye tu oración;<br/>ora a tu Dios por la noche;<br/>con él tienes comunión.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Dios oirá de mañana,<br/>él oye tu oración;<br/>Dios oirá por la noche;<br/>con él tienes comunión.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Cristo vendrá por su pueblo,<br/>él reinará en Sión;<br/>pronto vendrá en las nubes;<br/>con él tienes comunión.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

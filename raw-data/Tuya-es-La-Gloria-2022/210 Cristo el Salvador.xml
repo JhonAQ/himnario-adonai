@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>210 Cristo el Salvador</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="210"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cristo, el Salvador, con su gran amor,<br/>en la cruz murió y salvación me dio.<br/>Del peligro y mal él me guarda ya,<br/>estaré con él aún por la eternidad.<br/> <br/>	Vivo yo con Cristo, mi Señor,<br/>	él también vive en mi corazón.<br/>	No solo en mi vida terrenal,<br/>	también en los cielos viviré.<br/> <br/>De la gloria allí Cristo me buscó,<br/>me encontró perdido en el pecado vil,<br/>ya me libertó del temor y mal.<br/>Estaré con él aún por la eternidad.<br/> <br/>En mi corazón tengo gozo y paz<br/>porque perdonado estoy de todo mal.<br/>Cristo ya quitó todo mi dolor.<br/>Estaré con él aún por la eternidad.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cristo el Salvador</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="210"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Cruz</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Eternidad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo, el Salvador, con su gran amor,<br/>en la cruz murió y salvación me dio.<br/>Del peligro y mal él me guarda ya,<br/>estaré con él aún por la eternidad.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Vivo yo con Cristo, mi Señor,<br/>él también vive en mi corazón.<br/>No solo en mi vida terrenal,<br/>también en los cielos viviré.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>De la gloria allí Cristo me buscó,<br/>me encontró perdido en el pecado vil,<br/>ya me libertó del temor y mal.<br/>Estaré con él aún por la eternidad.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>En mi corazón tengo gozo y paz<br/>porque perdonado estoy de todo mal.<br/>Cristo ya quitó todo mi dolor.<br/>Estaré con él aún por la eternidad.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

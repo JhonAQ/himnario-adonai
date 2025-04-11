@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>341 Él tiene el mundo entero</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="341"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>//Él tiene el mundo entero en su poder.//<br/>Él tiene todo en su poder.<br/> <br/>//Él tiene el vasto cielo en su poder.//<br/>Él tiene todo en su poder.<br/> <br/>//Él cuida al bebecito en su poder.//<br/>Él tiene todo en su poder.<br/> <br/>//Él tiene a mí y a ti en su poder.//<br/>Él tiene todo en su poder.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Él tiene el mundo entero</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="341"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>poder</keyword>
+      <keyword>mundo</keyword>
+      <keyword>Dios</keyword>
+      <keyword>cielo</keyword>
+      <keyword>cuidado</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Él tiene el mundo entero en su poder.//<br/>Él tiene todo en su poder.<br/><br/>//Él tiene el vasto cielo en su poder.//<br/>Él tiene todo en su poder.<br/><br/>//Él cuida al bebecito en su poder.//<br/>Él tiene todo en su poder.<br/><br/>//Él tiene a mí y a ti en su poder.//<br/>Él tiene todo en su poder.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

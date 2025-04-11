@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>132 Fija tus ojos en Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="132"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Te sientes cansado y turbado,<br/>sin luz en la oscuridad.<br/>Contempla por fe al Maestro,<br/>tendrás vida y libertad.<br/> <br/>	Fija tus ojos en Cristo<br/>	tan lleno de gracia y amor,<br/>	y lo terrenal sin valor será<br/>	a la luz del glorioso Señor.<br/> <br/>De muerte a vida eterna<br/>pasé al seguir a Jesús.<br/>Me libra de todo pecado<br/>mediante su muerte en la cruz.<br/> <br/>Jamás fallará su promesa;<br/>con fe hazle tu petición.<br/>Al mundo perdido anuncia<br/>las nuevas de la salvación.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Fija tus ojos en Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="132"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Misión y Evangelismo</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Promesa</keyword>
+      <keyword>Luz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te sientes cansado y turbado,<br/>sin luz en la oscuridad.<br/>Contempla por fe al Maestro,<br/>tendrás vida y libertad.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Fija tus ojos en Cristo<br/>tan lleno de gracia y amor,<br/>y lo terrenal sin valor será<br/>a la luz del glorioso Señor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>De muerte a vida eterna<br/>pasé al seguir a Jesús.<br/>Me libra de todo pecado<br/>mediante su muerte en la cruz.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jamás fallará su promesa;<br/>con fe hazle tu petición.<br/>Al mundo perdido anuncia<br/>las nuevas de la salvación.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

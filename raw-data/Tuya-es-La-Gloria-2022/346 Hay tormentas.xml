@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>346 Hay tormentas</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="346"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Hay tormentas, hay tormentas,<br/>hay tormentas en todo lugar./<br/> <br/>/Dios es fuerte, mas yo soy débil,<br/>me agarro bien de su poder./<br/></lines>
-			</verse>
+		<titles>
+			<title>Hay tormentas</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="346"/>
+		</songbooks>
+		<themes>
+			<theme>Oración y Devoción Personal</theme>
+			<theme>Funerales y Consuelo</theme>
+		</themes>
+		<keywords>
+			<keyword>Tormentas</keyword>
+			<keyword>Fortaleza</keyword>
+			<keyword>Debilidad</keyword>
+			<keyword>Poder</keyword>
+			<keyword>Dios</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>/Hay tormentas, hay tormentas,<br/>hay tormentas en todo lugar./<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>/Dios es fuerte, mas yo soy débil,<br/>me agarro bien de su poder./<br/></lines>
+		</verse>
 	</lyrics>
 </song>

@@ -1,21 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>119 Cristo cual pastor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="119"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cristo, cual pastor, ¡oh, guía<br/>nuestros pasos en tu amor;<br/>nuestras almas siempre cuida;<br/>guárdalas, oh, Salvador!<br/>Cristo amante, Cristo amante,<br/>nos compraste por tu amor;<br/>Cristo amante, Cristo amante,<br/>somos tuyos ya, Señor.<br/> <br/>Tuyos somos, fiel amigo,<br/>sé tú nuestro defensor;<br/>da al rebaño tuyo abrigo<br/>de este mundo pecador.<br/>Cristo amante, Cristo amante,<br/>oye nuestra petición;<br/>Cristo amante, Cristo amante,<br/>oye nuestra petición.<br/> <br/>Aunque somos tan indignos,<br/>nos prometes recibir;<br/>y tú ofreces bendecirnos<br/>del pecado redimir.<br/>Cristo amante, Cristo amante,<br/>te buscamos hoy, Señor.<br/>Cristo amante, Cristo amante,<br/>te buscamos hoy, Señor.<br/> <br/>¡Oh, Pastor!, hoy te buscamos,<br/>te pedimos tu favor;<br/>llénanos de tu amor rogamos,<br/>óyenos, buen Salvador.<br/>Cristo amante, Cristo amante,<br/>en tu amor, ¡cuán fiel estás!<br/>Cristo amante, Cristo amante,<br/>hasta el fin nos amarás.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cristo cual pastor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="119"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Pastor</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Oración</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo, cual pastor, ¡oh, guía<br/>nuestros pasos en tu amor;<br/>nuestras almas siempre cuida;<br/>guárdalas, oh, Salvador!<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cristo amante, Cristo amante,<br/>nos compraste por tu amor;<br/>Cristo amante, Cristo amante,<br/>somos tuyos ya, Señor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuyos somos, fiel amigo,<br/>sé tú nuestro defensor;<br/>da al rebaño tuyo abrigo<br/>de este mundo pecador.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cristo amante, Cristo amante,<br/>oye nuestra petición;<br/>Cristo amante, Cristo amante,<br/>oye nuestra petición.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aunque somos tan indignos,<br/>nos prometes recibir;<br/>y tú ofreces bendecirnos<br/>del pecado redimir.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cristo amante, Cristo amante,<br/>te buscamos hoy, Señor.<br/>Cristo amante, Cristo amante,<br/>te buscamos hoy, Señor.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>¡Oh, Pastor!, hoy te buscamos,<br/>te pedimos tu favor;<br/>llénanos de tu amor rogamos,<br/>óyenos, buen Salvador.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cristo amante, Cristo amante,<br/>en tu amor, ¡cuán fiel estás!<br/>Cristo amante, Cristo amante,<br/>hasta el fin nos amarás.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

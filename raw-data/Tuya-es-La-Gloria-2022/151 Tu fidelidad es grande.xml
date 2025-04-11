@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>151 Tu fidelidad es grande</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="151"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Tu fidelidad es grande,<br/>tu fidelidad incomparable es.<br/>Nadie como tú, bendito Dios, <br/>grande es tu fidelidad.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Tu fidelidad es grande</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="151"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Fidelidad</keyword>
+      <keyword>Grande</keyword>
+      <keyword>Dios</keyword>
+      <keyword>Bendito</keyword>
+      <keyword>Incomparable</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu fidelidad es grande,<br/>tu fidelidad incomparable es.<br/>Nadie como tú, bendito Dios,<br/>grande es tu fidelidad.</lines>
+    </verse>
+  </lyrics>
 </song>

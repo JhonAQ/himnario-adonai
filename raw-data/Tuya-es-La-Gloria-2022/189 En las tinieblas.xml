@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>189 En las tinieblas</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="189"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>En las tinieblas de la maldad<br/>anduve sin mi Dios.<br/>Pero un día Cristo me dijo:<br/>“Ven pecador a mí.”<br/> <br/>	/Desde entonces me redimió<br/>	de toda mi maldad.<br/>	Una antorcha en las tinieblas,<br/>	Cristo me convirtió./<br/> <br/>Una mañana me sorprendió<br/>un siervo del Señor.<br/>Al recibir palabras de amor,<br/>Cristo me transformó.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>En las tinieblas</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="189"/>
+    </songbooks>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>tinieblas</keyword>
+      <keyword>redención</keyword>
+      <keyword>maldad</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>amor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En las tinieblas de la maldad<br/>anduve sin mi Dios.<br/>Pero un día Cristo me dijo:<br/>“Ven pecador a mí.”<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Desde entonces me redimió<br/>de toda mi maldad.<br/>Una antorcha en las tinieblas,<br/>Cristo me convirtió./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Una mañana me sorprendió<br/>un siervo del Señor.<br/>Al recibir palabras de amor,<br/>Cristo me transformó.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

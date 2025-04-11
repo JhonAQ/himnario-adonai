@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>234 La nave evangelista</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="234"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>La nave evangelista marcha, marcha,<br/>la nave evangelista marcha para Canaán.<br/>Los que embarcarse quieran, quieran, quieran,<br/>los que embarcarse quieran, bienvenidos sí serán.<br/> <br/>	“Gloria en las alturas”,<br/>	los de abordo cantan dulcemente.<br/>	“Gloria en las alturas, <br/>	a nuestro Capitán”.<br/> <br/>Desembarcaron miles, miles, miles,<br/>desembarcaron miles al buen puerto siglos ha;<br/>y miles más navegan, navegan, navegan,<br/>y miles más navegan por las mismas aguas ya.<br/> <br/>Con viento en popa vuelan, vuelan, vuelan,<br/>con viento en popa, vuelan hacia aquel florido hogar;<br/>felices voces se oyen, se oyen, se oyen,<br/>felices voces se oyen, resonando por la mar.<br/> <br/>Embárcate conmigo, conmigo, conmigo,<br/>embárcate conmigo, mortal, cansado de pecar.<br/>Descanso te prometo, prometo, prometo,<br/>descanso te prometo allá en aquel feliz lugar.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>La nave evangelista</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="234"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Misión y Evangelismo</theme>
+    </themes>
+    <keywords>
+      <keyword>Nave</keyword>
+      <keyword>Evangelista</keyword>
+      <keyword>Canaán</keyword>
+      <keyword>Gloria</keyword>
+      <keyword>Embarcar</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La nave evangelista marcha, marcha,<br/>la nave evangelista marcha para Canaán.<br/>Los que embarcarse quieran, quieran, quieran,<br/>los que embarcarse quieran, bienvenidos sí serán.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>“Gloria en las alturas”,<br/>los de abordo cantan dulcemente.<br/>“Gloria en las alturas,<br/>a nuestro Capitán”.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desembarcaron miles, miles, miles,<br/>desembarcaron miles al buen puerto siglos ha;<br/>y miles más navegan, navegan, navegan,<br/>y miles más navegan por las mismas aguas ya.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Con viento en popa vuelan, vuelan, vuelan,<br/>con viento en popa, vuelan hacia aquel florido hogar;<br/>felices voces se oyen, se oyen, se oyen,<br/>felices voces se oyen, resonando por la mar.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Embárcate conmigo, conmigo, conmigo,<br/>embárcate conmigo, mortal, cansado de pecar.<br/>Descanso te prometo, prometo, prometo,<br/>descanso te prometo allá en aquel feliz lugar.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>374 CONFESIÓN DE PECADOS SALMO 51</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="374"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Ten piedad de mí, oh Dios, conforme a tu misericordia; Conforme a la multitud de tus piedades borra mis rebeliones.<br/> <br/>Lávame más y más de mi maldad, Y límpiame de mi pecado.<br/> <br/>Porque yo reconozco mis rebeliones, Y mi pecado está siempre delante de mí.<br/> <br/>Contra ti, contra ti solo he pecado, Y he hecho lo malo delante de tus ojos; Para que seas reconocido justo en tu palabra, Y tenido por puro en tu juicio.<br/> <br/>He aquí, en maldad he sido formado, Y en pecado me concibió mi madre.<br/> <br/>He aquí, tú amas la verdad en lo íntimo, Y en lo secreto me has hecho comprender sabiduría.<br/> <br/>Purifícame con hisopo, y seré limpio; Lávame, y seré más blanco que la nieve.<br/> <br/>Hazme oír gozo y alegría, Y se recrearán los huesos que has abatido.<br/> <br/>Esconde tu rostro de mis pecados, Y borra todas mis maldades.<br/> <br/>Crea en mí, oh Dios, un corazón limpio, Y renueva un espíritu recto dentro de mí.<br/> <br/>No me eches de delante de ti, Y no quites de mí tu santo Espíritu.<br/> <br/>Vuélveme el gozo de tu salvación, Y espíritu noble me sustente.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>CONFESIÓN DE PECADOS SALMO 51</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="374"/>
+    </songbooks>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Perdón</keyword>
+      <keyword>Misericordia</keyword>
+      <keyword>Pecado</keyword>
+      <keyword>Limpieza</keyword>
+      <keyword>Arrepentimiento</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ten piedad de mí, oh Dios, conforme a tu misericordia; Conforme a la multitud de tus piedades borra mis rebeliones.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lávame más y más de mi maldad, Y límpiame de mi pecado.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Porque yo reconozco mis rebeliones, Y mi pecado está siempre delante de mí.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Contra ti, contra ti solo he pecado, Y he hecho lo malo delante de tus ojos; Para que seas reconocido justo en tu palabra, Y tenido por puro en tu juicio.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>He aquí, en maldad he sido formado, Y en pecado me concibió mi madre.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He aquí, tú amas la verdad en lo íntimo, Y en lo secreto me has hecho comprender sabiduría.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Purifícame con hisopo, y seré limpio; Lávame, y seré más blanco que la nieve.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Hazme oír gozo y alegría, Y se recrearán los huesos que has abatido.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Esconde tu rostro de mis pecados, Y borra todas mis maldades.</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Crea en mí, oh Dios, un corazón limpio, Y renueva un espíritu recto dentro de mí.</lines>
+    </verse>
+    <verse name="v11">
+      <lines>No me eches de delante de ti, Y no quites de mí tu santo Espíritu.</lines>
+    </verse>
+    <verse name="v12">
+      <lines>Vuélveme el gozo de tu salvación, Y espíritu noble me sustente.</lines>
+    </verse>
+    <comment>Salmo 51</comment>
+  </lyrics>
 </song>

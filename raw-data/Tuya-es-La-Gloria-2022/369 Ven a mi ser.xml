@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>369 Ven a mi ser</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="369"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Ven a mi ser, ven a mi ser,<br/>ven hoy a mi ser, ¡oh, Cristo!<br/>Ven sin tardar, ven sin morar,<br/>ven hoy a mi ser, ¡oh, Señor!<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ven a mi ser</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="369"/>
+    </songbooks>
+    <themes>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Ven</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Invitación</keyword>
+      <keyword>Presencia</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ven a mi ser, ven a mi ser,<br/>ven hoy a mi ser, ¡oh, Cristo!<br/>Ven sin tardar, ven sin morar,<br/>ven hoy a mi ser, ¡oh, Señor!<br/></lines>
+    </verse>
+  </lyrics>
 </song>

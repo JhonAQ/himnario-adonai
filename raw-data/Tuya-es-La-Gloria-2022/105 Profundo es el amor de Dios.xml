@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>105 Profundo es el amor de Dios</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="105"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Profundo es el amor de Dios<br/>tan vasto e infinito.<br/>Que dio a su hijo amado por<br/>amor a los perdidos.<br/>Que gran dolor causó a mi Dios<br/>ver padecer a Cristo<br/>herido en una cruz murió<br/>por cada ser humano.<br/> <br/>Allí en esa cruz está;<br/>él carga con mis culpas.<br/>Vergüenza siento al escuchar<br/>mi voz entre las bullas.<br/>Y mi pecado lo llevó<br/>a ser crucificado.<br/>Mas vida su muerte me dio,<br/>yo sé que fue cumplido. <br/> <br/>De nada yo presumiré,<br/>pues muerte yo merezco.<br/>Mas en la cruz me gloriaré,<br/>la cruz de Jesucristo.<br/>¿Por qué me da de su favor?<br/>No puedo comprenderlo.<br/>Mas esto sé de corazón: <br/>¡Jesús me ha rescatado!<br/> <br/>Jn 15:13; Jn 3:16; Is 53:4-5,10-11; Ef 3:18-19<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Profundo es el amor de Dios</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="105"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Amor</keyword>
+      <keyword>Cruz</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Redención</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Profundo es el amor de Dios<br/>tan vasto e infinito.<br/>Que dio a su hijo amado por<br/>amor a los perdidos.<br/>Que gran dolor causó a mi Dios<br/>ver padecer a Cristo<br/>herido en una cruz murió<br/>por cada ser humano.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Allí en esa cruz está;<br/>él carga con mis culpas.<br/>Vergüenza siento al escuchar<br/>mi voz entre las bullas.<br/>Y mi pecado lo llevó<br/>a ser crucificado.<br/>Mas vida su muerte me dio,<br/>yo sé que fue cumplido.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>De nada yo presumiré,<br/>pues muerte yo merezco.<br/>Mas en la cruz me gloriaré,<br/>la cruz de Jesucristo.<br/>¿Por qué me da de su favor?<br/>No puedo comprenderlo.<br/>Mas esto sé de corazón:<br/>¡Jesús me ha rescatado!<br/></lines>
+    </verse>
+    <comment>Jn 15:13; Jn 3:16; Is 53:4-5,10-11; Ef 3:18-19</comment>
+  </lyrics>
 </song>

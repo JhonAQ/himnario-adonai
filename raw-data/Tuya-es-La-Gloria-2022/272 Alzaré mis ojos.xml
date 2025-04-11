@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>272 Alzaré mis ojos</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="272"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Alzaré mis ojos a los montes,<br/>¿de dónde viene mi socorro?<br/>Mi socorro viene de Jehová, <br/>que hizo el cielo y la tierra.<br/>No dará tu pie al resbaladero,<br/>ni se dormirá él que te guarda.<br/>He aquí no se adormece, ni dormirá,<br/>él que guarda a Israel.<br/> <br/>Dios es tu guardador, él es tu sombra,<br/>él guarda tu alma.<br/>El sol no te fatigará de todo mal,<br/>él guardará tu alma.<br/>Él guardará tu salida y entrada<br/>desde ahora y para siempre, amén.<br/>Desde ahora y para siempre.<br/> <br/>/Lalalala lalalala…/<br/> <br/>Sal 121<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Alzaré mis ojos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="272"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Socorro</keyword>
+      <keyword>Guardador</keyword>
+      <keyword>Protección</keyword>
+      <keyword>Jehová</keyword>
+      <keyword>Confianza</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alzaré mis ojos a los montes,<br/>¿de dónde viene mi socorro?<br/>Mi socorro viene de Jehová,<br/>que hizo el cielo y la tierra.<br/>No dará tu pie al resbaladero,<br/>ni se dormirá él que te guarda.<br/>He aquí no se adormece, ni dormirá,<br/>él que guarda a Israel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dios es tu guardador, él es tu sombra,<br/>él guarda tu alma.<br/>El sol no te fatigará de todo mal,<br/>él guardará tu alma.<br/>Él guardará tu salida y entrada<br/>desde ahora y para siempre, amén.<br/>Desde ahora y para siempre.</lines>
+    </verse>
+    <verse name="c">
+      <lines>/Lalalala lalalala…/</lines>
+    </verse>
+    <comment>Sal 121</comment>
+  </lyrics>
 </song>

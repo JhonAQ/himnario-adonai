@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>095 Glorioso intercambio</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="95"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¿Cómo puede ser que el bueno y justo<br/>se hizo hombre y fuera a morir<br/>por el más vil pecador?<br/>¿Cómo siendo yo su enemigo<br/>el sufrimiento en mi lugar tomó<br/>en aquella cruz?<br/> <br/>Y cargó mi maldad sobre él.<br/>Su rectitud, por la fe, mía es.<br/> <br/>	Aleluya, ¡glorioso intercambio!<br/>	¡Oh, cuán gran misterio!,<br/>	que por gracia salvo soy.<br/>	Aleluya, ¡gloria sea a Cristo!<br/>	Por su sacrificio<br/>	declarado justo soy en él.<br/> <br/>¿Cómo es posible que en Jesús<br/>como a su hijo él me recibió,<br/>y su nombre llevo hoy?<br/>Su perfecta vida de obediencia al Padre<br/>al yo creer, él me otorgó<br/>y perdón me dio.<br/> <br/>2 Co 5:21<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Glorioso intercambio</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="95"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Intercambio</keyword>
+      <keyword>Justicia</keyword>
+      <keyword>Gracia</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Cruz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Cómo puede ser que el bueno y justo<br/>se hizo hombre y fuera a morir<br/>por el más vil pecador?<br/>¿Cómo siendo yo su enemigo<br/>el sufrimiento en mi lugar tomó<br/>en aquella cruz?<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Aleluya, ¡glorioso intercambio!<br/>¡Oh, cuán gran misterio!,<br/>que por gracia salvo soy.<br/>Aleluya, ¡gloria sea a Cristo!<br/>Por su sacrificio<br/>declarado justo soy en él.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y cargó mi maldad sobre él.<br/>Su rectitud, por la fe, mía es.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Cómo es posible que en Jesús<br/>como a su hijo él me recibió,<br/>y su nombre llevo hoy?<br/>Su perfecta vida de obediencia al Padre<br/>al yo creer, él me otorgó<br/>y perdón me dio.<br/></lines>
+    </verse>
+    <comment>2 Co 5:21</comment>
+  </lyrics>
 </song>

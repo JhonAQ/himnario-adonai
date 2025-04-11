@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>377 El Credo Apostólico</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="377"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Creo en Dios Padre todopoderoso, Creador del cielo y de la tierra.<br/> <br/>Y en Jesucristo, su único Hijo, nuestro Señor,<br/>que fue concebido por obra del Espíritu Santo;<br/>nació de la virgen María;<br/>padeció bajo el poder de Poncio Pilato;<br/>fue crucificado, muerto y sepultado;<br/>descendió a los infiernos,<br/>al tercer día resucitó de entre los muertos;<br/>subió a los cielos,<br/>y está sentado a la diestra de Dios Padre todopoderoso,<br/>y desde allí ha de venir a juzgar a los vivos y a los muertos.<br/> <br/>Creo en el Espíritu Santo;<br/>la santa iglesia cristiana;<br/>la comunión de los santos;<br/>el perdón de los pecados;<br/>la resurrección de la carne; y la vida perdurable.<br/>Amén. <br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>El Credo Apostólico</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="377"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Credo</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Resurrección</keyword>
+      <keyword>Iglesia</keyword>
+      <keyword>Trinidad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Creo en Dios Padre todopoderoso, Creador del cielo y de la tierra.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y en Jesucristo, su único Hijo, nuestro Señor,<br/>que fue concebido por obra del Espíritu Santo;<br/>nació de la virgen María;<br/>padeció bajo el poder de Poncio Pilato;<br/>fue crucificado, muerto y sepultado;<br/>descendió a los infiernos,<br/>al tercer día resucitó de entre los muertos;<br/>subió a los cielos,<br/>y está sentado a la diestra de Dios Padre todopoderoso,<br/>y desde allí ha de venir a juzgar a los vivos y a los muertos.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Creo en el Espíritu Santo;<br/>la santa iglesia cristiana;<br/>la comunión de los santos;<br/>el perdón de los pecados;<br/>la resurrección de la carne; y la vida perdurable.<br/>Amén.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

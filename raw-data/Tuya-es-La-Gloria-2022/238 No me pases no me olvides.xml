@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>238 No me pases no me olvides</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="238"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>No me pases, no me olvides, tierno Salvador;<br/>muchos gozan tus mercedes, oye mi clamor.<br/> <br/>	Cristo, Cristo, oye tú mi voz.<br/>	Salvador, tu gracia dame, oye mi clamor.<br/> <br/>Ante el trono de tu gracia hallo dulce paz,<br/>nada aquí mi alma sacia; tú eres mi solaz.<br/> <br/>Solo fío en tus bondades, guíame en tu luz;<br/>y mi alma no deseches; sálvame, Jesús.<br/> <br/>Fuente viva de consuelo, tú eres para mí.<br/>¿A quién tengo en este suelo sino solo a ti?<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>No me pases no me olvides</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="238"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Salvador</keyword>
+      <keyword>Gracia</keyword>
+      <keyword>Consuelo</keyword>
+      <keyword>Oración</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No me pases, no me olvides, tierno Salvador;<br/>muchos gozan tus mercedes, oye mi clamor.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cristo, Cristo, oye tú mi voz.<br/>Salvador, tu gracia dame, oye mi clamor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ante el trono de tu gracia hallo dulce paz,<br/>nada aquí mi alma sacia; tú eres mi solaz.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Solo fío en tus bondades, guíame en tu luz;<br/>y mi alma no deseches; sálvame, Jesús.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fuente viva de consuelo, tú eres para mí.<br/>¿A quién tengo en este suelo sino solo a ti?<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>318 Ven y deléitate</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="318"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh, oh, oh, ven!<br/>Ven y deléitate en el Señor,<br/>y él te concederá <br/>las peticiones de tu corazón.<br/> <br/>Confía solo en él,<br/>y él te dará. <br/>Espera solo en él,<br/>y él hará.<br/> <br/>Sal 37:4<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ven y deléitate</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="318"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Deléitate</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Peticiones</keyword>
+      <keyword>Confía</keyword>
+      <keyword>Espera</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="c">
+      <lines>¡Oh, oh, oh, ven!<br/>Ven y deléitate en el Señor,<br/>y él te concederá<br/>las peticiones de tu corazón.<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>Confía solo en él,<br/>y él te dará.<br/>Espera solo en él,<br/>y él hará.<br/></lines>
+    </verse>
+    <comment>Salmos 37:4</comment>
+  </lyrics>
 </song>

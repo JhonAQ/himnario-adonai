@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>181 Santa Biblia para mí</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="181"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Santa Biblia, para mí<br/>eres un tesoro aquí;<br/>tú contienes con verdad<br/>la divina voluntad;<br/>tú me dices lo que soy,<br/>de quién vine y a quién voy.	<br/> <br/>Tú reprendes mi dudar,<br/>tú me exhortas sin cesar;<br/>eres faro que a mi pie<br/>va guiando por la fe<br/>a las fuentes del amor<br/>del bendito Salvador.<br/> <br/>Eres infalible voz<br/>del Espíritu de Dios, <br/>que vigor al alma da.<br/>Cuando en aflicción está,<br/>tú me enseñas a triunfar<br/>de la muerte y el pecar.<br/> <br/>Por tu santa letra sé,<br/>que con Cristo reinaré;<br/>yo que tan indigno soy,<br/>por tu luz al cielo voy;<br/>¡Santa Biblia!, para mí<br/>eres un tesoro aquí.<br/> <br/>Sal 119:105<br/></lines>
-			</verse>
+		<titles>
+			<title>Santa Biblia para mí</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="181"/>
+		</songbooks>
+		<themes>
+			<theme>Oración y Devoción Personal</theme>
+			<theme>Iglesia y Comunidad</theme>
+		</themes>
+		<keywords>
+			<keyword>Biblia</keyword>
+			<keyword>tesoro</keyword>
+			<keyword>voluntad</keyword>
+			<keyword>fe</keyword>
+			<keyword>amor</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Santa Biblia, para mí<br/>eres un tesoro aquí;<br/>tú contienes con verdad<br/>la divina voluntad;<br/>tú me dices lo que soy,<br/>de quién vine y a quién voy.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Tú reprendes mi dudar,<br/>tú me exhortas sin cesar;<br/>eres faro que a mi pie<br/>va guiando por la fe<br/>a las fuentes del amor<br/>del bendito Salvador.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Eres infalible voz<br/>del Espíritu de Dios, <br/>que vigor al alma da.<br/>Cuando en aflicción está,<br/>tú me enseñas a triunfar<br/>de la muerte y el pecar.<br/></lines>
+		</verse>
+		<verse name="v4">
+			<lines>Por tu santa letra sé,<br/>que con Cristo reinaré;<br/>yo que tan indigno soy,<br/>por tu luz al cielo voy;<br/>¡Santa Biblia!, para mí<br/>eres un tesoro aquí.<br/></lines>
+		</verse>
+		<comment>Sal 119:105</comment>
 	</lyrics>
 </song>

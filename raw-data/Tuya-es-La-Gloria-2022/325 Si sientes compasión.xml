@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>325 Si sientes compasión</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="325"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Si sientes compasión por tus amigos,<br/>entonces, háblales de tu Señor./<br/> <br/>/Háblales de Cristo; cuenta a tus amigos,<br/>lo que el Salvador hizo por ti./<br/> <br/>/Testifica, testifica,<br/>testifica de Cristo por doquier./<br/></lines>
-			</verse>
+		<titles>
+			<title>Si sientes compasión</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>					
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="325"/>
+		</songbooks>
+		<themes>
+			<theme>Misión y Evangelismo</theme>
+			<theme>Consagración y Servicio</theme>
+		</themes>
+		<keywords>
+			<keyword>Testificar</keyword>
+			<keyword>Compasión</keyword>
+			<keyword>Cristo</keyword>
+			<keyword>Salvador</keyword>
+			<keyword>Amigos</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>/Si sientes compasión por tus amigos,<br/>entonces, háblales de tu Señor./<br/></lines>
+		</verse>
+		<verse name="c1">
+			<lines>/Háblales de Cristo; cuenta a tus amigos,<br/>lo que el Salvador hizo por ti./<br/></lines>
+		</verse>
+		<verse name="c2">
+			<lines>/Testifica, testifica,<br/>testifica de Cristo por doquier./<br/></lines>
+		</verse>
 	</lyrics>
 </song>

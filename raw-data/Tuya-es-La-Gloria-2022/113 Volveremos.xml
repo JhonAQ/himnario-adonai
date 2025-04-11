@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>113 Volveremos</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="113"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Volveremos a Jesús,<br/>al amante Salvador.<br/>Perdonó él la maldad,<br/>con su sangre nos lavó.<br/> <br/>	Me salvó ya mi Jesús,<br/>	muriendo en la cruz por mí.<br/>	En su gran y tierno amor<br/>	vida eterna él me da.	<br/> <br/>Volveremos a Jesús.<br/>Nuestras almas quien amó.<br/>Vida eterna nos dará,<br/>más tristeza ya no habrá.<br/> <br/>Volveremos a Jesús,<br/>al Señor, al Protector.<br/>Moraremos pues con él<br/>en su patria celestial.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Volveremos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="113"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Salvador</keyword>
+      <keyword>Vida eterna</keyword>
+      <keyword>Protección</keyword>
+      <keyword>Amor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Volveremos a Jesús,<br/>al amante Salvador.<br/>Perdonó él la maldad,<br/>con su sangre nos lavó.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Me salvó ya mi Jesús,<br/>muriendo en la cruz por mí.<br/>En su gran y tierno amor<br/>vida eterna él me da.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Volveremos a Jesús.<br/>Nuestras almas quien amó.<br/>Vida eterna nos dará,<br/>más tristeza ya no habrá.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Volveremos a Jesús,<br/>al Señor, al Protector.<br/>Moraremos pues con él<br/>en su patria celestial.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

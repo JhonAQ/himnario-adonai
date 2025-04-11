@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>207 Yo quiero trabajar</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="207"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Yo quiero trabajar para el Señor,<br/>confiando en su palabra y en su amor,<br/>quiero yo cantar y orar<br/>y ocupado siempre estar<br/>en la viña del Señor.<br/> <br/>	Trabajar y orar<br/>	en la viña, en la viña del Señor;<br/>	sí, mi anhelo es orar,<br/>	y ocupado siempre estar<br/>	en la viña del Señor.<br/> <br/>Yo quiero cada día trabajar,<br/>y esclavos del pecado libertar,<br/>conducirlos a Jesús,<br/>nuestro guía, nuestra luz,<br/>en la viña del Señor.<br/> <br/>Yo quiero ser obrero de valor,<br/>confiando en el poder del Salvador.<br/>El que quiera trabajar,<br/>hallará también lugar<br/>en la viña del Señor.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Yo quiero trabajar</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="207"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Misión y Evangelismo</theme>
+    </themes>
+    <keywords>
+      <keyword>trabajar</keyword>
+      <keyword>viña</keyword>
+      <keyword>Señor</keyword>
+      <keyword>orar</keyword>
+      <keyword>valor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo quiero trabajar para el Señor,<br/>confiando en su palabra y en su amor,<br/>quiero yo cantar y orar<br/>y ocupado siempre estar<br/>en la viña del Señor.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Trabajar y orar<br/>en la viña, en la viña del Señor;<br/>sí, mi anhelo es orar,<br/>y ocupado siempre estar<br/>en la viña del Señor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo quiero cada día trabajar,<br/>y esclavos del pecado libertar,<br/>conducirlos a Jesús,<br/>nuestro guía, nuestra luz,<br/>en la viña del Señor.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Yo quiero ser obrero de valor,<br/>confiando en el poder del Salvador.<br/>El que quiera trabajar,<br/>hallará también lugar<br/>en la viña del Señor.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

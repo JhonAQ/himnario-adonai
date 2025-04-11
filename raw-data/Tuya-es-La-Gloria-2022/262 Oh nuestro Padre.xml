@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>262 Oh nuestro Padre</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="262"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh, nuestro Padre! ahora venímoste a pedir<br/>bendigas a los novios <br/>que acábanse se unir.<br/>Corónalos, ¡oh, Padre!,<br/>con celestial favor;<br/>haz tú que vivan fieles,<br/>constantes en su amor.<br/> <br/>¡Oh, Salvador amante! <br/>que has muerto en una cruz<br/>a fin de que la iglesia<br/>gozase eterna luz:<br/>Ayúdales, rogamos,<br/>a preparar su hogar<br/>en forma tal que puedas <br/>por siempre en él morar.<br/> <br/>Espíritu divino.<br/>Tú, fiel Consolador<br/>en pruebas de la vida<br/>en goces y en dolor:<br/>Concédeles tu amparo <br/>en toda plenitud:<br/>Que en santidad de vida<br/>demuestren tu virtud.<br/> <br/>Jos 24:15c; Sal 128:1-6<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oh nuestro Padre</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="262"/>
+    </songbooks>
+    <themes>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Matrimonio</keyword>
+      <keyword>Novios</keyword>
+      <keyword>Bendición</keyword>
+      <keyword>Hogar</keyword>
+      <keyword>Unión</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Oh, nuestro Padre! ahora venímoste a pedir<br/>bendigas a los novios <br/>que acábanse se unir.<br/>Corónalos, ¡oh, Padre!,<br/>con celestial favor;<br/>haz tú que vivan fieles,<br/>constantes en su amor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Oh, Salvador amante! <br/>que has muerto en una cruz<br/>a fin de que la iglesia<br/>gozase eterna luz:<br/>Ayúdales, rogamos,<br/>a preparar su hogar<br/>en forma tal que puedas <br/>por siempre en él morar.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Espíritu divino.<br/>Tú, fiel Consolador<br/>en pruebas de la vida<br/>en goces y en dolor:<br/>Concédeles tu amparo <br/>en toda plenitud:<br/>Que en santidad de vida<br/>demuestren tu virtud.<br/></lines>
+    </verse>
+    <comment>Jos 24:15c; Sal 128:1-6</comment>
+  </lyrics>
 </song>

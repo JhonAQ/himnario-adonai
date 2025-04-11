@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>350 Jonás</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="350"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Jonás no hizo caso a la Palabra de Dios,<br/>por eso en el mar profundo la gente lo arrojó.<br/>Y vino un pez muy grande y ¡pum!, se lo comió .<br/> <br/>/Porque no hizo caso a la Palabra de Dios./<br/> <br/>Y allá en el mar profundo en el vientre del animal<br/>Jonás se arrepintió de todo corazón,<br/>y el pez muy grande ¡pum! lo vomitó.<br/> <br/>//Jonás se fue corriendo a Nínive a predicar.//<br/> <br/>Jon 1-4<br/></lines>
-			</verse>
+		<titles>
+			<title>Jonás</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="350"/>
+		</songbooks>
+		<themes>
+			<theme>Niños y Escuela Dominical</theme>
+			<theme>Arrepentimiento y Confesión</theme>
+			<theme>Misión y Evangelismo</theme>
+		</themes>
+		<keywords>
+			<keyword>Jonás</keyword>
+			<keyword>Obediencia</keyword>
+			<keyword>Palabra</keyword>
+			<keyword>Arrepentimiento</keyword>
+			<keyword>Nínive</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Jonás no hizo caso a la Palabra de Dios,<br/>por eso en el mar profundo la gente lo arrojó.<br/>Y vino un pez muy grande y ¡pum!, se lo comió.<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>/Porque no hizo caso a la Palabra de Dios./<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Y allá en el mar profundo en el vientre del animal<br/>Jonás se arrepintió de todo corazón,<br/>y el pez muy grande ¡pum! lo vomitó.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>//Jonás se fue corriendo a Nínive a predicar.//<br/></lines>
+		</verse>
+		<comment>Jon 1-4</comment>
 	</lyrics>
 </song>

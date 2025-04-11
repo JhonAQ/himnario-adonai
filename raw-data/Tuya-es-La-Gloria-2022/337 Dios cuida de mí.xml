@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>337 Dios cuida de mí</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="337"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Dios cuida de mí,<br/>Dios cuida de mí.<br/>En sol y en sombra<br/>Dios cuida de mí.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dios cuida de mí</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="337"/>
+    </songbooks>
+    <themes>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Funerales y Consuelo</theme>
+      <theme>Niños y Escuela Dominical</theme>
+    </themes>
+    <keywords>
+      <keyword>Dios</keyword>
+      <keyword>Cuidado</keyword>
+      <keyword>Protección</keyword>
+      <keyword>Sol</keyword>
+      <keyword>Sombra</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios cuida de mí,<br/>Dios cuida de mí.<br/>En sol y en sombra<br/>Dios cuida de mí.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

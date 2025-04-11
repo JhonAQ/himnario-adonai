@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>188 El Señor me encontró</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="188"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/El Señor me encontró, vil, perdido me vio.<br/>Él me redimió./<br/>/Escuchando su voz presurosa acudí<br/>y pedí perdón./<br/>/Encontré dulce paz; Cristo me libertó,<br/>ya feliz estoy./<br/> <br/>/Caminando con Dios muchas veces me vi<br/>en la tentación./<br/>/Pero Cristo, el Señor, con su voz de amor <br/>me fortaleció./<br/>/”Ten valor, sin temor, resiste al tentador,<br/>que a tu lado estoy.”/<br/> <br/>/No sé cuándo será tenga yo que dejar<br/>esta vida acá./<br/>/Pero me llamará a su lado el Señor<br/>en su amor dirá:/<br/>/”Siervo fiel, ven a mí. En el cielo tendrás<br/>gozo eternal.”/<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>El Señor me encontró</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="188"/>
+    </songbooks>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Señor</keyword>
+      <keyword>redención</keyword>
+      <keyword>perdón</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>paz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        /El Señor me encontró, vil, perdido me vio.<br/>Él me redimió.<br/>/Escuchando su voz presurosa acudí<br/>y pedí perdón.<br/>/Encontré dulce paz; Cristo me libertó,<br/>ya feliz estoy.<br/>
+      </lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+        /Caminando con Dios muchas veces me vi<br/>en la tentación.<br/>/Pero Cristo, el Señor, con su voz de amor <br/>me fortaleció.<br/>/”Ten valor, sin temor, resiste al tentador,<br/>que a tu lado estoy.”/<br/>
+      </lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+        /No sé cuándo será tenga yo que dejar<br/>esta vida acá.<br/>/Pero me llamará a su lado el Señor<br/>en su amor dirá:<br/>/”Siervo fiel, ven a mí. En el cielo tendrás<br/>gozo eternal.”/<br/>
+      </lines>
+    </verse>
+  </lyrics>
 </song>

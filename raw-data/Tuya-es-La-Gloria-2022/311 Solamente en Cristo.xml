@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>311 Solamente en Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="311"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Solamente en Cristo,<br/>solamente en él<br/>la salvación<br/>se encuentra en él.<br/>No hay otro nombre<br/>dado a los hombres.<br/>Solamente en Cristo,<br/>solamente en él.<br/> <br/>¡Oh!, qué regalo precioso<br/>Cristo me dio,<br/>llenó mi alma de gozo<br/>y me salvó.<br/>Ahora puedo cantar<br/>a grande voz<br/>y puedo testificar <br/>de su amor.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Solamente en Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="311"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Gozo</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Testimonio</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solamente en Cristo,<br/>solamente en él<br/>la salvación<br/>se encuentra en él.<br/>No hay otro nombre<br/>dado a los hombres.<br/>Solamente en Cristo,<br/>solamente en él.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Oh!, qué regalo precioso<br/>Cristo me dio,<br/>llenó mi alma de gozo<br/>y me salvó.<br/>Ahora puedo cantar<br/>a grande voz<br/>y puedo testificar<br/>de su amor.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

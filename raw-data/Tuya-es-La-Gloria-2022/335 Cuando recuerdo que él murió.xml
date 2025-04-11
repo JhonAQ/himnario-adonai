@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>335 Cuando recuerdo que él murió</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="335"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cuando recuerdo que él murió por mí,<br/>no vuelvo atrás, nunca más, ¡aleluya!<br/>Cuando recuerdo que él murió por mí,<br/>no vuelvo atrás, nunca más.<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más, ¡aleluya!<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más.<br/> <br/>Cuando recuerdo que resucitó ...<br/> <br/>Cuando recuerdo que pronto vendrá ...<br/> <br/>Cuando recuerdo que él vive en mí ...<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cuando recuerdo que él murió</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="335"/>
+    </songbooks>
+    <themes>
+      <theme>Vida de Cristo</theme>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Cruz</keyword>
+      <keyword>Resurrección</keyword>
+      <keyword>Fidelidad</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Compromiso</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando recuerdo que él murió por mí,<br/>no vuelvo atrás, nunca más, ¡aleluya!<br/>Cuando recuerdo que él murió por mí,<br/>no vuelvo atrás, nunca más.<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más, ¡aleluya!<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando recuerdo que resucitó,<br/>no vuelvo atrás, nunca más, ¡aleluya!<br/>Cuando recuerdo que resucitó,<br/>no vuelvo atrás, nunca más.<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más, ¡aleluya!<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cuando recuerdo que pronto vendrá,<br/>no vuelvo atrás, nunca más, ¡aleluya!<br/>Cuando recuerdo que pronto vendrá,<br/>no vuelvo atrás, nunca más.<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más, ¡aleluya!<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cuando recuerdo que él vive en mí,<br/>no vuelvo atrás, nunca más, ¡aleluya!<br/>Cuando recuerdo que él vive en mí,<br/>no vuelvo atrás, nunca más.<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más, ¡aleluya!<br/>No, no, no, no, no.<br/>No vuelvo atrás, nunca más.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>284 Dulce refugio</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="284"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Dulce refugio en la tormenta<br/>es Jesucristo el Salvador.<br/>Él me alienta y alimenta<br/>con su palabra y su amor./<br/> <br/>Vengo a reposar en él,<br/>él es mi amigo fiel,<br/>una poderosa y fresca unción<br/>llenará mi corazón.<br/> <br/>Dulce refugio en la tormenta<br/>es Jesucristo el Salvador.<br/></lines>
-			</verse>
+		<titles>
+			<title>Dulce refugio</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="284"/>
+		</songbooks>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Oración y Devoción Personal</theme>
+			<theme>Consagración y Servicio</theme>
+		</themes>
+		<keywords>
+			<keyword>Refugio</keyword>
+			<keyword>Jesucristo</keyword>
+			<keyword>Salvador</keyword>
+			<keyword>Protección</keyword>
+			<keyword>Amor</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="c">
+			<lines>/Dulce refugio en la tormenta<br/>es Jesucristo el Salvador.<br/>Él me alienta y alimenta<br/>con su palabra y su amor./<br/></lines>
+		</verse>
+		<verse name="v1">
+			<lines>Vengo a reposar en él,<br/>él es mi amigo fiel,<br/>una poderosa y fresca unción<br/>llenará mi corazón.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Dulce refugio en la tormenta<br/>es Jesucristo el Salvador.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

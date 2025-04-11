@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>062 Mi Roca</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="62"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Mi esperanza está en Jesús<br/>en su justicia y en la cruz.<br/>De nadie más dependeré,<br/>solo en su nombre confiaré.<br/> <br/>	En Jesús fuerte soy, <br/>	solo él mi roca es.<br/>	Sobre la tempestad<br/>	él es rey.<br/> <br/>Cuando no puedo ver su faz,<br/>sé que su gracia es siempre igual.<br/>A la tormenta venceré,<br/>mi arca firme está en él.<br/> <br/>Un día él regresará,<br/>en su presencia voy a estar.<br/>Sin mancha ante él vendré<br/>justificado por la fe.<br/> <br/>Hch 4:11-12<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Mi Roca</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="62"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Roca</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Gracia</keyword>
+      <keyword>Esperanza</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi esperanza está en Jesús,<br/>en su justicia y en la cruz.<br/>De nadie más dependeré,<br/>solo en su nombre confiaré.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>En Jesús fuerte soy,<br/>solo él mi roca es.<br/>Sobre la tempestad<br/>él es rey.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cuando no puedo ver su faz,<br/>sé que su gracia es siempre igual.<br/>A la tormenta venceré,<br/>mi arca firme está en él.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Un día él regresará,<br/>en su presencia voy a estar.<br/>Sin mancha ante él vendré,<br/>justificado por la fe.<br/></lines>
+    </verse>
+    <comment>Hechos 4:11-12</comment>
+  </lyrics>
 </song>

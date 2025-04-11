@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>160 Puedo cantar sí</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="160"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Puedo cantar, ¡sí!, cuando yo recuerdo<br/>que el dolor muy pronto ha de pasar;<br/>en el camino que va siempre arriba:<br/>No puede ser el mundo mi hogar.<br/> <br/>	Mas siempre aquí yo seguiré cantando,<br/>	siempre así con gozo mi alma irá,<br/>	hasta ese día en que veré la gloria,<br/>	cuando el Señor me lleve allá.<br/> <br/>Lo terrenal habrá de disiparse<br/>al recordar que nada nuestro es;<br/>y lo que aquí nos da dolor, tristeza:<br/>No volveremos a sufrir después.<br/> <br/>El mundo vil con su trabajo y lucha<br/>puede traer miseria y pesar;<br/>el hombre es como el halcón que, libre,<br/>ya listo está, y así podrá volar.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Puedo cantar sí</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="160"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Consagración y Servicio</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Cantar</keyword>
+      <keyword>Dolor</keyword>
+      <keyword>Gloria</keyword>
+      <keyword>Esperanza</keyword>
+      <keyword>Gozo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Puedo cantar, ¡sí!, cuando yo recuerdo<br/>que el dolor muy pronto ha de pasar;<br/>en el camino que va siempre arriba:<br/>No puede ser el mundo mi hogar.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Mas siempre aquí yo seguiré cantando,<br/>siempre así con gozo mi alma irá,<br/>hasta ese día en que veré la gloria,<br/>cuando el Señor me lleve allá.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lo terrenal habrá de disiparse<br/>al recordar que nada nuestro es;<br/>y lo que aquí nos da dolor, tristeza:<br/>No volveremos a sufrir después.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>El mundo vil con su trabajo y lucha<br/>puede traer miseria y pesar;<br/>el hombre es como el halcón que, libre,<br/>ya listo está, y así podrá volar.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

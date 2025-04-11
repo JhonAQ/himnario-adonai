@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>149 Señor mi Redentor y roca</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="149"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Señor, mi Redentor y roca,<br/>gran tesoro de mi corazón.<br/>Mi Dios, como tú no hay otro,<br/>solo en ti hay gozo y salvación.<br/>Tu amor, más alto que los cielos;<br/>tu gracia más honda que el mar;<br/>tu ley es mi sabiduría,<br/>mi bien mayor y mi necesidad.<br/> <br/>Señor, mi Redentor y roca<br/>de mi vida, fuerte defensor.<br/>Señor, tú eres mi espada<br/>contra el mal, mi escudo, protector.<br/>Mi canción se acechan enemigos;<br/>esperanza en medio del dolor;<br/>mi bien en todo sufrimiento;<br/>refugio fiel en densa oscuridad.<br/> <br/>Señor, mi Redentor y roca,<br/>de mi ruina dulce Salvador.<br/>Mi cruz y culpa en tus hombros;<br/>tú por mí sufriste hasta morir.<br/>Mas tú venciste a la muerte;<br/>en ti encuentro libertad.<br/>Señor, mi Redentor y roca,<br/>quiero vivir mis días para ti.<br/> <br/>Sal 18:3; Sal 62:3; Sal 71:3; Sal 144:1-2<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Señor mi Redentor y roca</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="149"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Redentor</keyword>
+      <keyword>Roca</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Protección</keyword>
+      <keyword>Libertad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor, mi Redentor y roca,<br/>gran tesoro de mi corazón.<br/>Mi Dios, como tú no hay otro,<br/>solo en ti hay gozo y salvación.<br/>Tu amor, más alto que los cielos;<br/>tu gracia más honda que el mar;<br/>tu ley es mi sabiduría,<br/>mi bien mayor y mi necesidad.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Señor, mi Redentor y roca<br/>de mi vida, fuerte defensor.<br/>Señor, tú eres mi espada<br/>contra el mal, mi escudo, protector.<br/>Mi canción se acechan enemigos;<br/>esperanza en medio del dolor;<br/>mi bien en todo sufrimiento;<br/>refugio fiel en densa oscuridad.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Señor, mi Redentor y roca,<br/>de mi ruina dulce Salvador.<br/>Mi cruz y culpa en tus hombros;<br/>tú por mí sufriste hasta morir.<br/>Mas tú venciste a la muerte;<br/>en ti encuentro libertad.<br/>Señor, mi Redentor y roca,<br/>quiero vivir mis días para ti.<br/></lines>
+    </verse>
+    <comment>Sal 18:3; Sal 62:3; Sal 71:3; Sal 144:1-2</comment>
+  </lyrics>
 </song>

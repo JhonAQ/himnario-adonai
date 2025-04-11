@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>322 Hay un pueblo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="322"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Hay un pueblo que vive muy feliz,<br/>y ese pueblo es el pueblo de Dios./<br/> <br/>/Y ese pueblo vive así,<br/>porque un día conoció<br/>a Jesús, al Salvador.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Hay un pueblo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="322"/>
+    </songbooks>
+    <themes>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Pueblo</keyword>
+      <keyword>Dios</keyword>
+      <keyword>Feliz</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Salvador</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Hay un pueblo que vive muy feliz,<br/>y ese pueblo es el pueblo de Dios./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Y ese pueblo vive así,<br/>porque un día conoció<br/>a Jesús, al Salvador.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

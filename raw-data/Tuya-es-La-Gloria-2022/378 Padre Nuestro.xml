@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>378 Padre Nuestro</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="378"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Padre nuestro que estás en los cielos, <br/>santificado sea tu nombre. <br/>Venga tu reino. <br/>Hágase tu voluntad, como en el cielo,<br/>así también en la tierra. <br/> <br/>El pan nuestro de cada día, dánoSalo hoy. <br/>Y perdónanos nuestras deudas, <br/>así como nosotros perdonamos a nuestros deudores. <br/>Y no nos dejes caer en la tentación, <br/>mas líbranos del mal; <br/> <br/>porque tuyo es el reino, y el poder, y la gloria, <br/>por los siglos de los siglos. <br/>Amén.									<br/>Mt 6:9-13<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Padre Nuestro</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="378"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Padre</keyword>
+      <keyword>Reino</keyword>
+      <keyword>Voluntad</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Oración</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Padre nuestro que estás en los cielos,<br/>santificado sea tu nombre.<br/>Venga tu reino.<br/>Hágase tu voluntad, como en el cielo,<br/>así también en la tierra.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>El pan nuestro de cada día, dánoslo hoy.<br/>Y perdónanos nuestras deudas,<br/>así como nosotros perdonamos a nuestros deudores.<br/>Y no nos dejes caer en la tentación,<br/>mas líbranos del mal;<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>porque tuyo es el reino, y el poder, y la gloria,<br/>por los siglos de los siglos.<br/>Amén.<br/></lines>
+    </verse>
+    <comment>Mt 6:9-13</comment>
+  </lyrics>
 </song>

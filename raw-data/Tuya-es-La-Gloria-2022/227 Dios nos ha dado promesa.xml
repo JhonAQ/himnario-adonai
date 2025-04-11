@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>227 Dios nos ha dado promesa</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="227"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Dios nos ha dado la promesa:<br/>Lluvias de gracia enviaré,<br/>dones que os den fortaleza;<br/>gran bendición os daré.<br/> <br/>	Lluvias de gracia,<br/>	lluvias pedimos, Señor;<br/>	mándanos lluvias copiosas,<br/>	lluvias del Consolador.<br/> <br/>Cristo nos dio la promesa <br/>del santo Consolador,<br/>dándonos paz y pureza,<br/>para su gloria y honor.<br/> <br/>¡Oh, Dios, a todo creyente<br/>muestra tu amor y poder!<br/>Tú eres de gracia la fuente,<br/>llena de paz nuestro ser.<br/> <br/>Obra en tus siervos piadosos<br/>celo, virtud y valor,<br/>dándonos dones preciosos,<br/>dones del Consolador.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dios nos ha dado promesa</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="227"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Espíritu Santo</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>promesa</keyword>
+      <keyword>lluvias</keyword>
+      <keyword>Consolador</keyword>
+      <keyword>gracia</keyword>
+      <keyword>paz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios nos ha dado la promesa:<br/>Lluvias de gracia enviaré,<br/>dones que os den fortaleza;<br/>gran bendición os daré.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Lluvias de gracia,<br/>lluvias pedimos, Señor;<br/>mándanos lluvias copiosas,<br/>lluvias del Consolador.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo nos dio la promesa<br/>del santo Consolador,<br/>dándonos paz y pureza,<br/>para su gloria y honor.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>¡Oh, Dios, a todo creyente<br/>muestra tu amor y poder!<br/>Tú eres de gracia la fuente,<br/>llena de paz nuestro ser.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obra en tus siervos piadosos<br/>celo, virtud y valor,<br/>dándonos dones preciosos,<br/>dones del Consolador.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

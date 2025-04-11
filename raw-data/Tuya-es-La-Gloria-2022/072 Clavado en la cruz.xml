@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>072 Clavado en la cruz</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="72"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Clavado en la cruz moriste, ¡oh, Señor!<br/>Sé lo que has hecho por amarme a mí.<br/> <br/>	/Tú, Señor, das vida al que viene a ti,<br/>	en tu reino eterno hoy recíbeme./<br/> <br/>Tengo yo la culpa, no la tienes tú;<br/>yo merezco, Cristo, esa cruz llevar.<br/> <br/>Por mí, tú moriste en la cruenta cruz;<br/>¿cómo puedo yo agradecerte a ti?	<br/> <br/>A tu cruz mirando, sigo en pos de ti,<br/>hasta mi llegada al celeste hogar.<br/> <br/>Oye tú mis cuitas, ¡oh, mi padre Dios!<br/>Siendo pecador te pido tu perdón.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Clavado en la cruz</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="72"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Vida de Cristo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Cruz</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Reino</keyword>
+      <keyword>Gratitud</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Clavado en la cruz moriste, ¡oh, Señor!<br/>Sé lo que has hecho por amarme a mí.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Tú, Señor, das vida al que viene a ti,<br/>en tu reino eterno hoy recíbeme./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tengo yo la culpa, no la tienes tú;<br/>yo merezco, Cristo, esa cruz llevar.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Por mí, tú moriste en la cruenta cruz;<br/>¿cómo puedo yo agradecerte a ti?<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>A tu cruz mirando, sigo en pos de ti,<br/>hasta mi llegada al celeste hogar.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oye tú mis cuitas, ¡oh, mi padre Dios!<br/>Siendo pecador te pido tu perdón.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

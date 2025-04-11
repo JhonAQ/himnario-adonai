@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>118 Confía tu camino</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="118"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Confía tu camino, tu pena y tu dolor<br/>a tu Señor divino, del mundo el Creador.<br/>El que a los orbes rige con gloria y majestad,<br/>él mismo te dirige por sendas de verdad.	 <br/> <br/>Constante en Dios confía, y en paz podrás vivir;<br/>su obrar será tu guía por siempre en tu existir.<br/>Con penas y amargura, con tu propia aflicción,<br/>no lograrás ventura, más si con oración.<br/> <br/>Su voluntad impera, todo en su mano está;<br/>su acción es gracia entera, radiante luz su andar.<br/>Jamás su brazo siente fatigas al actuar;<br/>así tú, fiel creyente, al fin podrás triunfar.<br/> <br/>¡Oh!, mi alma desgarrada, espera con quietud.<br/>Pronto estarás librada de toda esclavitud.<br/>Entonces, ¡cuán dichosa!, con Dios tú morarás:<br/>En calma y paz gozosa su faz contemplarás.<br/> <br/>¡Dichoso tú, creyente!, dirás: La fe guardé.<br/>Pues llevas en tu frente los lauros de tu fe.<br/>Dios mismo te corona con gloria y prez sin par;<br/>al Rey tu boca entona loores sin cesar.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Confía tu camino</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="118"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Confianza</keyword>
+      <keyword>Oración</keyword>
+      <keyword>Esperanza</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Victoria</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Confía tu camino, tu pena y tu dolor<br/>a tu Señor divino, del mundo el Creador.<br/>El que a los orbes rige con gloria y majestad,<br/>él mismo te dirige por sendas de verdad.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Constante en Dios confía, y en paz podrás vivir;<br/>su obrar será tu guía por siempre en tu existir.<br/>Con penas y amargura, con tu propia aflicción,<br/>no lograrás ventura, más si con oración.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Su voluntad impera, todo en su mano está;<br/>su acción es gracia entera, radiante luz su andar.<br/>Jamás su brazo siente fatigas al actuar;<br/>así tú, fiel creyente, al fin podrás triunfar.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>¡Oh!, mi alma desgarrada, espera con quietud.<br/>Pronto estarás librada de toda esclavitud.<br/>Entonces, ¡cuán dichosa!, con Dios tú morarás:<br/>En calma y paz gozosa su faz contemplarás.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>¡Dichoso tú, creyente!, dirás: La fe guardé.<br/>Pues llevas en tu frente los lauros de tu fe.<br/>Dios mismo te corona con gloria y prez sin par;<br/>al Rey tu boca entona loores sin cesar.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

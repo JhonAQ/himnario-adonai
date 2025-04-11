@@ -1,21 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>136 No hay cual Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="136"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>No hay cual Jesús otro fiel amigo,<br/>no lo hay, no lo hay;<br/>otro que pueda salvar las almas,<br/>no lo hay, no lo hay.<br/> <br/>	Conoce todas nuestras luchas,<br/>	y solo él nos sostendrá;<br/>	no hay cual Jesús otro fiel amigo,<br/>	no lo hay, no lo hay.<br/> <br/>No hay otro amigo tan santo y digno,<br/>no lo hay, no lo hay;<br/>pero a la vez es humilde y tierno;<br/>otro no hay cual Jesús.<br/> <br/>No hay un instante que nos olvide,<br/>no lo hay, no lo hay;<br/>ni hay noche oscura que no nos cuide,<br/>no la hay, no la hay.				 	<br/> <br/>¿Cuándo es infiel el Pastor divino?<br/>Ni una vez, ni una vez;<br/>¿Cuándo rechaza a los pecadores?<br/>Ni una vez, ni una vez.<br/> <br/>¿Hay otra dádiva como Cristo?<br/>No la hay, no la hay;<br/>ha prometido él estar conmigo,<br/>hasta el fin, hasta el fin.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>No hay cual Jesús</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="136"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Amigo</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Fidelidad</keyword>
+      <keyword>Humildad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No hay cual Jesús otro fiel amigo,<br/>no lo hay, no lo hay;<br/>otro que pueda salvar las almas,<br/>no lo hay, no lo hay.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Conoce todas nuestras luchas,<br/>y solo él nos sostendrá;<br/>no hay cual Jesús otro fiel amigo,<br/>no lo hay, no lo hay.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>No hay otro amigo tan santo y digno,<br/>no lo hay, no lo hay;<br/>pero a la vez es humilde y tierno;<br/>otro no hay cual Jesús.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>No hay un instante que nos olvide,<br/>no lo hay, no lo hay;<br/>ni hay noche oscura que no nos cuide,<br/>no la hay, no la hay.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>¿Cuándo es infiel el Pastor divino?<br/>Ni una vez, ni una vez;<br/>¿Cuándo rechaza a los pecadores?<br/>Ni una vez, ni una vez.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>¿Hay otra dádiva como Cristo?<br/>No la hay, no la hay;<br/>ha prometido él estar conmigo,<br/>hasta el fin, hasta el fin.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

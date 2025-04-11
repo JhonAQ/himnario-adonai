@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>239 Nuestra vida acabará</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="239"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Nuestra vida acabará,<br/>cual las hojas caerá,<br/>cual el haz se ligará.<br/>Busca a Dios.<br/>Vuela cada día veloz,<br/>y volando da su voz:<br/>“Ven a dar tu cuenta a Dios”.<br/>Busca a Dios.<br/> <br/>Busca a Dios, busca a Dios.<br/>Entre tanto tengas tiempo, busca a Dios.<br/>Si te atreves a esperar,<br/>Dios la puerta cerrará.<br/>Te dirá: “Es tarde ya”. <br/>Busca a Dios.<br/> <br/>Pierde el hombre su vigor,<br/>se marchita cual la flor,<br/>se disipa cual vapor.<br/>Busca a Dios.<br/>Como el río aprisa va<br/>hasta entrar al vasto mar,<br/>vas así a la eternidad.<br/>Busca a Dios.<br/> <br/>Clama a Dios de corazón<br/>con sincera contrición,<br/>por Jesús Dios da perdón.<br/>Busca a Dios.<br/>Si no escuchas al Señor,<br/>si desprecias su perdón,<br/>te acarreas perdición.<br/>Busca a Dios.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Nuestra vida acabará</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="239"/>
+    </songbooks>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Vida</keyword>
+      <keyword>Eternidad</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Tiempo</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nuestra vida acabará,<br/>cual las hojas caerá,<br/>cual el haz se ligará.<br/>Busca a Dios.<br/>Vuela cada día veloz,<br/>y volando da su voz:<br/>"Ven a dar tu cuenta a Dios".<br/>Busca a Dios.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Busca a Dios, busca a Dios.<br/>Entre tanto tengas tiempo, busca a Dios.<br/>Si te atreves a esperar,<br/>Dios la puerta cerrará.<br/>Te dirá: "Es tarde ya".<br/>Busca a Dios.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pierde el hombre su vigor,<br/>se marchita cual la flor,<br/>se disipa cual vapor.<br/>Busca a Dios.<br/>Como el río aprisa va<br/>hasta entrar al vasto mar,<br/>vas así a la eternidad.<br/>Busca a Dios.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Clama a Dios de corazón<br/>con sincera contrición,<br/>por Jesús Dios da perdón.<br/>Busca a Dios.<br/>Si no escuchas al Señor,<br/>si desprecias su perdón,<br/>te acarreas perdición.<br/>Busca a Dios.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>219 Pronto vuelve Jesucristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="219"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Pronto vuelve Jesucristo a juzgar a este mundo<br/>con divina potestad.<br/>Esperemos la llegada de aquel hermoso día. ¡Preparaos, cristiandad!<br/> <br/>	Cuando venga Jesucristo, <br/>	temblará el mundo entero;<br/>	no dará el sol su lumbre,<br/>	ni la luna, ni los astros;<br/>	solo Cristo brillará.<br/> <br/>De manera repentina volverá desde la gloria<br/>nuestro Salvador Jesús. <br/>Con cuán grande alegría lo veremos en las nubes <br/>en su refulgente luz.<br/> <br/>Los por Cristo redimidos trabajemos en su viña<br/>proclamando su amor. <br/>Seguiremos con firmeza esperando la venida <br/>de Jesús el Salvador.<br/></lines>
-			</verse>
+		<titles>
+			<title>Pronto vuelve Jesucristo</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="219"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Esperanza y Segunda Venida</theme>
+		</themes>
+		<keywords>
+			<keyword>juicio</keyword>
+			<keyword>Cristo</keyword>
+			<keyword>mundo</keyword>
+			<keyword>segunda</keyword>
+			<keyword>venida</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Pronto vuelve Jesucristo a juzgar a este mundo<br/>con divina potestad.<br/>Esperemos la llegada de aquel hermoso día. ¡Preparaos, cristiandad!<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>Cuando venga Jesucristo,<br/>temblará el mundo entero;<br/>no dará el sol su lumbre,<br/>ni la luna, ni los astros;<br/>solo Cristo brillará.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>De manera repentina volverá desde la gloria<br/>nuestro Salvador Jesús.<br/>Con cuán grande alegría lo veremos en las nubes<br/>en su refulgente luz.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Los por Cristo redimidos trabajemos en su viña<br/>proclamando su amor.<br/>Seguiremos con firmeza esperando la venida<br/>de Jesús el Salvador.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

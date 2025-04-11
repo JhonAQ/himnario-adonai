@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>172 Que mi vida entera esté</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="172"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Que mi vida entera esté<br/>consagrada a ti, Señor;<br/>que a mis manos pueda guiar<br/>el impulso de tu amor.<br/> <br/>	Lávame en tu sangre, Salvador, <br/>	límpiame de toda mi maldad;<br/>	traigo a ti mi vida, para ser, Señor;<br/>	tuya por la eternidad.<br/> <br/>Que mis pies tan solo en pos<br/>de lo santo puedan ir,<br/>y que, a ti, Señor, mi voz,<br/>se complazca en bendecir.<br/> <br/>Que mi tiempo todo esté<br/>consagrado a tu loor,<br/>que mis labios al hablar, <br/>hablen solo de tu amor.<br/> <br/>Toma, ¡oh, Dios!, mi voluntad <br/>y hazla tuya, nada más;<br/>toma, sí, mi corazón,<br/>por tu trono lo tendrás.<br/> <br/>Toma tú, mi amor, que hoy<br/>a tus pies vengo a poner;<br/>toma todo lo que soy,<br/>todo tuyo quiero ser.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Que mi vida entera esté</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="172"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>vida</keyword>
+      <keyword>consagrada</keyword>
+      <keyword>amor</keyword>
+      <keyword>Señor</keyword>
+      <keyword>voluntad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Que mi vida entera esté<br/>consagrada a ti, Señor;<br/>que a mis manos pueda guiar<br/>el impulso de tu amor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lávame en tu sangre, Salvador,<br/>límpiame de toda mi maldad;<br/>traigo a ti mi vida, para ser, Señor;<br/>tuya por la eternidad.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Que mis pies tan solo en pos<br/>de lo santo puedan ir,<br/>y que, a ti, Señor, mi voz,<br/>se complazca en bendecir.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Que mi tiempo todo esté<br/>consagrado a tu loor,<br/>que mis labios al hablar,<br/>hablen solo de tu amor.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Toma, ¡oh, Dios!, mi voluntad<br/>y hazla tuya, nada más;<br/>toma, sí, mi corazón,<br/>por tu trono lo tendrás.<br/></lines>
+    </verse>
+    <verse name="v6">
+      <lines>Toma tú, mi amor, que hoy<br/>a tus pies vengo a poner;<br/>toma todo lo que soy,<br/>todo tuyo quiero ser.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

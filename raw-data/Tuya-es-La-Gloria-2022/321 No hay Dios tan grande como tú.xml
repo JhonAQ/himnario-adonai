@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>321 No hay Dios tan grande como tú</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="321"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/No hay Dios tan grande como tú.<br/>No lo hay, no lo hay./<br/> <br/>/No hay Dios, que pueda hacer las obras,<br/>como las que haces tú./<br/> <br/>/No es con espada, ni con ejército,<br/>mas con tu Santo Espíritu./<br/> <br/>//Y esas almas se salvarán//<br/>con tu Santo Espíritu.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>No hay Dios tan grande como tú</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="321"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Espíritu Santo</theme>
+      <theme>Misión y Evangelismo</theme>
+    </themes>
+    <keywords>
+      <keyword>Dios</keyword>
+      <keyword>Grande</keyword>
+      <keyword>Obras</keyword>
+      <keyword>Espíritu</keyword>
+      <keyword>Almas</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/No hay Dios tan grande como tú.<br/>No lo hay, no lo hay./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/No hay Dios, que pueda hacer las obras,<br/>como las que haces tú./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>/No es con espada, ni con ejército,<br/>mas con tu Santo Espíritu./<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>//Y esas almas se salvarán//<br/>con tu Santo Espíritu.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

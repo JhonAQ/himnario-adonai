@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>261 Escucha oh Dios nuestra oración</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="261"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Escucha, ¡oh, Dios!, nuestra oración<br/>que se dirige a ti<br/>por los que en perdurable unión<br/>se enlazan hoy aquí.<br/> <br/>Pon tu mirada de bondad<br/>en ellos, buen Jesús;<br/>infunde en ambos la piedad<br/>y dales pura luz.<br/> <br/>Sobre ellos haz, Señor, bajar<br/>tu santa bendición,<br/>a fin que puedan alcanzar<br/>la eterna salvación.<br/> <br/>Lc 24:28-29<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Escucha oh Dios nuestra oración</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="261"/>
+    </songbooks>
+    <themes>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Matrimonio</keyword>
+      <keyword>Oración</keyword>
+      <keyword>Bendición</keyword>
+      <keyword>Unión</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Escucha, ¡oh, Dios!, nuestra oración<br/>que se dirige a ti<br/>por los que en perdurable unión<br/>se enlazan hoy aquí.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pon tu mirada de bondad<br/>en ellos, buen Jesús;<br/>infunde en ambos la piedad<br/>y dales pura luz.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sobre ellos haz, Señor, bajar<br/>tu santa bendición,<br/>a fin que puedan alcanzar<br/>la eterna salvación.<br/></lines>
+    </verse>
+    <comment>Lc 24:28-29</comment>
+  </lyrics>
 </song>

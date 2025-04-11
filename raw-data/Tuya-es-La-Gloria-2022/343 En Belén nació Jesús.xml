@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>343 En Belén nació Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="343"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>En Belén nació Jesús. Aleluya.<br/>A los hombres trajo luz. Aleluya.<br/> <br/>Siendo Dios se hizo mortal. Aleluya.<br/>Mas su gloria es eternal. Aleluya.<br/> <br/>Por los hombres él murió. Aleluya.<br/>Con poder resucitó. Aleluya.<br/> <br/>Cristo salva al pecador. Aleluya.<br/>Si confiamos en su amor. Aleluya.<br/> <br/>A vivir con él iré. Aleluya.<br/>En su amor me gozaré. Aleluya.<br/> <br/>En lo alto gloria a Dios. Aleluya.<br/>En lo alto gloria a Dios. Aleluya.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>En Belén nació Jesús</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="343"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+    </themes>
+    <keywords>
+      <keyword>Belén</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>nació</keyword>
+      <keyword>luz</keyword>
+      <keyword>gloria</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En Belén nació Jesús. Aleluya.<br/>A los hombres trajo luz. Aleluya.<br/><br/>Siendo Dios se hizo mortal. Aleluya.<br/>Mas su gloria es eternal. Aleluya.<br/><br/>Por los hombres él murió. Aleluya.<br/>Con poder resucitó. Aleluya.<br/><br/>Cristo salva al pecador. Aleluya.<br/>Si confiamos en su amor. Aleluya.<br/><br/>A vivir con él iré. Aleluya.<br/>En su amor me gozaré. Aleluya.<br/><br/>En lo alto gloria a Dios. Aleluya.<br/>En lo alto gloria a Dios. Aleluya.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

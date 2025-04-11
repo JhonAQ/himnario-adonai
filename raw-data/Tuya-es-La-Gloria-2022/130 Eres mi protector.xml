@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>130 Eres mi protector</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="130"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Eres mi Protector, llenas mi corazón <br/>con cánticos de liberación, <br/>de angustias me guardarás.<br/> <br/>	Confiaré en ti, confiaré en ti, <br/>	el débil dirá: “Fuerte soy <br/>	con poder del Señor.”<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Eres mi protector</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="130"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Protección</keyword>
+      <keyword>Confianza</keyword>
+      <keyword>Fuerza</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Liberación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eres mi Protector, llenas mi corazón<br/>con cánticos de liberación,<br/>de angustias me guardarás.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Confiaré en ti, confiaré en ti,<br/>el débil dirá: “Fuerte soy<br/>con poder del Señor.”<br/></lines>
+    </verse>
+  </lyrics>
 </song>

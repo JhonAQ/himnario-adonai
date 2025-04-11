@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>152 Tu Padre Dios a ti te cuidará</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="152"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Tu Padre Dios, a ti te cuidará<br/>por dondequiera que camines tú,<br/>su Espíritu te fortalecerá.<br/>Así guiado tú feliz serás.<br/> <br/>	Cristo ya viene, viene con poder.<br/>	Reunidos todos por la eternidad.<br/>	Cristo ya viene, viene con poder.<br/>	Reunidos todos por la eternidad.<br/> <br/>En alegría o en tribulación<br/>su gran amor jamás te dejará.<br/>Jesús te colmará de bendición<br/>por dondequiera te defenderá.<br/> <br/>Tu Padre Dios, a ti te cuidará,<br/>en tu camino brillará su luz.<br/>Te alumbrará, confianza te dará,<br/>hasta que venga Cristo el Señor.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Tu Padre Dios a ti te cuidará</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="152"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Padre</keyword>
+      <keyword>Cuidado</keyword>
+      <keyword>Espíritu</keyword>
+      <keyword>Felicidad</keyword>
+      <keyword>Segunda Venida</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tu Padre Dios, a ti te cuidará<br/>por dondequiera que camines tú,<br/>su Espíritu te fortalecerá.<br/>Así guiado tú feliz serás.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cristo ya viene, viene con poder.<br/>Reunidos todos por la eternidad.<br/>Cristo ya viene, viene con poder.<br/>Reunidos todos por la eternidad.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>En alegría o en tribulación<br/>su gran amor jamás te dejará.<br/>Jesús te colmará de bendición<br/>por dondequiera te defenderá.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu Padre Dios, a ti te cuidará,<br/>en tu camino brillará su luz.<br/>Te alumbrará, confianza te dará,<br/>hasta que venga Cristo el Señor.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>297 Oh que amor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="297"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh, qué amor! <br/>¡Qué inmenso amor!,<br/>el de mi Salvador.<br/> <br/>Dios desde el cielo al Salvador<br/>mandó a morir por mí. <br/>Por ti murió, por mí murió;<br/>dio sangre carmesí.<br/> <br/>¡Oh, qué amor! <br/>¡Qué inmenso amor!,<br/>el de mi Salvador.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oh que amor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="297"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Amor</keyword>
+      <keyword>Salvador</keyword>
+      <keyword>Cielo</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Morir</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="c">
+      <lines>¡Oh, qué amor!<br/>¡Qué inmenso amor!,<br/>el de mi Salvador.<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dios desde el cielo al Salvador<br/>mandó a morir por mí.<br/>Por ti murió, por mí murió;<br/>dio sangre carmesí.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Oh, qué amor!<br/>¡Qué inmenso amor!,<br/>el de mi Salvador.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

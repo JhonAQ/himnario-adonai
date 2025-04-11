@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>243 Tal como soy</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="243"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Tal como soy, un pecador, <br/>sin más confianza que tu amor,<br/>ya que me llamas, acudí;<br/>Cordero de Dios, heme aquí.<br/> <br/>Tal como soy, buscando paz<br/>en mi desgracia y mal tenaz,<br/>conflicto grande siento en mí;<br/>Cordero de Dios, heme aquí.<br/> <br/>Tal como soy, me acogerás;<br/>perdón, alivio me darás;<br/>pues tu promesa ya creí;<br/>Cordero de Dios, heme aquí.<br/> <br/>Tal como soy, tu compasión<br/>vencido ha toda oposición.<br/>Ya pertenezco solo a ti,<br/>Cordero de Dios, heme aquí.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Tal como soy</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="243"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Pecador</keyword>
+      <keyword>Cordero</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Aceptación</keyword>
+      <keyword>Compasión</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tal como soy, un pecador,<br/>sin más confianza que tu amor,<br/>ya que me llamas, acudí;<br/>Cordero de Dios, heme aquí.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tal como soy, buscando paz<br/>en mi desgracia y mal tenaz,<br/>conflicto grande siento en mí;<br/>Cordero de Dios, heme aquí.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tal como soy, me acogerás;<br/>perdón, alivio me darás;<br/>pues tu promesa ya creí;<br/>Cordero de Dios, heme aquí.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tal como soy, tu compasión<br/>vencido ha toda oposición.<br/>Ya pertenezco solo a ti,<br/>Cordero de Dios, heme aquí.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

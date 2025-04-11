@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>358 Pasa por aquí</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="358"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Pasa por aquí, Señor, pasa por aquí,/<br/>/!oh, Señor!, pasa por aquí./<br/> <br/>/Espíritu santo, lléname de ti,/<br/>/!oh, Señor!, lléname de ti./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Pasa por aquí</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="358"/>
+    </songbooks>
+    <themes>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Espíritu Santo</theme>
+    </themes>
+    <keywords>
+      <keyword>Señor</keyword>
+      <keyword>Espíritu</keyword>
+      <keyword>Pasa</keyword>
+      <keyword>Lléname</keyword>
+      <keyword>Presencia</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Pasa por aquí, Señor, pasa por aquí,/<br/>/!oh, Señor!, pasa por aquí./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Espíritu santo, lléname de ti,/<br/>/!oh, Señor!, lléname de ti./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

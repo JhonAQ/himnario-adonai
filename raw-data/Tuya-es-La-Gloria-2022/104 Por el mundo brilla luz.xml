@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>104 Por el mundo brilla luz</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="104"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Por el mundo brilla luz, desde que murió Jesús.<br/>Por nosotros en la cruz del Calvario<br/>los pecados él llevó, de la culpa nos libró<br/>con la sangre, que manó del Calvario.<br/> <br/>	Por la sangre, por la sangre, <br/> 	somos redimidos, sí,<br/>	por la sangre carmesí;<br/> 	por la sangre, por la sangre,<br/>	por la sangre de Jesús <br/> 	del Calvario.<br/> <br/>Antes todo fue temor, mas ahora es amor,<br/>porque comprendí el valor del Calvario.<br/>Yo viví en perdición, hoy poseo salvación<br/>por la grande redención del Calvario.<br/> <br/>¿Eres grande pecador? ¡He aquí tu Salvador!<br/>Teme del predicador el Calvario.<br/>Salvación a cada cual, que padece por su mal;<br/>Dios ofrece gracia tal por la sangre.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Por el mundo brilla luz</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="104"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Luz</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Calvario</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Por el mundo brilla luz, desde que murió Jesús.<br/>Por nosotros en la cruz del Calvario<br/>los pecados él llevó, de la culpa nos libró<br/>con la sangre, que manó del Calvario.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Por la sangre, por la sangre,<br/>somos redimidos, sí,<br/>por la sangre carmesí;<br/>por la sangre, por la sangre,<br/>por la sangre de Jesús<br/>del Calvario.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Antes todo fue temor, mas ahora es amor,<br/>porque comprendí el valor del Calvario.<br/>Yo viví en perdición, hoy poseo salvación<br/>por la grande redención del Calvario.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Eres grande pecador? ¡He aquí tu Salvador!<br/>Teme del predicador el Calvario.<br/>Salvación a cada cual, que padece por su mal;<br/>Dios ofrece gracia tal por la sangre.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

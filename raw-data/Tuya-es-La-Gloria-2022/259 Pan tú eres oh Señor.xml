@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>259 Pan tú eres oh Señor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="259"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Pan tú eres, ¡oh, Señor!, para mi bien;<br/>roto en pedazos fuiste tú por mí.<br/>¡Cuán grande amor se vio por cada quien<br/>al permitir Dios sufrir así!<br/> <br/>Me inclino en oración, en gratitud<br/>por provisión que nunca merecí.<br/>Recibe mi cantar como actitud<br/>de adoración sincera ante ti.<br/> <br/>La copa de dolor bebiste allí;<br/>cual hiel y azotes son mis males, sí;<br/>pero tu amor cundió y en mi lugar<br/>vertiste sangre allí para salvar.<br/> <br/>Y ahora al recordar tu obra de amor,<br/>todo mi ser se llena de loor.<br/>Recibe esta expresión de adoración<br/>al contemplarte en recordación.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Pan tú eres oh Señor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="259"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Bautismo y Santa Cena</theme>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Pan</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Adoración</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Sacrificio</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pan tú eres, ¡oh, Señor!, para mi bien;<br/>roto en pedazos fuiste tú por mí.<br/>¡Cuán grande amor se vio por cada quien<br/>al permitir Dios sufrir así!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Me inclino en oración, en gratitud<br/>por provisión que nunca merecí.<br/>Recibe mi cantar como actitud<br/>de adoración sincera ante ti.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>La copa de dolor bebiste allí;<br/>cual hiel y azotes son mis males, sí;<br/>pero tu amor cundió y en mi lugar<br/>vertiste sangre allí para salvar.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y ahora al recordar tu obra de amor,<br/>todo mi ser se llena de loor.<br/>Recibe esta expresión de adoración<br/>al contemplarte en recordación.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

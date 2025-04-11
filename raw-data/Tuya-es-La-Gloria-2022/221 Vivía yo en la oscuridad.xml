@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>221 Vivía yo en la oscuridad</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="221"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Vivía yo en la oscuridad<br/>sin conocer a mi Salvador.<br/>Jesús me vio y me redimió,<br/>limpiándome de toda maldad.<br/> <br/>	Al cielo voy con Cristo Jesús,<br/>	do viviré en una mansión <br/>	que preparada está para mí.<br/>	Allí los escogidos de Dios<br/>	con alegría alabarán <br/>	eternamente a Cristo Jesús.<br/> <br/>Yo tengo gozo en mi corazón<br/>por fe en Cristo, mi Salvador.<br/>Librado estoy de condenación<br/>y voy al cielo siempre a morar.<br/> <br/>Con gozo y paz yo voy a vivir<br/>al lado de mi buen Redentor.<br/>Las pruebas que yo tengo aquí,<br/>allí en el cielo se acabarán.<br/> <br/>Hay salvación por fe en Jesús<br/>provista con su muerte en la cruz.<br/>Si tú recibes hoy al Señor<br/>con alma limpia al cielo entrarás.<br/></lines>
-			</verse>
+		<titles>
+			<title>Vivía yo en la oscuridad</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>					
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="221"/>
+		</songbooks>
+		<themes>
+			<theme>Esperanza y Segunda Venida</theme>
+		</themes>
+		<keywords>
+			<keyword>Oscuridad</keyword>
+			<keyword>Jesús</keyword>
+			<keyword>Mansión</keyword>
+			<keyword>Gozo</keyword>
+			<keyword>Salvación</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Vivía yo en la oscuridad<br/>sin conocer a mi Salvador.<br/>Jesús me vio y me redimió,<br/>limpiándome de toda maldad.<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>Al cielo voy con Cristo Jesús,<br/>do viviré en una mansión<br/>que preparada está para mí.<br/>Allí los escogidos de Dios<br/>con alegría alabarán<br/>eternamente a Cristo Jesús.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Yo tengo gozo en mi corazón<br/>por fe en Cristo, mi Salvador.<br/>Librado estoy de condenación<br/>y voy al cielo siempre a morar.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Con gozo y paz yo voy a vivir<br/>al lado de mi buen Redentor.<br/>Las pruebas que yo tengo aquí,<br/>allí en el cielo se acabarán.<br/></lines>
+		</verse>
+		<verse name="v4">
+			<lines>Hay salvación por fe en Jesús<br/>provista con su muerte en la cruz.<br/>Si tú recibes hoy al Señor<br/>con alma limpia al cielo entrarás.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

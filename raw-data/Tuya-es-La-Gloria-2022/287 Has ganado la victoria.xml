@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>287 Has ganado la victoria</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="287"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Has ganado la victoria, la victoria para mí;<br/>al pecado has vencido y has ganado<br/>la batalla tú por mí./<br/> <br/>/Porque tú eres mi Dios en los cielos,<br/>tú eres mi Dios en la tierra./<br/> <br/>Tú eres mi Dios, y te alabaré.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Has ganado la victoria</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="287"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Victoria</theme>
+    </themes>
+    <keywords>
+      <keyword>Victoria</keyword>
+      <keyword>Batalla</keyword>
+      <keyword>Pecado</keyword>
+      <keyword>Dios</keyword>
+      <keyword>Alabanza</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Has ganado la victoria, la victoria para mí;<br/>al pecado has vencido y has ganado<br/>la batalla tú por mí./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Porque tú eres mi Dios en los cielos,<br/>tú eres mi Dios en la tierra./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tú eres mi Dios, y te alabaré.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

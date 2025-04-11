@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>107 Quién del cielo descendió</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="107"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¿Quién del cielo descendió? Cristo el Salvador.<br/>¿En pobreza quién nació? Cristo el Salvador.	<br/> <br/>	Cantaremos la canción, claro y dulce es el son.<br/>	Él nos trae salvación, Cristo el Salvador. <br/> <br/>¿En madero quién murió? Cristo el Salvador.<br/>¿Quién a mí me rescató? Cristo el Salvador. 					 <br/>¿Quién promete perdonar? Cristo el Salvador.<br/>¿Por creer quién vida da? Cristo el Salvador.<br/> <br/>¿Quién del cielo bajará? Cristo el Salvador.<br/>¿Quién allá nos llevará? Cristo el Salvador.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Quién del cielo descendió</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="107"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Salvador</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Vida</keyword>
+      <keyword>Cielo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Quién del cielo descendió? Cristo el Salvador.<br/>¿En pobreza quién nació? Cristo el Salvador.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cantaremos la canción, claro y dulce es el son.<br/>Él nos trae salvación, Cristo el Salvador.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>¿En madero quién murió? Cristo el Salvador.<br/>¿Quién a mí me rescató? Cristo el Salvador.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>¿Quién promete perdonar? Cristo el Salvador.<br/>¿Por creer quién vida da? Cristo el Salvador.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>¿Quién del cielo bajará? Cristo el Salvador.<br/>¿Quién allá nos llevará? Cristo el Salvador.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

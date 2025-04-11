@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>353 Mi barco es pequeño</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="353"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Mi barco es pequeño,<br/>grande es el mar,<br/>mi mano segura Jesús.<br/>Él es mi piloto, y todo va bien<br/>en viaje a Jerusalén.<br/></lines>
-			</verse>
+		<titles>
+			<title>Mi barco es pequeño</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="353"/>
+		</songbooks>
+		<themes>
+			<theme>Oración y Devoción Personal</theme>
+			<theme>Esperanza y Segunda Venida</theme>
+		</themes>
+		<keywords>
+			<keyword>Barco</keyword>
+			<keyword>Mar</keyword>
+			<keyword>Jesús</keyword>
+			<keyword>Piloto</keyword>
+			<keyword>Jerusalén</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Mi barco es pequeño,<br/>grande es el mar,<br/>mi mano segura Jesús.<br/>Él es mi piloto, y todo va bien<br/>en viaje a Jerusalén.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

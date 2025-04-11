@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>354 Mi corazón está feliz con Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="354"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Mi corazón está feliz con Cristo,<br/>confío siempre en él.<br/>/¿Quién daño alguno<br/>podrá hacerme?<br/>Pues el Señor me guardará./<br/> <br/>Ningún temor tendré.<br/>Jesús es mi Señor.<br/>/A él me entrego,<br/>y en su servicio<br/>confiadamente seguiré./<br/></lines>
-			</verse>
+		<titles>
+			<title>Mi corazón está feliz con Cristo</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="354"/>
+		</songbooks>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Oración y Devoción Personal</theme>
+			<theme>Consagración y Servicio</theme>
+		</themes>
+		<keywords>
+			<keyword>Corazón</keyword>
+			<keyword>Feliz</keyword>
+			<keyword>Cristo</keyword>
+			<keyword>Confianza</keyword>
+			<keyword>Servicio</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Mi corazón está feliz con Cristo,<br/>confío siempre en él.<br/>/¿Quién daño alguno<br/>podrá hacerme?<br/>Pues el Señor me guardará./<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Ningún temor tendré.<br/>Jesús es mi Señor.<br/>/A él me entrego,<br/>y en su servicio<br/>confiadamente seguiré./<br/></lines>
+		</verse>
 	</lyrics>
 </song>

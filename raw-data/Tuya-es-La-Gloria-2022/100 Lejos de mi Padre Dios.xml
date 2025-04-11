@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>100 Lejos de mi Padre Dios</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="100"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Lejos de mi Padre Dios, <br/>por Jesús fui hallado,<br/>por su gracia y por su amor, <br/>fui por él salvado.<br/> <br/>	Es Jesús, el Señor, <br/>mi esperanza eterna.<br/>	Él me amó y me salvó <br/>en su gracia tierna.<br/> <br/>En Jesús mi Salvador <br/>pongo mi confianza;<br/>toda mi necesidad<br/>suple en abundancia.<br/> <br/>Cerca de mi buen Pastor<br/>vivo cada día;<br/>toda gracia en su Señor<br/>halla el alma mía.<br/> <br/>Guárdame, Señor Jesús, <br/>para que no caiga.<br/>Cual sarmiento de la vid,<br/>vida de ti traiga.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Lejos de mi Padre Dios</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="100"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Gracia</keyword>
+      <keyword>Confianza</keyword>
+      <keyword>Pastor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lejos de mi Padre Dios,<br/>por Jesús fui hallado,<br/>por su gracia y por su amor,<br/>fui por él salvado.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Es Jesús, el Señor,<br/>mi esperanza eterna.<br/>Él me amó y me salvó<br/>en su gracia tierna.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>En Jesús mi Salvador<br/>pongo mi confianza;<br/>toda mi necesidad<br/>suple en abundancia.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cerca de mi buen Pastor<br/>vivo cada día;<br/>toda gracia en su Señor<br/>halla el alma mía.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Guárdame, Señor Jesús,<br/>para que no caiga.<br/>Cual sarmiento de la vid,<br/>vida de ti traiga.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

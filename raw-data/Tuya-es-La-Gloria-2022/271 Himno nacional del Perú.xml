@@ -1,21 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>271 Himno nacional del Perú</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="271"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>	Somos libres, seamos lo siempre,<br/>	y antes niegue sus luces el sol,<br/>	que faltemos al voto solemne<br/>	que la Patria al eterno elevó.<br/> <br/>Largo tiempo el peruano oprimido<br/>la ominosa cadena arrastró;<br/>condenado a una cruel servidumbre<br/>largo tiempo en silencio gimió.<br/>Más apenas el grito sagrado<br/>¡Libertad! en sus costas se oyó<br/>la indolencia el esclavo sacude,<br/>la humillada cerviz levantó.<br/> <br/>Ya el estruendo de broncas cadenas<br/>que escuchamos tres siglos de horror,<br/>de los libres al grito sagrado<br/>que oyó atónito el mundo, cesó.<br/>Por doquier San Martín inflamado,<br/>libertad, libertad, pronunció,<br/>y meciendo su base los Andes<br/>la anunciaron, también a una voz.<br/> <br/>Con su influjo los pueblos despiertan<br/>y cual rayo corrió la opinión;<br/>desde el istmo a las tierras del fuego<br/>desde el fuego a la helada región.<br/>Todos juran romper el enlace<br/>que natura a ambos mundos negó<br/>y quebrantar ese cetro que España<br/>reclinaba orgullosa en los dos.<br/> <br/>Lima cumple ese voto solemne,<br/>y, severa, su enojo mostró<br/>al tirano imponente lanzando,<br/>que intentaba alargar su opresión.<br/>A su esfuerzo saltaron los grillos<br/>y los surcos que en sí reparó,<br/>le atizaron el odio y venganza<br/>que heredara de su Inca y Señor.<br/> <br/>Compatriotas, no más verla esclava<br/>si humillada tres siglos gimió,<br/>para siempre jurémosla libre<br/>manteniendo su propio esplendor.<br/>nuestros brazos hasta hoy desarmados<br/>estén siempre cebando el cañón<br/>que algún día las playas de Iberia<br/>sentirán de su estruendo el terror.<br/> <br/>En su cima los Andes sostengan<br/>la bandera o pendón bicolor,<br/>que a los siglos anuncie el esfuerzo<br/>que ser libres, por siempre nos dio.<br/>A su sombra vivamos tranquilos<br/>y al nacer por sus cumbres el sol,<br/>renovemos el gran juramento<br/>que rendimos al Dios de Jacob.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Himno nacional del Perú</title>
+    </titles>
+    <authors>
+      <author>José de la Torre Ugarte</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="271"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Iglesia y Comunidad</theme>
+    </themes>
+    <keywords>
+      <keyword>Libertad</keyword>
+      <keyword>Patria</keyword>
+      <keyword>Perú</keyword>
+      <keyword>Nación</keyword>
+      <keyword>Independencia</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="c">
+      <lines>Somos libres, seamos lo siempre,<br/>y antes niegue sus luces el sol,<br/>que faltemos al voto solemne<br/>que la Patria al eterno elevó.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Largo tiempo el peruano oprimido<br/>la ominosa cadena arrastró;<br/>condenado a una cruel servidumbre<br/>largo tiempo en silencio gimió.<br/>Más apenas el grito sagrado<br/>¡Libertad! en sus costas se oyó<br/>la indolencia el esclavo sacude,<br/>la humillada cerviz levantó.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ya el estruendo de broncas cadenas<br/>que escuchamos tres siglos de horror,<br/>de los libres al grito sagrado<br/>que oyó atónito el mundo, cesó.<br/>Por doquier San Martín inflamado,<br/>libertad, libertad, pronunció,<br/>y meciendo su base los Andes<br/>la anunciaron, también a una voz.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Con su influjo los pueblos despiertan<br/>y cual rayo corrió la opinión;<br/>desde el istmo a las tierras del fuego<br/>desde el fuego a la helada región.<br/>Todos juran romper el enlace<br/>que natura a ambos mundos negó<br/>y quebrantar ese cetro que España<br/>reclinaba orgullosa en los dos.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lima cumple ese voto solemne,<br/>y, severa, su enojo mostró<br/>al tirano imponente lanzando,<br/>que intentaba alargar su opresión.<br/>A su esfuerzo saltaron los grillos<br/>y los surcos que en sí reparó,<br/>le atizaron el odio y venganza<br/>que heredara de su Inca y Señor.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Compatriotas, no más verla esclava<br/>si humillada tres siglos gimió,<br/>para siempre jurémosla libre<br/>manteniendo su propio esplendor.<br/>nuestros brazos hasta hoy desarmados<br/>estén siempre cebando el cañón<br/>que algún día las playas de Iberia<br/>sentirán de su estruendo el terror.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>En su cima los Andes sostengan<br/>la bandera o pendón bicolor,<br/>que a los siglos anuncie el esfuerzo<br/>que ser libres, por siempre nos dio.<br/>A su sombra vivamos tranquilos<br/>y al nacer por sus cumbres el sol,<br/>renovemos el gran juramento<br/>que rendimos al Dios de Jacob.</lines>
+    </verse>
+  </lyrics>
 </song>

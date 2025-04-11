@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>089 Cansado y triste</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="89"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cansado y triste vine al Salvador;<br/>mi culpa él llevó, mi culpa él llevó.<br/>Mi eterna dicha hallé en su amor,<br/>mi culpa él llevó.<br/> <br/>	Mi culpa él llevó, mi culpa él llevó;<br/>	alegre siempre cantaré.<br/>	Al Señor gozoso alabaré,<br/>	porque él me salvó.<br/> <br/>Borrados todos mis pecados son;<br/>mi culpa él llevó, mi culpa él llevó;<br/>a él feliz elevo mi canción;<br/>mi culpa él llevó.<br/> <br/>Ya vivo libre de condenación;<br/>mi culpa él llevó, mi culpa él llevó;<br/>su dulce paz tengo en mi corazón,<br/>mi culpa él llevó.	<br/> <br/>Si vienes hoy a Cristo, pecador,<br/>tu culpa llevará, tu culpa llevará.<br/>Perdón tendrás si acudes al Señor;<br/>tu culpa llevará.			<br/> <br/>	Tu culpa llevará, tu culpa llevará,<br/>	y limpiará tu corazón;<br/>	y dirás feliz en tu canción:<br/>	“Mi culpa él llevó.”<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cansado y triste</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="89"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Salvación</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Paz</keyword>
+      <keyword>Redención</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cansado y triste vine al Salvador;<br/>mi culpa él llevó, mi culpa él llevó.<br/>Mi eterna dicha hallé en su amor,<br/>mi culpa él llevó.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Mi culpa él llevó, mi culpa él llevó;<br/>alegre siempre cantaré.<br/>Al Señor gozoso alabaré,<br/>porque él me salvó.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Borrados todos mis pecados son;<br/>mi culpa él llevó, mi culpa él llevó;<br/>a él feliz elevo mi canción;<br/>mi culpa él llevó.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ya vivo libre de condenación;<br/>mi culpa él llevó, mi culpa él llevó;<br/>su dulce paz tengo en mi corazón,<br/>mi culpa él llevó.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Si vienes hoy a Cristo, pecador,<br/>tu culpa llevará, tu culpa llevará.<br/>Perdón tendrás si acudes al Señor;<br/>tu culpa llevará.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Tu culpa llevará, tu culpa llevará,<br/>y limpiará tu corazón;<br/>y dirás feliz en tu canción:<br/>“Mi culpa él llevó.”<br/></lines>
+    </verse>
+  </lyrics>
 </song>

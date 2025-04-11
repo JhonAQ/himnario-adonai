@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>120 Cristo es la peña del Horeb</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="120"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cristo es la peña de Horeb que está brotando,<br/>agua de vida saludable para ti.<br/>Cristo es la peña de Horeb que está brotando <br/>agua de vida saludable para ti.<br/>Ven a tomarla que es más dulce que la miel;<br/>refresca el alma, refresca todo tu ser.<br/>Cristo es la peña de Horeb que está brotando,<br/>agua de vida saludable para ti.<br/> <br/>Cristo es el lirio del valle de las flores,<br/>él es la rosa blanca y pura de Sarón.<br/>Cristo es la vida y amor de los amores,<br/>él es la eterna fuente de la salvación.<br/>Ven, a buscarla en tu triste condición;<br/>refresca el alma, refresca todo tu ser.<br/>Cristo es el lirio del valle de las flores,<br/>él es la rosa blanca y pura de Sarón.<br/> <br/>Ex 17:1-7; Cnt 2:1<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cristo es la peña del Horeb</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="120"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Peña</keyword>
+      <keyword>Vida</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Rosa</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo es la peña de Horeb que está brotando,<br/>agua de vida saludable para ti.<br/>Cristo es la peña de Horeb que está brotando,<br/>agua de vida saludable para ti.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Ven a tomarla que es más dulce que la miel;<br/>refresca el alma, refresca todo tu ser.<br/>Cristo es la peña de Horeb que está brotando,<br/>agua de vida saludable para ti.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo es el lirio del valle de las flores,<br/>él es la rosa blanca y pura de Sarón.<br/>Cristo es la vida y amor de los amores,<br/>él es la eterna fuente de la salvación.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Ven, a buscarla en tu triste condición;<br/>refresca el alma, refresca todo tu ser.<br/>Cristo es el lirio del valle de las flores,<br/>él es la rosa blanca y pura de Sarón.<br/></lines>
+    </verse>
+    <comment>Éxodo 17:1-7; Cantares 2:1</comment>
+  </lyrics>
 </song>

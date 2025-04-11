@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>228 En el santo lugar</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="228"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>En el santo hogar donde vive Dios<br/>no hay pecado allí, ni iniquidad.<br/>No podrá entrar ningún pecador,<br/>todo puro está delante de Dios.<br/> <br/>	Al hogar de Dios solo entrará<br/>	él que salvo está por Cristo el Señor.<br/>	Busca hoy sin tardar esta salvación. <br/>	Dios con mucho amor te perdonará.<br/> <br/>El hogar de Dios santo y limpio está,<br/>ni un pecador hay, todo es bondad.<br/>Hoy prepárate y tu alma limpia esté<br/>para ir con Jesús al celeste hogar.<br/> <br/>¿Por qué sigues tú en pecado vil?<br/>Arrepiéntete de todo tu mal.<br/>Cristo con su amor tu mal limpiará<br/>y podrás entrar al celeste hogar.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>En el santo lugar</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="228"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>hogar</keyword>
+      <keyword>Dios</keyword>
+      <keyword>pecado</keyword>
+      <keyword>arrepentimiento</keyword>
+      <keyword>cielo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En el santo hogar donde vive Dios<br/>no hay pecado allí, ni iniquidad.<br/>No podrá entrar ningún pecador,<br/>todo puro está delante de Dios.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al hogar de Dios solo entrará<br/>él que salvo está por Cristo el Señor.<br/>Busca hoy sin tardar esta salvación.<br/>Dios con mucho amor te perdonará.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>El hogar de Dios santo y limpio está,<br/>ni un pecador hay, todo es bondad.<br/>Hoy prepárate y tu alma limpia esté<br/>para ir con Jesús al celeste hogar.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>¿Por qué sigues tú en pecado vil?<br/>Arrepiéntete de todo tu mal.<br/>Cristo con su amor tu mal limpiará<br/>y podrás entrar al celeste hogar.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

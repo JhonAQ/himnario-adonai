@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>224 A Jesucristo ven sin tardar</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="224"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>A Jesucristo ven sin tardar,<br/>que entre nosotros hoy él está,<br/>y te convida con dulce afán,<br/>tierno diciendo: “Ven”.<br/> <br/>	¡Oh!, cuán grata nuestra reunión<br/>	cuando allá, Señor, en tu mansión<br/>	contigo estemos en comunión<br/>	gozando eterno bien.<br/> <br/>Piensa que él solo puede colmar<br/>tu triste pecho de gozo y paz;<br/>y porque anhela tu bienestar,<br/>vuelve a decirte: “Ven”.<br/> <br/>Su voz escucha sin vacilar,<br/>y grato acepta lo que hoy te da.<br/>Tal vez mañana no habrá lugar,<br/>no te detengas, ven.<br/></lines>
-			</verse>
+		<titles>
+			<title>A Jesucristo ven sin tardar</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="224"/>
+		</songbooks>
+		<themes>
+			<theme>Misión y Evangelismo</theme>
+		</themes>
+		<keywords>
+			<keyword>Jesucristo</keyword>
+			<keyword>Ven</keyword>
+			<keyword>Gozo</keyword>
+			<keyword>Paz</keyword>
+			<keyword>Mansión</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A Jesucristo ven sin tardar,<br/>que entre nosotros hoy él está,<br/>y te convida con dulce afán,<br/>tierno diciendo: “Ven”.<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>¡Oh!, cuán grata nuestra reunión<br/>cuando allá, Señor, en tu mansión<br/>contigo estemos en comunión<br/>gozando eterno bien.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Piensa que él solo puede colmar<br/>tu triste pecho de gozo y paz;<br/>y porque anhela tu bienestar,<br/>vuelve a decirte: “Ven”.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Su voz escucha sin vacilar,<br/>y grato acepta lo que hoy te da.<br/>Tal vez mañana no habrá lugar,<br/>no te detengas, ven.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

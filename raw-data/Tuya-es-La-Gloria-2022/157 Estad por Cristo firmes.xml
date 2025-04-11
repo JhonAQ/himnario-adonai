@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>157 Estad por Cristo firmes</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="157"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Estad por Cristo firmes!,<br/>soldados de la cruz;<br/>alzad hoy la bandera <br/>en nombre de Jesús.<br/>Es vuestra la victoria<br/>con él por capitán,<br/>por él serán vencidas <br/>las huestes de Satán.<br/> <br/>¡Estad por Cristo firmes!<br/>Hoy llama a la lid;<br/>con él, pues a la lucha,<br/>¡soldados todos, id!<br/>Probad que sois valientes,<br/>luchando contra el mal;<br/>si es fuerte el enemigo,<br/>Jesús es sinigual.<br/> <br/>¡Estad por Cristo firmes!,<br/>las fuerzas son de él.<br/>El brazo de los hombres<br/>por débil no es fiel.<br/>Vestíos la armadura,<br/>velad en oración.<br/>Deberes y peligros<br/>demandan más tesón.<br/> <br/>¡Estad por Cristo firmes!<br/>Bien poco durarán<br/>la lucha y la batalla;<br/>victoria viene ya.<br/>A todo el que venciere<br/>corona se dará;<br/>y con el Rey de gloria<br/>por siempre vivirá.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Estad por Cristo firmes</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="157"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Consagración y Servicio</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Firmes</keyword>
+      <keyword>Soldados</keyword>
+      <keyword>Victoria</keyword>
+      <keyword>Batalla</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Estad por Cristo firmes!,<br/>soldados de la cruz;<br/>alzad hoy la bandera<br/>en nombre de Jesús.<br/>Es vuestra la victoria<br/>con él por capitán,<br/>por él serán vencidas<br/>las huestes de Satán.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Estad por Cristo firmes!<br/>Hoy llama a la lid;<br/>con él, pues a la lucha,<br/>¡soldados todos, id!<br/>Probad que sois valientes,<br/>luchando contra el mal;<br/>si es fuerte el enemigo,<br/>Jesús es sinigual.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>¡Estad por Cristo firmes!,<br/>las fuerzas son de él.<br/>El brazo de los hombres<br/>por débil no es fiel.<br/>Vestíos la armadura,<br/>velad en oración.<br/>Deberes y peligros<br/>demandan más tesón.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>¡Estad por Cristo firmes!<br/>Bien poco durarán<br/>la lucha y la batalla;<br/>victoria viene ya.<br/>A todo el que venciere<br/>corona se dará;<br/>y con el Rey de gloria<br/>por siempre vivirá.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

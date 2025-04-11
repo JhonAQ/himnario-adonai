@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>199 Oh yo quiero andar con Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="199"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh!, yo quiero andar con Cristo,<br/>quiero oír su tierna voz, <br/>meditar en su palabra <br/>y cumplir su voluntad.<br/>Consagrar a él mi vida,<br/>mis dolores y afán;<br/>y algún día con mi Cristo,<br/>gozaré la claridad.<br/> <br/>	¡Oh, sí, yo quiero andar con Cristo!<br/>	¡Oh, sí, yo quiero vivir con Cristo!<br/>	¡Oh, sí, yo quiero servir a Cristo!<br/>	Quiero serle un testigo fiel.<br/> <br/>¡Oh!, yo quiero andar con Cristo,<br/>él es mi ejemplo fiel;<br/>en la Biblia yo lo leo,<br/>y yo sé que es la verdad.<br/>Cristo era santo en todo,<br/>el Cordero de la cruz,<br/>y yo anhelo ser cristiano,<br/>seguidor de mi Jesús.<br/> <br/>¡Oh!, yo quiero andar con Cristo,<br/>de mi senda él es la luz.<br/>Dejaré el perverso mundo<br/>para ir al Salvador;<br/>este mundo nada ofrece,<br/>Cristo ofrece Salvación,<br/>y es mi única esperanza<br/>vida eterna hallar con Dios.<br/></lines>
-			</verse>
+		<titles>
+			<title>Oh yo quiero andar con Cristo</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="199"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Oración y Devoción Personal</theme>
+			<theme>Consagración y Servicio</theme>
+		</themes>
+		<keywords>
+			<keyword>andar</keyword>
+			<keyword>Cristo</keyword>
+			<keyword>testigo</keyword>
+			<keyword>vida</keyword>
+			<keyword>luz</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>¡Oh!, yo quiero andar con Cristo, quiero oír su tierna voz,<br/>meditar en su palabra y cumplir su voluntad.<br/>Consagrar a él mi vida, mis dolores y afán;<br/>y algún día con mi Cristo, gozaré la claridad.<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>¡Oh, sí, yo quiero andar con Cristo!<br/>¡Oh, sí, yo quiero vivir con Cristo!<br/>¡Oh, sí, yo quiero servir a Cristo!<br/>Quiero serle un testigo fiel.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>¡Oh!, yo quiero andar con Cristo, él es mi ejemplo fiel;<br/>en la Biblia yo lo leo, y yo sé que es la verdad.<br/>Cristo era santo en todo, el Cordero de la cruz;<br/>y yo anhelo ser cristiano, seguidor de mi Jesús.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>¡Oh!, yo quiero andar con Cristo, de mi senda él es la luz.<br/>Dejaré el perverso mundo para ir al Salvador;<br/>este mundo nada ofrece, Cristo ofrece Salvación;<br/>y es mi única esperanza vida eterna hallar con Dios.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

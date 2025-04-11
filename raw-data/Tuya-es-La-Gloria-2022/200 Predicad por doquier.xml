@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>200 Predicad por doquier</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="200"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Predicad por doquier la verdad de Dios,<br/>proclamando el mensaje de su amor.<br/>Anunciad su perdón con alegre voz,<br/>alabando a Jesús nuestro Salvador.<br/> <br/>	Si en pos del Señor caminamos en luz,<br/>	vida eterna y gozo él nos dará.<br/>	Si aquí le seguimos, llevando la cruz,<br/>	en el cielo Jesús nos coronará.<br/> <br/>Predicad por doquier de Cristo el Señor,<br/>anunciando a todos su salvación:<br/>Que, en su tierno amor por el pecador,<br/>él murió en la cruz para dar perdón.<br/> <br/>Alabad al Señor por su gran amor,<br/>que nos libra del mal por la redención.<br/>En la lucha más cruel, defensor es él,<br/>nos dará la victoria en la tentación.<br/></lines>
-			</verse>
+		<titles>
+			<title>Predicad por doquier</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="200"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Misión y Evangelismo</theme>
+			<theme>Adoración y Alabanza</theme>
+		</themes>
+		<keywords>
+			<keyword>predicar</keyword>
+			<keyword>salvación</keyword>
+			<keyword>Jesús</keyword>
+			<keyword>amor</keyword>
+			<keyword>verdad</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Predicad por doquier la verdad de Dios,<br/>proclamando el mensaje de su amor.<br/>Anunciad su perdón con alegre voz,<br/>alabando a Jesús nuestro Salvador.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Si en pos del Señor caminamos en luz,<br/>vida eterna y gozo él nos dará.<br/>Si aquí le seguimos, llevando la cruz,<br/>en el cielo Jesús nos coronará.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Predicad por doquier de Cristo el Señor,<br/>anunciando a todos su salvación:<br/>Que, en su tierno amor por el pecador,<br/>él murió en la cruz para dar perdón.<br/></lines>
+		</verse>
+		<verse name="v4">
+			<lines>Alabad al Señor por su gran amor,<br/>que nos libra del mal por la redención.<br/>En la lucha más cruel, defensor es él,<br/>nos dará la victoria en la tentación.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

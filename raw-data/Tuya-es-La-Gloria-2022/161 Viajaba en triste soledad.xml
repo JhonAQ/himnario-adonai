@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>161 Viajaba en triste soledad</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="161"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Viajaba en triste soledad, y nadie me buscó,<br/>la carga horrible de impiedad más grande se volvió;<br/>le dije a Jesucristo que me trataban mal,<br/>entonces le oí así decir:<br/>“Camino del Calvario mi pie también sufrió,<br/>la cruz que yo cargaba mi cuerpo doblegó.<br/>Prosigue, peregrino, que el alba ya vendrá;<br/>tu cruz levanta y ven en pos de mí”.<br/> <br/>A veces dije que por él penoso es trabajar,<br/>que mucho yo sacrifiqué su senda por andar.<br/>“Mi fama y mi fortuna por ti yo la dejé”.<br/>Entonces le oí así decir:<br/>“Mi hogar de eterna gloria por ti abandoné,<br/>mis manos enclavadas en cruenta cruz miré.<br/>Mas hoy caminaremos unidos tú y yo;<br/>tu cruz levanta y ven en pos de mí”.<br/> <br/>Jesús, si llego a morir muy lejos de mi hogar,<br/>ni así podría tu sufrir mi vida compensar,<br/>mejor amor de amigo jamás podré hallar,<br/>por eso al Salvador oí decir:<br/>“Si solo un vaso de agua te pido que has de dar,<br/>de ti un vaso de agua solo he de demandar.<br/>Mas si en tus aflicciones un alma has de ayudar,<br/>de ti muy cerca yo prometo estar”.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Viajaba en triste soledad</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="161"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Soledad</keyword>
+      <keyword>Cruz</keyword>
+      <keyword>Jesucristo</keyword>
+      <keyword>Consuelo</keyword>
+      <keyword>Amor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Viajaba en triste soledad, y nadie me buscó,<br/>la carga horrible de impiedad más grande se volvió;<br/>le dije a Jesucristo que me trataban mal,<br/>entonces le oí así decir:<br/>“Camino del Calvario mi pie también sufrió,<br/>la cruz que yo cargaba mi cuerpo doblegó.<br/>Prosigue, peregrino, que el alba ya vendrá;<br/>tu cruz levanta y ven en pos de mí”.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A veces dije que por él penoso es trabajar,<br/>que mucho yo sacrifiqué su senda por andar.<br/>“Mi fama y mi fortuna por ti yo la dejé”.<br/>Entonces le oí así decir:<br/>“Mi hogar de eterna gloria por ti abandoné,<br/>mis manos enclavadas en cruenta cruz miré.<br/>Mas hoy caminaremos unidos tú y yo;<br/>tu cruz levanta y ven en pos de mí”.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesús, si llego a morir muy lejos de mi hogar,<br/>ni así podría tu sufrir mi vida compensar,<br/>mejor amor de amigo jamás podré hallar,<br/>por eso al Salvador oí decir:<br/>“Si solo un vaso de agua te pido que has de dar,<br/>de ti un vaso de agua solo he de demandar.<br/>Mas si en tus aflicciones un alma has de ayudar,<br/>de ti muy cerca yo prometo estar”.</lines>
+    </verse>
+  </lyrics>
 </song>
