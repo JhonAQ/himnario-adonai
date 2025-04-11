@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>277 Celebrad a Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="277"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>//Celebrad a Cristo,<br/>celebrad.//<br/> <br/>Resucitó, resucitó<br/>y él vive para siempre.<br/>Resucitó, resucitó.<br/>Vamos a celebrar.<br/>Nuestro Señor resucitó.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Celebrad a Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="277"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Navidad y Pascua</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Resucitó</keyword>
+      <keyword>Celebración</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Vida</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Celebrad a Cristo,<br/>celebrad.//<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Resucitó, resucitó<br/>y él vive para siempre.<br/>Resucitó, resucitó.<br/>Vamos a celebrar.<br/>Nuestro Señor resucitó.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

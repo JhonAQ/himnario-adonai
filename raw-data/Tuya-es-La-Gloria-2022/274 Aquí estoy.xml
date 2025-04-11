@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>274 Aquí estoy</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="274"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Aquí estoy para darte mi canción.<br/>Eres Rey de todo el universo.<br/>Con mi corazón te alabaré a ti.<br/>Eres Rey de todo el universo.<br/> <br/>/Y alzo yo mis manos,<br/>me arrodillo frente a ti.<br/>Eres Alfa y Omega,<br/>el Rey que vive en mí./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Aquí estoy</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="274"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Rey</keyword>
+      <keyword>Universo</keyword>
+      <keyword>Adoración</keyword>
+      <keyword>Alfa</keyword>
+      <keyword>Omega</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aquí estoy para darte mi canción.<br/>Eres Rey de todo el universo.<br/>Con mi corazón te alabaré a ti.<br/>Eres Rey de todo el universo.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Y alzo yo mis manos,<br/>me arrodillo frente a ti.<br/>Eres Alfa y Omega,<br/>el Rey que vive en mí./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

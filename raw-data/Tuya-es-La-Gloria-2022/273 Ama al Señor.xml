@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>273 Ama al Señor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="273"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Ama al Señor con todo tu corazón, <br/>con tu mente, con tu alma también.<br/>Y ama a los demás como a ti mismo <br/>y ama Dios, Señor tu Dios,<br/>con todo tu corazón, <br/>con toda tu mente y alma, <br/>y ama a los demás.<br/> <br/>Tenemos vida cristiana que vivir,<br/>tenemos el amor de Cristo que dar.<br/>No tenemos nada que ocultar,<br/>porque el Señor nos dice: Ama.<br/> <br/>Dt 6:5; Mt 22:34-40<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ama al Señor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="273"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Amor</keyword>
+      <keyword>Corazón</keyword>
+      <keyword>Mandamiento</keyword>
+      <keyword>Prójimo</keyword>
+      <keyword>Servir</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ama al Señor con todo tu corazón,<br/>con tu mente, con tu alma también.<br/>Y ama a los demás como a ti mismo<br/>y ama Dios, Señor tu Dios,<br/>con todo tu corazón,<br/>con toda tu mente y alma,<br/>y ama a los demás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tenemos vida cristiana que vivir,<br/>tenemos el amor de Cristo que dar.<br/>No tenemos nada que ocultar,<br/>porque el Señor nos dice: Ama.</lines>
+    </verse>
+    <comment>Dt 6:5; Mt 22:34-40</comment>
+  </lyrics>
 </song>
