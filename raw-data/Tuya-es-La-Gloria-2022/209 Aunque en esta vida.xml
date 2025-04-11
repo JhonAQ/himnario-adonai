@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Aunque en esta vida</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="209"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Misión y Evangelismo</theme>
+    </themes>
+    <keywords>
+      <keyword>riquezas</keyword>
+      <keyword>mansión</keyword>
+      <keyword>hogar</keyword>
+      <keyword>salvación</keyword>
+      <keyword>Cristo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aunque en esta vida no tengo riquezas,<br/>sé que allá en la gloria tengo una mansión;<br/>cual alma perdida entre las pobrezas,<br/>de mí, Jesucristo tuvo compasión.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Más allá del sol, más allá del sol<br/>yo tengo un hogar, hogar, bello hogar,<br/>más allá del sol./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Así por el mundo yo voy caminando,<br/>de pruebas rodeado y de tentación;<br/>pero a mi lado viene consolando,<br/>mi bendito Cristo en la turbación.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>A los pueblos todos del linaje humano<br/>Cristo quiere darles plena salvación;<br/>también una casa para cada hermano<br/>fue a prepararles a la santa Sión.<br/></lines>
+    </verse>
+  </lyrics>
+</song>
