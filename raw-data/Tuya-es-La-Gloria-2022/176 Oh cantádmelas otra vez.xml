@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>176 Oh cantádmelas otra vez</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="176"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh, cantádmelas otra vez! bellas palabras de vida;<br/>hallo en ellas mi gozo y luz, bellas palabras de vida.<br/>Sí, de luz y vida son sostén y guía. <br/> <br/>	¡Qué bellas son, qué bellas son! <br/>	Bellas palabras de vida.<br/>	¡Qué bellas son, qué bellas son! <br/>	Bellas palabras de vida.<br/> <br/>Jesucristo a todos da bellas palabras de vida;<br/>él llamándote hoy está, bellas palabras de vida.<br/>Bondadoso te salva, y al cielo te llama.<br/> <br/>Grato el cántico sonará, bellas palabras de vida;<br/>tus pecados perdonará, bellas palabras de vida.<br/>Sí, de luz y vida son sostén y guía.<br/></lines>
-			</verse>
+		<titles>
+			<title>Oh cantádmelas otra vez</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="176"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Coros</theme>
+		</themes>
+		<keywords>
+			<keyword>cantádmelas</keyword>
+			<keyword>palabras</keyword>
+			<keyword>vida</keyword>
+			<keyword>luz</keyword>
+			<keyword>salva</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>¡Oh, cantádmelas otra vez! bellas palabras de vida;<br/>hallo en ellas mi gozo y luz, bellas palabras de vida;<br/>Sí, de luz y vida son sostén y guía.</lines>
+		</verse>
+		<verse name="c">
+			<lines>¡Qué bellas son, qué bellas son!<br/>Bellas palabras de vida;<br/>¡Qué bellas son, qué bellas son!<br/>Bellas palabras de vida.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesucristo a todos da bellas palabras de vida;<br/>él llamándote hoy está, bellas palabras de vida;<br/>Bondadoso te salva, y al cielo te llama.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Grato el cántico sonará, bellas palabras de vida;<br/>tus pecados perdonará, bellas palabras de vida;<br/>Sí, de luz y vida son sostén y guía.</lines>
+		</verse>
 	</lyrics>
 </song>

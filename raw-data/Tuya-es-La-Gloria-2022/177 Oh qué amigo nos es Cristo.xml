@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>177 Oh qué amigo nos es Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="177"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh, qué amigo nos es Cristo! Él llevó nuestro dolor;<br/>él nos manda que llevemos todo a Dios en oración.<br/>¿Vive el hombre desprovisto de paz, gozo y santo amor?<br/>Esto es porque no llevamos todo a Dios en oración.<br/> <br/>¿Estás débil y cargado de cuidados y temor?<br/>A Jesús, refugio eterno, dile todo en oración.<br/>¿Te desprecian tus amigos? Cuéntaselo en oración;<br/>en sus brazos de amor tierno paz tendrá tu corazón.<br/> <br/>Jesucristo es nuestro amigo; de esto prueba nos mostró,<br/>pues para llevar consigo al culpable, se humanó.<br/>El castigo de su pueblo en su muerte él sufrió.<br/>Cristo es un amigo eterno; solo en él confío yo.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oh qué amigo nos es Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="177"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Coros</theme>
+    </themes>
+    <keywords>
+      <keyword>amigo</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>oración</keyword>
+      <keyword>amor</keyword>
+      <keyword>refugio</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Oh, qué amigo nos es Cristo! Él llevó nuestro dolor;<br/>él nos manda que llevemos todo a Dios en oración.<br/>¿Vive el hombre desprovisto de paz, gozo y santo amor?<br/>Esto es porque no llevamos todo a Dios en oración.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>¿Estás débil y cargado de cuidados y temor?<br/>A Jesús, refugio eterno, dile todo en oración.<br/>¿Te desprecian tus amigos? Cuéntaselo en oración;<br/>en sus brazos de amor tierno paz tendrá tu corazón.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jesucristo es nuestro amigo; de esto prueba nos mostró,<br/>pues para llevar consigo al culpable, se humanó.<br/>El castigo de su pueblo en su muerte él sufrió.<br/>Cristo es un amigo eterno; solo en él confío yo.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>182 Sostennos firmes oh Señor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="182"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Sostennos firmes, ¡oh, Señor!,<br/>en la Palabra de tu amor; <br/>refrena a los que, en su maldad,<br/>tu reino quieren derribar.<br/> <br/>Demuestra tu poder, Jesús,<br/>pues Rey de reyes eres tú;<br/>haz que tu amada cristiandad<br/>te alabe con sinceridad.<br/> <br/>¡Oh, Santo Espíritu de Dios!,<br/>escucha de tu grey la voz:<br/>Conserva en ella la unidad,<br/>y guárdala en tu santa paz.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Jesucristo mi buen Dios</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="170"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>jesucristo</keyword>
+      <keyword>compasivo</keyword>
+      <keyword>amor</keyword>
+      <keyword>oración</keyword>
+      <keyword>corazón</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesucristo, mi buen Dios, compasivo eres tú;<br/>tan brillante como el sol, que alumbra el corazón.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siempre te seguiré, Cristo, mi Señor,<br/>sin quedarme atrás, fiel hasta morir.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cerca a ti vivir, Señor, me da gozo y paz sin par;<br/>gozo hay en mi corazón si a tu lado siempre estoy.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Padre Dios, tu inmenso amor yo no puedo comprender.<br/>Solo sé que por tu amor me salvaste del pecar.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

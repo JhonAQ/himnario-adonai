@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Jesucristo mi buen Dios</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="170"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesucristo</keyword>
+      <keyword>amor</keyword>
+      <keyword>compasión</keyword>
+      <keyword>gozo</keyword>
+      <keyword>salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesucristo, mi buen Dios, compasivo eres tú;<br/>tan brillante como el sol, que alumbra el corazón.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Siempre te seguiré, Cristo, mi Señor,<br/>sin quedarme atrás, fiel hasta morir.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cerca a ti vivir, Señor, me da gozo y paz sin par;<br/>gozo hay en mi corazón si a tu lado siempre estoy.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Padre Dios, tu inmenso amor yo no puedo comprender.<br/>Solo sé que por tu amor me salvaste del pecar.<br/></lines>
+    </verse>
+  </lyrics>
+</song>
