@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>088 Soplo de Dios viviente</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="88"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Soplo de Dios viviente que<br/>en el principio cubriste el agua;<br/>soplo de Dios viviente<br/>que fecundaste la creación.<br/> <br/>	¡Ven hoy a nuestras almas,<br/>	infúndenos tus dones!<br/>	Soplo de Dios viviente,<br/>	¡oh, Santo Espíritu del Señor!<br/> <br/>Soplo de Dios viviente por <br/>quien el Hijo se hizo hombre.<br/>Soplo de Dios viviente<br/>que renovaste la creación.<br/> <br/>Soplo de Dios viviente por<br/>quien nacemos en el bautismo.<br/>Soplo de Dios viviente<br/>que consagraste la creación.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Soplo de Dios viviente</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="88"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Espíritu Santo</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Bautismo y Santa Cena</theme>
+    </themes>
+    <keywords>
+      <keyword>Soplo</keyword>
+      <keyword>Espíritu</keyword>
+      <keyword>Creación</keyword>
+      <keyword>Bautismo</keyword>
+      <keyword>Dones</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Soplo de Dios viviente que<br/>en el principio cubriste el agua;<br/>soplo de Dios viviente<br/>que fecundaste la creación.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Ven hoy a nuestras almas,<br/>infúndenos tus dones!<br/>Soplo de Dios viviente,<br/>¡oh, Santo Espíritu del Señor!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soplo de Dios viviente por<br/>quien el Hijo se hizo hombre.<br/>Soplo de Dios viviente<br/>que renovaste la creación.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Soplo de Dios viviente por<br/>quien nacemos en el bautismo.<br/>Soplo de Dios viviente<br/>que consagraste la creación.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

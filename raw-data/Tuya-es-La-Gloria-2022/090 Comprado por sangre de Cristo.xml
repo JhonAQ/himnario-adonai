@@ -1,21 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>090 Comprado por sangre de Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="90"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Comprado por sangre de Cristo<br/>con gozo al cielo yo voy; <br/>librado por gracia infinita<br/>ya sé que su hijo yo soy.<br/> <br/>	Lo sé, lo sé,<br/>comprado con sangre yo soy;<br/>	lo sé, lo sé, <br/> 	con Cristo al cielo yo voy.<br/> <br/>Soy libre de pena y culpa, <br/>su gozo él me hace sentir.<br/>Él llena de gracia mi alma,<br/>con él es tan dulce vivir.	<br/>		 <br/>En Cristo yo siempre medito,<br/>y nunca le puedo olvidar;<br/>callar sus favores no quiero,<br/>voy siempre a Jesús alabar.	<br/> <br/>Seguro sé que la belleza, <br/>del gran Rey yo voy a mirar;<br/>ahora me guarda y me guía, <br/>y siempre me quiere ayudar.<br/> <br/>Yo sé que me espera corona, <br/>la cual a los fieles dará<br/>Jesús Salvador; en el cielo<br/>mi alma con él estará.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Comprado por sangre de Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="90"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Comprado</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Gozo</keyword>
+      <keyword>Corona</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Comprado por sangre de Cristo<br/>con gozo al cielo yo voy;<br/>librado por gracia infinita<br/>ya sé que su hijo yo soy.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Lo sé, lo sé,<br/>comprado con sangre yo soy;<br/>lo sé, lo sé,<br/>con Cristo al cielo yo voy.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Soy libre de pena y culpa,<br/>su gozo él me hace sentir.<br/>Él llena de gracia mi alma,<br/>con él es tan dulce vivir.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>En Cristo yo siempre medito,<br/>y nunca le puedo olvidar;<br/>callar sus favores no quiero,<br/>voy siempre a Jesús alabar.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Seguro sé que la belleza<br/>del gran Rey yo voy a mirar;<br/>ahora me guarda y me guía,<br/>y siempre me quiere ayudar.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Yo sé que me espera corona,<br/>la cual a los fieles dará<br/>Jesús Salvador; en el cielo<br/>mi alma con él estará.<br/></lines>
+    </verse>
+  </lyrics>
 </song>
