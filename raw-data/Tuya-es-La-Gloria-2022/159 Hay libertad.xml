@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>159 Hay libertad</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="159"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Las cadenas de la muerte me quitó.<br/>Para mí ya no hay condenación.<br/>Hay libertad, libertad.<br/>Siendo esclavo del pecado me libró,<br/>en la cruz compró mi redención<br/>y libertad, libertad.<br/> <br/>	Rompió mis cadenas,<br/>	me dio vida nueva,<br/>	y al fondo del mar echó mi maldad.<br/>	Lavó mis pecados,<br/>	y me ha perdonado.<br/>	Solo en el nombre de Jesús<br/>	hay libertad.<br/> <br/>Yo proclamo al que en la cruz por mí murió<br/>y cambió mi duro corazón<br/>por libertad, libertad.<br/>El poder de su evangelio me salvó,<br/>y no me avergüenzo del Señor,<br/>mi libertad, libertad.<br/> <br/>	Rompió mis cadenas...<br/> <br/>/Al que el Hijo hace libre,<br/>es libre en verdad./<br/> <br/>	Rompió mis cadenas...<br/> <br/>Ro 8:1<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Hay libertad</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="159"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Libertad</keyword>
+      <keyword>Redención</keyword>
+      <keyword>Evangelio</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Jesús</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Las cadenas de la muerte me quitó.<br/>Para mí ya no hay condenación.<br/>Hay libertad, libertad.<br/>Siendo esclavo del pecado me libró,<br/>en la cruz compró mi redención<br/>y libertad, libertad.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Rompió mis cadenas,<br/>me dio vida nueva,<br/>y al fondo del mar echó mi maldad.<br/>Lavó mis pecados,<br/>y me ha perdonado.<br/>Solo en el nombre de Jesús<br/>hay libertad.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo proclamo al que en la cruz por mí murió<br/>y cambió mi duro corazón<br/>por libertad, libertad.<br/>El poder de su evangelio me salvó,<br/>y no me avergüenzo del Señor,<br/>mi libertad, libertad.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Rompió mis cadenas,<br/>me dio vida nueva,<br/>y al fondo del mar echó mi maldad.<br/>Lavó mis pecados,<br/>y me ha perdonado.<br/>Solo en el nombre de Jesús<br/>hay libertad.<br/></lines>
+    </verse>
+    <verse name="b">
+      <lines>/Al que el Hijo hace libre,<br/>es libre en verdad./<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Rompió mis cadenas,<br/>me dio vida nueva,<br/>y al fondo del mar echó mi maldad.<br/>Lavó mis pecados,<br/>y me ha perdonado.<br/>Solo en el nombre de Jesús<br/>hay libertad.<br/></lines>
+    </verse>
+    <comment>Ro 8:1</comment>
+  </lyrics>
 </song>
