@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>092 Día tan grande</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="92"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Día tan grande no puedo olvidar,<br/>día de gloria sin par;<br/>cuando en tinieblas al verme andar,<br/>vino a salvarme el Señor.<br/>Gran compasión tuvo Cristo de mí,<br/>de gozo y paz me llenó.<br/>Quitó las sombras, ¡oh, gloria a su nombre!<br/>La noche en día cambió.		<br/> <br/>	Dios descendió, de gloria me llenó,<br/>	cuando Jesús por gracia me salvó.<br/>	Fui ciego, me hizo ver, y en él renacer.<br/>	Dios descendió y de gloria me llenó.	<br/> <br/>Nací de nuevo en virtud de Jesús<br/>a la familia de Dios.<br/>Justificado por Cristo el Señor,<br/>gozo la gran redención.<br/>Bendito sea mi Padre y Dios,<br/>que cuando vine con fe,<br/>fui adoptado por Cristo el amado;<br/>loores por siempre daré.			<br/> <br/>Tengo esperanza de gloria eternal,<br/>me regocijo en Jesús;<br/>me ha preparado un bello rincón,<br/>en la mansión celestial.<br/>Siempre recuerdo con fe y gratitud<br/>al contemplarle en la cruz,<br/>que sus heridas me dieron la vida,<br/>¡alabo al bendito Jesús!<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Día tan grande</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="92"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Gloria</keyword>
+      <keyword>Redención</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Cruz</keyword>
+      <keyword>Esperanza</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Día tan grande no puedo olvidar,<br/>día de gloria sin par;<br/>cuando en tinieblas al verme andar,<br/>vino a salvarme el Señor.<br/>Gran compasión tuvo Cristo de mí,<br/>de gozo y paz me llenó.<br/>Quitó las sombras, ¡oh, gloria a su nombre!<br/>La noche en día cambió.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Dios descendió, de gloria me llenó,<br/>cuando Jesús por gracia me salvó.<br/>Fui ciego, me hizo ver, y en él renacer.<br/>Dios descendió y de gloria me llenó.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nací de nuevo en virtud de Jesús<br/>a la familia de Dios.<br/>Justificado por Cristo el Señor,<br/>gozo la gran redención.<br/>Bendito sea mi Padre y Dios,<br/>que cuando vine con fe,<br/>fui adoptado por Cristo el amado;<br/>loores por siempre daré.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tengo esperanza de gloria eternal,<br/>me regocijo en Jesús;<br/>me ha preparado un bello rincón,<br/>en la mansión celestial.<br/>Siempre recuerdo con fe y gratitud<br/>al contemplarle en la cruz,<br/>que sus heridas me dieron la vida,<br/>¡alabo al bendito Jesús!<br/></lines>
+    </verse>
+  </lyrics>
 </song>
