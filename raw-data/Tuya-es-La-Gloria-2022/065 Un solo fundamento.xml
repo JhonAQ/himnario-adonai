@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>065 Un solo fundamento</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="65"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Un solo fundamento y solo un fundador<br/>la santa iglesia tiene en Cristo, su Señor,<br/>haciéndola su esposa, del cielo descendió,<br/>y por su propia sangre su libertad compró.<br/> <br/>Aunque es de muchas razas, disfruta de unidad:<br/>Solo una fe confiesa en santa caridad;<br/>es uno su bautismo, un pan de santidad;<br/>por gracia siempre espera una felicidad.<br/> <br/>El mundo la contempla pasmado y con desdén:<br/>de cismas desgarrada, de error y por vaivén.<br/>Mas santos de vigilia no cesan en su orar,<br/>y pronto por la noche oirán gozo y cantar.<br/> <br/>Cercada de tumultos, de guerra y confusión,<br/>la paz eterna espera, serena en su visión;<br/>al fin, ya victoriosa, la iglesia terrenal<br/>recibe por su premio descanso celestial.<br/> <br/>Mas ella aquí disfruta celeste comunión<br/>con Dios y con los santos en paz y perfección.<br/>Jesús, cabeza nuestra, concédenos lugar<br/>con los que habitan siempre en tu celeste hogar.<br/> <br/>Ef 2:20; Ef 4:4-6<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Un solo fundamento</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="65"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Iglesia</keyword>
+      <keyword>Fundamento</keyword>
+      <keyword>Unidad</keyword>
+      <keyword>Comunión</keyword>
+      <keyword>Redención</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Un solo fundamento y solo un fundador<br/>la santa iglesia tiene en Cristo, su Señor,<br/>haciéndola su esposa, del cielo descendió,<br/>y por su propia sangre su libertad compró.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aunque es de muchas razas, disfruta de unidad:<br/>Solo una fe confiesa en santa caridad;<br/>es uno su bautismo, un pan de santidad;<br/>por gracia siempre espera una felicidad.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>El mundo la contempla pasmado y con desdén:<br/>de cismas desgarrada, de error y por vaivén.<br/>Mas santos de vigilia no cesan en su orar,<br/>y pronto por la noche oirán gozo y cantar.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cercada de tumultos, de guerra y confusión,<br/>la paz eterna espera, serena en su visión;<br/>al fin, ya victoriosa, la iglesia terrenal<br/>recibe por su premio descanso celestial.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mas ella aquí disfruta celeste comunión<br/>con Dios y con los santos en paz y perfección.<br/>Jesús, cabeza nuestra, concédenos lugar<br/>con los que habitan siempre en tu celeste hogar.<br/></lines>
+    </verse>
+    <comment>Ef 2:20; Ef 4:4-6</comment>
+  </lyrics>
 </song>

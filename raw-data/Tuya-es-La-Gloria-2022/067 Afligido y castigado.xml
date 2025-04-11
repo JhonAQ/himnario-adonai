@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>067 Afligido y castigado</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="67"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Afligido y castigado,<br/>ved quién muere en una cruz:<br/>es el Cristo rechazado,<br/>es el Dios de mi salud;<br/>es aquel veraz profeta,<br/>de David hijo y Señor;<br/>por su muerte da la prueba:<br/>es el Verbo del amor.<br/> <br/>Digan los que así lo miran:<br/>¿Quién sufrió castigo igual?<br/>Sus amigos le abandonan,<br/>y enemigos le hacen mal.<br/>Muchos son los que le hieren,<br/>nadie a su socorro va;<br/>por el golpe que más duele <br/>la justicia se lo da.<br/> <br/>Si te burlas del pecado,<br/>no sabiendo su poder,<br/>Dios aquí te lo ha quitado<br/>con la culpa, infame, cruel.<br/>El que así fue afligido,<br/>el que lleva carga tal,<br/>del Señor es el Ungido:<br/>Dios como hombre es al igual.<br/> <br/>De la fe es el fundamento,<br/>salvación del pecador.<br/>Nuestra roca de sustento<br/>es el nombre del Señor.<br/>Por nosotros afligido,<br/>nuestra culpa así borró,<br/>y jamás es confundido<br/>corazón que en él confió.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Afligido y castigado</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="67"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Vida de Cristo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Redención</keyword>
+      <keyword>Roca</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Afligido y castigado,<br/>ved quién muere en una cruz:<br/>es el Cristo rechazado,<br/>es el Dios de mi salud;<br/>es aquel veraz profeta,<br/>de David hijo y Señor;<br/>por su muerte da la prueba:<br/>es el Verbo del amor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Digan los que así lo miran:<br/>¿Quién sufrió castigo igual?<br/>Sus amigos le abandonan,<br/>y enemigos le hacen mal.<br/>Muchos son los que le hieren,<br/>nadie a su socorro va;<br/>por el golpe que más duele<br/>la justicia se lo da.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Si te burlas del pecado,<br/>no sabiendo su poder,<br/>Dios aquí te lo ha quitado<br/>con la culpa, infame, cruel.<br/>El que así fue afligido,<br/>el que lleva carga tal,<br/>del Señor es el Ungido:<br/>Dios como hombre es al igual.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>De la fe es el fundamento,<br/>salvación del pecador.<br/>Nuestra roca de sustento<br/>es el nombre del Señor.<br/>Por nosotros afligido,<br/>nuestra culpa así borró,<br/>y jamás es confundido<br/>corazón que en él confió.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

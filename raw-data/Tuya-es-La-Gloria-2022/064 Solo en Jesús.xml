@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>064 Solo en Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="64"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Solo en Jesús espero yo,<br/>él es mi luz fuerza y canción.<br/>La roca es piedra angular,<br/>fuerte en la fiera tempestad.<br/>Qué gran amor, profunda paz,<br/>temores ya no existen más.<br/>Consolador mi todo es él.<br/>Firme en su amor me quedo yo.<br/> <br/>Solo en Jesús como un bebé<br/>la plenitud de Dios llegó.<br/>Un don de amor y de verdad<br/>solo el desprecio recibió.<br/>Y en esa cruz cuando él murió,<br/>el juicio de Dios se cumplió.<br/>Cada pecado allí quedó,<br/>y por su muerte vivo yo.<br/> <br/>De muerte el velo lo envolvió,<br/>luz que la noche ocultó.<br/>Mas un gran día amaneció,<br/>cuando a la tumba él venció.<br/>Y en la victoria que logró,<br/>me rescató de maldición.<br/>Él mío es y suyo soy,<br/>pues con su sangre me compró.<br/> <br/>Sin culpas ya y sin temor<br/>es el poder de Cristo en mí.<br/>Desde el nacer hasta el morir<br/>Cristo dirige mi existir.<br/>No hay infierno, no hay poder<br/>que me separe hoy de él.<br/>Hasta que él venga o muera yo,<br/>firme en Jesús me quedaré.<br/> <br/>Hch 4:11-12; Ro 8:38-39; Col 2:9; Hch 7:26-27; Mt 28:5-6;<br/>1 Co 15:55-57; 1 Pe 1: 18-21; Ro 8:1, 38-39; Flp 3:20<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Solo en Jesús</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="64"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Victoria</keyword>
+      <keyword>Redención</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solo en Jesús espero yo,<br/>él es mi luz fuerza y canción.<br/>La roca es piedra angular,<br/>fuerte en la fiera tempestad.<br/>Qué gran amor, profunda paz,<br/>temores ya no existen más.<br/>Consolador mi todo es él.<br/>Firme en su amor me quedo yo.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Solo en Jesús como un bebé<br/>la plenitud de Dios llegó.<br/>Un don de amor y de verdad<br/>solo el desprecio recibió.<br/>Y en esa cruz cuando él murió,<br/>el juicio de Dios se cumplió.<br/>Cada pecado allí quedó,<br/>y por su muerte vivo yo.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>De muerte el velo lo envolvió,<br/>luz que la noche ocultó.<br/>Mas un gran día amaneció,<br/>cuando a la tumba él venció.<br/>Y en la victoria que logró,<br/>me rescató de maldición.<br/>Él mío es y suyo soy,<br/>pues con su sangre me compró.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sin culpas ya y sin temor<br/>es el poder de Cristo en mí.<br/>Desde el nacer hasta el morir<br/>Cristo dirige mi existir.<br/>No hay infierno, no hay poder<br/>que me separe hoy de él.<br/>Hasta que él venga o muera yo,<br/>firme en Jesús me quedaré.<br/></lines>
+    </verse>
+    <comment>Hechos 4:11-12; Romanos 8:38-39; Colosenses 2:9; Hechos 7:26-27; Mateo 28:5-6; 1 Corintios 15:55-57; 1 Pedro 1:18-21; Romanos 8:1, 38-39; Filipenses 3:20</comment>
+  </lyrics>
 </song>
