@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>127 Dios es nuestro amparo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="127"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Dios es nuestro amparo, nuestra fortaleza,<br/>nuestro pronto auxilio en la tribulación.<br/>Aunque se traspasen los montes a la mar,<br/>aunque la tierra tiemble, podemos aún cantar,<br/>aunque la tierra tiemble, podemos aún cantar.<br/> <br/>	Cielo y tierra pasarán,<br/>	mas sus palabras no pasarán.<br/>	Cielo y tierra pasarán,<br/>	mas sus palabras no pasarán.<br/>	No, no, no, pasarán,<br/>	sí, sí, sí, sí, sí, prevalecerán.<br/> <br/>Dios es nuestra ayuda, nuestro apoyo firme,<br/>el Sol de Justicia, nuestro Libertador.<br/>Aunque el enemigo nos quiera derribar,<br/>aunque invencible luzca, podemos aún triunfar;<br/>aunque invencible luzca, podemos aún triunfar.<br/> <br/>Dios es nuestra fuerza, es nuestra bandera,<br/>es nuestro Castillo y nuestro Defensor.<br/>Aunque el mundo entero se vea derrumbar,<br/>aunque los reinos caigan, podemos aún triunfar;<br/>aunque los reinos caigan, podemos aún triunfar.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dios es nuestro amparo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="127"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Dios</keyword>
+      <keyword>Amparo</keyword>
+      <keyword>Fortaleza</keyword>
+      <keyword>Palabra</keyword>
+      <keyword>Victoria</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios es nuestro amparo, nuestra fortaleza,<br/>nuestro pronto auxilio en la tribulación.<br/>Aunque se traspasen los montes a la mar,<br/>aunque la tierra tiemble, podemos aún cantar,<br/>aunque la tierra tiemble, podemos aún cantar.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cielo y tierra pasarán,<br/>mas sus palabras no pasarán.<br/>Cielo y tierra pasarán,<br/>mas sus palabras no pasarán.<br/>No, no, no, pasarán,<br/>sí, sí, sí, sí, sí, prevalecerán.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dios es nuestra ayuda, nuestro apoyo firme,<br/>el Sol de Justicia, nuestro Libertador.<br/>Aunque el enemigo nos quiera derribar,<br/>aunque invencible luzca, podemos aún triunfar;<br/>aunque invencible luzca, podemos aún triunfar.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dios es nuestra fuerza, es nuestra bandera,<br/>es nuestro Castillo y nuestro Defensor.<br/>Aunque el mundo entero se vea derrumbar,<br/>aunque los reinos caigan, podemos aún triunfar;<br/>aunque los reinos caigan, podemos aún triunfar.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>126 Día en día</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="126"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Día en día Cristo está conmigo,<br/>me consuela en medio del dolor.<br/>Pues confiando en su poder eterno,<br/>no me afano, ni me da temor.<br/>Sobrepuja todo entendimiento<br/>la perfecta paz del Salvador.<br/>En su amor tan grande e infinito<br/>siempre me dará lo que es mejor.<br/> <br/>Día en día Cristo me acompaña<br/>y me brinda dulce comunión.<br/>Todos mis cuidados él los lleva;<br/>a él le entrego mi alma y corazón.<br/>No hay medida del amor supremo<br/>de mi bondadoso y fiel Pastor.<br/>Él me suple lo que necesito,<br/>pues el pan de vida es mi Señor.<br/> <br/>¡Oh, Señor!, ayúdame este día<br/>a vivir de tal manera aquí,<br/>que tu nombre esté glorificado,<br/>pues anhelo honrarte solo a ti.<br/> <br/>Con la diestra de tu gran justicia<br/>me sustentas en la turbación.<br/>Tus promesas son sostén y guía;<br/>siempre en ellas hay consolación.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Día en día</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="126"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Día</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Pastor</keyword>
+      <keyword>Promesas</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Día en día Cristo está conmigo,<br/>me consuela en medio del dolor.<br/>Pues confiando en su poder eterno,<br/>no me afano, ni me da temor.<br/>Sobrepuja todo entendimiento<br/>la perfecta paz del Salvador.<br/>En su amor tan grande e infinito<br/>siempre me dará lo que es mejor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Día en día Cristo me acompaña<br/>y me brinda dulce comunión.<br/>Todos mis cuidados él los lleva;<br/>a él le entrego mi alma y corazón.<br/>No hay medida del amor supremo<br/>de mi bondadoso y fiel Pastor.<br/>Él me suple lo que necesito,<br/>pues el pan de vida es mi Señor.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>¡Oh, Señor!, ayúdame este día<br/>a vivir de tal manera aquí,<br/>que tu nombre esté glorificado,<br/>pues anhelo honrarte solo a ti.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Con la diestra de tu gran justicia<br/>me sustentas en la turbación.<br/>Tus promesas son sostén y guía;<br/>siempre en ellas hay consolación.<br/></lines>
+    </verse>
+  </lyrics>
 </song>
