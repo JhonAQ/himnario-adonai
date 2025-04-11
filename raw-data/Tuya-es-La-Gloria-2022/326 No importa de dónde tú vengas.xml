@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>326 No importa de dónde tú vengas</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="326"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>No importa de dónde tú vengas,<br/>sí detrás del Calvario tú estás.<br/>Si tu corazón es como el mío,<br/>dame la mano y mi hermano serás.<br/> <br/>/Dame la mano, dame la mano,<br/>mane la mano y mi hermano serás./<br/></lines>
-			</verse>
+		<titles>
+			<title>No importa de dónde tú vengas</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>					
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="326"/>
+		</songbooks>
+		<themes>
+			<theme>Iglesia y Comunidad</theme>
+			<theme>Vida de Cristo</theme>
+		</themes>
+		<keywords>
+			<keyword>Hermano</keyword>
+			<keyword>Mano</keyword>
+			<keyword>Corazón</keyword>
+			<keyword>Calvario</keyword>
+			<keyword>Unidad</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>No importa de dónde tú vengas,<br/>sí detrás del Calvario tú estás.<br/>Si tu corazón es como el mío,<br/>dame la mano y mi hermano serás.<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>/Dame la mano, dame la mano,<br/>dame la mano y mi hermano serás./<br/></lines>
+		</verse>
 	</lyrics>
 </song>

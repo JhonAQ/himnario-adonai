@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>367 Tengo paz como un río</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="367"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Tengo paz como un río, <br/>tengo paz como un río,<br/>tengo paz como un río en mi ser./<br/> <br/>/Tengo gozo como una fuente,<br/>tengo gozo como una fuente,<br/>tengo gozo como una fuente en mi ser./<br/> <br/>/Tengo amor como el mar,<br/>tengo amor como el mar,<br/>tengo amor como el mar en mi ser./<br/> <br/>/Tengo paz como un río, <br/>tengo gozo como una fuente,<br/>tengo amor como el mar en mi ser./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Tengo paz como un río</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="367"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Paz</keyword>
+      <keyword>Gozo</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Río</keyword>
+      <keyword>Fuente</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Tengo paz como un río, <br/>tengo paz como un río,<br/>tengo paz como un río en mi ser./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Tengo gozo como una fuente,<br/>tengo gozo como una fuente,<br/>tengo gozo como una fuente en mi ser./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Tengo amor como el mar,<br/>tengo amor como el mar,<br/>tengo amor como el mar en mi ser./<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Tengo paz como un río, <br/>tengo gozo como una fuente,<br/>tengo amor como el mar en mi ser./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>365 Soy soldado</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="365"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Soy soldado, soy soldado,<br/>soy soldado del ejército del Señor./<br/> <br/>Aunque no soy de la infantería,<br/>caballería, artillería,<br/>aunque en avión no vaya volando, <br/>pero soldado soy.<br/>/Soldado soy de Jesús./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Soy soldado</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="365"/>
+    </songbooks>
+    <themes>
+      <theme>Niños y Escuela Dominical</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Soldado</keyword>
+      <keyword>Ejército</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Servicio</keyword>
+      <keyword>Fidelidad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="c">
+      <lines>/Soy soldado, soy soldado,<br/>soy soldado del ejército del Señor./<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>Aunque no soy de la infantería,<br/>caballería, artillería,<br/>aunque en avión no vaya volando, <br/>pero soldado soy.<br/>/Soldado soy de Jesús./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

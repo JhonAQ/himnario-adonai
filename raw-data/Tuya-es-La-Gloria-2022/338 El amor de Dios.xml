@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>338 El amor de Dios</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="338"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>El amor de Dios es maravilloso,<br/>el amor de Dios es maravilloso,<br/>el amor de Dios es maravilloso,<br/>cuán grande es el amor de Dios.<br/> <br/>Tan alto que no puedo ir arriba de él,<br/>tan bajo que no puedo ir debajo de él,<br/>tan ancho que no puedo salir fuera de él,<br/>cuán grande es el amor de Dios.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>El amor de Dios</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="338"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Niños y Escuela Dominical</theme>
+    </themes>
+    <keywords>
+      <keyword>Amor</keyword>
+      <keyword>Dios</keyword>
+      <keyword>Maravilloso</keyword>
+      <keyword>Grande</keyword>
+      <keyword>Dimensiones</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El amor de Dios es maravilloso,<br/>el amor de Dios es maravilloso,<br/>el amor de Dios es maravilloso,<br/>cuán grande es el amor de Dios.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tan alto que no puedo ir arriba de él,<br/>tan bajo que no puedo ir debajo de él,<br/>tan ancho que no puedo salir fuera de él,<br/>cuán grande es el amor de Dios.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>327 Aleluya arriba Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="327"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>	/Aleluya, arriba Cristo,<br/>	él es rey de todo el universo.<br/>	Aleluya, arriba Cristo,<br/>	Rey de toda la eternidad./<br/> <br/>Cielo y tierra son de él.<br/>Él tiene todo el poder.<br/>Él dio la vida por mis pecados.<br/>Jesucristo es el Rey.<br/></lines>
-			</verse>
+		<titles>
+			<title>327 Aleluya arriba Cristo</title>
+		</titles>
+		<authors>
+			<author>Tuya es la Gloria</author>
+		</authors>					
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria" entry="327"/>
+		</songbooks>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Vida de Cristo</theme>
+		</themes>
+		<keywords>
+			<keyword>Aleluya</keyword>
+			<keyword>Cristo</keyword>
+			<keyword>Rey</keyword>
+			<keyword>Poder</keyword>
+			<keyword>Universo</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="c">
+			<lines>/Aleluya, arriba Cristo,<br/>él es rey de todo el universo.<br/>Aleluya, arriba Cristo,<br/>Rey de toda la eternidad./<br/></lines>
+		</verse>
+		<verse name="v1">
+			<lines>Cielo y tierra son de él.<br/>Él tiene todo el poder.<br/>Él dio la vida por mis pecados.<br/>Jesucristo es el Rey.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>332 Cristo ama a los niñitos</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="332"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cristo ama a los niñitos,<br/>donde quiera que estén;<br/>son preciosos al Señor,<br/>y a ellos da honor.<br/>Cristo ama a los niñitos,<br/>donde estén.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cristo ama a los niñitos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="332"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Niños y Escuela Dominical</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Niños</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Precioso</keyword>
+      <keyword>Honor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo ama a los niñitos,<br/>donde quiera que estén;<br/>son preciosos al Señor,<br/>y a ellos da honor.<br/>Cristo ama a los niñitos,<br/>donde estén.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>330 Aquí allá arriba abajo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="330"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Aquí, allá, arriba, abajo, canto muy feliz.<br/>Aquí, allá, arriba, abajo, canto muy feliz.<br/>Ya Cristo vino a mí, limpió mi corazón,<br/>ahora brinco, salto, canto, yo soy muy feliz.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Aquí allá arriba abajo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="330"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Niños y Escuela Dominical</theme>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Felicidad</keyword>
+      <keyword>Corazón</keyword>
+      <keyword>Limpieza</keyword>
+      <keyword>Cantar</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aquí, allá, arriba, abajo, canto muy feliz.<br/>Aquí, allá, arriba, abajo, canto muy feliz.<br/>Ya Cristo vino a mí, limpió mi corazón,<br/>ahora brinco, salto, canto, yo soy muy feliz.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

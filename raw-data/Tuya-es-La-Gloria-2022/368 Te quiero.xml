@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>368 Te quiero</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="368"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Con el dedo en la nariz<br/>bajo hasta los pies,<br/>bajo a la cintura,<br/>Dando vuelta en el lugar.<br/>Te digo, Señor, te quiero.<br/> <br/>/Te quiero, te quiero,<br/>te digo, Señor, te quiero./<br/> <br/>Cristo me ama bien lo sé,<br/>su palabra me hace ver,<br/>que los niños son de aquel,<br/>quien es nuestro amigo fiel.<br/> <br/>Cristo me ama, Cristo me ama,<br/>Cristo me ama, la Biblia lo dice así.<br/> <br/>/Te quiero, te quiero,<br/>te digo, Señor, te quiero./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Te quiero</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="368"/>
+    </songbooks>
+    <themes>
+      <theme>Niños y Escuela Dominical</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Amor</keyword>
+      <keyword>Niños</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Biblia</keyword>
+      <keyword>Quiero</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Con el dedo en la nariz<br/>bajo hasta los pies,<br/>bajo a la cintura,<br/>Dando vuelta en el lugar.<br/>Te digo, Señor, te quiero.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Te quiero, te quiero,<br/>te digo, Señor, te quiero./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo me ama bien lo sé,<br/>su palabra me hace ver,<br/>que los niños son de aquel,<br/>quien es nuestro amigo fiel.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo me ama, Cristo me ama,<br/>Cristo me ama, la Biblia lo dice así.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

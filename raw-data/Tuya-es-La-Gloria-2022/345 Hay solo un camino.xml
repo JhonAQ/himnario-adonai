@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>345 Hay solo un camino</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="345"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Hay solo un camino, camino, camino,<br/>hay solo un camino para hacernos renacer.<br/> <br/>Cristo es el camino, camino, camino,<br/>Cristo es el camino para hacernos renacer.<br/> <br/>Vamos por el camino, camino, camino,<br/>vamos por el camino para hacernos renacer.<br/></lines>
-			</verse>
+		<titles>
+			<title>Hay solo un camino</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="345"/>
+		</songbooks>
+		<themes>
+			<theme>Vida de Cristo</theme>
+			<theme>Misión y Evangelismo</theme>
+		</themes>
+		<keywords>
+			<keyword>Camino</keyword>
+			<keyword>Cristo</keyword>
+			<keyword>Renacimiento</keyword>
+			<keyword>Salvación</keyword>
+			<keyword>Fe</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hay solo un camino, camino, camino,<br/>hay solo un camino para hacernos renacer.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Cristo es el camino, camino, camino,<br/>Cristo es el camino para hacernos renacer.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Vamos por el camino, camino, camino,<br/>vamos por el camino para hacernos renacer.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>359 Pedro Santiago y Juan</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="359"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Pedro, Santiago y Juan en el barquito/<br/>en el mar de Galilea.<br/> <br/>/Tiraron las redes, mas no sacaron nada/<br/>en el mar de Galilea.<br/> <br/>/Jesús mandó lanzar del otro lado/<br/>en el mar de Galilea.<br/> <br/>/Sacaron las redes, llenas de pececito/<br/>en el mar de Galilea.<br/> <br/>Uno, dos, tres, pescaditos<br/>cuatro, cinco, seis pescaditos<br/>siete, ocho, nueve pescaditos<br/>más un pescadito son diez.<br/>Jn 21:1-8<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Pedro Santiago y Juan</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="359"/>
+    </songbooks>
+    <themes>
+      <theme>Vida de Cristo</theme>
+      <theme>Niños y Escuela Dominical</theme>
+    </themes>
+    <keywords>
+      <keyword>Pedro</keyword>
+      <keyword>Santiago</keyword>
+      <keyword>Juan</keyword>
+      <keyword>Pesca</keyword>
+      <keyword>Galilea</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Pedro, Santiago y Juan en el barquito/<br/>en el mar de Galilea.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Tiraron las redes, mas no sacaron nada/<br/>en el mar de Galilea.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Jesús mandó lanzar del otro lado/<br/>en el mar de Galilea.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Sacaron las redes, llenas de pececito/<br/>en el mar de Galilea.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Uno, dos, tres, pescaditos<br/>cuatro, cinco, seis pescaditos<br/>siete, ocho, nueve pescaditos<br/>más un pescadito son diez.<br/></lines>
+    </verse>
+    <comment>Jn 21:1-8</comment>
+  </lyrics>
 </song>

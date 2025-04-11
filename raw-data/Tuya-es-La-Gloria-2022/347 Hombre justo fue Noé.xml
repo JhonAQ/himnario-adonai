@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>347 Hombre justo fue Noé</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="347"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Hombre justo fue Noé, y con Dios caminó.<br/>Escuchó la voz de Dios, y un arca construyó.<br/>Y con brea la pintó, la ventana colocó,<br/>y a los animales los llamó de dos en dos.<br/> <br/>Vino el elefante, luego el tigre y el león,<br/>el monito, el burro, la jirafa y el ratón.<br/>El caballo ya llegó, la culebra lo siguió.<br/>Con Noé entraron y la puerta Dios cerró.<br/> <br/>Y durante seis semanas sin cesar llovió.<br/>Meses más pasaron, y la tierra se secó.<br/>Y Noé salió por fin, hizo un gran altar allí,<br/>y con sacrificios a su gran Dios adoró.<br/> <br/>Gn 6-8<br/></lines>
-			</verse>
+		<titles>
+			<title>Hombre justo fue Noé</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="347"/>
+		</songbooks>
+		<themes>
+			<theme>Vida de Cristo</theme>
+			<theme>Niños y Escuela Dominical</theme>
+		</themes>
+		<keywords>
+			<keyword>Noé</keyword>
+			<keyword>Arca</keyword>
+			<keyword>Diluvio</keyword>
+			<keyword>Obediencia</keyword>
+			<keyword>Fe</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hombre justo fue Noé, y con Dios caminó.<br/>Escuchó la voz de Dios, y un arca construyó.<br/>Y con brea la pintó, la ventana colocó,<br/>y a los animales los llamó de dos en dos.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Vino el elefante, luego el tigre y el león,<br/>el monito, el burro, la jirafa y el ratón.<br/>El caballo ya llegó, la culebra lo siguió.<br/>Con Noé entraron y la puerta Dios cerró.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Y durante seis semanas sin cesar llovió.<br/>Meses más pasaron, y la tierra se secó.<br/>Y Noé salió por fin, hizo un gran altar allí,<br/>y con sacrificios a su gran Dios adoró.<br/></lines>
+		</verse>
+		<comment>Gn 6-8</comment>
 	</lyrics>
 </song>
