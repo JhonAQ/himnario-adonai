@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>076 En la cruz</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="76"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Señor, conoces <br/>mi corazón,<br/>aun cuando te fallo,<br/>sé que me amas.<br/> <br/>Con tu presencia <br/>rodéame.<br/>En todo tiempo<br/>sé que me amas,<br/>sé que me amas.<br/> <br/>	Hoy me postro ante Jesús,<br/>	diste tu sangre en la cruz.<br/>	No hay otro amor igual.<br/>	Él murió y resucitó,<br/>	sobre la muerte venció.<br/>	Nada me separará.<br/> <br/>Mi escudo eres,<br/>mi protección.<br/>Tú me sostienes,<br/>sé que me amas.<br/> <br/>	Hoy me postro ante Jesús…<br/> <br/>/El velo rasgó,<br/>un camino abrió,<br/>todo consumado es./<br/> <br/>Aun en tormentas <br/>o tempestad<br/>tú estás conmigo.<br/>Sé que me amas,<br/>sé que me amas.<br/> <br/>Ef 3:12; 2 Co 3:12-17<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>En la cruz</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="76"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Cruz</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Protección</keyword>
+      <keyword>Presencia</keyword>
+      <keyword>Victoria</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor, conoces<br/>mi corazón,<br/>aun cuando te fallo,<br/>sé que me amas.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Con tu presencia<br/>rodéame.<br/>En todo tiempo<br/>sé que me amas,<br/>sé que me amas.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Hoy me postro ante Jesús,<br/>diste tu sangre en la cruz.<br/>No hay otro amor igual.<br/>Él murió y resucitó,<br/>sobre la muerte venció.<br/>Nada me separará.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi escudo eres,<br/>mi protección.<br/>Tú me sostienes,<br/>sé que me amas.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Hoy me postro ante Jesús,<br/>diste tu sangre en la cruz.<br/>No hay otro amor igual.<br/>Él murió y resucitó,<br/>sobre la muerte venció.<br/>Nada me separará.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>/El velo rasgó,<br/>un camino abrió,<br/>todo consumado es./<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aun en tormentas<br/>o tempestad<br/>tú estás conmigo.<br/>Sé que me amas,<br/>sé que me amas.<br/></lines>
+    </verse>
+    <comment>Ef 3:12; 2 Co 3:12-17</comment>
+  </lyrics>
 </song>
