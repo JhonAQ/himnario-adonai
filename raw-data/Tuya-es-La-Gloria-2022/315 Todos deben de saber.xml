@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>315 Todos deben de saber</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="315"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Todos deben de saber,<br/>todos deben de saber,<br/>todos deben de saber<br/>quien es Jesús.<br/> <br/>Es el Lirio de los Valles,<br/>es la Rosa de Sarón,<br/>es el Faro esplendoroso.<br/>Todos deben de saber.<br/> <br/>Cantares 2:1<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Todos deben de saber</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="315"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Evangelismo y Misión</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Lirio</keyword>
+      <keyword>Rosa</keyword>
+      <keyword>Sarón</keyword>
+      <keyword>Faro</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Todos deben de saber,<br/>todos deben de saber,<br/>todos deben de saber<br/>quien es Jesús.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es el Lirio de los Valles,<br/>es la Rosa de Sarón,<br/>es el Faro esplendoroso.<br/>Todos deben de saber.<br/></lines>
+    </verse>
+    <comment>Cantares 2:1</comment>
+  </lyrics>
 </song>

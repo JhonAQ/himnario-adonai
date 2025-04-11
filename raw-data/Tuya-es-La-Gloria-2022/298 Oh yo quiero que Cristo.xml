@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>298 Oh yo quiero que Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="298"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/¡Oh, yo quiero que Cristo ande conmigo!,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/> <br/>/Cuando tenga problemas, que ande conmigo,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/> <br/>/Cuando yo esté solo, que ande conmigo,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oh yo quiero que Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="298"/>
+    </songbooks>
+    <themes>
+      <theme>Vida de Cristo</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Conmigo</keyword>
+      <keyword>Angustia</keyword>
+      <keyword>Problemas</keyword>
+      <keyword>Soledad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/¡Oh, yo quiero que Cristo ande conmigo!,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Cuando tenga problemas, que ande conmigo,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Cuando yo esté solo, que ande conmigo,/<br/>cuando mi vida esté angustiada.<br/>¡Oh, yo quiero que Cristo ande conmigo!<br/></lines>
+    </verse>
+  </lyrics>
 </song>

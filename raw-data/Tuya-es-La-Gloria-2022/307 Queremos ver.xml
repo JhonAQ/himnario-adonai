@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>307 Queremos ver</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="307"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Queremos a Cristo proclamar<br/>como un estandarte levantar,<br/>que toda la gente pueda ver,<br/>que él es el camino al Cielo./<br/> <br/>/Queremos ver, queremos ver<br/>a Jesucristo como rey./<br/> <br/>Paso a paso hacia el frente,<br/>poco a poco a ganar.<br/>La oración, las fortalezas,<br/>todas caen, todas caen y caen y caen<br/>y caen.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Queremos ver</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="307"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Misión y Evangelismo</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Proclamar</keyword>
+      <keyword>Rey</keyword>
+      <keyword>Estandarte</keyword>
+      <keyword>Victoria</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Queremos a Cristo proclamar<br/>como un estandarte levantar,<br/>que toda la gente pueda ver,<br/>que él es el camino al Cielo./<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Queremos ver, queremos ver<br/>a Jesucristo como rey./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Paso a paso hacia el frente,<br/>poco a poco a ganar.<br/>La oración, las fortalezas,<br/>todas caen, todas caen y caen y caen<br/>y caen.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

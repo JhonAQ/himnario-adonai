@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>299 Para mí el vivir es Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="299"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Para mí el vivir es Cristo,<br/>crucificado con él estoy.<br/>Ya no vivo yo, Cristo vive en mí.<br/>Para mí el vivir es él.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Para mí el vivir es Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="299"/>
+    </songbooks>
+    <themes>
+      <theme>Consagración y Servicio</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Vida</keyword>
+      <keyword>Crucificado</keyword>
+      <keyword>Entrega</keyword>
+      <keyword>Consagración</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Para mí el vivir es Cristo,<br/>crucificado con él estoy.<br/>Ya no vivo yo, Cristo vive en mí.<br/>Para mí el vivir es él.</lines>
+    </verse>
+  </lyrics>
 </song>

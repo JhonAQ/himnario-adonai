@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>319 Yo me alegré</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="319"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Yo me alegré con los que me decían:<br/>“A la casa de Jehová iremos.”/<br/>/Allí estaré, allí estaré./<br/>A la casa de Jehová iremos.<br/> <br/>Sal 122:1-2<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Yo me alegré</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="319"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Iglesia y Comunidad</theme>
+    </themes>
+    <keywords>
+      <keyword>Alegría</keyword>
+      <keyword>Jehová</keyword>
+      <keyword>Casa</keyword>
+      <keyword>Templo</keyword>
+      <keyword>Gozo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Yo me alegré con los que me decían:<br/>"A la casa de Jehová iremos."/<br/>/Allí estaré, allí estaré./<br/>A la casa de Jehová iremos.</lines>
+    </verse>
+    <comment>Salmos 122:1-2</comment>
+  </lyrics>
 </song>

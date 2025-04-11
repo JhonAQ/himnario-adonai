@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>294 Mi Dios es grande y fuerte</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="294"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Mi Dios es grande y fuerte,<br/>y su palabra vence.<br/>Sus enemigos tiemblan<br/>y huyen ante él./<br/> <br/>/Jesucristo es el Señor y Rey,<br/>en su nombre hay,<br/>hay poder para vencer./<br/></lines>
-			</verse>
+		<titles>
+			<title>Mi Dios es grande y fuerte</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="294"/>
+		</songbooks>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Consagración y Servicio</theme>
+		</themes>
+		<keywords>
+			<keyword>Poder</keyword>
+			<keyword>Victoria</keyword>
+			<keyword>Palabra</keyword>
+			<keyword>Jesucristo</keyword>
+			<keyword>Rey</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>/Mi Dios es grande y fuerte,<br/>y su palabra vence.<br/>Sus enemigos tiemblan<br/>y huyen ante él./<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>/Jesucristo es el Señor y Rey,<br/>en su nombre hay,<br/>hay poder para vencer./<br/></lines>
+		</verse>
 	</lyrics>
 </song>

@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>303 Pon aceite en mi vida Señor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="303"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Pon aceite en mi vida, Señor, <br/>de tu fuego en mi corazón.<br/>Pon aceite en mi vida, Señor, <br/>mi lámpara aviva hoy./<br/> <br/>Y me gozaré, y me alegraré.<br/>Él me ha vestido de lino fino, <br/>del gozo de su salvación.<br/>Y me gozaré, y me alegraré.<br/>Convidado he sido a las bodas,<br/>a mi Rey pronto veré.<br/> <br/>Mt 25:1-13<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Pon aceite en mi vida Señor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="303"/>
+    </songbooks>
+    <themes>
+      <theme>Espíritu Santo</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Aceite</keyword>
+      <keyword>Lámpara</keyword>
+      <keyword>Gozo</keyword>
+      <keyword>Bodas</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Pon aceite en mi vida, Señor, <br/>de tu fuego en mi corazón.<br/>Pon aceite en mi vida, Señor, <br/>mi lámpara aviva hoy./</lines>
+    </verse>
+    <verse name="c">
+      <lines>Y me gozaré, y me alegraré.<br/>Él me ha vestido de lino fino, <br/>del gozo de su salvación.<br/>Y me gozaré, y me alegraré.<br/>Convidado he sido a las bodas,<br/>a mi Rey pronto veré.</lines>
+    </verse>
+    <comment>Mt 25:1-13</comment>
+  </lyrics>
 </song>

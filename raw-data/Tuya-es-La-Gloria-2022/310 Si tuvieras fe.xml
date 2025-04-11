@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>310 Si tuvieras fe</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="310"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Si tuvieras fe como un grano de mostaza,<br/>eso lo dice el Señor./<br/> <br/>/Tú le dirías a la montaña:<br/>Muévete, muévete./<br/> <br/>/Y la montaña se moverá, se moverá,<br/>se moverá./<br/> <br/>Mt 17:19-20<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Si tuvieras fe</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="310"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Fe</keyword>
+      <keyword>Mostaza</keyword>
+      <keyword>Montaña</keyword>
+      <keyword>Mover</keyword>
+      <keyword>Señor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Si tuvieras fe como un grano de mostaza,<br/>eso lo dice el Señor./<br/>/Tú le dirías a la montaña:<br/>Muévete, muévete./<br/>/Y la montaña se moverá, se moverá,<br/>se moverá./<br/></lines>
+    </verse>
+    <comment>Mt 17:19-20</comment>
+  </lyrics>
 </song>

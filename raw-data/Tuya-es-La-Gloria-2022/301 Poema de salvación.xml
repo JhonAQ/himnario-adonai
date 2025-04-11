@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>301 Poema de salvación</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="301"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cristo, moriste en una cruz,<br/>resucitaste con poder.<br/>Perdona mis pecados hoy,<br/>sé mi Señor y Salvador.<br/> <br/>	Cámbiame y hazme otra vez<br/>	y ayúdame a serte fiel.<br/>	Cámbiame y hazme otra vez<br/>	y ayúdame a serte fiel.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Poema de salvación</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="301"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Cruz</keyword>
+      <keyword>Resurrección</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Cambio</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo, moriste en una cruz,<br/>resucitaste con poder.<br/>Perdona mis pecados hoy,<br/>sé mi Señor y Salvador.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cámbiame y hazme otra vez<br/>y ayúdame a serte fiel.<br/>Cámbiame y hazme otra vez<br/>y ayúdame a serte fiel.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>283 Dios está aquí</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="283"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Dios está aquí, ¡aleluya!, <br/>tan cierto como el aire que respiro,<br/>tan cierto como la mañana se levanta,<br/>tan cierto como que le hablo, y me puede oír.<br/> <br/>Jesús estás aquí, ¡aleluya!,<br/>tan cierto como el aire que respiro,<br/>tan cierto como la mañana se levanta,<br/>tan cierto como que te hablo, y me puedes oír.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dios está aquí</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="283"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Dios</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Presencia</keyword>
+      <keyword>Alabanza</keyword>
+      <keyword>Aleluya</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dios está aquí, ¡aleluya!, <br/>tan cierto como el aire que respiro,<br/>tan cierto como la mañana se levanta,<br/>tan cierto como que le hablo, y me puede oír.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesús estás aquí, ¡aleluya!,<br/>tan cierto como el aire que respiro,<br/>tan cierto como la mañana se levanta,<br/>tan cierto como que te hablo, y me puedes oír.</lines>
+    </verse>
+  </lyrics>
 </song>

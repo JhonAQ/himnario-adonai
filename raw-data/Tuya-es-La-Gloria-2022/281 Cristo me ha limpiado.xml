@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>281 Cristo me ha limpiado</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="281"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Cristo me ha limpiado, muy feliz me siento.<br/>Cristo me ha limpiado, su Palabra dice así:/<br/> <br/>/En Juan uno siete me dice el Señor,<br/>cuánto me amó, por su sangre él me ha limpiado./<br/> <br/>/Cristo limpuchawan, Kusisqaña Kani,<br/>Cristo limpuchawan, Niwasqanta iñini/.<br/> <br/>/Juanpa qhelqanpi, uno siete pi;<br/>Pay munakuwan limpuchawantaq; yawarninpi/.<br/> <br/>1 Jn 1:7<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cristo me ha limpiado</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="281"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Limpieza</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Juan</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Cristo me ha limpiado, muy feliz me siento.<br/>Cristo me ha limpiado, su Palabra dice así:/<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/En Juan uno siete me dice el Señor,<br/>cuánto me amó, por su sangre él me ha limpiado./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Cristo limpuchawan, Kusisqaña Kani,<br/>Cristo limpuchawan, Niwasqanta iñini/.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>/Juanpa qhelqanpi, uno siete pi;<br/>Pay munakuwan limpuchawantaq; yawarninpi/.<br/></lines>
+    </verse>
+    <comment>1 Jn 1:7</comment>
+  </lyrics>
 </song>
