@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>148 Señor mi Dios quiero ser fiel</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="148"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Señor, mi Dios, quiero ser fiel<br/>en tu verdad y en tu amor;<br/>vengo a ti, quiero encontrar<br/>perfecta paz en tu bondad.<br/> <br/>	/Tú puedes, Señor, calmar mi dolor,<br/>	calmar la tristeza de mi corazón./<br/> <br/>Yo encontraré tranquilidad<br/>junto a tus pies, bendito Dios.<br/>Acuérdate de mí, Señor,<br/>sana mi ser, calma el dolor.<br/> <br/>Si fui infiel, no comprendí,<br/>en la maldad lejos vagué.<br/>Ahora, Señor, perdóname,<br/>limpia mi ser, quiero ser fiel.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Señor mi Dios quiero ser fiel</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="148"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Fidelidad</keyword>
+      <keyword>Paz</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Consuelo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor, mi Dios, quiero ser fiel<br/>en tu verdad y en tu amor;<br/>vengo a ti, quiero encontrar<br/>perfecta paz en tu bondad.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Tú puedes, Señor, calmar mi dolor,<br/>calmar la tristeza de mi corazón./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo encontraré tranquilidad<br/>junto a tus pies, bendito Dios.<br/>Acuérdate de mí, Señor,<br/>sana mi ser, calma el dolor.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Si fui infiel, no comprendí,<br/>en la maldad lejos vagué.<br/>Ahora, Señor, perdóname,<br/>limpia mi ser, quiero ser fiel.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>150 Si Jesús es quien me guía</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="150"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Si Jesús es quien me guía,<br/>¿cómo más podré temer?<br/>¿Dudaré de su porfía<br/>si mi herencia en él tendré?<br/>Tierna paz en él ya gozo,<br/>suyo soy ya por la fe.<br/>/En la lucha o en el reposo<br/>en su amparo confiaré./<br/> <br/>Es Jesús mi amante guía,<br/>mi esperanza, mi solaz;<br/>mi consuelo es en el día,<br/>y en la noche grata paz.<br/>Mi poder en la flaqueza,<br/>mi maná, mi libertad.<br/>/Es mi amparo en la tristeza,<br/>suple mi necesidad./<br/> <br/>Es Jesús mi amante guía<br/>de mi ser, consolación;<br/>de lo que antes carecía<br/>él me imparte en profusión.<br/>En la gloria me promete<br/>divinal seguridad.<br/>/Él será mi brazo fuerte,<br/>guía por la eternidad./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Si Jesús es quien me guía</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="150"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Guía</keyword>
+      <keyword>Esperanza</keyword>
+      <keyword>Consuelo</keyword>
+      <keyword>Eternidad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Si Jesús es quien me guía,<br/>¿cómo más podré temer?<br/>¿Dudaré de su porfía<br/>si mi herencia en él tendré?<br/>Tierna paz en él ya gozo,<br/>suyo soy ya por la fe.<br/>/En la lucha o en el reposo<br/>en su amparo confiaré./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Es Jesús mi amante guía,<br/>mi esperanza, mi solaz;<br/>mi consuelo es en el día,<br/>y en la noche grata paz.<br/>Mi poder en la flaqueza,<br/>mi maná, mi libertad.<br/>/Es mi amparo en la tristeza,<br/>suple mi necesidad./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Es Jesús mi amante guía<br/>de mi ser, consolación;<br/>de lo que antes carecía<br/>él me imparte en profusión.<br/>En la gloria me promete<br/>divinal seguridad.<br/>/Él será mi brazo fuerte,<br/>guía por la eternidad./<br/></lines>
+    </verse>
+  </lyrics>
 </song>
