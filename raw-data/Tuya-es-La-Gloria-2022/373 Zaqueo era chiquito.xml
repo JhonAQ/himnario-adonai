@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>373 Zaqueo era chiquito</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="373"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Zaqueo era chiquito así<br/>y vivía en Jericó.<br/>Y para ver a Jesús subió<br/>a un sicómoro que encontró.<br/>Cuando el Señor lo miró allí<br/>a Zaqueo le dijo así:<br/>“Zaqueo, bájate de ahí,<br/>que a tu casa voy a ir,<br/>que a tu casa voy a ir.”<br/> <br/>Lc 19:1-9<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Zaqueo era chiquito</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="373"/>
+    </songbooks>
+    <themes>
+      <theme>Vida de Cristo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Zaqueo</keyword>
+      <keyword>Jericó</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Sicómoro</keyword>
+      <keyword>Encuentro</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zaqueo era chiquito así<br/>y vivía en Jericó.<br/>Y para ver a Jesús subió<br/>a un sicómoro que encontró.<br/>Cuando el Señor lo miró allí<br/>a Zaqueo le dijo así:<br/>"Zaqueo, bájate de ahí,<br/>que a tu casa voy a ir,<br/>que a tu casa voy a ir."<br/></lines>
+    </verse>
+    <comment>Lc 19:1-9</comment>
+  </lyrics>
 </song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Él vive</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="342"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>vive</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>eternidad</keyword>
+      <keyword>aleluya</keyword>
+      <keyword>vida</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Él vive, él vive por la eternidad.<br/>Mi Cristo vivo está por la eternidad.<br/>Él vive, él vive por la eternidad.<br/>Mi Cristo vivo está.<br/><br/>¡Oh, aleluya!, ¡oh aleluya!,<br/>mi Cristo vive por la eternidad.<br/>¡Oh, aleluya!, ¡oh aleluya!,<br/>mi Cristo vivo está.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

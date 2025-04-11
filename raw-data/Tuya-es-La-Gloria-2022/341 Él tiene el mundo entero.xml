@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Él tiene el mundo entero</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="341"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>poder</keyword>
+      <keyword>mundo</keyword>
+      <keyword>Dios</keyword>
+      <keyword>cielo</keyword>
+      <keyword>cuidado</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Él tiene el mundo entero en su poder.//<br/>Él tiene todo en su poder.<br/><br/>//Él tiene el vasto cielo en su poder.//<br/>Él tiene todo en su poder.<br/><br/>//Él cuida al bebecito en su poder.//<br/>Él tiene todo en su poder.<br/><br/>//Él tiene a mí y a ti en su poder.//<br/>Él tiene todo en su poder.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

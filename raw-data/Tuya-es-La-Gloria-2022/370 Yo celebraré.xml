@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>370 Yo celebraré</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="370"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Yo celebraré, cantaré al Señor, <br/>cantaré nueva canción./<br/> <br/>/Le alabaré, cantaré nueva canción./ <br/>/Aleluya, aleluya, aleluya, aleluya, <br/>cantaré nueva canción./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Yo celebraré</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="370"/>
+    </songbooks>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Coros</theme>
+    </themes>
+    <keywords>
+      <keyword>Celebrar</keyword>
+      <keyword>Cantar</keyword>
+      <keyword>Alabar</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Aleluya</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Yo celebraré, cantaré al Señor,<br/>cantaré nueva canción./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Le alabaré, cantaré nueva canción./<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Aleluya, aleluya, aleluya, aleluya,<br/>cantaré nueva canción./<br/></lines>
+    </verse>
+  </lyrics>
 </song>
