@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>220 Un palacio tengo allá</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="220"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>//Un palacio tengo allá<br/>más lindo que el sol//<br/>con mi buen Jesús.<br/> <br/>	//Bendito Cristo, <br/>	contigo estaré//<br/>	en el más allá.<br/> <br/>//Si tú quieres ir al cielo,<br/>ven al Señor,//<br/>ven sin demorar.<br/></lines>
-			</verse>
+		<titles>
+			<title>Un palacio tengo allá</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="220"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Esperanza y Segunda Venida</theme>
+		</themes>
+		<keywords>
+			<keyword>palacio</keyword>
+			<keyword>Jesús</keyword>
+			<keyword>cielo</keyword>
+			<keyword>bendito</keyword>
+			<keyword>Cristo</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>//Un palacio tengo allá<br/>más lindo que el sol//<br/>con mi buen Jesús.<br/><br/>//Bendito Cristo,<br/>contigo estaré//<br/>en el más allá.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>//Si tú quieres ir al cielo,<br/>ven al Señor,//<br/>ven sin demorar.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>211 Cuán gloriosa será la mañana</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="211"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cuán gloriosa será la mañana<br/>cuando venga Jesús el Salvador;<br/>las naciones unidas como hermanas,<br/>bienvenida daremos al Señor.<br/> <br/>	No habrá necesidad de la luz el resplandor,<br/>	ni el sol dará su luz, ni tampoco su calor; <br/>	allí llanto no habrá, ni tristeza, ni dolor,<br/>	porque entonces Jesús el Rey del cielo<br/>	para siempre será Consolador.<br/> <br/>Esperamos la mañana gloriosa<br/>para dar la bienvenida al Dios de amor,<br/>donde todo será color de rosa<br/>en la santa fragancia del Señor.<br/> <br/>El cristiano fiel y verdadero<br/>y también el obrero de valor<br/>y la Iglesia, esposa del Cordero,<br/>estarán en los brazos del Señor.<br/> <br/>Is 60:19<br/></lines>
-			</verse>
+		<titles>
+			<title>Cuán gloriosa será la mañana</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="211"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Esperanza y Segunda Venida</theme>
+		</themes>
+		<keywords>
+			<keyword>mañana</keyword>
+			<keyword>gloriosa</keyword>
+			<keyword>Consolador</keyword>
+			<keyword>fragancia</keyword>
+			<keyword>Señor</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Cuán gloriosa será la mañana<br/>cuando venga Jesús el Salvador;<br/>las naciones unidas como hermanas,<br/>bienvenida daremos al Señor.<br/></lines>
+		</verse>
+		<verse name="c">
+			<lines>No habrá necesidad de la luz el resplandor,<br/>ni el sol dará su luz, ni tampoco su calor;<br/>allí llanto no habrá, ni tristeza, ni dolor,<br/>porque entonces Jesús el Rey del cielo<br/>para siempre será Consolador.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Esperamos la mañana gloriosa<br/>para dar la bienvenida al Dios de amor,<br/>donde todo será color de rosa<br/>en la santa fragancia del Señor.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>El cristiano fiel y verdadero<br/>y también el obrero de valor<br/>y la Iglesia, esposa del Cordero,<br/>estarán en los brazos del Señor.<br/></lines>
+		</verse>
+		<comment>Is 60:19</comment>
 	</lyrics>
 </song>
