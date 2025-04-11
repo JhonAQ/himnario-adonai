@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>165 Cuando sientas que tu hermano</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="165"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cuando sientas que tu hermano<br/>necesita de tu amor,<br/>no le cierres tus entrañas,<br/>ni el calor del corazón;<br/>busca pronto en tu recuerdo,<br/>la Palabra del Señor.<br/>Su ley es el amor.<br/> <br/>	Coro<br/>	//¡Gloria, gloria; aleluya.//<br/>	a Cristo el Salvador!<br/> <br/>Si el camino se hace largo;<br/>si te cansas bajo el sol;<br/>si en tus campos no ha nacido,<br/>ni la más pequeña flor;<br/>ten mi mano y cantemos,<br/>bien unidos en amor,<br/>¡Jesús es el Señor!</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cuando sientas que tu hermano</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="165"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>hermano</keyword>
+      <keyword>amor</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>servicio</keyword>
+      <keyword>unidad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cuando sientas que tu hermano<br/>necesita de tu amor,<br/>no le cierres tus entrañas,<br/>ni el calor del corazón;<br/>busca pronto en tu recuerdo,<br/>la Palabra del Señor.<br/>Su ley es el amor.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>//¡Gloria, gloria; aleluya.//<br/>a Cristo el Salvador!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si el camino se hace largo;<br/>si te cansas bajo el sol;<br/>si en tus campos no ha nacido,<br/>ni la más pequeña flor;<br/>ten mi mano y cantemos,<br/>bien unidos en amor,<br/>¡Jesús es el Señor!<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>167 Dejo el mundo y sigo a Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="167"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Dejo el mundo y sigo a Cristo,<br/>porque el mundo pasará.<br/>Mas su amor, amor bendito,<br/>por los siglos durará.<br/> <br/>	¡Oh, que gran misericordia!<br/>	¡Oh, de amor sublime don!<br/>	¡Plenitud de vida eterna, <br/>	prenda viva de perdón!<br/> <br/>Dejo el mundo y sigo a Cristo,<br/>paz y gozo en él tendré;<br/>y al mirar que va conmigo,<br/>siempre salvo estaré.<br/> <br/>Dejo el mundo y sigo a Cristo,<br/>acogiéndome a su cruz,<br/>y después iré a verlo<br/>cara a cara en plena luz.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Dejo el mundo y sigo a Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="167"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Consagración y Servicio</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Mundo</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Luz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dejo el mundo y sigo a Cristo,<br/>porque el mundo pasará.<br/>Mas su amor, amor bendito,<br/>por los siglos durará.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Oh, que gran misericordia!<br/>¡Oh, de amor sublime don!<br/>¡Plenitud de vida eterna,<br/>prenda viva de perdón!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dejo el mundo y sigo a Cristo,<br/>paz y gozo en él tendré;<br/>y al mirar que va conmigo,<br/>siempre salvo estaré.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dejo el mundo y sigo a Cristo,<br/>acogiéndome a su cruz,<br/>y después iré a verlo<br/>cara a cara en plena luz.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

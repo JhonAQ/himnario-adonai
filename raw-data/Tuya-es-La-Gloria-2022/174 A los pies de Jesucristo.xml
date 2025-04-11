@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>174 A los pies de Jesucristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="174"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>A los pies de Jesucristo es el sitio aquí mejor,<br/>escuchando cual María las palabras de su amor.<br/>A los pies de Jesucristo gozaré su comunión,<br/>pues su mano fiel y tierna me ha provisto protección.<br/> <br/>A los pies de Jesucristo hallo tierna compasión.<br/>Él quitó ya mis afanes y me dio su bendición.<br/>Puedo yo decirle a Cristo mis cuidados y temor,<br/>y con él tendrá mi alma gozo, paz, eterno amor.<br/> <br/>A los pies de Jesucristo yo tendré su bendición;<br/>en sus ojos hay dulzura y en su seno protección.<br/>¡Qué feliz es el momento que yo paso junto a ti!<br/>Ya anhelo el encuentro cuando vengas tú por mí.<br/> <br/>Lc 10:39<br/></lines>
-			</verse>
+		<titles>
+			<title>A los pies de Jesucristo</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>					
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="174"/>
+		</songbooks>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Oración y Devoción Personal</theme>
+		</themes>
+		<keywords>
+			<keyword>Jesucristo</keyword>
+			<keyword>bendición</keyword>
+			<keyword>compasión</keyword>
+			<keyword>protección</keyword>
+			<keyword>comunión</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>A los pies de Jesucristo es el sitio aquí mejor,<br/>escuchando cual María las palabras de su amor.<br/>A los pies de Jesucristo gozaré su comunión,<br/>pues su mano fiel y tierna me ha provisto protección.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>A los pies de Jesucristo hallo tierna compasión.<br/>Él quitó ya mis afanes y me dio su bendición.<br/>Puedo yo decirle a Cristo mis cuidados y temor,<br/>y con él tendrá mi alma gozo, paz, eterno amor.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>A los pies de Jesucristo yo tendré su bendición;<br/>en sus ojos hay dulzura y en su seno protección.<br/>¡Qué feliz es el momento que yo paso junto a ti!<br/>Ya anhelo el encuentro cuando vengas tú por mí.<br/></lines>
+		</verse>
+		<comment>Lc 10:39</comment>
 	</lyrics>
 </song>

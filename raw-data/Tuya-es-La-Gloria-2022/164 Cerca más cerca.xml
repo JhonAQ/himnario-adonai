@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>164 Cerca más cerca</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="164"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cerca, más cerca, ¡oh, Dios, de ti!<br/>Cerca yo quiero mi vida llevar;<br/>cerca, más cerca, ¡oh, Dios, de ti!<br/>/Cerca a tu gracia que puede salvar./<br/> <br/>Cerca, más cerca, cual pobre soy,<br/>nada, Señor, yo te puedo ofrecer;<br/>solo mi ser contrito te doy,<br/>/pueda contigo la paz obtener./<br/> <br/>Cerca, más cerca, Señor de ti,<br/>quiero ser tuyo dejando el pecar;<br/>goces y pompas vanas aquí,<br/>/todo, Señor, pronto quiero dejar./<br/> <br/>Cerca, más cerca, mientras el ser,<br/>aliente vida y busque tu paz;<br/>y cuando al cielo pueda ascender,<br/>/ya para siempre conmigo estarás./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cerca más cerca</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="164"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Cerca</keyword>
+      <keyword>Gracia</keyword>
+      <keyword>Paz</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Vida</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cerca, más cerca, ¡oh, Dios, de ti!<br/>Cerca yo quiero mi vida llevar;<br/>cerca, más cerca, ¡oh, Dios, de ti!<br/>/Cerca a tu gracia que puede salvar./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cerca, más cerca, cual pobre soy,<br/>nada, Señor, yo te puedo ofrecer;<br/>solo mi ser contrito te doy,<br/>/pueda contigo la paz obtener./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cerca, más cerca, Señor de ti,<br/>quiero ser tuyo dejando el pecar;<br/>goces y pompas vanas aquí,<br/>/todo, Señor, pronto quiero dejar./<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cerca, más cerca, mientras el ser,<br/>aliente vida y busque tu paz;<br/>y cuando al cielo pueda ascender,<br/>/ya para siempre conmigo estarás./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

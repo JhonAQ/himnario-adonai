@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>168 Haz lo que quieras de mí Señor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="168"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Haz lo que quieras de mí, Señor;<br/>tú el alfarero, yo el barro soy;<br/>dócil y humilde anhelo ser,<br/>pues tu deseo es mi querer.<br/> <br/>Haz lo que quieras de mí, Señor;<br/>mírame y prueba mi corazón;<br/>lávame y quita toda maldad<br/>para que pueda contigo estar.<br/> <br/>Haz lo que quieras de mí, Señor;<br/>cura mis llagas y mi dolor.<br/>Tuyo es, ¡oh, Cristo!, todo poder;<br/>tu mano extiende y sanaré.<br/> <br/>Haz lo que quieras de mí, Señor;<br/>guía mi vida, Señor, aquí.<br/>De tu potencia llena mi ser,<br/>y el mundo a Cristo pueda en mi ver.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Haz lo que quieras de mí Señor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="168"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Consagración y Servicio</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Alfarero</keyword>
+      <keyword>Barro</keyword>
+      <keyword>Sanidad</keyword>
+      <keyword>Guía</keyword>
+      <keyword>Potencia</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Haz lo que quieras de mí, Señor;<br/>tú el alfarero, yo el barro soy;<br/>dócil y humilde anhelo ser,<br/>pues tu deseo es mi querer.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Haz lo que quieras de mí, Señor;<br/>mírame y prueba mi corazón;<br/>lávame y quita toda maldad<br/>para que pueda contigo estar.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Haz lo que quieras de mí, Señor;<br/>cura mis llagas y mi dolor.<br/>Tuyo es, ¡oh, Cristo!, todo poder;<br/>tu mano extiende y sanaré.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Haz lo que quieras de mí, Señor;<br/>guía mi vida, Señor, aquí.<br/>De tu potencia llena mi ser,<br/>y el mundo a Cristo pueda en mí ver.<br/></lines>
+    </verse>
+  </lyrics>
 </song>
