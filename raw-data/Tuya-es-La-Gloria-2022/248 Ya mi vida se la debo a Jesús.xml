@@ -1,21 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>248 Ya mi vida se la debo a Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="248"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Ya mi vida se la debo a Jesús, porque<br/>él murió en la cruz por mí./<br/> <br/>	/Vida nueva encontré en la cruz de Jesús,<br/>	porque Cristo mi deuda pagó./<br/> <br/>/Yo me rindo a los pies de Jesús mi Señor,<br/>porque fui un infiel pecador./<br/> <br/>/Pecador, el Santo Espíritu te llama a ti,<br/>ven a Cristo y salvo serás./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ya mi vida se la debo a Jesús</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="248"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Consagración y Servicio</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Misión y Evangelismo</theme>
+    </themes>
+    <keywords>
+      <keyword>Vida</keyword>
+      <keyword>Cruz</keyword>
+      <keyword>Rendición</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Espíritu</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Ya mi vida se la debo a Jesús, porque<br/>él murió en la cruz por mí./<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Vida nueva encontré en la cruz de Jesús,<br/>porque Cristo mi deuda pagó./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>/Yo me rindo a los pies de Jesús mi Señor,<br/>porque fui un infiel pecador./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>/Pecador, el Santo Espíritu te llama a ti,<br/>ven a Cristo y salvo serás./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>254 Aquí del pan partido tomaré</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="254"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Aquí del pan partido tomaré<br/>y de la copa de tu comunión.<br/>El nombre de mi Dios invocaré,<br/>gozándome en la paz de salvación.<br/> <br/>La culpa del pecado mía fue;<br/>más tuya fue la sangre de tu cruz.<br/>Por ella y tu justicia tengo, sé,<br/>perdón, consuelo y paz, Señor Jesús.<br/> <br/>Nos levantamos de la cena aquí;<br/>la fiesta pasa, mas no así el amor.<br/>Todo se va, más tú te quedas, sí,<br/>cerca, muy cerca amado Salvador.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Aquí del pan partido tomaré</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="254"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Bautismo y Santa Cena</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Pan</keyword>
+      <keyword>Comunión</keyword>
+      <keyword>Cruz</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Perdón</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aquí del pan partido tomaré<br/>y de la copa de tu comunión.<br/>El nombre de mi Dios invocaré,<br/>gozándome en la paz de salvación.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>La culpa del pecado mía fue;<br/>más tuya fue la sangre de tu cruz.<br/>Por ella y tu justicia tengo, sé,<br/>perdón, consuelo y paz, Señor Jesús.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nos levantamos de la cena aquí;<br/>la fiesta pasa, mas no así el amor.<br/>Todo se va, más tú te quedas, sí,<br/>cerca, muy cerca amado Salvador.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

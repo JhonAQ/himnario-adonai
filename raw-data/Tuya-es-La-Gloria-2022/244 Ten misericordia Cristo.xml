@@ -1,21 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>244 Ten misericordia Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="244"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Ten misericordia, Cristo, <br/>por tu amor tan infinito.<br/>Límpiame de mi pecado <br/>con tu sangre derramada.<br/> <br/>	¡Oh, eterno Dios!, te ruego,<br/>	borra todos mis pecados.<br/>	Dame una vida limpia,	<br/>	consagrada a ti, ¡oh, Cristo!<br/> <br/>¡Oh, Señor!, cuánto yo siento, <br/>contra ti solo he pecado.<br/>Ruego que me fortalezcas <br/>para vencer al pecado.<br/> <br/>Con tu muerte en el calvario <br/>me salvaste del pecado.<br/>Siempre quiero yo servirte <br/>cada día estar contigo.<br/> <br/>Guíame, bendito Cristo, <br/>en tu senda santa y pura,<br/>y guiado por tu mano <br/>andaré por este mundo.<br/> <br/>Sal 51:1-12</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ten misericordia Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="244"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Misericordia</keyword>
+      <keyword>Pecado</keyword>
+      <keyword>Limpieza</keyword>
+      <keyword>Calvario</keyword>
+      <keyword>Consagración</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ten misericordia, Cristo,<br/>por tu amor tan infinito.<br/>Límpiame de mi pecado<br/>con tu sangre derramada.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Oh, eterno Dios!, te ruego,<br/>borra todos mis pecados.<br/>Dame una vida limpia,<br/>consagrada a ti, ¡oh, Cristo!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Oh, Señor!, cuánto yo siento,<br/>contra ti solo he pecado.<br/>Ruego que me fortalezcas<br/>para vencer al pecado.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Con tu muerte en el calvario<br/>me salvaste del pecado.<br/>Siempre quiero yo servirte<br/>cada día estar contigo.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Guíame, bendito Cristo,<br/>en tu senda santa y pura,<br/>y guiado por tu mano<br/>andaré por este mundo.<br/></lines>
+    </verse>
+    <comment>Sal 51:1-12</comment>
+  </lyrics>
 </song>

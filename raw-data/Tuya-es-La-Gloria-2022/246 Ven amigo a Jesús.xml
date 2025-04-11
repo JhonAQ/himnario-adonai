@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>246 Ven amigo a Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="246"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Ven amigo a Jesús, pues él murió por ti.<br/>Recibirás la luz que quiere darte a ti.<br/>Mi buen Jesús murió para darte perdón;<br/>abre tu corazón y dulce paz tendrás.<br/> <br/>	Día fatal vendrá cuando no haya lugar;<br/>	la puerta se abre hoy, y tú podrás entrar.<br/>	Más gracia ya no habrá pues despreciaste hoy,<br/>	acepta, pecador, la salvación de Dios.<br/> <br/>Las manos del Señor se abren hoy para ti;<br/>ven y confía en él, y serás muy feliz.<br/>Tus cuitas pon en Dios, pues él las llevará;<br/>quitará tu pesar por su consolación.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Ven amigo a Jesús</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="246"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Misión y Evangelismo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Invitación</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Luz</keyword>
+      <keyword>Gracia</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ven amigo a Jesús, pues él murió por ti.<br/>Recibirás la luz que quiere darte a ti.<br/>Mi buen Jesús murió para darte perdón;<br/>abre tu corazón y dulce paz tendrás.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Día fatal vendrá cuando no haya lugar;<br/>la puerta se abre hoy, y tú podrás entrar.<br/>Más gracia ya no habrá pues despreciaste hoy,<br/>acepta, pecador, la salvación de Dios.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Las manos del Señor se abren hoy para ti;<br/>ven y confía en él, y serás muy feliz.<br/>Tus cuitas pon en Dios, pues él las llevará;<br/>quitará tu pesar por su consolación.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

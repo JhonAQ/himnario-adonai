@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>252 Nuestros hijos</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="252"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Nuestros hijos, recibidos<br/>de tu mano, buen Señor,<br/>te los damos que los laves<br/>en la fuente de tu amor.<br/>Que los tomes como tuyos,<br/>dándoles la remisión<br/>y lugar les proporciones<br/>en la esplendorosa Sión.<br/> <br/>Que adoptados herederos<br/>de tu reino, buen Señor,<br/>puedan siempre encaminarse<br/>por senderos del amor.<br/>Que les sea el Paracleto<br/>fuerte auxilio, fiel sostén<br/>en la lucha de la vida,<br/>guiándolos hasta el Edén.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Nuestros hijos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="252"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Bautismo y Santa Cena</theme>
+      <theme>Niños y Escuela Dominical</theme>
+    </themes>
+    <keywords>
+      <keyword>Hijos</keyword>
+      <keyword>Bautismo</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Bendición</keyword>
+      <keyword>Adopción</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nuestros hijos, recibidos<br/>de tu mano, buen Señor,<br/>te los damos que los laves<br/>en la fuente de tu amor.<br/>Que los tomes como tuyos,<br/>dándoles la remisión<br/>y lugar les proporciones<br/>en la esplendorosa Sión.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Que adoptados herederos<br/>de tu reino, buen Señor,<br/>puedan siempre encaminarse<br/>por senderos del amor.<br/>Que les sea el Paracleto<br/>fuerte auxilio, fiel sostén<br/>en la lucha de la vida,<br/>guiándolos hasta el Edén.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>245 Un hombre de noche</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="245"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Un hombre de noche llegóse a Jesús,<br/>buscando la senda de vida y de luz,<br/>y Cristo le dijo: “Si a Dios quieres ver<br/>tendrás que renacer”.<br/> <br/>	Tendrás que renacer,<br/>	tendrás que renacer.<br/>	De cierto, de cierto te digo a ti,<br/>	tendrás que renacer.<br/> <br/>Si acaso a los cielos tú quieres entrar,<br/>y allí con los santos poder descansar,<br/>si quieres la vida eternal obtener<br/>tendrás que renacer.<br/> <br/>Amigo, no debes jamás desechar<br/>palabras que Cristo dignóse hablar,<br/>Si tu alma no quieres llegar a perder,<br/>tendrás que renacer.<br/> <br/>Hermanos se han ido con Cristo a morar,<br/>a quienes un día querrás encontrar,<br/>pues esta proclama hoy debes creer:<br/>Tendrás que renacer.<br/> <br/>Jn 3:1-13<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Un hombre de noche</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="245"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Vida de Cristo</theme>
+      <theme>Misión y Evangelismo</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+    </themes>
+    <keywords>
+      <keyword>Renacer</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Vida</keyword>
+      <keyword>Cielo</keyword>
+      <keyword>Cristo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Un hombre de noche llegóse a Jesús,<br/>buscando la senda de vida y de luz,<br/>y Cristo le dijo: "Si a Dios quieres ver<br/>tendrás que renacer".<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Tendrás que renacer,<br/>tendrás que renacer.<br/>De cierto, de cierto te digo a ti,<br/>tendrás que renacer.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si acaso a los cielos tú quieres entrar,<br/>y allí con los santos poder descansar,<br/>si quieres la vida eternal obtener<br/>tendrás que renacer.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Amigo, no debes jamás desechar<br/>palabras que Cristo dignóse hablar,<br/>Si tu alma no quieres llegar a perder,<br/>tendrás que renacer.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hermanos se han ido con Cristo a morar,<br/>a quienes un día querrás encontrar,<br/>pues esta proclama hoy debes creer:<br/>Tendrás que renacer.<br/></lines>
+    </verse>
+    <comment>Jn 3:1-13</comment>
+  </lyrics>
 </song>
