@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>038 Allá en el pesebre</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="38"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Allá en el pesebre do nace Jesús,<br/>la cuna de paja nos vierte gran luz;<br/>estrellas lejanas del cielo al mirar<br/>se inclinan gozosas su lumbre a prestar.<br/> <br/>Pastores del campo teniendo temor,<br/>cercados de luz y de gran resplandor,<br/>acuden aprisa buscando a Jesús,<br/>nacido en pesebre del mundo la luz.<br/> <br/>Extraño bullicio despierta al Señor,<br/>mas no llora el niño, pues es puro amor;<br/>¡Oh vélanos!, Cristo Jesús, ¡sin cesar!<br/>Y así bien felices siempre hemos de estar.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Allá en el pesebre</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="38"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Pesebre</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Navidad</keyword>
+      <keyword>Pastores</keyword>
+      <keyword>Luz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Allá en el pesebre do nace Jesús,<br/>la cuna de paja nos vierte gran luz;<br/>estrellas lejanas del cielo al mirar<br/>se inclinan gozosas su lumbre a prestar.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pastores del campo teniendo temor,<br/>cercados de luz y de gran resplandor,<br/>acuden aprisa buscando a Jesús,<br/>nacido en pesebre del mundo la luz.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Extraño bullicio despierta al Señor,<br/>mas no llora el niño, pues es puro amor;<br/>¡Oh vélanos!, Cristo Jesús, ¡sin cesar!<br/>Y así bien felices siempre hemos de estar.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>054 Qué niño es este</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="54"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¿Qué niño es este que al dormir<br/>en brazos de María?<br/>Pastores velan, ángeles<br/>le cantan melodías.<br/> <br/>	Es Cristo, el Salvador.<br/>	Pastores y ángeles cantan:<br/>	Venid, venid a él,<br/>	al hijo de María.<br/> <br/>En un pesebre él nació,<br/>entre bueyes y asnos descansó.<br/>Jesús nos trajo la salvación,<br/>el Verbo se encarnó.<br/> <br/>Traed ofrendas y ofreced<br/>incienso, mirra y oro a él,<br/>al Rey de reyes y Redentor<br/>ofrécele tu corazón.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Qué niño es este</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="54"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>niño</keyword>
+      <keyword>María</keyword>
+      <keyword>salvación</keyword>
+      <keyword>Rey</keyword>
+      <keyword>ofrenda</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Qué niño es este que al dormir<br/>en brazos de María?<br/>Pastores velan, ángeles<br/>le cantan melodías.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Es Cristo, el Salvador.<br/>Pastores y ángeles cantan:<br/>Venid, venid a él,<br/>al hijo de María.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>En un pesebre él nació,<br/>entre bueyes y asnos descansó.<br/>Jesús nos trajo la salvación,<br/>el Verbo se encarnó.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Traed ofrendas y ofreced<br/>incienso, mirra y oro a él,<br/>al Rey de reyes y Redentor<br/>ofrécele tu corazón.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

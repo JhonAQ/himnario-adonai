@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>011 Fuente de la vida eterna</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="11"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Fuente de la vida eterna y de toda bendición;<br/>ensalzar tu gracia tierna, debe cada corazón.<br/>Tu piedad inagotable, abundante en perdonar, <br/>único ser adorable, gloria a ti debemos dar.<br/> <br/>De los cánticos celestes te quisiéramos cantar;<br/>entonados por las huestes que lograste rescatar.<br/>Almas que a buscar viniste porque les tuviste amor,<br/>de ellas te compadeciste con tiernísimo favor.<br/> <br/>Toma nuestros corazones, llénalos de tu verdad,<br/>de tu Espíritu, los dones y de toda santidad.<br/>Guíanos en obediencia, humildad, amor y fe.<br/>Nos ampare tu clemencia, Salvador, propicio sé.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Fuente de la vida eterna</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="11"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Vida eterna</keyword>
+      <keyword>Bendición</keyword>
+      <keyword>Gracia</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Salvador</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Fuente de la vida eterna y de toda bendición,<br/>ensalzar tu gracia tierna, debe cada corazón.<br/>Tu piedad inagotable, abundante en perdonar,<br/>único ser adorable, gloria a ti debemos dar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>De los cánticos celestes te quisiéramos cantar;<br/>entonados por las huestes que lograste rescatar.<br/>Almas que a buscar viniste porque les tuviste amor,<br/>de ellas te compadeciste con tiernísimo favor.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Toma nuestros corazones, llénalos de tu verdad,<br/>de tu Espíritu, los dones y de toda santidad.<br/>Guíanos en obediencia, humildad, amor y fe.<br/>Nos ampare tu clemencia, Salvador, propicio sé.</lines>
+    </verse>
+  </lyrics>
 </song>

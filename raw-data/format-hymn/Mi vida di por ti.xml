@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Mi vida di por ti</title>
+    </titles>
+    <authors>
+      <author>Frances R. Havergal</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="81"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Amor</keyword>
+      <keyword>Sacrificio</keyword>
+      <keyword>Redención</keyword>
+      <keyword>Devoción</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi vida di por ti,<br/>mi sangre derramé;<br/>la muerte yo sufrí,<br/>por gracia te salvé;<br/>/Por ti la muerte yo sufrí,<br/>¿Qué has dado tú por mí?/<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mi celestial mansión,<br/>mi trono de esplendor,<br/>dejé por rescatar<br/>al mundo pecador;<br/>/Sí, todo yo dejé por ti,<br/>¿Qué dejas tú por mí?/<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Reproches, aflicción,<br/>y angustia yo sufrí,<br/>la copa amarga fue<br/>que yo por ti bebí;<br/>/insultos yo por ti sufrí,<br/>¿Qué sufres tú por mí?/<br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>De mi celeste hogar<br/>te traigo el rico don;<br/>del Padre, Dios de amor,<br/>la plena salvación;<br/>/mi don de amor te traigo a ti,<br/>¿Qué ofreces tú por mí?/<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

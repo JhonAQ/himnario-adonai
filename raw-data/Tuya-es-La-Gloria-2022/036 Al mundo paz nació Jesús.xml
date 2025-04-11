@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>036 Al mundo paz nació Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="36"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Al mundo paz, nació Jesús!<br/>Nació ya nuestro Rey;<br/>el corazón ya tiene luz,<br/>y paz su santa grey,<br/>y paz su santa grey,<br/>y paz, y paz su santa grey.<br/> <br/>¡Al mundo paz, el Salvador<br/>en tierra reinará!<br/>Ya es feliz el pecador,<br/>Jesús perdón le da,<br/>Jesús perdón le da,<br/>Jesús, Jesús perdón le da.	<br/>			 <br/>Al mundo él gobernará<br/>con gracia y con poder;<br/>a las naciones probará<br/>su amor y su poder,<br/>su amor y su poder,<br/>su amor, su amor y su poder.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Al mundo paz nació Jesús</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="36"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Navidad</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Paz</keyword>
+      <keyword>Salvador</keyword>
+      <keyword>Rey</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Al mundo paz, nació Jesús!<br/>Nació ya nuestro Rey;<br/>el corazón ya tiene luz,<br/>y paz su santa grey,<br/>y paz su santa grey,<br/>y paz, y paz su santa grey.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Al mundo paz, el Salvador<br/>en tierra reinará!<br/>Ya es feliz el pecador,<br/>Jesús perdón le da,<br/>Jesús perdón le da,<br/>Jesús, Jesús perdón le da.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Al mundo él gobernará<br/>con gracia y con poder;<br/>a las naciones probará<br/>su amor y su poder,<br/>su amor y su poder,<br/>su amor, su amor y su poder.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

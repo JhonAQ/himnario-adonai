@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>015 La tierna voz del Salvador</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="15"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>La tierna voz del Salvador<br/>nos habla conmovida.<br/>Oíd al médico de amor,<br/>que da a los muertos vida.<br/> <br/>	Nunca los hombres cantarán,<br/>	nunca los ángeles en luz,<br/>	nota más dulce entonarán<br/>	que el nombre de Jesús.<br/> <br/>Cordero manso, ¡gloria a ti!<br/>por Salvador te aclamo.<br/>Tu dulce nombre es para mí<br/>la joya que más amo.<br/> <br/>La amarga copa de dolor,<br/>Jesús, fue tu bebida;<br/>en cambio, das al pecador<br/>el agua de la vida.<br/> <br/>Y cuando al cielo del Señor<br/>con él nos elevemos,<br/>arrebatados en su amor<br/>su gloria cantaremos.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>La tierna voz del Salvador</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="15"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Salvador</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Vida</keyword>
+      <keyword>Amor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>La tierna voz del Salvador<br/>nos habla conmovida.<br/>Oíd al médico de amor,<br/>que da a los muertos vida.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nunca los hombres cantarán,<br/>nunca los ángeles en luz,<br/>nota más dulce entonarán<br/>que el nombre de Jesús.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cordero manso, ¡gloria a ti!<br/>por Salvador te aclamo.<br/>Tu dulce nombre es para mí<br/>la joya que más amo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>La amarga copa de dolor,<br/>Jesús, fue tu bebida;<br/>en cambio, das al pecador<br/>el agua de la vida.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Y cuando al cielo del Señor<br/>con él nos elevemos,<br/>arrebatados en su amor<br/>su gloria cantaremos.</lines>
+    </verse>
+  </lyrics>
 </song>

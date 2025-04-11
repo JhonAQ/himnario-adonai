@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>031 Te alabaré mi buen Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="31"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Eres tú la única razón <br/>de mi adoración ¡oh, Jesús!<br/>Eres tú la esperanza que, <br/>anhelé tener oh, Jesús.<br/> <br/>Confié en ti me has ayudado,<br/>tu salvación me has regalado.<br/>Hoy hay gozo en mi corazón,<br/>con mi canto te alabaré.<br/> <br/>	/Te alabaré, te glorificaré<br/>	te alabaré, mi buen Jesús./<br/> <br/>En todo tiempo te alabaré.<br/>En todo tiempo te adoraré.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Te alabaré mi buen Jesús</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="31"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Adoración</keyword>
+      <keyword>Esperanza</keyword>
+      <keyword>Gozo</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Eres tú la única razón<br/>de mi adoración ¡oh, Jesús!<br/>Eres tú la esperanza que<br/>anhelé tener ¡oh, Jesús!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Confié en ti, me has ayudado,<br/>tu salvación me has regalado.<br/>Hoy hay gozo en mi corazón,<br/>con mi canto te alabaré.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Te alabaré, te glorificaré,<br/>te alabaré, mi buen Jesús./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>En todo tiempo te alabaré.<br/>En todo tiempo te adoraré.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>023 Queremos darte gloria</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="23"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/Queremos darte gloria <br/>y alabanzas,<br/>levantamos nuestras manos<br/>exaltándote, Señor./<br/> <br/>/Grande eres tú,<br/>grandes tus milagros son,<br/>no hay otro como tú,<br/>no hay otro como tú./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Queremos darte gloria</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="23"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Gloria</keyword>
+      <keyword>Alabanza</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Milagros</keyword>
+      <keyword>Grandeza</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/Queremos darte gloria<br/>y alabanzas,<br/>levantamos nuestras manos<br/>exaltándote, Señor./<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Grande eres tú,<br/>grandes tus milagros son,<br/>no hay otro como tú,<br/>no hay otro como tú./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

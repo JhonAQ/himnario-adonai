@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>002 Alabaré alabaré</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="2"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>	Alabaré, alabaré, alabaré, alabaré.<br/>	Alabaré a mi Señor.<br/> <br/>Juan vio el número de los redimidos<br/>y todos alababan al Señor.<br/>Unos oraban, otros cantaban;<br/>y todos alababan al Señor.<br/> <br/>Jesús vino a salvar a los perdidos<br/>y todos salvarse pueden hoy.<br/>Sólo confiando y recibiendo<br/>en sus corazones al Señor.<br/> <br/>Somos tus hijos, Dios Padre eterno<br/>tú nos has creado por amor;<br/>te adoramos, te bendecimos<br/>y todos cantamos en tu honor.<br/> <br/>Todos unidos alegres cantamos<br/>glorias y alabanzas al Señor.<br/>Gloria al Padre, gloria al Hijo,<br/>gloria al Espíritu de amor.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Alabaré alabaré</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="2"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Coros</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>alabaré</keyword>
+      <keyword>redimidos</keyword>
+      <keyword>gloria</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Jesús</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="c">
+      <lines>Alabaré, alabaré, alabaré, alabaré.<br/>Alabaré a mi Señor.<br/></lines>
+    </verse>
+    <verse name="v1">
+      <lines>Juan vio el número de los redimidos<br/>y todos alababan al Señor.<br/>Unos oraban, otros cantaban;<br/>y todos alababan al Señor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesús vino a salvar a los perdidos<br/>y todos salvarse pueden hoy.<br/>Sólo confiando y recibiendo<br/>en sus corazones al Señor.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Somos tus hijos, Dios Padre eterno,<br/>tú nos has creado por amor;<br/>te adoramos, te bendecimos<br/>y todos cantamos en tu honor.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Todos unidos alegres cantamos<br/>glorias y alabanzas al Señor.<br/>Gloria al Padre, gloria al Hijo,<br/>gloria al Espíritu de amor.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>014 Increíble</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="14"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Poderoso, invencible,<br/>admirable, grande, fuerte Dios.<br/>Rey de reyes, asombroso,<br/>incomparable.<br/> <br/>	Eres increíble, <br/>	todopoderoso, grande .<br/>	Eres increíble,<br/>	venciste las tinieblas,<br/>	Cristo exaltado estás.<br/> <br/>/Increíble, invencible,<br/>mi Dios solo tú, solo tú, tú eres…/<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Increíble</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="14"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Poderoso</keyword>
+      <keyword>Invencible</keyword>
+      <keyword>Adoración</keyword>
+      <keyword>Exaltación</keyword>
+      <keyword>Cristo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poderoso, invencible,<br/>admirable, grande, fuerte Dios.<br/>Rey de reyes, asombroso,<br/>incomparable.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Eres increíble,<br/>todopoderoso, grande.<br/>Eres increíble,<br/>venciste las tinieblas,<br/>Cristo exaltado estás.</lines>
+    </verse>
+    <verse name="c">
+      <lines>/Increíble, invencible,<br/>mi Dios solo tú, solo tú, tú eres…/</lines>
+    </verse>
+  </lyrics>
 </song>

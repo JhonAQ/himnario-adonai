@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>053 Oíd un son en alta esfera</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="53"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Oíd un son en alta esfera:<br/>“En los cielos, ¡gloria a Dios!,<br/>¡al mortal paz en la tierra!”,<br/>canta la celeste voz.<br/>Con los cielos alabemos,<br/>al eterno Rey cantemos,<br/>a Jesús, que es nuestro bien,<br/>con el coro de Belén;<br/>canta la celeste voz:<br/>“En los cielos, ¡gloria a Dios!”<br/> <br/>El Señor de los señores,<br/>el Ungido celestial<br/>a salvar los pecadores<br/>bajó al seno virginal.<br/>Loor al Verbo encarnado		 <br/>en humanidad velado;<br/>¡gloria al Santo de Israel!,<br/>cuyo nombre Emanuel;<br/>canta la celeste voz:<br/>“En los cielos, ¡gloria a Dios!”<br/> <br/>Príncipe de Paz eterna,<br/>¡gloria a ti, a ti, Jesús!,<br/>entregando el alma tierna.<br/>Tú nos traes vida y luz.<br/>Has tu majestad dejado,<br/>y buscarnos te has dignado;<br/>para darnos el vivir,<br/>a la muerte quieres ir.<br/>Canta la celeste voz:<br/>“En los cielos, ¡gloria a Dios!”<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oíd un son en alta esfera</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="53"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>gloria</keyword>
+      <keyword>paz</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Emanuel</keyword>
+      <keyword>luz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oíd un son en alta esfera:<br/>“En los cielos, ¡gloria a Dios!,<br/>¡al mortal paz en la tierra!”,<br/>canta la celeste voz.<br/>Con los cielos alabemos,<br/>al eterno Rey cantemos,<br/>a Jesús, que es nuestro bien,<br/>con el coro de Belén;<br/>canta la celeste voz:<br/>“En los cielos, ¡gloria a Dios!”<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>El Señor de los señores,<br/>el Ungido celestial<br/>a salvar los pecadores<br/>bajó al seno virginal.<br/>Loor al Verbo encarnado<br/>en humanidad velado;<br/>¡gloria al Santo de Israel!,<br/>cuyo nombre Emanuel;<br/>canta la celeste voz:<br/>“En los cielos, ¡gloria a Dios!”<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Príncipe de Paz eterna,<br/>¡gloria a ti, a ti, Jesús!,<br/>entregando el alma tierna.<br/>Tú nos traes vida y luz.<br/>Has tu majestad dejado,<br/>y buscarnos te has dignado;<br/>para darnos el vivir,<br/>a la muerte quieres ir.<br/>Canta la celeste voz:<br/>“En los cielos, ¡gloria a Dios!”<br/></lines>
+    </verse>
+  </lyrics>
 </song>

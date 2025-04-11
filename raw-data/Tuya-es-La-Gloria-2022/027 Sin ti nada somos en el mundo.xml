@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>027 Sin ti nada somos en el mundo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="27"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Sin ti nada somos en el mundo,<br/>sin ti nada podemos hacer.<br/>/Ni las hojas de los árboles se mueven, <br/>si no es por tu poder./<br/> <br/>Contigo Jesucristo en el mundo<br/>contigo todo podemos hacer.<br/>/Contra el diablo, contra el mundo y la carne<br/>siempre podemos vencer./<br/> <br/>La sangre de tu pacto sempiterno,<br/>la promesa del Espíritu de Dios<br/>/son las bases infalibles de la vida<br/>gloria a ti, Señor Jesús./</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Sin ti nada somos en el mundo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="27"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+      <theme>Espíritu Santo</theme>
+    </themes>
+    <keywords>
+      <keyword>Dios</keyword>
+      <keyword>Poder</keyword>
+      <keyword>Jesucristo</keyword>
+      <keyword>Victoria</keyword>
+      <keyword>Espíritu</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sin ti nada somos en el mundo,<br/>sin ti nada podemos hacer.<br/>/Ni las hojas de los árboles se mueven,<br/>si no es por tu poder./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Contigo Jesucristo en el mundo<br/>contigo todo podemos hacer.<br/>/Contra el diablo, contra el mundo y la carne<br/>siempre podemos vencer./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>La sangre de tu pacto sempiterno,<br/>la promesa del Espíritu de Dios<br/>/son las bases infalibles de la vida<br/>gloria a ti, Señor Jesús./<br/></lines>
+    </verse>
+  </lyrics>
 </song>

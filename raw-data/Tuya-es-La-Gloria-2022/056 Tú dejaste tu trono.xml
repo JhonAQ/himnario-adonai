@@ -1,21 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>056 Tú dejaste tu trono</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="56"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Tú dejaste tu trono y corona por mí<br/>al venir a Belén a nacer;<br/>más a ti no fue dado el entrar al mesón, <br/>y en pesebre te hicieron nacer.<br/>	<br/>	Ven a mi corazón, ¡oh, Cristo!,<br/>	pues en él hay lugar para ti;<br/>	ven a mi corazón, ¡oh, Cristo!, ven,<br/>	pues en él hay lugar para ti.	<br/> <br/>Alabanzas celestes los ángeles dan<br/>en que rinden al Verbo loor;<br/>más humilde viniste a la tierra, Señor,<br/>a dar vida al más vil pecador.<br/> <br/>Siempre pueden las zorras sus cuevas tener,<br/>y las aves sus nidos también;<br/>mas el Hijo del hombre no tuvo lugar,<br/>en el cual reclinara su sien.<br/> <br/>Tú viniste, Señor, con tu gran bendición<br/>para dar libertad y salud;<br/>mas con odio y desprecio te hicieron morir,<br/>aunque vieron tu amor y virtud.<br/> <br/>Alabanzas sublimes los cielos darán,<br/>cuando vengas glorioso de allí,<br/>y tu voz en las nubes dirá: “Ven a mí,<br/>que hay lugar junto a mí para ti.”<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Tú dejaste tu trono</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="56"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>trono</keyword>
+      <keyword>corazón</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>salvación</keyword>
+      <keyword>adoración</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tú dejaste tu trono y corona por mí<br/>al venir a Belén a nacer;<br/>más a ti no fue dado el entrar al mesón,<br/>y en pesebre te hicieron nacer.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Ven a mi corazón, ¡oh, Cristo!,<br/>pues en él hay lugar para ti;<br/>ven a mi corazón, ¡oh, Cristo!, ven,<br/>pues en él hay lugar para ti.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alabanzas celestes los ángeles dan<br/>en que rinden al Verbo loor;<br/>más humilde viniste a la tierra, Señor,<br/>a dar vida al más vil pecador.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Siempre pueden las zorras sus cuevas tener,<br/>y las aves sus nidos también;<br/>mas el Hijo del hombre no tuvo lugar,<br/>en el cual reclinara su sien.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tú viniste, Señor, con tu gran bendición<br/>para dar libertad y salud;<br/>mas con odio y desprecio te hicieron morir,<br/>aunque vieron tu amor y virtud.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Alabanzas sublimes los cielos darán,<br/>cuando vengas glorioso de allí,<br/>y tu voz en las nubes dirá: “Ven a mí,<br/>que hay lugar junto a mí para ti.”<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>035 Alabanzas al Rey</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="35"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Hoy vengo a ofrecerme postrado ante ti,<br/>mi corazón puede estar ahí.<br/>El cielo se viste de gala,<br/>jamás se ha visto así.<br/> <br/>Y en humilde pesebre ahí en Belén<br/>ha nacido el Rey.<br/> <br/>	Alabanzas al Rey,<br/>	alabanzas al Rey.<br/>	Alabanzas al Rey,<br/>	al Rey de Israel.<br/> <br/>Pastores y magos vinieron a ti<br/>a rendir adoración.<br/>Ángeles ahora cantan <br/>a Dios nueva canción.<br/> <br/>Pues al mundo ha llegado el regalo de Dios,<br/>paz y salvación.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Alabanzas al Rey</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="35"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Navidad y Pascua</theme>
+    </themes>
+    <keywords>
+      <keyword>Rey</keyword>
+      <keyword>Belén</keyword>
+      <keyword>Adoración</keyword>
+      <keyword>Ángeles</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hoy vengo a ofrecerme postrado ante ti,<br/>mi corazón puede estar ahí.<br/>El cielo se viste de gala,<br/>jamás se ha visto así.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Y en humilde pesebre ahí en Belén<br/>ha nacido el Rey.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Alabanzas al Rey,<br/>alabanzas al Rey.<br/>Alabanzas al Rey,<br/>al Rey de Israel.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pastores y magos vinieron a ti<br/>a rendir adoración.<br/>Ángeles ahora cantan<br/>a Dios nueva canción.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pues al mundo ha llegado el regalo de Dios,<br/>paz y salvación.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

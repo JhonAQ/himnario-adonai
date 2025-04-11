@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>009 El Señor es mi Rey</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="9"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>El Señor es mi Rey, mi todo.<br/>El Señor es mi luz, mi Rey;<br/>el que me hace vibrar de gozo. <br/>El que guía mis pasos, <br/>el que extiende sus brazos.<br/>El Creador de los cielos.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>El Señor es mi Rey</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="9"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Señor</keyword>
+      <keyword>Rey</keyword>
+      <keyword>Gozo</keyword>
+      <keyword>Guía</keyword>
+      <keyword>Creador</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El Señor es mi Rey, mi todo.<br/>El Señor es mi luz, mi Rey;<br/>el que me hace vibrar de gozo.<br/>El que guía mis pasos,<br/>el que extiende sus brazos.<br/>El Creador de los cielos.</lines>
+    </verse>
+  </lyrics>
 </song>

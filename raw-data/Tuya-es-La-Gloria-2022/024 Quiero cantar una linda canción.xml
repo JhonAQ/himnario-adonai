@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>024 Quiero cantar una linda canción</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="24"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Quiero cantar una linda canción <br/>de un hombre que me transformó;<br/>quiero cantar una linda canción <br/>de aquel que mi vida cambió.	<br/>		 <br/>	Es mi amigo Jesús, es mi amigo Jesús.<br/>	Él es Dios, él es rey, es amor, es verdad. <br/>	Solo en él encontré, esa paz que busqué, <br/>	solo en él encontré la felicidad.<br/>	 <br/>Quiero cantar una linda canción <br/>de aquel que el camino mostró;<br/>quiero cantar una linda canción<br/>de aquel que mis manchas lavó.<br/> <br/>Ya libre estoy, y yo amo a Jesús<br/>y a él solo quiero servir.<br/>Él es mi Dios y mi Salvador<br/>y por siempre yo le alabaré.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Quiero cantar una linda canción</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="24"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Cantar</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Transformación</keyword>
+      <keyword>Felicidad</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Quiero cantar una linda canción<br/>de un hombre que me transformó;<br/>quiero cantar una linda canción<br/>de aquel que mi vida cambió.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Es mi amigo Jesús, es mi amigo Jesús.<br/>Él es Dios, él es rey, es amor, es verdad.<br/>Solo en él encontré, esa paz que busqué,<br/>solo en él encontré la felicidad.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Quiero cantar una linda canción<br/>de aquel que el camino mostró;<br/>quiero cantar una linda canción<br/>de aquel que mis manchas lavó.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ya libre estoy, y yo amo a Jesús<br/>y a él solo quiero servir.<br/>Él es mi Dios y mi Salvador<br/>y por siempre yo le alabaré.<br/></lines>
+    </verse>
+  </lyrics>
 </song>
