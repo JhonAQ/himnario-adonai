@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>039 Campanas por doquier</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="39"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Campanas por doquier resuenan sin cesar;<br/>proclaman con placer que hoy es Navidad.<br/>Los niños con canción la grata nueva dan<br/>de este día de amor y buena voluntad.<br/> <br/>	¡Navidad! ¡Navidad! Hoy es Navidad.<br/>	Es un día de alegría y felicidad.<br/>	¡Navidad! ¡Navidad! Hoy es Navidad<br/>	Es un día de alegría y felicidad.	<br/> <br/>El niño de Belén nos trae la salvación;<br/>con júbilo sin par se entona la canción.<br/>Yo te amo, mi Jesús; tus glorias cantaré;<br/>en este día tan feliz me regocijaré.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Campanas por doquier</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="39"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Campanas</keyword>
+      <keyword>Navidad</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Alegría</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Campanas por doquier resuenan sin cesar;<br/>proclaman con placer que hoy es Navidad.<br/>Los niños con canción la grata nueva dan<br/>de este día de amor y buena voluntad.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Navidad! ¡Navidad! Hoy es Navidad.<br/>Es un día de alegría y felicidad.<br/>¡Navidad! ¡Navidad! Hoy es Navidad.<br/>Es un día de alegría y felicidad.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>El niño de Belén nos trae la salvación;<br/>con júbilo sin par se entona la canción.<br/>Yo te amo, mi Jesús; tus glorias cantaré;<br/>en este día tan feliz me regocijaré.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

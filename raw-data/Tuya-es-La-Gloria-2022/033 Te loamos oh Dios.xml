@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>033 Te loamos oh Dios</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="33"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Te loamos, ¡oh, Dios!, con unánime voz,<br/>porque en Cristo, tu hijo, nos diste perdón. <br/>	<br/>	¡Aleluya!, te alabamos, ¡cuán grande es tu amor!<br/>	¡Aleluya!, te adoramos, bendito Señor.<br/> <br/>Te loamos, Jesús, pues tu trono de luz<br/>has dejado por darnos salud en la cruz.<br/> <br/>Te damos loor, santo Consolador,<br/>que nos llenas de gozo y santo valor.	 <br/> <br/>Unidos load, a la gran trinidad,<br/>que es la fuente de gracia, virtud y verdad.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Te loamos oh Dios</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="33"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Espíritu Santo</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Loar</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>Consolador</keyword>
+      <keyword>Trinidad</keyword>
+      <keyword>Amor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te loamos, ¡oh, Dios!, con unánime voz,<br/>porque en Cristo, tu hijo, nos diste perdón.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Aleluya!, te alabamos, ¡cuán grande es tu amor!<br/>¡Aleluya!, te adoramos, bendito Señor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Te loamos, Jesús, pues tu trono de luz<br/>has dejado por darnos salud en la cruz.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Te damos loor, santo Consolador,<br/>que nos llenas de gozo y santo valor.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Unidos load, a la gran trinidad,<br/>que es la fuente de gracia, virtud y verdad.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

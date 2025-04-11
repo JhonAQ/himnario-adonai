@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>049 Oh cristianos con fe recordemos</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="49"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh, cristianos con fe recordemos!<br/>el gran día en que Cristo ha nacido,<br/>alabemos al Cristo encarnado,<br/>adoremos al Hijo de Dios.	<br/> <br/>	Hoy cantemos con gozo a Cristo,<br/>	él nos dio salvación del pecado.<br/>	/Adoremos su bendito nombre,<br/>	los salvados por la fe./<br/> <br/>El nació en Belén de Judea;<br/>vino al mundo por nuestros pecados.<br/>Lo predicho por muchos profetas<br/>se ha cumplido con exactitud.<br/> <br/>Dios el Padre mandó a su hijo<br/>demostrando su amor tan profundo.<br/>Fueron buenas noticias de gozo<br/>para toda la humanidad.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oh cristianos con fe recordemos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="49"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Belén</keyword>
+      <keyword>Amor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Oh, cristianos con fe recordemos!<br/>el gran día en que Cristo ha nacido,<br/>alabemos al Cristo encarnado,<br/>adoremos al Hijo de Dios.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Hoy cantemos con gozo a Cristo,<br/>él nos dio salvación del pecado.<br/>/Adoremos su bendito nombre,<br/>los salvados por la fe./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>El nació en Belén de Judea;<br/>vino al mundo por nuestros pecados.<br/>Lo predicho por muchos profetas<br/>se ha cumplido con exactitud.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dios el Padre mandó a su hijo<br/>demostrando su amor tan profundo.<br/>Fueron buenas noticias de gozo<br/>para toda la humanidad.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

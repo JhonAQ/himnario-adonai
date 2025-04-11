@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>042 Es Navidad</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="42"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Un aire de paz corre por las calles<br/>pasa envolviendo cada corazón,<br/>y la ciudad se viste de luces<br/>celebrando la estación.<br/> <br/>Por todas partes la gente comparte<br/>un sentimiento de hermandad,<br/>y las familias unidas festejan<br/>bajo el calor de cada hogar.<br/> <br/>	/Es Navidad, la tierra celebra.<br/>	El rico y el pobre compartirán.<br/>	La dicha y el gozo que en aquel día<br/>	Cristo Jesús nos vino a dar./<br/> <br/>Este es un tiempo anticipado,<br/>que grandes y chicos anhelan vivir:<br/>La alegría de todos los pueblos<br/>el júbilo eterno de compartir.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Es Navidad</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="42"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Iglesia y Comunidad</theme>
+    </themes>
+    <keywords>
+      <keyword>Navidad</keyword>
+      <keyword>Paz</keyword>
+      <keyword>Familia</keyword>
+      <keyword>Hermandad</keyword>
+      <keyword>Cristo</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Un aire de paz corre por las calles<br/>pasa envolviendo cada corazón,<br/>y la ciudad se viste de luces<br/>celebrando la estación.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Por todas partes la gente comparte<br/>un sentimiento de hermandad,<br/>y las familias unidas festejan<br/>bajo el calor de cada hogar.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Es Navidad, la tierra celebra.<br/>El rico y el pobre compartirán.<br/>La dicha y el gozo que en aquel día<br/>Cristo Jesús nos vino a dar./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Este es un tiempo anticipado,<br/>que grandes y chicos anhelan vivir:<br/>La alegría de todos los pueblos<br/>el júbilo eterno de compartir.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

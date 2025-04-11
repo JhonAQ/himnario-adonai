@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>034 Te vengo a decir</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="34"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Te vengo a decir, te vengo a decir, ¡oh, mi Salvador!,<br/>que yo te amo a ti, que yo te amo a ti con el corazón.<br/>Te vengo a decir, te vengo a decir toda la verdad,<br/>te amo, Señor, te adoro, Señor, con el corazón. <br/> <br/>Yo quiero cantar, yo quiero cantar de gozo y de paz.<br/>Yo quiero llorar, yo quiero llorar de felicidad.<br/>Te vengo a decir, te vengo a decir toda la verdad.<br/>Te amo, Señor, te adoro, Señor, con el corazón.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Te vengo a decir</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="34"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Salvador</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Corazón</keyword>
+      <keyword>Gozo</keyword>
+      <keyword>Felicidad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Te vengo a decir, te vengo a decir, ¡oh, mi Salvador!,<br/>que yo te amo a ti, que yo te amo a ti con el corazón.<br/>Te vengo a decir, te vengo a decir toda la verdad,<br/>te amo, Señor, te adoro, Señor, con el corazón.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Yo quiero cantar, yo quiero cantar de gozo y de paz.<br/>Yo quiero llorar, yo quiero llorar de felicidad.<br/>Te vengo a decir, te vengo a decir toda la verdad.<br/>Te amo, Señor, te adoro, Señor, con el corazón.<br/></lines>
+    </verse>
+  </lyrics>
 </song>
