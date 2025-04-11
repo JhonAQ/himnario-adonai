@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>008 El poder de Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="8"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>/El poder de Cristo fue manifestado<br/>por las grandes obras de su creación./	<br/>	 <br/>	/Cristo es poderoso para redimir, <br/>	y él ha preparado para los salvados un glorioso hogar./<br/> <br/>/El poder de Cristo puede darte vida,<br/>si tú lo recibes en tu corazón./<br/> <br/>/El poder de Cristo siempre nos anima<br/>para andar la vida sin mirar atrás./</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>El poder de Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="8"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Consagración y Servicio</theme>
+      <theme>Misión y Evangelismo</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Poder</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Redención</keyword>
+      <keyword>Corazón</keyword>
+      <keyword>Vida</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>El poder de Cristo fue manifestado<br/>por las grandes obras de su creación.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo es poderoso para redimir,<br/>y él ha preparado para los salvados un glorioso hogar.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>El poder de Cristo puede darte vida,<br/>si tú lo recibes en tu corazón.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>El poder de Cristo siempre nos anima<br/>para andar la vida sin mirar atrás.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,20 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>001 Abre mis ojos oh Cristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="1"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Abre mis ojos, ¡oh, Cristo!<br/>Abre mis ojos, Señor,<br/>yo quiero verte, yo quiero verte.<br/> <br/>Yo quiero verte enaltecido, ¡oh, Dios!<br/>radiante en toda tu gloria.<br/>Derrama hoy tu poder<br/>sobre tu pueblo,<br/>Padre Santo.<br/>/Santo, santo, santo./<br/>Yo quiero verte.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Abre mis ojos oh Cristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="1"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Consagración y Servicio</theme>
+      <theme>Coros</theme>
+    </themes>
+    <keywords>
+      <keyword>ojos</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>ver</keyword>
+      <keyword>santo</keyword>
+      <keyword>gloria</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Abre mis ojos, ¡oh, Cristo!<br/>Abre mis ojos, Señor,<br/>yo quiero verte,<br/>yo quiero verte.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yo quiero verte enaltecido, ¡oh, Dios!<br/>radiante en toda tu gloria.<br/>Derrama hoy tu poder<br/>sobre tu pueblo,<br/>Padre Santo.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Santo, santo, santo.<br/>Yo quiero verte.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>012 Grande gozo hay en mi alma</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="12"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Grande gozo hay en mi alma hoy,<br/>pues Jesús conmigo está;<br/>y su paz, que ya gozando estoy<br/>por siempre durará.<br/> <br/>	¡Grande gozo, cuán hermoso!<br/>	Paso todo el tiempo bien feliz;<br/>	porque tengo en Cristo grata y dulce paz. <br/>	Grande gozo siento en mí.<br/> <br/>Hay un canto en mi alma hoy, <br/>melodías a mi rey;<br/>en su amor feliz y libre soy<br/>y salvo por la fe.<br/> <br/>Paz divina hay en mi alma hoy<br/>porque Cristo me salvó;<br/>las cadenas rotas ya están;<br/>Jesús me libertó.<br/> <br/>Gratitud hay en mi alma hoy<br/>y alabanzas a Jesús;<br/>por su gracia a la gloria voy<br/>gozándome en la luz.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Grande gozo hay en mi alma</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="12"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Gozo</keyword>
+      <keyword>Paz</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Gratitud</keyword>
+      <keyword>Jesús</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Grande gozo hay en mi alma hoy,<br/>pues Jesús conmigo está;<br/>y su paz, que ya gozando estoy<br/>por siempre durará.</lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Grande gozo, cuán hermoso!<br/>Paso todo el tiempo bien feliz;<br/>porque tengo en Cristo grata y dulce paz.<br/>Grande gozo siento en mí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hay un canto en mi alma hoy,<br/>melodías a mi rey;<br/>en su amor feliz y libre soy<br/>y salvo por la fe.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Paz divina hay en mi alma hoy<br/>porque Cristo me salvó;<br/>las cadenas rotas ya están;<br/>Jesús me libertó.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Gratitud hay en mi alma hoy<br/>y alabanzas a Jesús;<br/>por su gracia a la gloria voy<br/>gozándome en la luz.</lines>
+    </verse>
+  </lyrics>
 </song>

@@ -82,7 +82,8 @@ Tus instrucciones son las siguientes:
    - Versículos Bíblicos o Referencias: Si al final del himno se incluyen versículos o referencias de la Biblia (por ejemplo, "Isaías 7:14; Isaías 11:1-5..." o "Salmos 23"), extráelos del contenido principal y colócalos en una etiqueta <comment> al final del bloque <lyrics>.
    - Si el himno no tiene versículos bíblicos, no incluyas la etiqueta <comment> en la salida.
    - Asegurate de no agregar espacios innecesarios entre las etiquetas o dentro de los versos. El formato debe ser limpio y estructurado.
-   - No incluyas etiquetas vacías o innecesarias. Por ejemplo, si no hay un coro, no incluyas la etiqueta <verse name="c">, ni repeticion de <br/>.
+   - No incluyas etiquetas vacías o innecesarias. Por ejemplo, si no hay un coro, no incluyas la etiqueta <verse name="c">.
+   - No repitas <br/> <br/> innecesariamente. Si un verso o coro tiene un solo <br/>, no lo repitas. Por ejemplo, si el verso es "En lugares delicados<br/>él me pastoreará.<br/><br/>", debes dejarlo como "En lugares delicados<br/>él me pastoreará.<br/>".
 
 4. Salida:
    - Devuélveme el XML completo, corregido, limpio y bien estructurado, siguiendo el formato de referencia y aplicando todas las correcciones indicadas.

@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>003 Bueno es alabar</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="3"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Bueno es alabar, ¡oh, Señor!, tu nombre<br/>darte gloria honra y honor, por siempre.<br/>Bueno es alabarte Jesús, y gozarme en tu poder.<br/> <br/>	Porque grande eres tú, grande son tus obras.<br/>	Porque grande eres tú, grande es tu amor,<br/>	grande es tu gloria.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Bueno es alabar</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="3"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Consagración y Servicio</theme>
+      <theme>Coros</theme>
+    </themes>
+    <keywords>
+      <keyword>alabar</keyword>
+      <keyword>gloria</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>amor</keyword>
+      <keyword>obras</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bueno es alabar, ¡oh, Señor!, tu nombre,<br/>darte gloria, honra y honor, por siempre.<br/>Bueno es alabarte, Jesús,<br/>y gozarme en tu poder.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Porque grande eres tú,<br/>grande son tus obras.<br/>Porque grande eres tú,<br/>grande es tu amor,<br/>grande es tu gloria.<br/></lines>
+    </verse>
+  </lyrics>
 </song>
