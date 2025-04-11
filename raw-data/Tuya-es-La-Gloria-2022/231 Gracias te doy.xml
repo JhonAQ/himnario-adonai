@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>231 Gracias te doy</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="231"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Gracias te doy, Señor, por tu inefable amor.<br/>De todo corazón quiero seguirte fiel.<br/>/!Oh, Padre Dios de amor!, quiero contigo andar,<br/>testificar de ti y tu palabra dar./<br/> <br/>Cristo mi Salvador en una cruz murió,<br/>su sangre derramó por mi pecado vil.<br/>/Por ti también murió, tus culpas limpiará,<br/>Y si le aceptas hoy, él te perdonará./<br/> <br/>Cristo mi Salvador pronto regresará.<br/>¡Qué gozo para mí verlo y estar con él!<br/>/Pena me da al ver que tú te quedarás<br/>por no querer dejar tus culpas en la cruz./<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Gracias te doy</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="231"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Gracias</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Seguir</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>Salvador</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Gracias te doy, Señor, por tu inefable amor.<br/>De todo corazón quiero seguirte fiel.<br/>/!Oh, Padre Dios de amor!, quiero contigo andar,<br/>testificar de ti y tu palabra dar./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Cristo mi Salvador en una cruz murió,<br/>su sangre derramó por mi pecado vil.<br/>/Por ti también murió, tus culpas limpiará,<br/>Y si le aceptas hoy, él te perdonará./<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cristo mi Salvador pronto regresará.<br/>¡Qué gozo para mí verlo y estar con él!<br/>/Pena me da al ver que tú te quedarás<br/>por no querer dejar tus culpas en la cruz./<br/></lines>
+    </verse>
+  </lyrics>
 </song>
