@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>137 No se preocupen</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="137"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>No se preocupen, dice la Biblia,<br/>por esta vida y su afán;<br/>por la comida, por la bebida,<br/>ni como vestirás.<br/> <br/>	Pues buscaremos, primeramente<br/>	a Dios y el reino celestial;<br/>	y él nos dará como añadidura<br/>	lo que nos faltará.<br/> <br/>Miren las aves que hay en el cielo,<br/>estas ni siembran, ni siegan,<br/>más Dios el Padre las alimenta, <br/>dándoles de comer.<br/> <br/>Considerad las flores del campo,<br/>cuán bellas y hermosas son,<br/>estas no hilan, tampoco tejen,<br/>más Dios las viste así.<br/> <br/>Más que las aves, más que las flores<br/>somos nosotros ante Dios.<br/>Y nuestro Dios con sus bendiciones<br/>siempre nos cuidará.<br/>Lc 12:22-32; Mt 6:25-34<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>No se preocupen</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="137"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Preocupación</keyword>
+      <keyword>Fe</keyword>
+      <keyword>Confianza</keyword>
+      <keyword>Dios</keyword>
+      <keyword>Provisión</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>No se preocupen, dice la Biblia,<br/>por esta vida y su afán;<br/>por la comida, por la bebida,<br/>ni como vestirás.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pues buscaremos, primeramente<br/>a Dios y el reino celestial;<br/>y él nos dará como añadidura<br/>lo que nos faltará.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Miren las aves que hay en el cielo,<br/>estas ni siembran, ni siegan,<br/>más Dios el Padre las alimenta,<br/>dándoles de comer.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Considerad las flores del campo,<br/>cuán bellas y hermosas son,<br/>estas no hilan, tampoco tejen,<br/>más Dios las viste así.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Más que las aves, más que las flores<br/>somos nosotros ante Dios.<br/>Y nuestro Dios con sus bendiciones<br/>siempre nos cuidará.<br/></lines>
+    </verse>
+    <comment>Lucas 12:22-32; Mateo 6:25-34</comment>
+  </lyrics>
 </song>
