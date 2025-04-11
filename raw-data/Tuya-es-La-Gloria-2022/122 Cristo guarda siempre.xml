@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>122 Cristo guarda siempre</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="122"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Cristo guarda siempre, puedo en él confiar;<br/>no me deja nunca, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/> <br/>	¡Nada, no, nada me ha de mover!<br/>	¡Nada, no, nada me ha de mover!<br/>	Pues, cual la Roca eterna de los siglos<br/>	firme estaré.<br/> <br/>Fuerte es Jesucristo, puedo en él confiar;<br/>todo me ha provisto, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.	<br/> <br/>En la noche oscura, puedo en él confiar;<br/>mi alma está segura, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/> <br/>Muchos me abandonan, puedo en él confiar;<br/>otros me engañan, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos,<br/>firme estaré.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Cristo guarda siempre</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="122"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Roca</keyword>
+      <keyword>Firmeza</keyword>
+      <keyword>Confianza</keyword>
+      <keyword>Seguridad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cristo guarda siempre, puedo en él confiar;<br/>no me deja nunca, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Nada, no, nada me ha de mover!<br/>¡Nada, no, nada me ha de mover!<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fuerte es Jesucristo, puedo en él confiar;<br/>todo me ha provisto, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>En la noche oscura, puedo en él confiar;<br/>mi alma está segura, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Muchos me abandonan, puedo en él confiar;<br/>otros me engañan, puedo en él confiar.<br/>Pues, cual la Roca eterna de los siglos<br/>firme estaré.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

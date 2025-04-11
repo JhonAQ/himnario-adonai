@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>112 Sublime gracia del Señor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="112"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Sublime gracia del Señor <br/>que a un infeliz salvó;<br/>fui ciego mas hoy miro yo, <br/>perdido y él me halló.<br/> <br/>Su gracia me enseñó a temer, <br/>mis dudas ahuyentó;<br/>¡Oh, cuán precioso fue a mí ser <br/>cuando él me transformó!<br/> <br/>De mi maldad me libertó<br/>mi Salvador me rescató.<br/>Y como el mar fluye su amor,<br/>sublime gracia y amor.<br/> <br/>En los peligros o aflicción <br/>que yo he tenido aquí;<br/>su gracia siempre me libró, <br/>y me guiará feliz.<br/> <br/>Y cuando en Sión por siglos mil <br/>brillando esté cual sol;<br/>yo cantaré por siempre allí, <br/>su amor que me salvó.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Sublime gracia del Señor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="112"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Gracia</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Sión</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sublime gracia del Señor<br/>que a un infeliz salvó;<br/>fui ciego mas hoy miro yo,<br/>perdido y él me halló.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Su gracia me enseñó a temer,<br/>mis dudas ahuyentó;<br/>¡Oh, cuán precioso fue a mí ser<br/>cuando él me transformó!<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>De mi maldad me libertó<br/>mi Salvador me rescató.<br/>Y como el mar fluye su amor,<br/>sublime gracia y amor.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>En los peligros o aflicción<br/>que yo he tenido aquí;<br/>su gracia siempre me libró,<br/>y me guiará feliz.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Y cuando en Sión por siglos mil<br/>brillando esté cual sol;<br/>yo cantaré por siempre allí,<br/>su amor que me salvó.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

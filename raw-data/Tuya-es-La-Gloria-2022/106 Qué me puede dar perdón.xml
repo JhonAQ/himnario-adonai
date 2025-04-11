@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>106 Qué me puede dar perdón</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="106"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¿Qué me puede dar perdón?<br/>Solo de Jesús la sangre.<br/>¿Y un nuevo corazón? <br/>Solo de Jesús la sangre.<br/>	<br/>	Precioso es el raudal, <br/>que limpia todo mal;<br/>	no hay otro manantial, <br/>solo de Jesús la sangre.<br/> <br/>Fue el rescate eficaz, <br/>solo de Jesús la sangre;<br/>trajo santidad y paz, <br/>solo de Jesús la sangre.<br/> <br/>Veo para mi salud, <br/>solo de Jesús la sangre,<br/>tiene de sanar virtud, <br/>solo de Jesús la sangre.<br/> <br/>Cantaré junto a sus pies,<br/>solo de Jesús la sangre.<br/>El Cordero digno es, <br/>solo de Jesús la sangre.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Qué me puede dar perdón</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="106"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Corazón</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¿Qué me puede dar perdón?<br/>Solo de Jesús la sangre.<br/>¿Y un nuevo corazón?<br/>Solo de Jesús la sangre.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Precioso es el raudal,<br/>que limpia todo mal;<br/>no hay otro manantial,<br/>solo de Jesús la sangre.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Fue el rescate eficaz,<br/>solo de Jesús la sangre;<br/>trajo santidad y paz,<br/>solo de Jesús la sangre.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veo para mi salud,<br/>solo de Jesús la sangre;<br/>tiene de sanar virtud,<br/>solo de Jesús la sangre.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cantaré junto a sus pies,<br/>solo de Jesús la sangre.<br/>El Cordero digno es,<br/>solo de Jesús la sangre.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>114 Yo confío en Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="114"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Yo confío en Jesús,<br/>y ya salvo soy;<br/>por su muerte en la cruz <br/>a la gloria voy.<br/> <br/>	Cristo dio por mí <br/>sangre carmesí,<br/>	y por su muerte en la cruz <br/>la vida me dio Jesús.<br/> <br/>Todo fue pagado ya,<br/>nada debo yo;<br/>salvación perfecta da, <br/>quien por mí murió.<br/> <br/>Mi perfecta salvación <br/>eres, mi Jesús;<br/>mi completa redención, <br/>mi gloriosa luz.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Yo confío en Jesús</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="114"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesús</keyword>
+      <keyword>Confianza</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Redención</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yo confío en Jesús,<br/>y ya salvo soy;<br/>por su muerte en la cruz<br/>a la gloria voy.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Cristo dio por mí<br/>sangre carmesí,<br/>y por su muerte en la cruz<br/>la vida me dio Jesús.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Todo fue pagado ya,<br/>nada debo yo;<br/>salvación perfecta da,<br/>quien por mí murió.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi perfecta salvación<br/>eres, mi Jesús;<br/>mi completa redención,<br/>mi gloriosa luz.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

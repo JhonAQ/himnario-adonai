@@ -1,21 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>110 Solo Cristo salva</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="110"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Solo Cristo salva de pecado y dolor.<br/>Derramó su sangre para darnos libertad.<br/>No hay otro nombre que ofrece salvación.<br/>Solo Cristo salva, dando gozo y perdón.<br/> <br/>Solo Cristo salva, de tristeza y pesar<br/>Dando paz y gozo, consolando con su amor.<br/>No hay otro nombre que ofrece salvación.<br/>Solo Cristo salva, dando gozo y perdón.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Solo Cristo salva</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="110"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+    </themes>
+    <keywords>
+      <keyword>Cristo</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Gozo</keyword>
+      <keyword>Perdón</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solo Cristo salva de pecado y dolor.<br/>Derramó su sangre para darnos libertad.<br/>No hay otro nombre que ofrece salvación.<br/>Solo Cristo salva, dando gozo y perdón.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Solo Cristo salva, de tristeza y pesar.<br/>Dando paz y gozo, consolando con su amor.<br/>No hay otro nombre que ofrece salvación.<br/>Solo Cristo salva, dando gozo y perdón.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

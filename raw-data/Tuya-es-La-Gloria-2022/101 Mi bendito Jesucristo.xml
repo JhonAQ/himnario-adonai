@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>101 Mi bendito Jesucristo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="101"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Mi bendito Jesucristo <br/>hoy te pido que me perdones<br/>con tu sangre preciosa y pura <br/>por mí en la cruz vertida;<br/>tú me llamas en tu amor.	<br/>			 <br/>	/Nada puedo ofrecerte, <br/>solo imploro, ¡oh, mi Cristo!,<br/>	mores en mi corazón./			 <br/> <br/>En pecado estoy vagando,<br/>tan perdido en las tinieblas;<br/>lávame con tu sangre, <br/>¡oh, Cristo! ciertamente purificas,<br/>cariñoso Salvador.<br/> <br/>Mi espíritu desmaya, <br/>con las penas tan vacilantes<br/>en temores endurecido. <br/>Salvador tan cariñoso,<br/>sálvame y líbrame.<br/> <br/>Vengo con mi fe sincera, <br/>te imploro que me recibas;<br/>hazme puro de mis maldades.<br/>Sáname y dame fuerza,<br/>cariñoso Salvador.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Mi bendito Jesucristo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="101"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Arrepentimiento y Confesión</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>Jesucristo</keyword>
+      <keyword>Perdón</keyword>
+      <keyword>Sangre</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Amor</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mi bendito Jesucristo<br/>hoy te pido que me perdones<br/>con tu sangre preciosa y pura<br/>por mí en la cruz vertida;<br/>tú me llamas en tu amor.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>/Nada puedo ofrecerte,<br/>solo imploro, ¡oh, mi Cristo!,<br/>mores en mi corazón./<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>En pecado estoy vagando,<br/>tan perdido en las tinieblas;<br/>lávame con tu sangre,<br/>¡oh, Cristo! ciertamente purificas,<br/>cariñoso Salvador.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mi espíritu desmaya,<br/>con las penas tan vacilantes<br/>en temores endurecido.<br/>Salvador tan cariñoso,<br/>sálvame y líbrame.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vengo con mi fe sincera,<br/>te imploro que me recibas;<br/>hazme puro de mis maldades.<br/>Sáname y dame fuerza,<br/>cariñoso Salvador.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

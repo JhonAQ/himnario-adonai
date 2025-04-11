@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>108 Rey de mi vida tú eres hoy</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="108"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Rey de mi vida tú eres hoy,<br/>en ti me gloriaré;<br/>es por tu cruz que salvo soy;<br/>no te olvidaré.<br/> <br/>	Después de tu Getsemaní,<br/>	subiste a la cruz más cruel;<br/>	todo sufriste tú por mí;<br/>	yo quiero serte fiel.<br/> <br/>Más vi la luz amanecer<br/>de la eternidad,<br/>te vi, Señor, aparecer<br/>con inmortalidad.<br/> <br/>Rey de mi vida, Rey de luz,<br/>en ti me gloriaré;<br/>por mí moriste en la cruz;<br/>no te olvidaré.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Rey de mi vida tú eres hoy</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="108"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Rey</keyword>
+      <keyword>Cruz</keyword>
+      <keyword>Gloria</keyword>
+      <keyword>Fidelidad</keyword>
+      <keyword>Inmortalidad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rey de mi vida tú eres hoy,<br/>en ti me gloriaré;<br/>es por tu cruz que salvo soy;<br/>no te olvidaré.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Después de tu Getsemaní,<br/>subiste a la cruz más cruel;<br/>todo sufriste tú por mí;<br/>yo quiero serte fiel.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Más vi la luz amanecer<br/>de la eternidad,<br/>te vi, Señor, aparecer<br/>con inmortalidad.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Rey de mi vida, Rey de luz,<br/>en ti me gloriaré;<br/>por mí moriste en la cruz;<br/>no te olvidaré.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

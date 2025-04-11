@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>124 Del amor divino</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="124"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Del amor divino, ¿quién me apartará?<br/>Escondido en Cristo, ¿quién me tocará?<br/>Si Dios justifica, ¿quién condenará?<br/>Cristo por mí aboga, ¿quién me acusará?	<br/> <br/>	A los que a Dios aman,<br/>	todo ayuda al bien:<br/>	Esto es mi consuelo,<br/>	esto es mi sostén.<br/> <br/>Todo lo que pasa en mi vida aquí,<br/>Dios me lo prepara para bien de mí.<br/>En mis pruebas duras, Dios me es siempre fiel.<br/>¿Por qué, pues, las dudas? Yo descanso en él.<br/> <br/>Plagas hay y muerte en mi alrededor;<br/>Ordenó mi suerte, él que es Dios de amor.<br/>Ni una sola flecha me podrá dañar;<br/>mientras no permita, no me alcanzará.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Del amor divino</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="124"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Consagración y Servicio</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Amor</keyword>
+      <keyword>Consuelo</keyword>
+      <keyword>Fidelidad</keyword>
+      <keyword>Dios</keyword>
+      <keyword>Justificación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Del amor divino, ¿quién me apartará?<br/>Escondido en Cristo, ¿quién me tocará?<br/>Si Dios justifica, ¿quién condenará?<br/>Cristo por mí aboga, ¿quién me acusará?<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>A los que a Dios aman,<br/>todo ayuda al bien:<br/>Esto es mi consuelo,<br/>esto es mi sostén.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Todo lo que pasa en mi vida aquí,<br/>Dios me lo prepara para bien de mí.<br/>En mis pruebas duras, Dios me es siempre fiel.<br/>¿Por qué, pues, las dudas? Yo descanso en él.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Plagas hay y muerte en mi alrededor;<br/>Ordenó mi suerte, él que es Dios de amor.<br/>Ni una sola flecha me podrá dañar;<br/>mientras no permita, no me alcanzará.<br/></lines>
+    </verse>
+  </lyrics>
 </song>
