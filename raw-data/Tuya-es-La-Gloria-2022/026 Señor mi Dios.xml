@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>026 Señor mi Dios</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="26"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Señor, mi Dios, al contemplar los cielos, <br/>el firmamento y las estrellas mil,<br/>al oír tu voz en los potentes truenos<br/>y ver brillar al sol en su cenit.<br/> <br/>	Mi corazón entona la canción,<br/>	“¡Cuán grande es él, cuán grande es él!”<br/>	Mi corazón entona la canción,<br/>	“¡Cuán grande es él, cuán grande es él!”<br/> <br/>Al recorrer los montes y los valles<br/>y ver las bellas flores al pasar,<br/>al escuchar el canto de las aves<br/>y el murmurar del claro manantial.<br/> <br/>Cuando recuerdo del amor divino<br/>que desde el cielo al Salvador envió,<br/>aquel Jesús que por salvarme vino <br/>y en una cruz sufrió por mí y murió.<br/> <br/>Cuando el Señor me llame a su presencia,<br/>al dulce hogar, al cielo de esplendor,<br/>le adoraré cantando la grandeza<br/>de su poder y su infinito amor.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Señor mi Dios</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="26"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Dios</keyword>
+      <keyword>Grandeza</keyword>
+      <keyword>Salvación</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Creación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Señor, mi Dios, al contemplar los cielos,<br/>el firmamento y las estrellas mil,<br/>al oír tu voz en los potentes truenos<br/>y ver brillar al sol en su cenit.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Mi corazón entona la canción,<br/>“¡Cuán grande es él, cuán grande es él!”<br/>Mi corazón entona la canción,<br/>“¡Cuán grande es él, cuán grande es él!”<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Al recorrer los montes y los valles<br/>y ver las bellas flores al pasar,<br/>al escuchar el canto de las aves<br/>y el murmurar del claro manantial.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Cuando recuerdo del amor divino<br/>que desde el cielo al Salvador envió,<br/>aquel Jesús que por salvarme vino<br/>y en una cruz sufrió por mí y murió.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cuando el Señor me llame a su presencia,<br/>al dulce hogar, al cielo de esplendor,<br/>le adoraré cantando la grandeza<br/>de su poder y su infinito amor.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

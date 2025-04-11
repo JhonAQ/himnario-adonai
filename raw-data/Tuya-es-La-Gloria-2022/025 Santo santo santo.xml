@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>025 Santo santo santo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="25"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Santo, santo, santo, Señor omnipotente!,<br/>siempre el labio mío loores te dará.<br/>¡Santo, santo, santo!, te adoro reverente.<br/>Dios en tres personas, bendita trinidad.<br/> <br/>“¡Santo, santo, santo!” En numeroso coro<br/>santos escogidos te adoran sin cesar<br/>de alegría llenos, y sus coronas de oro<br/>rinden ante el trono y el cristalino mar.<br/> <br/>¡Santo, santo, santo! La inmensa muchedumbre<br/>de ángeles que cumplen tu santa voluntad<br/>ante ti se postra, bañada de tu lumbre<br/>ante ti, que has sido, que eres y serás.<br/> <br/>¡Santo, santo, santo! Por más que estés velado,<br/>e imposible sea tu gloria contemplar;<br/>santo tú eres solo, y nada hay a tu lado,<br/>en poder perfecto, pureza y caridad.<br/> <br/>¡Santo, santo, santo! La gloria de tu nombre<br/>vemos en tus obras, en cielo, tierra y mar.<br/>“¡Santo, santo, santo!”, te adorará todo hombre.<br/>Dios en tres personas, bendita trinidad.<br/> <br/>Is 6:3<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Santo santo santo</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="25"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Santo</keyword>
+      <keyword>Trinidad</keyword>
+      <keyword>Ángeles</keyword>
+      <keyword>Gloria</keyword>
+      <keyword>Adoración</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Santo, santo, santo, Señor omnipotente!,<br/>siempre el labio mío loores te dará.<br/>¡Santo, santo, santo!, te adoro reverente.<br/>Dios en tres personas, bendita trinidad.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>“¡Santo, santo, santo!” En numeroso coro<br/>santos escogidos te adoran sin cesar<br/>de alegría llenos, y sus coronas de oro<br/>rinden ante el trono y el cristalino mar.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>¡Santo, santo, santo! La inmensa muchedumbre<br/>de ángeles que cumplen tu santa voluntad<br/>ante ti se postra, bañada de tu lumbre<br/>ante ti, que has sido, que eres y serás.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>¡Santo, santo, santo! Por más que estés velado,<br/>e imposible sea tu gloria contemplar;<br/>santo tú eres solo, y nada hay a tu lado,<br/>en poder perfecto, pureza y caridad.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>¡Santo, santo, santo! La gloria de tu nombre<br/>vemos en tus obras, en cielo, tierra y mar.<br/>“¡Santo, santo, santo!”, te adorará todo hombre.<br/>Dios en tres personas, bendita trinidad.<br/></lines>
+    </verse>
+    <comment>Isaías 6:3</comment>
+  </lyrics>
 </song>

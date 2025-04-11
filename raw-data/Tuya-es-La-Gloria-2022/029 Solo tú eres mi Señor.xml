@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>029 Solo tú eres mi Señor</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="29"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Solo tú eres mi Señor, <br/>y reconoces que tuyo soy.<br/>Yendo en la oscuridad, <br/>tú me mostraste tu luz y amor.<br/>	<br/>	Gracias te doy, ¡oh, mi Padre Dios!, <br/>	por vida nueva que tú me das.<br/>	Nunca me olvidaré,<br/>	todo lo que has hecho tú por mí.<br/> <br/>Nunca puedo encontrar<br/>un Salvador como tú, Señor.<br/>Solo tú eres para mí<br/>amante Padre y Consolador.<br/> <br/>¡Oh, Señor!, ¿con qué podré<br/>agradecer por tu gran amor?<br/>Solo a ti te seguiré<br/>hasta llegar al celeste hogar.</lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Solo tú eres mi Señor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la gloria 2022" entry="29"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Oración y Devoción Personal</theme>
+      <theme>Consagración y Servicio</theme>
+    </themes>
+    <keywords>
+      <keyword>Señor</keyword>
+      <keyword>Amor</keyword>
+      <keyword>Padre</keyword>
+      <keyword>Consolador</keyword>
+      <keyword>Celeste</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Solo tú eres mi Señor,<br/>y reconoces que tuyo soy.<br/>Yendo en la oscuridad,<br/>tú me mostraste tu luz y amor.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Gracias te doy, ¡oh, mi Padre Dios!,<br/>por vida nueva que tú me das.<br/>Nunca me olvidaré,<br/>todo lo que has hecho tú por mí.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nunca puedo encontrar<br/>un Salvador como tú, Señor.<br/>Solo tú eres para mí<br/>amante Padre y Consolador.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>¡Oh, Señor!, ¿con qué podré<br/>agradecer por tu gran amor?<br/>Solo a ti te seguiré<br/>hasta llegar al celeste hogar.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

@@ -12,7 +12,7 @@ Ejemplo de XML de himno correctamente estructurado:
       <author>Desconocido</author>
     </authors>
     <songbooks>
-      <songbook name="Tuya es la gloria 2022" entry="133"/>
+      <songbook name="Tuya es la Gloria 2022" entry="133"/>
     </songbooks>
     <key>G</key>
     <publisher>Editorial Siembra</publisher>
@@ -53,7 +53,7 @@ Tus instrucciones son las siguientes:
 2. Propiedades:
    - En <titles>, elimina cualquier número o carácter adicional para dejar únicamente el título limpio (por ejemplo, transforma "081 Mi vida di por ti" en "Mi vida di por ti").
    - En <authors>, puedes buscar el autor/es del himno en internet, y de no haber un autor correcto, coloca el valor "Desconocido".
-   - En <songbooks>, reemplaza el atributo name por "Tuya es la gloria 2022". Ajusta el atributo entry al número correcto sin dígitos innecesarios a la izquierda.
+   - En <songbooks>, reemplaza el atributo name por "Tuya es la Gloria 2022". Ajusta el atributo entry al número correcto sin dígitos innecesarios a la izquierda.
    - En <publisher>, conserva el valor "Editorial Siembra".
    - Agrega el elemento <key> solo si el himno original lo especifica (por ejemplo, "G"); si no aparece en el XML original, no se debe incluir en la salida.
    - Agrega la sección <themes>. De la siguiente lista, selecciona únicamente aquellos temas que correspondan con la letra del himno (incluir solo los pertinentes):
@@ -84,6 +84,7 @@ Tus instrucciones son las siguientes:
    - Asegurate de no agregar espacios innecesarios entre las etiquetas o dentro de los versos. El formato debe ser limpio y estructurado.
    - No incluyas etiquetas vacías o innecesarias. Por ejemplo, si no hay un coro, no incluyas la etiqueta <verse name="c">.
    - No repitas <br/> <br/> innecesariamente. Si un verso o coro tiene un solo <br/>, no lo repitas. Por ejemplo, si el verso es "En lugares delicados<br/>él me pastoreará.<br/><br/>", debes dejarlo como "En lugares delicados<br/>él me pastoreará.<br/>".
+   - Si la letra contiene simbolos '/' de repetición, incluyelos como están.
 
 4. Salida:
    - Devuélveme el XML completo, corregido, limpio y bien estructurado, siguiendo el formato de referencia y aplicando todas las correcciones indicadas.
