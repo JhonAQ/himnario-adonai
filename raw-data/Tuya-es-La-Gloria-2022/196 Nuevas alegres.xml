@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>196 Nuevas alegres</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="196"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Nuevas alegres para decirles<br/>tengo ahora y estas son:<br/>Que mis pecados son perdonados,<br/>y con Jesús tendré galardón.<br/>Y que también aún queda lugar <br/>en el palacio celestial<br/>para aquellos los que quisieran<br/>la salvación aceptar.<br/> <br/>Goces mundanos ya he dejado;<br/>no quiero más tan falso placer.<br/>Paz prometieron, mas engañaron,<br/>no me pudieron satisfacer;<br/>más bien estoy con mi Salvador<br/>y al cielo voy por su favor.<br/>Cristo me guía todos los días<br/>en su amor y verdad.<br/> <br/>Ya no me importa lo que dijeren<br/>los enemigos de mi Señor;<br/>él me ha buscado y me ha salvado;<br/>voy a la gloria, reino de amor.<br/>Siempre yo tengo luchas aquí;<br/>dulce descanso tengo allí.<br/>¡Oh, qué gran gozo para mi alma<br/>cuando me llame el Señor!<br/></lines>
-			</verse>
+		<titles>
+			<title>Nuevas alegres</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="196"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Oración y Devoción Personal</theme>
+			<theme>Vida de Cristo</theme>
+			<theme>Arrepentimiento y Confesión</theme>
+		</themes>
+		<keywords>
+			<keyword>pecados</keyword>
+			<keyword>salvación</keyword>
+			<keyword>gloria</keyword>
+			<keyword>amor</keyword>
+			<keyword>Cristo</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Nuevas alegres para decirles<br/>tengo ahora y estas son:<br/>Que mis pecados son perdonados,<br/>y con Jesús tendré galardón.<br/>Y que también aún queda lugar <br/>en el palacio celestial<br/>para aquellos los que quisieran<br/>la salvación aceptar.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Goces mundanos ya he dejado;<br/>no quiero más tan falso placer.<br/>Paz prometieron, mas engañaron,<br/>no me pudieron satisfacer;<br/>más bien estoy con mi Salvador<br/>y al cielo voy por su favor.<br/>Cristo me guía todos los días<br/>en su amor y verdad.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Ya no me importa lo que dijeren<br/>los enemigos de mi Señor;<br/>él me ha buscado y me ha salvado;<br/>voy a la gloria, reino de amor.<br/>Siempre yo tengo luchas aquí;<br/>dulce descanso tengo allí.<br/>¡Oh, qué gran gozo para mi alma<br/>cuando me llame el Señor!<br/></lines>
+		</verse>
 	</lyrics>
 </song>

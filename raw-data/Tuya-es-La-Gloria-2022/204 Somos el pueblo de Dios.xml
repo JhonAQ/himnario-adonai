@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>204 Somos el pueblo de Dios</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="204"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Somos el pueblo de Dios,<br/>somos un pueblo especial<br/>llamados para anunciar<br/>las virtudes de aquel<br/>que nos llamó a su luz.<br/> <br/>Somos el pueblo de Dios, <br/>su sangre nos redimió,<br/>y su espíritu dio<br/>para darnos poder<br/>y ser testigos de él.<br/> <br/>Y llevaremos su gloria<br/>a cada pueblo y nación<br/>trayéndoles esperanza<br/>y nuevas de salvación.<br/>Y su amor nos impulsa,<br/>no nos podemos callar,<br/>anunciaremos al mundo<br/>de su amor y verdad.<br/></lines>
-			</verse>
+		<titles>
+			<title>Somos el pueblo de Dios</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="204"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Iglesia y Comunidad</theme>
+		</themes>
+		<keywords>
+			<keyword>Dios</keyword>
+			<keyword>pueblo</keyword>
+			<keyword>gloria</keyword>
+			<keyword>redención</keyword>
+			<keyword>amor</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Somos el pueblo de Dios,<br/>somos un pueblo especial<br/>llamados para anunciar<br/>las virtudes de aquel<br/>que nos llamó a su luz.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Somos el pueblo de Dios,<br/>su sangre nos redimió,<br/>y su espíritu dio<br/>para darnos poder<br/>y ser testigos de él.<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Y llevaremos su gloria<br/>a cada pueblo y nación<br/>trayéndoles esperanza<br/>y nuevas de salvación.<br/>Y su amor nos impulsa,<br/>no nos podemos callar,<br/>anunciaremos al mundo<br/>de su amor y verdad.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

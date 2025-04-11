@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>197 Oh Señor Jesús</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="197"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh!, Señor Jesús, sufriste en la cruz,<br/>por salvarme a mí de toda mi maldad.<br/>Me diste perdón y nuevo corazón<br/>para que contigo pueda caminar.<br/> <br/>	¡Qué contento estoy en mi corazón!<br/>	Perdonado soy de toda mi maldad.<br/>	Ya mi vida en Dios transformada está<br/>	para tu servicio, ¡oh, Señor Jesús!<br/> <br/>Sin ti yo vivía lejos de tu amor<br/>lleno de maldad y sin felicidad,<br/>triste y abatido sin consolación<br/>hasta que encontré tu paz y tu perdón.<br/> <br/>Escogido soy por ti, Señor Jesús,<br/>en tu gran familia adoptado soy;<br/>te prometo hoy servirte con valor,<br/>y tu voz divina obedeceré.<br/></lines>
-			</verse>
+		<titles>
+			<title>Oh Señor Jesús</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>					
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="197"/>
+		</songbooks>
+		<themes>
+			<theme>Vida de Cristo</theme>
+			<theme>Oración y Devoción Personal</theme>
+		</themes>
+		<keywords>
+			<keyword>Jesús</keyword>
+			<keyword>cruz</keyword>
+			<keyword>perdón</keyword>
+			<keyword>amor</keyword>
+			<keyword>servicio</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>¡Oh!, Señor Jesús, sufriste en la cruz,<br/>por salvarme a mí de toda mi maldad.<br/>Me diste perdón y nuevo corazón<br/>para que contigo pueda caminar.<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>¡Qué contento estoy en mi corazón!<br/>Perdonado soy de toda mi maldad.<br/>Ya mi vida en Dios transformada está<br/>para tu servicio, ¡oh, Señor Jesús!<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sin ti yo vivía lejos de tu amor<br/>lleno de maldad y sin felicidad,<br/>triste y abatido sin consolación<br/>hasta que encontré tu paz y tu perdón.<br/></lines>
+		</verse>
+		<verse name="v4">
+			<lines>Escogido soy por ti, Señor Jesús,<br/>en tu gran familia adoptado soy;<br/>te prometo hoy servirte con valor,<br/>y tu voz divina obedeceré.<br/></lines>
+		</verse>
 	</lyrics>
 </song>

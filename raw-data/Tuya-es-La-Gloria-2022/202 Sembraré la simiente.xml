@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>202 Sembraré la simiente</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="202"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Sembraré la simiente preciosa,<br/>del glorioso evangelio de amor.<br/>Sembraré, sembraré, mientras viva,<br/>dejaré el resultado al Señor.<br/> <br/>	Sembraré, sembraré<br/>	mientras viva, simiente de amor.<br/>	Segaré, segaré,<br/>	al hallarme en la casa de Dios.<br/> <br/>Sembraré en corazones sensibles<br/>la doctrina del Dios de perdón.<br/>Sembraré, sembraré, mientras viva,<br/>dejaré el resultado al Señor.<br/> <br/>Sembraré en corazones de mármol<br/>la bendita palabra de Dios.<br/>Sembraré, sembraré mientras viva,<br/>dejaré el resultado al Señor.</lines>
-			</verse>
+		<titles>
+			<title>Sembraré la simiente</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="202"/>
+		</songbooks>
+		<publisher>Editorial Siembra</publisher>
+		<themes>
+			<theme>Misión y Evangelismo</theme>
+			<theme>Adoración y Alabanza</theme>
+		</themes>
+		<keywords>
+			<keyword>simiente</keyword>
+			<keyword>evangelio</keyword>
+			<keyword>amor</keyword>
+			<keyword>doctrina</keyword>
+			<keyword>Dios</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Sembraré la simiente preciosa,<br/>del glorioso evangelio de amor.<br/>Sembraré, sembraré, mientras viva,<br/>dejaré el resultado al Señor.</lines>
+		</verse>
+		<verse name="v2">
+			<lines>Sembraré, sembraré<br/>mientras viva, simiente de amor.<br/>Segaré, segaré,<br/>al hallarme en la casa de Dios.</lines>
+		</verse>
+		<verse name="v3">
+			<lines>Sembraré en corazones sensibles<br/>la doctrina del Dios de perdón.<br/>Sembraré, sembraré, mientras viva,<br/>dejaré el resultado al Señor.</lines>
+		</verse>
+		<verse name="v4">
+			<lines>Sembraré en corazones de mármol<br/>la bendita palabra de Dios.<br/>Sembraré, sembraré mientras viva,<br/>dejaré el resultado al Señor.</lines>
+		</verse>
 	</lyrics>
 </song>
