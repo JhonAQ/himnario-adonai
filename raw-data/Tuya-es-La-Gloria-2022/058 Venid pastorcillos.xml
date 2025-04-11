@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>058 Venid pastorcillos</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="58"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Venid, pastorcillos, venid a adorar<br/>al rey de los cielos que nace en Judá.<br/>Sin ricas ofrendas podemos llegar,<br/>que el niño prefiere la fe y la bondad.<br/> <br/>Un rústico techo abrigo le da;<br/>por cuna un pesebre, por templo un portal;<br/>en lecho de pajas incógnito está,<br/>quien quiso a los astros su gloria prestar.	 <br/> <br/>Hermoso lucero le vino a anunciar,<br/>y magos de Oriente buscándole van;<br/>delante se postran del Rey de Judá,<br/>de incienso, oro y mirra tributo le dan.<br/> <br/>Con fe y con gozo vayamos a él,<br/>que el niño es humilde y nos ama muy fiel.<br/>Los brazos nos tienden con grato ademán:<br/>“Venid”, nos repite su voz celestial.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Venid pastorcillos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="58"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Navidad</keyword>
+      <keyword>Adoración</keyword>
+      <keyword>Pastores</keyword>
+      <keyword>Rey</keyword>
+      <keyword>Fe</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Venid, pastorcillos, venid a adorar<br/>al rey de los cielos que nace en Judá.<br/>Sin ricas ofrendas podemos llegar,<br/>que el niño prefiere la fe y la bondad.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Un rústico techo abrigo le da;<br/>por cuna un pesebre, por templo un portal;<br/>en lecho de pajas incógnito está,<br/>quien quiso a los astros su gloria prestar.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hermoso lucero le vino a anunciar,<br/>y magos de Oriente buscándole van;<br/>delante se postran del Rey de Judá,<br/>de incienso, oro y mirra tributo le dan.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Con fe y con gozo vayamos a él,<br/>que el niño es humilde y nos ama muy fiel.<br/>Los brazos nos tienden con grato ademán:<br/>“Venid”, nos repite su voz celestial.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

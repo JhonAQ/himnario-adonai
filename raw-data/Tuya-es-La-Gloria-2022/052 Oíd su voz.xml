@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>052 Oíd su voz</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="52"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Oíd su voz: Ya cerca está,<br/>es Cristo nuestro Dios;<br/>el corazón brindémosle <br/>cual trono de él en nos. <br/> <br/>Potente él viene a destruir<br/>con fuerza divinal,<br/>los hierros de cruel prisión,<br/>que púsonos Satán.<br/> <br/>Fulgente él viene a redimir<br/>la mente del error;<br/>y a dar esplendorosa luz,<br/>al ciego pecador.<br/> <br/>Amante él viene a dar salud<br/>a todo corazón,<br/>y encontrará en él perdón<br/>el pobre pecador.<br/> <br/>¡Oh, Príncipe de paz! venid,<br/>oíd nuestra oración,<br/>y el mundo lleno se verá<br/>del nombre del Señor.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oíd su voz</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="52"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Esperanza y Segunda Venida</theme>
+      <theme>Adoración y Alabanza</theme>
+    </themes>
+    <keywords>
+      <keyword>voz</keyword>
+      <keyword>Cristo</keyword>
+      <keyword>salud</keyword>
+      <keyword>perdón</keyword>
+      <keyword>oración</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oíd su voz: Ya cerca está,<br/>es Cristo nuestro Dios;<br/>el corazón brindémosle<br/>cual trono de él en nos.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Potente él viene a destruir<br/>con fuerza divinal,<br/>los hierros de cruel prisión,<br/>que púsonos Satán.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Fulgente él viene a redimir<br/>la mente del error;<br/>y a dar esplendorosa luz,<br/>al ciego pecador.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Amante él viene a dar salud<br/>a todo corazón,<br/>y encontrará en él perdón<br/>el pobre pecador.<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>¡Oh, Príncipe de paz! venid,<br/>oíd nuestra oración,<br/>y el mundo lleno se verá<br/>del nombre del Señor.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

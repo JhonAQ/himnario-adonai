@@ -1,21 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>057 Venid fieles todos</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="57"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Venid, fieles todos, a Belén marchemos<br/>de gozo triunfantes, henchidos de amor,<br/>y al Rey de los cielos humildes veremos.<br/>	<br/>	Venid, adoremos, venid adoremos,<br/>	venid, adoremos a Cristo el Señor.<br/>	 <br/>Él que es hijo eterno del eterno Padre,<br/>y Dios verdadero que al mundo creó,<br/>del seno virgíneo nació de una madre.<br/> <br/>En pobre pesebre yace reclinado,<br/>al hombre ofreciendo eternal salvación,<br/>el santo Mesías, el Verbo humanado.<br/> <br/>Cantad jubilosas, celestes criaturas;<br/>resuenen los cielos con vuestra canción:<br/>Al Dios bondadoso, ¡gloria en las alturas!<br/> <br/>Jesús, celebramos tu bendito nombre<br/>con himnos solemnes de grato loor;<br/>por siglos eternos adórete el hombre.<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Venid fieles todos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="57"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>Navidad</keyword>
+      <keyword>Adoración</keyword>
+      <keyword>Belén</keyword>
+      <keyword>Mesías</keyword>
+      <keyword>Salvación</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Venid, fieles todos, a Belén marchemos<br/>de gozo triunfantes, henchidos de amor,<br/>y al Rey de los cielos humildes veremos.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>Venid, adoremos, venid adoremos,<br/>venid, adoremos a Cristo el Señor.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Él que es hijo eterno del eterno Padre,<br/>y Dios verdadero que al mundo creó,<br/>del seno virgíneo nació de una madre.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>En pobre pesebre yace reclinado,<br/>al hombre ofreciendo eternal salvación,<br/>el santo Mesías, el Verbo humanado.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cantad jubilosas, celestes criaturas;<br/>resuenen los cielos con vuestra canción:<br/>Al Dios bondadoso, ¡gloria en las alturas!<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jesús, celebramos tu bendito nombre<br/>con himnos solemnes de grato loor;<br/>por siglos eternos adórete el hombre.<br/></lines>
+    </verse>
+  </lyrics>
 </song>

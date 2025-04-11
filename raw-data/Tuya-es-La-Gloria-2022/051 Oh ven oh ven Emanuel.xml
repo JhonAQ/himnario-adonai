@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
-	<properties>
-			<titles>
-				<title>051 Oh ven oh ven Emanuel</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="51"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>¡Oh, ven!, ¡oh, ven, Emanuel!<br/>De la maldad rescata a Israel,<br/>que llora en triste desolación,<br/>y espera ansiosa al Hijo de Dios.<br/> <br/>	¡Cantad, cantad con gozo Israel!<br/>	Vendrá a ti muy pronto, Emanuel.<br/> <br/>¡Oh, ven!, ¡oh, ven, Emanuel!, y así <br/>alégranos con tu venida aquí.<br/>Disipa toda la oscuridad,<br/>y de la muerte danos libertad.<br/> <br/>Is 7:14; Is 11:1-5, 10-11; Mt 1:23<br/></lines>
-			</verse>
-	</lyrics>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
+  <properties>
+    <titles>
+      <title>Oh ven oh ven Emanuel</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="51"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Navidad y Pascua</theme>
+      <theme>Esperanza y Segunda Venida</theme>
+    </themes>
+    <keywords>
+      <keyword>Emanuel</keyword>
+      <keyword>Israel</keyword>
+      <keyword>oscuridad</keyword>
+      <keyword>libertad</keyword>
+      <keyword>venida</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>¡Oh, ven!, ¡oh, ven, Emanuel!<br/>De la maldad rescata a Israel,<br/>que llora en triste desolación,<br/>y espera ansiosa al Hijo de Dios.<br/></lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Cantad, cantad con gozo Israel!<br/>Vendrá a ti muy pronto, Emanuel.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>¡Oh, ven!, ¡oh, ven, Emanuel!, y así<br/>alégranos con tu venida aquí.<br/>Disipa toda la oscuridad,<br/>y de la muerte danos libertad.<br/></lines>
+    </verse>
+    <comment>Isaías 7:14; Isaías 11:1-5, 10-11; Mateo 1:23</comment>
+  </lyrics>
 </song>
