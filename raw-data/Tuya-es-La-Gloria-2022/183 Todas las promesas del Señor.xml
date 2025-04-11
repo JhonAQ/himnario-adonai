@@ -1,42 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
-	<properties>
-		<titles>
-			<title>Jesucristo mi buen Dios</title>
-		</titles>
-		<authors>
-			<author>Desconocido</author>
-		</authors>
-		<publisher>Editorial Siembra</publisher>
-		<songbooks>
-			<songbook name="Tuya es la Gloria 2022" entry="170"/>
-		</songbooks>
-		<themes>
-			<theme>Adoración y Alabanza</theme>
-			<theme>Oración y Devoción Personal</theme>
-			<theme>Vida de Cristo</theme>
-		</themes>
-		<keywords>
-			<keyword>jesucristo</keyword>
-			<keyword>compasivo</keyword>
-			<keyword>amor</keyword>
-			<keyword>oración</keyword>
-			<keyword>corazón</keyword>
-		</keywords>
-	</properties>
-	<lyrics>
-		<verse name="v1">
-			<lines>Jesucristo, mi buen Dios, compasivo eres tú;<br/>tan brillante como el sol, que alumbra el corazón.<br/></lines>
-		</verse>
-		<verse name="v2">
-			<lines>Siempre te seguiré, Cristo, mi Señor,<br/>sin quedarme atrás, fiel hasta morir.<br/></lines>
-		</verse>
-		<verse name="v3">
-			<lines>Cerca a ti vivir, Señor, me da gozo y paz sin par;<br/>gozo hay en mi corazón si a tu lado siempre estoy.<br/></lines>
-		</verse>
-		<verse name="v4">
-			<lines>Padre Dios, tu inmenso amor yo no puedo comprender.<br/>Solo sé que por tu amor me salvaste del pecar.<br/></lines>
-		</verse>
-	</lyrics>
+  <properties>
+    <titles>
+      <title>Todas las promesas del Señor</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="183"/>
+    </songbooks>
+    <publisher>Editorial Siembra</publisher>
+    <themes>
+      <theme>Adoración y Alabanza</theme>
+      <theme>Vida de Cristo</theme>
+    </themes>
+    <keywords>
+      <keyword>promesas</keyword>
+      <keyword>Señor</keyword>
+      <keyword>Jesús</keyword>
+      <keyword>fe</keyword>
+      <keyword>luz</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        Todas las promesas del Señor Jesús,<br/>son apoyo poderoso de mi fe.<br/>Mientras viva aquí cercado de su luz,<br/>siempre en sus promesas confiaré.<br/>
+      </lines>
+    </verse>
+    <verse name="v2">
+      <lines>
+        Grandes, fieles,<br/>las promesas que el Señor Jesús ha dado;<br/>grandes, fieles,<br/>en ellas para siempre confiaré.<br/>
+      </lines>
+    </verse>
+    <verse name="v3">
+      <lines>
+        Todas sus promesas para el hombre fiel,<br/>el Señor, por su Palabra, cumplirá;<br/>y confiado sé que para siempre en él,<br/>paz eterna mi alma gozará.<br/>
+      </lines>
+    </verse>
+    <verse name="v4">
+      <lines>
+        Todas las promesas del Señor serán,<br/>gozo y fuerza en nuestra vida terrenal.<br/>Ellas en la dura lid nos sostendrán,<br/>y triunfar podremos sobre el mal.<br/>
+      </lines>
+    </verse>
+    <comment>Jos 21:45; 2 S 7:28; 2 Co 1:20; 2 P 1:4</comment>
+  </lyrics>
 </song>

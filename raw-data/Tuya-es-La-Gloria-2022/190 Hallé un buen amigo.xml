@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
 	<properties>
-			<titles>
-				<title>190 Hallé un buen amigo</title>
-			</titles>
-			<authors>
-				<author>Tuya es la Gloria</author>
-			</authors>					
-			<publisher>Editorial Siembra</publisher>
-			<songbooks>
-				<songbook name="Tuya es la Gloria" entry="190"/>
-			</songbooks>					
-			</properties>
-			<lyrics>
-		<verse>
-				<lines>Hallé un buen amigo, mi amado Salvador,<br/>contaré lo que ha hecho él por mí;<br/>hallándome perdido e indigno pecador,<br/>me salvó y él me guarda para sí.<br/>Me salva del pecado, me guarda de Satán,<br/>promete estar conmigo hasta el fin.<br/>Él consuela mi tristeza, me quita todo afán.<br/>¡Grandes cosas Cristo ha hecho para mí!<br/> <br/>Jesús jamás me falta, jamás me dejará;<br/>es mi fuerte y poderoso protector.<br/>Del mundo yo me aparto y de la vanidad<br/>para consagrar mi vida a mi Señor.<br/>Si el mundo me persigue, si sufro tentación,<br/>confiado en Cristo puedo resistir.<br/>La victoria me es segura y elevo mi canción:<br/>¡Grandes cosas Cristo ha hecho para mí!<br/> <br/>Yo sé que Jesucristo muy pronto volverá,<br/>y entretanto me prepara un lugar.<br/>En casa de su Padre, mansión de luz y paz,<br/>do el creyente fiel con él ha de morar.<br/>Llegando a la gloria, con él yo estaré;<br/>contemplaré su rostro siempre allí.<br/>Con los santos redimidos gozoso cantaré:<br/>¡Grandes cosas Cristo ha hecho para mí!<br/></lines>
-			</verse>
+		<titles>
+			<title>Hallé un buen amigo</title>
+		</titles>
+		<authors>
+			<author>Desconocido</author>
+		</authors>					
+		<publisher>Editorial Siembra</publisher>
+		<songbooks>
+			<songbook name="Tuya es la Gloria 2022" entry="190"/>
+		</songbooks>
+		<themes>
+			<theme>Adoración y Alabanza</theme>
+			<theme>Oración y Devoción Personal</theme>
+			<theme>Vida de Cristo</theme>
+		</themes>
+		<keywords>
+			<keyword>Cristo</keyword>
+			<keyword>amigo</keyword>
+			<keyword>salvación</keyword>
+			<keyword>protector</keyword>
+			<keyword>canción</keyword>
+		</keywords>
+	</properties>
+	<lyrics>
+		<verse name="v1">
+			<lines>Hallé un buen amigo, mi amado Salvador,<br/>contaré lo que ha hecho él por mí;<br/>hallándome perdido e indigno pecador,<br/>me salvó y él me guarda para sí.<br/>Me salva del pecado, me guarda de Satán,<br/>promete estar conmigo hasta el fin.<br/>Él consuela mi tristeza, me quita todo afán.<br/>¡Grandes cosas Cristo ha hecho para mí!<br/></lines>
+		</verse>
+		<verse name="v2">
+			<lines>Jesús jamás me falta, jamás me dejará;<br/>es mi fuerte y poderoso protector.<br/>Del mundo yo me aparto y de la vanidad<br/>para consagrar mi vida a mi Señor.<br/>Si el mundo me persigue, si sufro tentación,<br/>confiado en Cristo puedo resistir.<br/>La victoria me es segura y elevo mi canción:<br/>¡Grandes cosas Cristo ha hecho para mí!<br/></lines>
+		</verse>
+		<verse name="v3">
+			<lines>Yo sé que Jesucristo muy pronto volverá,<br/>y entretanto me prepara un lugar.<br/>En casa de su Padre, mansión de luz y paz,<br/>do el creyente fiel con él ha de morar.<br/>Llegando a la gloria, con él yo estaré;<br/>contemplaré su rostro siempre allí.<br/>Con los santos redimidos gozoso cantaré:<br/>¡Grandes cosas Cristo ha hecho para mí!<br/></lines>
+		</verse>
 	</lyrics>
 </song>

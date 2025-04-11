@@ -1,42 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../lib/openlyrics/openlyrics.css" type="text/css"?>
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.9">
-	<properties>
-		<titles>
-			<title>Jesucristo mi buen Dios</title>
-		</titles>
-		<authors>
-			<author>Desconocido</author>
-		</authors>
-		<songbooks>
-			<songbook name="Tuya es la Gloria 2022" entry="170"/>
-		</songbooks>
-		<publisher>Editorial Siembra</publisher>
-		<themes>
-			<theme>Adoración y Alabanza</theme>
-			<theme>Oración y Devoción Personal</theme>
-			<theme>Vida de Cristo</theme>
-		</themes>
-		<keywords>
-			<keyword>jesucristo</keyword>
-			<keyword>compasivo</keyword>
-			<keyword>amor</keyword>
-			<keyword>oración</keyword>
-			<keyword>corazón</keyword>
-		</keywords>
-	</properties>
-	<lyrics>
-		<verse name="v1">
-			<lines>Jesucristo, mi buen Dios, compasivo eres tú;<br/>tan brillante como el sol, que alumbra el corazón.<br/></lines>
-		</verse>
-		<verse name="v2">
-			<lines>Siempre te seguiré, Cristo, mi Señor,<br/>sin quedarme atrás, fiel hasta morir.<br/></lines>
-		</verse>
-		<verse name="v3">
-			<lines>Cerca a ti vivir, Señor, me da gozo y paz sin par;<br/>gozo hay en mi corazón si a tu lado siempre estoy.<br/></lines>
-		</verse>
-		<verse name="v4">
-			<lines>Padre Dios, tu inmenso amor yo no puedo comprender.<br/>Solo sé que por tu amor me salvaste del pecar.<br/></lines>
-		</verse>
-	</lyrics>
+  <properties>
+    <titles>
+      <title>Ama a tus prójimos</title>
+    </titles>
+    <authors>
+      <author>Desconocido</author>
+    </authors>
+    <publisher>Editorial Siembra</publisher>
+    <songbooks>
+      <songbook name="Tuya es la Gloria 2022" entry="184"/>
+    </songbooks>
+    <themes>
+      <theme>Iglesia y Comunidad</theme>
+      <theme>Misión y Evangelismo</theme>
+    </themes>
+    <keywords>
+      <keyword>prójimos</keyword>
+      <keyword>Salvador</keyword>
+      <keyword>huérfano</keyword>
+      <keyword>ángeles</keyword>
+      <keyword>comunidad</keyword>
+    </keywords>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ama a tus prójimos, piensa en sus almas,<br/>diles la historia del buen Salvador;<br/>cuida del huérfano, hazte su amigo;<br/>Cristo es Padre y fiel Salvador.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Habla al incrédulo, mira el peligro;<br/>Dios le perdonará, Dios le amará.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aunque recházanle, tiene paciencia<br/>hasta que pueda les dar la salud;<br/>venle los ángeles cerca del trono;<br/>vigiláranles con solicitud.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Habla a tus prójimos, Cristo te ayuda;<br/>Dios fortaleza, gustoso dará;<br/>él te bendecirá en tus esfuerzos,<br/>a gloria eterna él te llevará.<br/></lines>
+    </verse>
+  </lyrics>
 </song>
