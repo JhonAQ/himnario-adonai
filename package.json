@@ -8,7 +8,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "view-hymn": "node ./scripts/view-hymn.js",
-    "vh": "node ./scripts/view-hymn.js"
+    "vh": "node ./scripts/view-hymn.js",
+    "ch": "bash ./scripts/commit-hymns.sh"
   },
   "dependencies": {
     "@expo/metro-runtime": "~4.0.1",
