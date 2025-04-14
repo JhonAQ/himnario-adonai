@@ -18,11 +18,20 @@ CREATE TABLE categories (
 );
 
 INSERT INTO categories (name) VALUES 
-("Adoración"),
-("Coros"),
-("Consagración"),
-("Evangelismo"),
-("Navidad");
+{"Adoración y Alabanza"},
+{"Espíritu Santo"},
+{"Vida de Cristo"},
+{"Iglesia y Comunidad"},
+{"Arrepentimiento y Confesión"},
+{"Esperanza y Segunda Venida"},
+{"Bautismo y Santa Cena"},
+{"Oración y Devoción Personal"},
+{"Navidad y Pascua"},
+{"Funerales y Consuelo"},
+{"Niños y Escuela Dominical"},
+{"Misión y Evangelismo"},
+{"Consagración y Servicio"},
+{"Coros"},
 
 
 CREATE TABLE recently_viewed (
