@@ -28,16 +28,31 @@ export default function App() {
 
   const [dbReady, setDbReady] = useState(false);
 
-  useEffect(() => {
-    async function hideSplashScreen() {
+useEffect(() => {
+  async function prepareApp() {
+    try {
+      console.log("🔧 Iniciando carga de la app...");
+
       if (loadedFonts) {
-        await setupDatabase();
+        if (Platform.OS !== 'web') {
+          console.log("📦 Copiando/cargando base de datos...");
+          await setupDatabase();
+        }
+
+        console.log("✅ Fuentes y BD listas. Ocultando splash...");
         await SplashScreen.hideAsync();
         setDbReady(true);
       }
+    } catch (err) {
+      console.error("❌ Error durante carga inicial:", err);
+      await SplashScreen.hideAsync(); // importante mostrar la UI aunque haya error
+      setDbReady(true);
     }
-    hideSplashScreen();
-  }, [loadedFonts]);
+  }
+
+  prepareApp();
+}, [loadedFonts]);
+
 
   if (!loadedFonts || !dbReady) {
     return null;
