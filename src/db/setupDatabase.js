@@ -1,3 +1,8 @@
+import * as FileSystem from 'expo-file-system';
+import { Asset } from 'expo-asset';
+import * as SQLite from 'expo-sqlite';
+
+
 export async function setupDatabase() {
   const DB_NAME = 'himnario.db';
   const DB_PATH = FileSystem.documentDirectory + DB_NAME;
@@ -21,5 +26,5 @@ export async function setupDatabase() {
     console.log("🟢 Base de datos ya existe en:", DB_PATH);
   }
 
-  return SQLite.openDatabase(DB_NAME);
+  return SQLite.openDatabaseAsync(DB_NAME);
 }
