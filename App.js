@@ -3,11 +3,13 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import "./global.css";
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import MyTabs from "./src/navigation/MyTabs";
 import { TabBarProvider } from "./src/context/TabBarContext";
 import { Platform } from "react-native";
+import { setupDatabase } from "./src/db/setupDatabase";
+
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
@@ -24,16 +26,35 @@ export default function App() {
     "JosefinSans-SemiBold": require("./assets/fonts/JosefinSans-SemiBold.ttf"),
   });
 
-  useEffect(() => {
-    async function hideSplashScreen() {
-      if (loadedFonts) {
-        await SplashScreen.hideAsync();
-      }
-    }
-    hideSplashScreen();
-  }, [loadedFonts]);
+  const [dbReady, setDbReady] = useState(false);
 
-  if (!loadedFonts) {
+useEffect(() => {
+  async function prepareApp() {
+    try {
+      console.log("🔧 Iniciando carga de la app...");
+
+      if (loadedFonts) {
+        if (Platform.OS !== 'web') {
+          console.log("📦 Copiando/cargando base de datos...");
+          await setupDatabase();
+        }
+
+        console.log("✅ Fuentes y BD listas. Ocultando splash...");
+        await SplashScreen.hideAsync();
+        setDbReady(true);
+      }
+    } catch (err) {
+      console.error("❌ Error durante carga inicial:", err);
+      await SplashScreen.hideAsync(); // importante mostrar la UI aunque haya error
+      setDbReady(true);
+    }
+  }
+
+  prepareApp();
+}, [loadedFonts]);
+
+
+  if (!loadedFonts || !dbReady) {
     return null;
   }
 
