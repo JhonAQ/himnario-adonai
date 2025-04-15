@@ -1,3 +1,6 @@
+DROP TABLE IF EXISTS recently_viewed;
+DROP TABLE IF EXISTS songs;
+DROP TABLE IF EXISTS categories;
 CREATE TABLE songs (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   number INTEGER UNIQUE NOT NULL,
@@ -17,21 +20,23 @@ CREATE TABLE categories (
   name TEXT NOT NULL UNIQUE
 );
 
+-- Posteriormente, se puede migrar las categorias a un archivo separado para mejor modularización
 INSERT INTO categories (name) VALUES 
-{"Adoración y Alabanza"},
-{"Espíritu Santo"},
-{"Vida de Cristo"},
-{"Iglesia y Comunidad"},
-{"Arrepentimiento y Confesión"},
-{"Esperanza y Segunda Venida"},
-{"Bautismo y Santa Cena"},
-{"Oración y Devoción Personal"},
-{"Navidad y Pascua"},
-{"Funerales y Consuelo"},
-{"Niños y Escuela Dominical"},
-{"Misión y Evangelismo"},
-{"Consagración y Servicio"},
-{"Coros"},
+('Adoración y Alabanza'),
+('Espíritu Santo'),
+('Vida de Cristo'),
+('Iglesia y Comunidad'),
+('Arrepentimiento y Confesión'),
+('Esperanza y Segunda Venida'),
+('Bautismo y Santa Cena'),
+('Oración y Devoción Personal'),
+('Navidad y Pascua'),
+('Funerales y Consuelo'),
+('Niños y Escuela Dominical'),
+('Misión y Evangelismo'),
+('Consagración y Servicio'),
+('Coros');
+
 
 
 CREATE TABLE recently_viewed (
