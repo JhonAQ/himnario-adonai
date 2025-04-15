@@ -3,11 +3,13 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import "./global.css";
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import MyTabs from "./src/navigation/MyTabs";
 import { TabBarProvider } from "./src/context/TabBarContext";
 import { Platform } from "react-native";
+import { setupDatabase } from "./src/db/setupDatabase";
+
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
@@ -24,16 +26,20 @@ export default function App() {
     "JosefinSans-SemiBold": require("./assets/fonts/JosefinSans-SemiBold.ttf"),
   });
 
+  const [dbReady, setDbReady] = useState(false);
+
   useEffect(() => {
     async function hideSplashScreen() {
       if (loadedFonts) {
+        await setupDatabase();
         await SplashScreen.hideAsync();
+        setDbReady(true);
       }
     }
     hideSplashScreen();
   }, [loadedFonts]);
 
-  if (!loadedFonts) {
+  if (!loadedFonts || !dbReady) {
     return null;
   }
 
