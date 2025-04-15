@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "createdIn": "",
+    "chordNotation": "",
+    "lang": "",
+    "modifiedDate": null,
+    "modifiedIn": "",
+    "version": "0.9"
+  },
+  "properties": {
+    "authors": [
+      {
+        "lang": "",
+        "type": "",
+        "value": "Desconocido"
+      }
+    ],
+    "ccliNo": "",
+    "comments": [],
+    "copyright": "",
+    "key": "",
+    "keywords": {
+      "keyword": [
+        "ojos",
+        "Cristo",
+        "ver",
+        "santo",
+        "gloria"
+      ]
+    },
+    "publisher": "Editorial Siembra",
+    "released": "",
+    "songBooks": [
+      {
+        "entry": "1",
+        "name": "Tuya es la gloria 2022"
+      }
+    ],
+    "tempo": "",
+    "tempoType": "",
+    "themes": [
+      {
+        "lang": "",
+        "value": "Adoración y Alabanza"
+      },
+      {
+        "lang": "",
+        "value": "Oración y Devoción Personal"
+      },
+      {
+        "lang": "",
+        "value": "Consagración y Servicio"
+      },
+      {
+        "lang": "",
+        "value": "Coros"
+      }
+    ],
+    "timeSignature": "",
+    "titles": [
+      {
+        "lang": "",
+        "original": null,
+        "transliteration": "",
+        "value": "Abre mis ojos oh Cristo"
+      }
+    ],
+    "transposition": "",
+    "variant": "",
+    "verseOrder": "",
+    "version": ""
+  },
+  "format": {
+    "application": "",
+    "tags": []
+  },
+  "verses": [
+    {
+      "break": "",
+      "name": "v1",
+      "lang": "",
+      "transliteration": "",
+      "lines": [
+        {
+          "break": "",
+          "content": [
+            {
+              "type": "text",
+              "value": "Abre mis ojos, ¡oh, Cristo!\nAbre mis ojos, Señor,\nyo quiero verte,\nyo quiero verte.\n"
+            }
+          ],
+          "part": "",
+          "repeat": ""
+        }
+      ]
+    },
+    {
+      "break": "",
+      "name": "v2",
+      "lang": "",
+      "transliteration": "",
+      "lines": [
+        {
+          "break": "",
+          "content": [
+            {
+              "type": "text",
+              "value": "Yo quiero verte enaltecido, ¡oh, Dios!\nradiante en toda tu gloria.\nDerrama hoy tu poder\nsobre tu pueblo,\nPadre Santo.\n"
+            }
+          ],
+          "part": "",
+          "repeat": ""
+        }
+      ]
+    },
+    {
+      "break": "",
+      "name": "c",
+      "lang": "",
+      "transliteration": "",
+      "lines": [
+        {
+          "break": "",
+          "content": [
+            {
+              "type": "text",
+              "value": "Santo, santo, santo.\nYo quiero verte.\n"
+            }
+          ],
+          "part": "",
+          "repeat": ""
+        }
+      ]
+    }
+  ],
+  "instruments": []
+}
