@@ -36,7 +36,7 @@ const getAllHymnsMetadata = async () => {
   const dataResponse = await database.getAllAsync(
     "SELECT title, number, songbook, note, verses_count, publisher FROM songs"
   );
-  return dataResponse
+  return dataResponse;
 };
 
 export { initDatabase, test, getAllHymnsMetadata };
