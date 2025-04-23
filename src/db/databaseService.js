@@ -1,32 +1,9 @@
 import * as SQLite from "expo-sqlite";
-// Corregir la importación para que coincida con cómo se exporta
 import { setupDatabase } from "./setupDatabase";
 
-// En lugar de inicializar la base de datos con top-level await
-let db = null;
-
-// Esta implementación asegura que la base de datos solo se abre una vez
+// No necesitamos una variable db adicional, ya que setupDatabase mantiene un singleton
 const initDatabase = async () => {
-  if (!db) {
-    // Usar setupDatabase en lugar de abrir directamente
-    db = await setupDatabase();
-
-    // Verificar estructura de la base de datos
-    const tables = await db.getAllAsync(
-      "SELECT name FROM sqlite_master WHERE type='table';"
-    );
-    console.log(
-      "📊 Tablas en la base de datos después de inicializar:",
-      tables
-    );
-
-    if (tables.length === 0) {
-      console.error(
-        "⚠️ La base de datos no contiene tablas. Verifica el archivo en assets."
-      );
-    }
-  }
-  return db;
+  return await setupDatabase();
 };
 
 const test = async () => {
@@ -54,14 +31,12 @@ const test = async () => {
   }
 };
 
-
-
 const getAllHymnsMetadata = async () => {
   const database = await initDatabase();
   const dataResponse = await database.getAllAsync(
     "SELECT title, number, songbook, note, verses_count, publisher FROM songs"
   );
-  console.log(dataResponse);
+  return dataResponse
 };
 
 export { initDatabase, test, getAllHymnsMetadata };

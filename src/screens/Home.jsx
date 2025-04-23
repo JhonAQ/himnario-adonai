@@ -6,7 +6,7 @@ import ListCard from '../components/ListCard';
 import { useTabBar } from '../context/TabBarContext';
 import { useFocusEffect } from '@react-navigation/native';
 import { useEffect } from 'react';
-import { test } from '../db/databaseService';
+import { test, getAllHymnsMetadata } from '../db/databaseService';
 
 // formato data hymn
 const recentlyViewed = [
@@ -33,12 +33,7 @@ const Home = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await test();
-      if (result.status) {
-        console.log("✅ Registros de Base de datos cargada correctamente.");
-      } else {
-        console.error("❌ Error en los registros de la base de datos.");
-      }
+      const result = await getAllHymnsMetadata();
     };
 
     fetchData();

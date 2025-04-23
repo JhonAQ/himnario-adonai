@@ -18,7 +18,9 @@
     "@react-navigation/native": "^7.0.17",
     "@react-navigation/stack": "^7.2.1",
     "better-sqlite3": "^11.9.1",
+    "dotenv": "^16.5.0",
     "expo": "~52.0.39",
+    "expo-asset": "~11.0.5",
     "expo-file-system": "~18.0.12",
     "expo-splash-screen": "~0.29.22",
     "expo-sqlite": "~15.1.4",
@@ -36,8 +38,7 @@
     "react-native-screens": "~4.4.0",
     "react-native-vector-icons": "^10.2.0",
     "react-native-web": "~0.19.13",
-    "tailwindcss": "^3.4.17",
-    "expo-asset": "~11.0.5"
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
