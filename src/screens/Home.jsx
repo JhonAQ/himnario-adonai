@@ -34,6 +34,8 @@ const Home = () => {
   useEffect(() => {
     const fetchData = async () => {
       const result = await getAllHymnsMetadata();
+      console.log("ejemplos:")
+      console.log(result[0])
     };
 
     fetchData();

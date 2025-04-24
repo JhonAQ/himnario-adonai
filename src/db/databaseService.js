@@ -33,10 +33,33 @@ const test = async () => {
 
 const getAllHymnsMetadata = async () => {
   const database = await initDatabase();
-  const dataResponse = await database.getAllAsync(
-    "SELECT title, number, songbook, note, verses_count, publisher FROM songs"
-  );
-  return dataResponse;
+
+  const dataResponse = await database.getAllAsync(`
+    SELECT 
+      songs.id,
+      songs.title,
+      songs.number,
+      songs.songbook,
+      songs.note,
+      songs.verses_count,
+      songs.publisher,
+      GROUP_CONCAT(categories.name, '|||') AS categories
+    FROM songs
+    LEFT JOIN song_categories ON songs.id = song_categories.song_id
+    LEFT JOIN categories ON song_categories.category_id = categories.id
+    GROUP BY songs.id
+    ORDER BY songs.number
+  `);
+
+  const hymnsWithCategoriesAsArray = dataResponse.map(song => ({
+    ...song,
+    categories: song.categories
+      ? song.categories.split("|||").filter(Boolean)
+      : [],
+  }));
+
+  return hymnsWithCategoriesAsArray;
 };
+
 
 export { initDatabase, test, getAllHymnsMetadata };
