@@ -6,7 +6,7 @@ import ListCard from '../components/ListCard';
 import { useTabBar } from '../context/TabBarContext';
 import { useFocusEffect } from '@react-navigation/native';
 import { useEffect } from 'react';
-import { test, getAllHymnsMetadata } from '../db/databaseService';
+import { test, getAllHymnsMetadata,getHymnById } from '../db/databaseService';
 
 // formato data hymn
 const recentlyViewed = [
@@ -33,9 +33,10 @@ const Home = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await getAllHymnsMetadata();
-      console.log("ejemplos:")
-      console.log(result[0])
+      console.log("antes")
+      const result = await getHymnById(1);
+      console.log("By id:")
+      console.log(result.lyrics[0].lines[0].content[0].value);
     };
 
     fetchData();

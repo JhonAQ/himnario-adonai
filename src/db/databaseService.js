@@ -61,5 +61,39 @@ const getAllHymnsMetadata = async () => {
   return hymnsWithCategoriesAsArray;
 };
 
+const getHymnById = async (id) => {
+  const database = await initDatabase();
 
-export { initDatabase, test, getAllHymnsMetadata };
+  console.log("ID:", id);
+  const song = await database.getFirstAsync(`
+    SELECT 
+      songs.id,
+      songs.title,
+      songs.number,
+      songs.songbook,
+      songs.note,
+      songs.verses_count,
+      songs.publisher,
+      songs.lyrics,
+      GROUP_CONCAT(categories.name, '|||') AS categories
+    FROM songs
+    LEFT JOIN song_categories ON songs.id = song_categories.song_id
+    LEFT JOIN categories ON song_categories.category_id = categories.id
+    WHERE songs.id = ?
+    GROUP BY songs.id
+  `, [id]);
+  
+  if (!song) return null;
+
+  return {
+    ...song,
+    categories: song.categories
+      ? song.categories.split("|||").filter(Boolean)
+      : [],
+    lyrics: JSON.parse(song.lyrics || "[]")
+  };
+};
+
+
+
+export { initDatabase, test, getAllHymnsMetadata, getHymnById };
