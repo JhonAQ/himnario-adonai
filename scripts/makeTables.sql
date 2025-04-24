@@ -1,6 +1,8 @@
-DROP TABLE IF EXISTS recently_viewed;
+DROP TABLE IF EXISTS song_categories;
 DROP TABLE IF EXISTS songs;
 DROP TABLE IF EXISTS categories;
+DROP TABLE IF EXISTS recently_viewed;
+
 CREATE TABLE songs (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   number INTEGER UNIQUE NOT NULL,
@@ -8,11 +10,9 @@ CREATE TABLE songs (
   title TEXT NOT NULL,
   author TEXT DEFAULT 'Desconocido',
   note TEXT,
-  category_id INTEGER,
   verses_count INTEGER,
   lyrics TEXT NOT NULL,
-  publisher TEXT DEFAULT 'Editorial Siembra',
-  FOREIGN KEY (category_id) REFERENCES categories(id)
+  publisher TEXT DEFAULT 'Editorial Siembra'
 );
 
 CREATE TABLE categories (
@@ -20,7 +20,22 @@ CREATE TABLE categories (
   name TEXT NOT NULL UNIQUE
 );
 
--- Posteriormente, se puede migrar las categorias a un archivo separado para mejor modularización
+CREATE TABLE song_categories (
+  song_id INTEGER NOT NULL,
+  category_id INTEGER NOT NULL,
+  PRIMARY KEY (song_id, category_id),
+  FOREIGN KEY (song_id) REFERENCES songs(id) ON DELETE CASCADE,
+  FOREIGN KEY (category_id) REFERENCES categories(id) ON DELETE CASCADE
+);
+
+CREATE TABLE recently_viewed (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  song_id INTEGER NOT NULL,
+  viewed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY (song_id) REFERENCES songs(id)
+);
+
+-- Insertar categorías
 INSERT INTO categories (name) VALUES 
 ('Adoración y Alabanza'),
 ('Espíritu Santo'),
@@ -36,13 +51,3 @@ INSERT INTO categories (name) VALUES
 ('Misión y Evangelismo'),
 ('Consagración y Servicio'),
 ('Coros');
-
-
-
-CREATE TABLE recently_viewed (
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  song_id INTEGER NOT NULL,
-  viewed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-  FOREIGN KEY (song_id) REFERENCES songs(id)
-);
-

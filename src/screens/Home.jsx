@@ -5,6 +5,8 @@ import CardHymn from '../components/CardHymn';
 import ListCard from '../components/ListCard';
 import { useTabBar } from '../context/TabBarContext';
 import { useFocusEffect } from '@react-navigation/native';
+import { useEffect } from 'react';
+import { test, getAllHymnsMetadata } from '../db/databaseService';
 
 // formato data hymn
 const recentlyViewed = [
@@ -28,6 +30,17 @@ const recentlyViewed = [
 
 const Home = () => {
   const {setHideBar} = useTabBar();
+
+  useEffect(() => {
+    const fetchData = async () => {
+      const result = await getAllHymnsMetadata();
+      console.log("ejemplos:")
+      console.log(result[0])
+    };
+
+    fetchData();
+  }, []);
+
 
   useFocusEffect(() => {
     setHideBar(false);
