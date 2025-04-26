@@ -1,7 +1,8 @@
 const categories = [
-  // 'Adoración y Alabanza',
   'Espíritu Santo',
-  // 'Vida de Cristo',
+  'Vida de Cristo',
+  'Coros',
+  'Adoración y Alabanza',
   'Iglesia y Comunidad',
   'Arrepentimiento y Confesión',
   'Esperanza y Segunda Venida',
@@ -12,7 +13,6 @@ const categories = [
   'Niños y Escuela Dominical',
   'Misión y Evangelismo',
   'Consagración y Servicio',
-  'Coros'
 ];
 
 export const getCategories = (metadata) => {
