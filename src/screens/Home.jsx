@@ -1,4 +1,4 @@
-import { ScrollView, View, Text, TextInput } from 'react-native';
+import { ScrollView, View, Text, TouchableOpacity } from 'react-native';
 import SearchBar from '../components/SearchBar';
 import Section from '../components/Section';
 import { HimnosContext } from '../context/HimnosContext';
@@ -11,10 +11,11 @@ import { useNavigation } from "@react-navigation/native";
 
 const Home = () => {
   const { setHideBar } = useTabBar();
-  const { categorizedData, getRecentlyViewedHymns } = useContext(HimnosContext);
+  const { categorizedData, getRecentlyViewedHymns, getHymnOfTheDay } = useContext(HimnosContext);
   const navigation = useNavigation();
   
   const recentlyViewedHymns = getRecentlyViewedHymns();
+  const hymnOfTheDay = getHymnOfTheDay(); // Obtenemos el himno del día
 
   useFocusEffect(() => {
     setHideBar(false);
@@ -27,15 +28,38 @@ const Home = () => {
   const handleViewAllCategories = () => {
     navigation.navigate('AllCategories');
   };
+  
+  // Función para abrir el himno del día
+  const openDailyHymn = () => {
+    if (hymnOfTheDay) {
+      navigation.navigate('HymnStack', { id: hymnOfTheDay.id });
+    }
+  };
 
   return (
     <View className="w-full h-full bg-slate-500 flex items-center justify-center">
       <ScrollView className="content h-full w-full p-7 flex bg-UIbase">
-        <View className="header mt-8 gap-0.5">
+        {/* Sección del Himno del Día */}
+        <TouchableOpacity 
+          className="header mt-8 gap-0.5 p-3 bg-white rounded-lg shadow-sm" 
+          activeOpacity={0.7} 
+          onPress={openDailyHymn}
+        >
           <Text className="font-josefinSemibold text-2xl">Himno del día</Text>
-          <Text className="font-josefin font-medium">Himno 220 • Viento recio</Text>
-          <Text className="font-josefin font-light text-sm text-gray-500">Abrir ahora</Text>
-        </View>
+          {hymnOfTheDay ? (
+            <>
+              <Text className="font-josefin font-medium">
+                Himno {hymnOfTheDay.number} • {hymnOfTheDay.title}
+              </Text>
+              <Text className="font-josefin font-light text-sm text-gray-500">
+                Toca para abrir
+              </Text>
+            </>
+          ) : (
+            <Text className="font-josefin font-medium">Cargando...</Text>
+          )}
+        </TouchableOpacity>
+        
         <SearchBar className="mt-7" />
         <Section 
           title="Vistos recientemente" 

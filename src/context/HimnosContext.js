@@ -145,6 +145,19 @@ export const HimnosProvider = ({ children }) => {
     return metaHimnos ? getCategories(metaHimnos) : [];
   }, [metaHimnos]);
 
+  const getHymnOfTheDay = () => {
+    if (!metaHimnos) return null;
+    
+    const today = new Date();
+    const dateString = `${today.getFullYear()}-${today.getMonth() + 1}-${today.getDate()}`;
+    
+    const seed = dateString.split('').reduce((acc, char) => acc + char.charCodeAt(0), 0);
+    
+    const index = seed % metaHimnos.length;
+    
+    return metaHimnos[index];
+  };
+
   return (
     <HimnosContext.Provider
       value={{
@@ -161,7 +174,8 @@ export const HimnosProvider = ({ children }) => {
         setSearchQuery,
         searchHymns,
         searchResults,
-        isSearching
+        isSearching,
+        getHymnOfTheDay
       }}
     >
       {children}
