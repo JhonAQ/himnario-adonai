@@ -37,4 +37,3 @@ yarn-error.*
 
 # database
 *.sqlite
-*.db

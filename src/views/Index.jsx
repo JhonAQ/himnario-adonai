@@ -15,18 +15,14 @@ const Index = ({index = false}) => {
   
   const { title, ids, cantidad } = route.params || {};
 
-  // Determinar qué himnos mostrar según la prop 'index'
   const himnos = useMemo(() => {
     return index ? metaHimnos || [] : getHymnsByIds(ids);
   }, [index, metaHimnos, ids, getHymnsByIds]);
   
-  // Calcular el total de himnos a mostrar
   const totalHimnos = index ? (metaHimnos?.length || 0) : cantidad;
   
-  // Determinar el título según el modo
   const displayTitle = index ? "Todos los himnos" : `Categoria: ${title}`;
   
-  // Determinar el texto descriptivo según el modo
   const descripcionTexto = index 
     ? `Hay ${totalHimnos} himnos en total`
     : `Hay ${cantidad} himnos en esta categoría`;

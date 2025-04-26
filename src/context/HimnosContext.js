@@ -85,7 +85,6 @@ export const HimnosProvider = ({ children }) => {
     const fetchData = async () => {
       try {
         setIsLoading(true);
-        // Primero intentamos cargar desde caché
         const cachedData = await AsyncStorage.getItem(CACHE_KEY);
         if (cachedData) {
           const { data, timestamp } = JSON.parse(cachedData);
@@ -99,12 +98,10 @@ export const HimnosProvider = ({ children }) => {
           }
         }
         
-        // Si no hay caché o está expirado, cargamos de la DB
         console.log('Cargando datos frescos');
         const metadata = await getAllHymnsMetadata();
         setMetaHimnos(metadata);
         
-        // Guardamos en caché
         await AsyncStorage.setItem(CACHE_KEY, JSON.stringify({
           data: metadata,
           timestamp: Date.now()
@@ -124,7 +121,6 @@ export const HimnosProvider = ({ children }) => {
     
     const idsArray = Array.isArray(ids) ? ids : [ids];
     
-    // Usar un Set para comparación más eficiente
     const idSet = new Set(idsArray.map(id => String(id)));
     return metaHimnos.filter(hymn => idSet.has(String(hymn.id)));
   };

@@ -7,7 +7,6 @@ import Constants from "expo-constants";
 let databaseInstance = null;
 
 export async function setupDatabase() {
-  // Si ya tenemos una instancia, la retornamos inmediatamente
   if (databaseInstance) {
     return databaseInstance;
   }
@@ -15,7 +14,6 @@ export async function setupDatabase() {
   const DB_NAME = "himnario.db";
   const DB_PATH = FileSystem.documentDirectory + DB_NAME;
 
-  // Usar la variable de entorno correcta para la versión esperada
   const EXPECTED_VERSION = parseInt(
     process.env.EXPO_PUBLIC_API_DB_VERSION || "1",
     10
@@ -31,7 +29,6 @@ export async function setupDatabase() {
       console.log("🟢 Base encontrada en:", DB_PATH);
 
       try {
-        // Abrir la base de datos solo una vez y guardar la instancia
         databaseInstance = await SQLite.openDatabaseAsync(DB_PATH);
 
         console.log("📊 Consultando versión de base de datos...");
@@ -48,7 +45,6 @@ export async function setupDatabase() {
         if (currentVersion !== EXPECTED_VERSION) {
           console.log("📌 Versión desactualizada. Reemplazando base...");
 
-          // Cerrar la conexión antes de reemplazar
           databaseInstance = null;
 
           needsCopy = true;
@@ -67,12 +63,10 @@ export async function setupDatabase() {
     }
 
     if (needsCopy) {
-      // Si necesitamos copiar, primero cerramos cualquier conexión existente
       if (databaseInstance) {
         databaseInstance = null;
       }
 
-      // Eliminar archivo existente si es necesario
       if (fileInfo.exists) {
         await FileSystem.deleteAsync(DB_PATH);
         console.log("🗑️ Eliminada base de datos anterior");
@@ -91,7 +85,6 @@ export async function setupDatabase() {
 
       console.log("📥 Base copiada a:", DB_PATH);
 
-      // Abrir la base de datos nueva
       databaseInstance = await SQLite.openDatabaseAsync(DB_PATH);
     }
 

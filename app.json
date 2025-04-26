@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "himnario-adonai",
+    "name": "Himnario Adonai",
+    "description": "Himnario Oficial para las reuniones del grupo Adonai",
     "slug": "himnario-adonai",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,7 +20,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jhonatanarias.himnarioadonai"
     },
     "web": {
       "bundler": "metro",
@@ -28,6 +30,15 @@
     "plugins": [
       "expo-sqlite",
       "expo-asset"
+    ],
+    "githubUrl": "https://github.com/JhonAQ/himnario-adonai",
+    "extra": {
+      "eas": {
+        "projectId": "5650ead3-2854-40ac-984d-764233e0f8c2"
+      }
+    },
+    "assets": [
+      "./assets/database/himnario.db"
     ]
   }
 }

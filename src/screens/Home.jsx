@@ -29,7 +29,6 @@ const Home = () => {
     navigation.navigate('AllCategories');
   };
   
-  // Función para abrir el himno del día
   const openDailyHymn = () => {
     if (hymnOfTheDay) {
       navigation.navigate('HymnStack', { id: hymnOfTheDay.id });
