@@ -1,12 +1,15 @@
 import {ScrollView, View, Text, TextInput } from 'react-native';
 import SearchBar from '../components/SearchBar';
 import Section from '../components/Section';
+import { HimnosContext } from '../context/HimnosContext';
 import CardHymn from '../components/CardHymn';
 import ListCard from '../components/ListCard';
 import { useTabBar } from '../context/TabBarContext';
 import { useFocusEffect } from '@react-navigation/native';
+import { useContext } from 'react';
 import { useEffect } from 'react';
 import { test, getAllHymnsMetadata,getHymnById } from '../db/databaseService';
+import Himno from '../utils/CantoATi';
 
 // formato data hymn
 const recentlyViewed = [
@@ -30,8 +33,8 @@ const recentlyViewed = [
 
 const Home = () => {
   const {setHideBar} = useTabBar();
+  const {categorizedData} = useContext(HimnosContext)
 
-  // Prueba log de fetch data
   // useEffect(() => {
   //   const fetchData = async () => {
   //     console.log("antes")
@@ -40,7 +43,8 @@ const Home = () => {
   //     console.log(result.verses[0].lines[0].content[0].value);
   //   };
 
-  //   fetchData();
+  //   // fetchData();
+  //   console.log(categorizedData[4])
   // }, []);
 
   useFocusEffect(() => {
@@ -66,11 +70,6 @@ const Home = () => {
             category: "Canciones de adoración",
             hymns: 50, 
             favorites: 4
-          }}/>
-          <ListCard dataCategory={{
-            category: "Coritos",
-            hymns: 80, 
-            favorites: 0
           }}/>
         </Section>
       </ScrollView>

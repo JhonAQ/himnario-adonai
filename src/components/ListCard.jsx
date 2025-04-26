@@ -17,9 +17,9 @@ const ListCard = ({dataCategory}) => {
         <Text numberOfLines={1} className="font-josefin font-light text-sm text-UIgray2">
           {dataCategory.hymns} Himnos
         </Text>
-        <Text className="font-josefin font-extralight text-xs text-UIgray2">
+        {/* <Text className="font-josefin font-extralight text-xs text-UIgray2">
           {dataCategory.favorites} Favoritos
-        </Text>
+        </Text> */}
       </View>
     </TouchableOpacity>
   )
