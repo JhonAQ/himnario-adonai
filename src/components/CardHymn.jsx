@@ -12,7 +12,7 @@ const CardHymn = ({hymn}) => {
 
   return (
     <TouchableOpacity
-    onPress={() => {navigation.navigate('HymnStack', {dataHymn})}}
+    onPress={() => {navigation.navigate('HymnStack', {id : hymn.id})}}
     activeOpacity={0.6}
     className="bg-UIwhite w-[48%] rounded-lg">
       <View className="card-image bg-slate-400 h-28 relative rounded-lg">

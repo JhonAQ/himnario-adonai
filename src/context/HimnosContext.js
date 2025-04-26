@@ -6,8 +6,9 @@ export const HimnosContext = createContext();
 
 export const HimnosProvider = ({ children }) => {
   const [metaHimnos, setMetaHimnos] = useState(null);
-  const [recentlyViewed, setRecentlyViewed] = useState([]);
+  const [recentlyID, setRecentlyID] = useState(["1", "2"]);
   const getHymnsByIds = (ids) => {
+    if(!metaHimnos) return []
     return metaHimnos.filter(hymn => ids.includes(hymn.id));
   };
   const categorizedData = useMemo(() => {
@@ -32,8 +33,8 @@ export const HimnosProvider = ({ children }) => {
       value={{
         metaHimnos,
         setMetaHimnos,
-        recentlyViewed,
-        setRecentlyViewed,
+        recentlyID,
+        setRecentlyID,
         categorizedData,
         getHymnsByIds
       }}

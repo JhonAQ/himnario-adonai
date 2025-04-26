@@ -18,8 +18,7 @@ const Hymn = () => {
   }, []);
 
   const route = useRoute();
-  const { dataHymn } = route.params;
-  const id = dataHymn.id
+  const { id } = route.params;
 
   const {hymn, loading, error} = useHymn(id)
 
