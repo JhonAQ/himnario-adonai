@@ -71,6 +71,7 @@ const Home = () => {
               <ListCard key={cat.title} dataCategory={{
                 category: cat.title,
                 hymns: cat.cantidad, 
+                ids: cat.ids
               }}/>
             )
           }

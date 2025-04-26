@@ -7,7 +7,7 @@ const ListCard = ({dataCategory}) => {
   const navigation = useNavigation();
 
   return (
-    <TouchableOpacity activeOpacity={0.6} onPress={()=> navigation.navigate("IndexStack")} className="flex-row rounded-lg bg-UIwhite w-full">
+    <TouchableOpacity activeOpacity={0.6} onPress={()=> navigation.navigate("IndexStack", {title: dataCategory.category, cantidad: dataCategory.hymns, ids: dataCategory.ids})} className="flex-row rounded-lg bg-UIwhite w-full">
       <View className="card-image rounded-lg h-24 w-[40%] bg-slate-400">
       </View>
       <View className="card-info grow py-4 pl-6 flex-col items-start justify-center gap-0.5">
