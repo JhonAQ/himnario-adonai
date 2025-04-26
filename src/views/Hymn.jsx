@@ -24,7 +24,7 @@ const Hymn = () => {
 
   useEffect(() => {
     addToRecentlyViewed(id);
-  }, [id, addToRecentlyViewed]);
+  }, [id]);
 
   const {hymn, loading, error} = useHymn(id)
 
