@@ -66,11 +66,14 @@ const Home = () => {
           <CardHymn dataHymn={recentlyViewed[1]}/>
         </Section>
         <Section className="mt-5" title="Categorías">
-          <ListCard dataCategory={{
-            category: "Canciones de adoración",
-            hymns: 50, 
-            favorites: 4
-          }}/>
+          {
+            categorizedData.map(cat =>
+              <ListCard key={cat.title} dataCategory={{
+                category: cat.title,
+                hymns: cat.cantidad, 
+              }}/>
+            )
+          }
         </Section>
       </ScrollView>
     </View>
