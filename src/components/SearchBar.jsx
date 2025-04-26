@@ -10,14 +10,13 @@ const SearchBar = ({ className }) => {
   
   const handleSearch = async () => {
     if (searchQuery.trim()) {
-      const results = await searchHymns(searchQuery);
-      if (results.length > 0) {
-        // Navegar a la vista de resultados de búsqueda
-        navigation.navigate('SearchResults', { query: searchQuery });
-        
-        // Limpiar el texto de búsqueda después de navegar
-        setSearchQuery("");
-      }
+      await searchHymns(searchQuery);
+      
+      // Navegar siempre a la vista de resultados, incluso si no hay resultados
+      navigation.navigate('SearchResults', { query: searchQuery });
+      
+      // Limpiar el texto de búsqueda después de navegar
+      setSearchQuery("");
     }
   };
 
