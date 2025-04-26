@@ -31,34 +31,50 @@ const test = async () => {
   }
 };
 
+// Modifica la función getAllHymnsMetadata para ser más eficiente
 const getAllHymnsMetadata = async () => {
+  console.time('getAllHymnsMetadata'); // Para medir el tiempo de ejecución
   const database = await initDatabase();
 
-  const dataResponse = await database.getAllAsync(`
-    SELECT 
-      songs.id,
-      songs.title,
-      songs.number,
-      songs.songbook,
-      songs.note,
-      songs.verses_count,
-      songs.publisher,
-      GROUP_CONCAT(categories.name, '|||') AS categories
-    FROM songs
-    LEFT JOIN song_categories ON songs.id = song_categories.song_id
-    LEFT JOIN categories ON song_categories.category_id = categories.id
-    GROUP BY songs.id
-    ORDER BY songs.number
-  `);
+  try {
+    // Primero obtenemos los himnos básicos sin categorías (consulta más rápida)
+    const songs = await database.getAllAsync(`
+      SELECT 
+        id, title, number, songbook, note, verses_count, publisher
+      FROM songs
+      ORDER BY number
+    `);
 
-  const hymnsWithCategoriesAsArray = dataResponse.map((song) => ({
-    ...song,
-    categories: song.categories
-      ? song.categories.split("|||").filter(Boolean)
-      : [],
-  }));
+    // Luego obtenemos las categorías en una consulta separada
+    const categories = await database.getAllAsync(`
+      SELECT 
+        sc.song_id, 
+        c.name as category_name
+      FROM song_categories sc
+      JOIN categories c ON sc.category_id = c.id
+    `);
 
-  return hymnsWithCategoriesAsArray;
+    // Hacemos el procesamiento en memoria (más rápido que JOIN en SQLite)
+    const songCategories = {};
+    categories.forEach(cat => {
+      if (!songCategories[cat.song_id]) {
+        songCategories[cat.song_id] = [];
+      }
+      songCategories[cat.song_id].push(cat.category_name);
+    });
+
+    // Combinamos los datos
+    const result = songs.map(song => ({
+      ...song,
+      categories: songCategories[song.id] || []
+    }));
+
+    console.timeEnd('getAllHymnsMetadata');
+    return result;
+  } catch (error) {
+    console.error('Error al obtener metadatos de himnos:', error);
+    throw error;
+  }
 };
 
 const getHymnById = async (id) => {
@@ -97,4 +113,51 @@ const getHymnById = async (id) => {
   };
 };
 
-export { initDatabase, test, getAllHymnsMetadata, getHymnById };
+
+const searchHymnContent = async (query) => {
+  const database = await initDatabase();
+  console.log(`Buscando "${query}" en contenido de himnos`);
+  
+  try {
+    const searchQuery = `
+      SELECT DISTINCT id
+      FROM songs
+      WHERE verses LIKE ?
+      LIMIT 20
+    `;
+    
+    const results = await database.getAllAsync(searchQuery, [`%${query}%`]);
+    return results.map(r => r.id);
+  } catch (error) {
+    console.error('Error al buscar en contenido:', error);
+    
+    try {
+      console.log('Intentando búsqueda en memoria...');
+      const allSongs = await getAllHymnsMetadata();
+      
+      const results = [];
+      for (const song of allSongs.slice(0, 60)) {
+        try {
+          const fullHymn = await getHymnById(song.id);
+          if (fullHymn && fullHymn.verses) {
+            // Convertir a texto plano para búsqueda simple
+            const versesText = JSON.stringify(fullHymn.verses);
+            if (versesText.toLowerCase().includes(query.toLowerCase())) {
+              results.push(song.id);
+            }
+          }
+        } catch (hymn_error) {
+          console.log(`Error al procesar himno ${song.id}`, hymn_error);
+        }
+      }
+      return results;
+    } catch (backupError) {
+      console.error('Error en búsqueda de respaldo:', backupError);
+      return [];
+    }
+  }
+};
+
+// ... resto del código ...
+
+export { initDatabase, test, getAllHymnsMetadata, getHymnById, searchHymnContent };

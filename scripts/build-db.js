@@ -4,33 +4,26 @@ const Database = require("better-sqlite3");
 const { OpenLyricsParser } = require("openlyrics-parser");
 require("dotenv").config();
 
-// Asegurar que la versión sea un número entero
 const DB_VERSION = parseInt(process.env.EXPO_PUBLIC_API_DB_VERSION || "1", 10);
 console.log(`Configurando versión de DB: ${DB_VERSION}`);
 
-// Inicializar DB
 const db = new Database("./assets/database/himnario.db");
 
-// Establecer la versión correctamente
 db.pragma(`user_version = ${DB_VERSION}`);
 
-// Verificar que se estableció correctamente
 const version = db.pragma("user_version", { simple: true });
 console.log(`Versión de la base de datos establecida: ${version}`);
 
-// Ejecutar script para crear tablas
 try {
   db.exec(fs.readFileSync("./scripts/makeTables.sql", "utf8"));
   console.log("✅ Tablas creadas correctamente.");
 } catch (err) {
   console.error(`❌ Error al crear las tablas: ${err.message}`);
-  process.exit(1); // Salir si no se pueden crear las tablas
+  process.exit(1);
 }
 
-// Directorio con los XML
 const dir = "./raw-data/Tuya-es-La-Gloria-2022";
 
-// Preparar sentencias SQL
 const insertCategory = db.prepare(`
   INSERT OR IGNORE INTO categories (name) VALUES (?)
 `);
@@ -69,12 +62,10 @@ files.forEach((filename, index) => {
       "Sin categoría",
     ];
 
-    // Insertar todas las categorías necesarias
     for (const name of categoryNames) {
       insertCategory.run(name);
     }
 
-    // Insertar canción
     const result = insertSong.run({
       number,
       songbook,
@@ -88,7 +79,6 @@ files.forEach((filename, index) => {
 
     const songId = result.lastInsertRowid;
 
-    // Asociar canción con todas sus categorías
     for (const name of categoryNames) {
       const categoryId = getCategoryId.get(name)?.id;
       if (categoryId) {

@@ -45,7 +45,7 @@ export default function App() {
         }
       } catch (err) {
         console.error("❌ Error durante carga inicial:", err);
-        await SplashScreen.hideAsync(); // importante mostrar la UI aunque haya error
+        await SplashScreen.hideAsync();
         setDbReady(true);
       }
     }

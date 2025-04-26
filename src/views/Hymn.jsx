@@ -6,20 +6,25 @@ import SectionLyric from '../components/SectionLyric';
 import Himno from '../utils/CantoATi.js';
 import { useRoute } from '@react-navigation/native';
 import { useTabBar } from '../context/TabBarContext';
-import { useEffect } from 'react';
+import { useContext, useEffect } from 'react';
 import { useHymn } from '../hooks/useHymn';
 import { getLyrics } from '../utils/getLyrics';
+import { HimnosContext } from '../context/HimnosContext';
 
 const Hymn = () => {
   const {setHideBar} = useTabBar();
+  const {addToRecentlyViewed} = useContext(HimnosContext)
 
   useEffect(() => {
     setHideBar(true);
   }, []);
 
   const route = useRoute();
-  const { dataHymn } = route.params;
-  const id = dataHymn.id
+  const { id } = route.params;
+
+  useEffect(() => {
+    addToRecentlyViewed(id);
+  }, [id]);
 
   const {hymn, loading, error} = useHymn(id)
 
