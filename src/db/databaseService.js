@@ -113,4 +113,51 @@ const getHymnById = async (id) => {
   };
 };
 
-export { initDatabase, test, getAllHymnsMetadata, getHymnById };
+
+const searchHymnContent = async (query) => {
+  const database = await initDatabase();
+  console.log(`Buscando "${query}" en contenido de himnos`);
+  
+  try {
+    const searchQuery = `
+      SELECT DISTINCT id
+      FROM songs
+      WHERE verses LIKE ?
+      LIMIT 20
+    `;
+    
+    const results = await database.getAllAsync(searchQuery, [`%${query}%`]);
+    return results.map(r => r.id);
+  } catch (error) {
+    console.error('Error al buscar en contenido:', error);
+    
+    try {
+      console.log('Intentando búsqueda en memoria...');
+      const allSongs = await getAllHymnsMetadata();
+      
+      const results = [];
+      for (const song of allSongs.slice(0, 60)) {
+        try {
+          const fullHymn = await getHymnById(song.id);
+          if (fullHymn && fullHymn.verses) {
+            // Convertir a texto plano para búsqueda simple
+            const versesText = JSON.stringify(fullHymn.verses);
+            if (versesText.toLowerCase().includes(query.toLowerCase())) {
+              results.push(song.id);
+            }
+          }
+        } catch (hymn_error) {
+          console.log(`Error al procesar himno ${song.id}`, hymn_error);
+        }
+      }
+      return results;
+    } catch (backupError) {
+      console.error('Error en búsqueda de respaldo:', backupError);
+      return [];
+    }
+  }
+};
+
+// ... resto del código ...
+
+export { initDatabase, test, getAllHymnsMetadata, getHymnById, searchHymnContent };

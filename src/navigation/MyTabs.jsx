@@ -38,6 +38,12 @@ export default function MyTabs() {
           display: hideBar ? 'none' : 'flex'
         }
       })}
+      screenListeners={{
+        tabPress: () => {
+          // Limpiar la búsqueda cuando se cambia de pestaña
+          setSearchQuery("");
+        }
+      }}
     >
       <Tab.Screen name="Home" component={HomeStackScreen} />
       <Tab.Screen name="Index" component={IndexStackScreen}/>
