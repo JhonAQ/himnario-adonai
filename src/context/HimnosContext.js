@@ -1,5 +1,5 @@
 import { createContext, useEffect, useMemo, useState } from "react";
-import { getAllHymnsMetadata } from "../db/databaseService";
+import { getAllHymnsMetadata, getHymnById } from "../db/databaseService";
 import { getCategories } from "../utils/getCategories"
 
 export const HimnosContext = createContext();
@@ -7,6 +7,12 @@ export const HimnosContext = createContext();
 export const HimnosProvider = ({ children }) => {
   const [metaHimnos, setMetaHimnos] = useState(null);
   const [recentlyViewed, setRecentlyViewed] = useState([]);
+  const getHymnsByIds = (ids) => {
+    return metaHimnos.filter(hymn => ids.includes(hymn.id));
+  };
+  const categorizedData = useMemo(() => {
+    return metaHimnos ? getCategories(metaHimnos) : [];
+  }, [metaHimnos]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -21,10 +27,6 @@ export const HimnosProvider = ({ children }) => {
     fetchData();
   }, []);
 
-  const categorizedData = useMemo(() => {
-    return metaHimnos ? getCategories(metaHimnos) : [];
-  }, [metaHimnos]);
-
   return (
     <HimnosContext.Provider
       value={{
@@ -32,7 +34,8 @@ export const HimnosProvider = ({ children }) => {
         setMetaHimnos,
         recentlyViewed,
         setRecentlyViewed,
-        categorizedData
+        categorizedData,
+        getHymnsByIds
       }}
     >
       {children}

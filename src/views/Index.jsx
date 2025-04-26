@@ -6,16 +6,19 @@ import SectionLyric from '../components/SectionLyric';
 import SearchBar from '../components/SearchBar';
 import CardHymn from '../components/CardHymn';
 import { useTabBar } from '../context/TabBarContext';
-import { useEffect } from 'react';
+import { useContext, useEffect } from 'react';
 import { useRoute } from '@react-navigation/native';
+import { HimnosContext } from '../context/HimnosContext';
 
 
 const Index = () => {
-
+  const {getHymnsByIds} = useContext(HimnosContext)
   const {setHideBar} = useTabBar();
   const route = useRoute()
 
   const {title, ids, cantidad} = route.params
+
+  const himnos = getHymnsByIds(ids)
 
   useEffect(() => {
     setHideBar(true);
@@ -31,14 +34,17 @@ const Index = () => {
       <ScrollView className='mt-5 px-4'>
       <View className="flex-row justify-between flex-wrap gap-y-4 pt-5 ">
 
-          <CardHymn dataHymn={{
-            title: "Padre celestial, acuerdate de mi",
-            key: "F#",
-            type: "Adoracion",
-            index: 223,
-            verses: 4,
-            like: false
-          }}/>
+          {
+            himnos.map((h) => 
+              <CardHymn dataHymn={{
+                title: h.title,
+                type: title,
+                index: h.number,
+                verses: h.verses_count,
+              }}/>
+            )
+          }
+
 
       </View>
       </ScrollView>
