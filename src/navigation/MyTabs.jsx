@@ -5,6 +5,9 @@ import Icon from 'react-native-vector-icons/Ionicons';
 import HomeStackScreen from './HomeStackScreen';
 import { useTabBar } from '../context/TabBarContext';
 import FavoritesStackScreen from './FavoriteStackScreen';
+import Index from '../views/Index';
+import IndexStackScreen from './IndexStackScreen'
+
 
 const Tab = createBottomTabNavigator();
 
@@ -35,6 +38,7 @@ export default function MyTabs() {
       })}
     >
       <Tab.Screen name="Home" component={HomeStackScreen} />
+      <Tab.Screen name="Index" component={IndexStackScreen}/>
       {/* prealphaversion */}
       {/* <Tab.Screen name="Favoritos" component={FavoritesStackScreen} /> */}
     </Tab.Navigator>
