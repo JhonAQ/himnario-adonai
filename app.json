@@ -5,11 +5,11 @@
     "slug": "himnario-adonai",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/adonai-icon.png",
+    "icon": "./assets/images/adonai-icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/adonai-icon.png",
+      "image": "./assets/images/adonai-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
