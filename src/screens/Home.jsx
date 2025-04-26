@@ -36,7 +36,7 @@ const Home = () => {
       console.log("antes")
       const result = await getHymnById(1);
       console.log("By id:")
-      console.log(result.lyrics[0].lines[0].content[0].value);
+      console.log(result.verses[0].lines[0].content[0].value);
     };
 
     fetchData();

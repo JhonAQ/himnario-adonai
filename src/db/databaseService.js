@@ -51,7 +51,7 @@ const getAllHymnsMetadata = async () => {
     ORDER BY songs.number
   `);
 
-  const hymnsWithCategoriesAsArray = dataResponse.map(song => ({
+  const hymnsWithCategoriesAsArray = dataResponse.map((song) => ({
     ...song,
     categories: song.categories
       ? song.categories.split("|||").filter(Boolean)
@@ -65,7 +65,8 @@ const getHymnById = async (id) => {
   const database = await initDatabase();
 
   console.log("ID:", id);
-  const song = await database.getFirstAsync(`
+  const song = await database.getFirstAsync(
+    `
     SELECT 
       songs.id,
       songs.title,
@@ -74,15 +75,17 @@ const getHymnById = async (id) => {
       songs.note,
       songs.verses_count,
       songs.publisher,
-      songs.lyrics,
+      songs.verses,
       GROUP_CONCAT(categories.name, '|||') AS categories
     FROM songs
     LEFT JOIN song_categories ON songs.id = song_categories.song_id
     LEFT JOIN categories ON song_categories.category_id = categories.id
     WHERE songs.id = ?
     GROUP BY songs.id
-  `, [id]);
-  
+  `,
+    [id]
+  );
+
   if (!song) return null;
 
   return {
@@ -90,10 +93,8 @@ const getHymnById = async (id) => {
     categories: song.categories
       ? song.categories.split("|||").filter(Boolean)
       : [],
-    lyrics: JSON.parse(song.lyrics || "[]")
+    verses: JSON.parse(song.verses || "[]"),
   };
 };
-
-
 
 export { initDatabase, test, getAllHymnsMetadata, getHymnById };

@@ -11,7 +11,7 @@ CREATE TABLE songs (
   author TEXT DEFAULT 'Desconocido',
   note TEXT,
   verses_count INTEGER,
-  lyrics TEXT NOT NULL,
+  verses TEXT NOT NULL,
   publisher TEXT DEFAULT 'Editorial Siembra'
 );
 
