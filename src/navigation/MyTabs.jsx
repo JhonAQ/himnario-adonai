@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useContext, useState } from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Favorites from '../screens/Favorites';
 import Icon from 'react-native-vector-icons/Ionicons';
@@ -7,6 +7,7 @@ import { useTabBar } from '../context/TabBarContext';
 import FavoritesStackScreen from './FavoriteStackScreen';
 import Index from '../views/Index';
 import IndexStackScreen from './IndexStackScreen'
+import { HimnosContext } from '../context/HimnosContext';
 
 
 const Tab = createBottomTabNavigator();
@@ -14,6 +15,7 @@ const Tab = createBottomTabNavigator();
 export default function MyTabs() {
 
   const { hideBar } = useTabBar();
+  const {setSearchQuery} = useContext(HimnosContext)
 
   return (
     <Tab.Navigator

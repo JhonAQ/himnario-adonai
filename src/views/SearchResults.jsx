@@ -47,7 +47,10 @@ const SearchResults = () => {
 
       {isSearching ? (
         <View className="flex-1 justify-center items-center">
-          <ActivityIndicator size="large" />
+          <ActivityIndicator size="large" color="#666" />
+          <Text className="font-josefin text-gray-500 mt-4 text-center">
+            Buscando himnos que coincidan con "{query}"...
+          </Text>
         </View>
       ) : (
         <FlatList
