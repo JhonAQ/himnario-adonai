@@ -6,58 +6,60 @@ import { getCategories } from "../utils/getCategories"
 export const HimnosContext = createContext();
 
 export const HimnosProvider = ({ children }) => {
-
-// Dentro de HimnosProvider, agregar:
-const CACHE_KEY = 'himnosMetadata';
-const CACHE_EXPIRY = 24 * 60 * 60 * 1000; // 24 horas
-
-useEffect(() => {
-  const fetchData = async () => {
-    try {
-      // Primero intentamos cargar desde caché
-      const cachedData = await AsyncStorage.getItem(CACHE_KEY);
-      if (cachedData) {
-        const { data, timestamp } = JSON.parse(cachedData);
-        const isExpired = Date.now() - timestamp > CACHE_EXPIRY;
-        
-        if (!isExpired) {
-          console.log('Usando datos en caché');
-          setMetaHimnos(data);
-          return;
-        }
-      }
-      
-      // Si no hay caché o está expirado, cargamos de la DB
-      console.log('Cargando datos frescos');
-      const metadata = await getAllHymnsMetadata();
-      setMetaHimnos(metadata);
-      
-      // Guardamos en caché
-      await AsyncStorage.setItem(CACHE_KEY, JSON.stringify({
-        data: metadata,
-        timestamp: Date.now()
-      }));
-    } catch (error) {
-      console.error("Error al cargar metadata:", error);
-    }
-  };
-
-  fetchData();
-}, []);
-
   const [metaHimnos, setMetaHimnos] = useState(null);
-  const [recentlyID, setRecentlyID] = useState(["1", "2"])
-  
-    
-    const getHymnsByIds = (ids) => {
-      if (!metaHimnos || !ids) return [];
-      
-      const idsArray = Array.isArray(ids) ? ids : [ids];
-      
-      return metaHimnos.filter(hymn => 
-        idsArray.map(id => String(id)).includes(String(hymn.id))
-      );
+  const [recentlyID, setRecentlyID] = useState(["1", "2"]);
+  const [isLoading, setIsLoading] = useState(true);
+
+  const CACHE_KEY = 'himnosMetadata';
+  const CACHE_EXPIRY = 24 * 60 * 60 * 1000; // 24 horas
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setIsLoading(true);
+        // Primero intentamos cargar desde caché
+        const cachedData = await AsyncStorage.getItem(CACHE_KEY);
+        if (cachedData) {
+          const { data, timestamp } = JSON.parse(cachedData);
+          const isExpired = Date.now() - timestamp > CACHE_EXPIRY;
+          
+          if (!isExpired) {
+            console.log('Usando datos en caché');
+            setMetaHimnos(data);
+            setIsLoading(false);
+            return;
+          }
+        }
+        
+        // Si no hay caché o está expirado, cargamos de la DB
+        console.log('Cargando datos frescos');
+        const metadata = await getAllHymnsMetadata();
+        setMetaHimnos(metadata);
+        
+        // Guardamos en caché
+        await AsyncStorage.setItem(CACHE_KEY, JSON.stringify({
+          data: metadata,
+          timestamp: Date.now()
+        }));
+      } catch (error) {
+        console.error("Error al cargar metadata:", error);
+      } finally {
+        setIsLoading(false);
+      }
     };
+
+    fetchData();
+  }, []);
+    
+  const getHymnsByIds = (ids) => {
+    if (!metaHimnos || !ids) return [];
+    
+    const idsArray = Array.isArray(ids) ? ids : [ids];
+    
+    // Usar un Set para comparación más eficiente
+    const idSet = new Set(idsArray.map(id => String(id)));
+    return metaHimnos.filter(hymn => idSet.has(String(hymn.id)));
+  };
     
   const getRecentlyViewedHymns = () => {
     return getHymnsByIds(recentlyID);
@@ -75,19 +77,6 @@ useEffect(() => {
     return metaHimnos ? getCategories(metaHimnos) : [];
   }, [metaHimnos]);
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const metadata = await getAllHymnsMetadata();
-        setMetaHimnos(metadata);
-      } catch (error) {
-        console.error("Error al cargar metadata al context:", error);
-      }
-    };
-
-    fetchData();
-  }, []);
-
   return (
     <HimnosContext.Provider
       value={{
@@ -98,7 +87,8 @@ useEffect(() => {
         categorizedData,
         getHymnsByIds,
         getRecentlyViewedHymns,
-        addToRecentlyViewed
+        addToRecentlyViewed,
+        isLoading
       }}
     >
       {children}

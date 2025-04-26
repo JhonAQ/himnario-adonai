@@ -26,6 +26,8 @@ export default function MyTabs() {
             iconName = focused ? 'heart' : 'heart-outline';
           } else if (route.name === 'Settings') {
             iconName = focused ? 'settings' : 'settings-outline';
+          } else if (route.name === 'Index'){
+            iconName = focused ? 'menu' : 'menu-outline'
           }
           return <Icon name={iconName} size={size} color={color} />;
         },

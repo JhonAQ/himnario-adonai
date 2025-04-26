@@ -22,11 +22,9 @@ const Hymn = () => {
   const route = useRoute();
   const { id } = route.params;
 
-  useEffect(
-    () => {
-      addToRecentlyViewed(id)
-    }, []
-  )
+  useEffect(() => {
+    addToRecentlyViewed(id);
+  }, [id, addToRecentlyViewed]);
 
   const {hymn, loading, error} = useHymn(id)
 

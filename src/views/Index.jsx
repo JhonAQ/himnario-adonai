@@ -32,8 +32,8 @@ const Index = ({index = false}) => {
     : `Hay ${cantidad} himnos en esta categoría`;
 
   useEffect(() => {
-    setHideBar(true);
-  }, []);
+    setHideBar(!index);
+  }, [index]);
 
   const renderItem = ({ item }) => (
     <CardHymn key={item.id} hymn={item} />
@@ -42,7 +42,7 @@ const Index = ({index = false}) => {
   return (
     <View className='w-full h-full flex-col justify-start bg-UIbase'>
       <View className='header w-full mt-4 pt-10 px-8 '>
-        <Title title={displayTitle}/>
+        <Title title={displayTitle} index={index}/>
         <SearchBar className={"mt-4"}/>
         <Text className='mt-4 font-josefin text-UIgray2 text-medium'>
           {descripcionTexto}
