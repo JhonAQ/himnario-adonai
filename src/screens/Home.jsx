@@ -23,6 +23,10 @@ const Home = () => {
   const handleViewAllRecent = () => {
     navigation.navigate('RecentHymns');
   };
+  
+  const handleViewAllCategories = () => {
+    navigation.navigate('AllCategories');
+  };
 
   return (
     <View className="w-full h-full bg-slate-500 flex items-center justify-center">
@@ -46,7 +50,11 @@ const Home = () => {
             <Text className="font-josefin text-gray-500">No hay himnos vistos recientemente</Text>
           )}
         </Section>
-        <Section className="mt-5 mb-12" title="Categorías">
+        <Section 
+          className="mt-5 mb-12" 
+          title="Categorías"
+          onViewAll={handleViewAllCategories}
+        >
           {
             categorizedData.slice(0, 4).map(cat =>
               <ListCard key={cat.title} dataCategory={{
