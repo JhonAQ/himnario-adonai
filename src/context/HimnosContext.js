@@ -5,6 +5,7 @@ export const HimnosContext = createContext();
 
 export const HimnosProvider = ({ children }) => {
   const [metaHimnos, setMetaHimnos] = useState(null);
+  const [recentlyViewed, setRecentlyViewed] = useState([])
 
   useEffect(() => {
     const fetchData = async () => {
@@ -20,7 +21,8 @@ export const HimnosProvider = ({ children }) => {
 
   useEffect(() => {
     if(metaHimnos){
-      console.log(metaHimnos)
+      console.log(metaHimnos[0])
+      console.log("Si, eran las metadatas xd")
     }
   }, [metaHimnos])
 

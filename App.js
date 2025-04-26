@@ -9,6 +9,7 @@ import MyTabs from "./src/navigation/MyTabs";
 import { TabBarProvider } from "./src/context/TabBarContext";
 import { Platform } from "react-native";
 import { setupDatabase } from "./src/db/setupDatabase";
+import { HimnosProvider } from "./src/context/HimnosContext";
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
@@ -63,11 +64,13 @@ export default function App() {
         (Platform.OS === "web" ? "w-full max-w-[400px] mx-auto" : "w-full")
       }
     >
-      <TabBarProvider>
-        <NavigationContainer>
-          <MyTabs />
-        </NavigationContainer>
-      </TabBarProvider>
+      <HimnosProvider>
+        <TabBarProvider>
+          <NavigationContainer>
+            <MyTabs />
+          </NavigationContainer>
+        </TabBarProvider>
+      </HimnosProvider>
     </View>
   );
 }
