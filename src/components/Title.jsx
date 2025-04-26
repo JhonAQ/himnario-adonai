@@ -7,7 +7,7 @@ const Title = ({ title, index=false }) => {
   const navigation = useNavigation();
   
   return (
-    <View className='title -translate-x-2 mb-5 flex-row justify-start items-center gap-2 '>
+    <View className='title -translate-x-2 mb-5 flex-row justify-start items-center gap-2 mt-5'>
       {!index ? (
         <TouchableOpacity activeOpacity={0.8} onPress={() => navigation.goBack()}>
           <Entypo className='' name="chevron-small-left" size={24} color="black" />

@@ -41,7 +41,7 @@ const Home = () => {
       <ScrollView className="content h-full w-full p-7 flex bg-UIbase">
         {/* Sección del Himno del Día */}
         <TouchableOpacity 
-          className="header mt-8 gap-0.5 p-3 bg-white rounded-lg shadow-sm" 
+          className="header mt-10 gap-0.5 bg-UIbase rounded-lg shadow-sm" 
           activeOpacity={0.7} 
           onPress={openDailyHymn}
         >
