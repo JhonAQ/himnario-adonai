@@ -1,4 +1,4 @@
-import { ScrollView, View, Text, TextInput } from 'react-native';
+import { ScrollView, View, Text, TextInput, ActivityIndicator } from 'react-native';
 import Like from '../components/Like';
 import { StyleSheet } from 'react-native';
 import Title from '../components/Title';
@@ -7,6 +7,8 @@ import Himno from '../utils/CantoATi.js';
 import { useRoute } from '@react-navigation/native';
 import { useTabBar } from '../context/TabBarContext';
 import { useEffect } from 'react';
+import { useHymn } from '../hooks/useHymn';
+import { getLyrics } from '../utils/getLyrics';
 
 const Hymn = () => {
   const {setHideBar} = useTabBar();
@@ -17,35 +19,39 @@ const Hymn = () => {
 
   const route = useRoute();
   const { dataHymn } = route.params;
+  const id = dataHymn.id
 
-  const lyrics = [
-    {
-      "type": "Coro",
-      "lines": [
-        "Demos gracias al Señor, demos gracias",
-        "demos gracias por su amor."
-      ]
-    },
-    {
-      "type": "Verso 1",
-      "lines": [
-        "Por la mañana las aves cantan",
-        "las alabanzas de Cristo el Salvador",
-        "y tú, amigo, ¿por qué no cantas",
-        "las alabanzas de Cristo el Salvador?"
-      ]
-    }]
+  const {hymn, loading, error} = useHymn(id)
+
+
+  if (loading) {
+    return (
+      <View className="flex-1 justify-center items-center">
+        <ActivityIndicator size="large" />
+      </View>
+    );
+  }
+
+  if (error || !hymn) {
+    return (
+      <View className="flex-1 justify-center items-center">
+        <Text>Error al cargar el himno.</Text>
+      </View>
+    );
+  }
+
+  const lyrics = getLyrics(hymn)
 
   return (
     <View className='w-full h-full flex-col justify-start'>
       <View className="header w-full flex gap-0.5 pt-10 pb-3 px-8 bg-UIbase" style={[styles.shadowProp]}>
-        <Title title={dataHymn.title}></Title>
+        <Title title={hymn.title}></Title>
         <View className='topBar flex-row justify-between items-center'>
           <Text className='font-josefin text-base'>
-            Himno {dataHymn.index} • {dataHymn.verses} versos
+            Himno {hymn.number} • {hymn.verses_count} versos
           </Text>
-          <Text className='font-josefin text-base'>{dataHymn.key}</Text>
-          <Like />
+          <Text className='font-josefin text-base'>{hymn.note}</Text>
+          {/* <Like /> */}
         </View>
       </View>
       <ScrollView className='px-14 py-9'>

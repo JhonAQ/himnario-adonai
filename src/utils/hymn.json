@@ -1,0 +1,92 @@
+{
+  "id": 6,
+  "title": "Demos gracias al Señor",
+  "number": 6,
+  "songbook": "Tuya es la gloria 2022",
+  "note": null,
+  "verses_count": 4,
+  "publisher": "Editorial Siembra",
+  "verses": [
+    {
+      "break": "",
+      "name": "v1",
+      "lang": "",
+      "transliteration": "",
+      "lines": [
+        {
+          "break": "",
+          "content": [
+            {
+              "type": "text",
+              "value": "Demos gracias al Señor, demos gracias,\ndemos gracias por su amor.\n"
+            }
+          ],
+          "part": "",
+          "repeat": ""
+        }
+      ]
+    },
+    {
+      "break": "",
+      "name": "v2",
+      "lang": "",
+      "transliteration": "",
+      "lines": [
+        {
+          "break": "",
+          "content": [
+            {
+              "type": "text",
+              "value": "Por la mañana las aves cantan\nlas alabanzas de Cristo el Salvador.\nY tú, amigo, ¿por qué no cantas\nlas alabanzas de Cristo el Salvador?\n"
+            }
+          ],
+          "part": "",
+          "repeat": ""
+        }
+      ]
+    },
+    {
+      "break": "",
+      "name": "v3",
+      "lang": "",
+      "transliteration": "",
+      "lines": [
+        {
+          "break": "",
+          "content": [
+            {
+              "type": "text",
+              "value": "Y las estrellas de noche brillan\ny nos alumbran por el amor de Dios.\nY tú amigo, mirando al cielo,\n¿por qué no alabas al Salvador Jesús?\n"
+            }
+          ],
+          "part": "",
+          "repeat": ""
+        }
+      ]
+    },
+    {
+      "break": "",
+      "name": "v4",
+      "lang": "",
+      "transliteration": "",
+      "lines": [
+        {
+          "break": "",
+          "content": [
+            {
+              "type": "text",
+              "value": "En el calvario murió inocente\npor tus pecados clavado en una cruz.\nY si tú quieres la vida eterna,\n¿por qué no acudes al Salvador Jesús?\n"
+            }
+          ],
+          "part": "",
+          "repeat": ""
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Adoración y Alabanza",
+    "Misión y Evangelismo",
+    "Consagración y Servicio"
+  ]
+}
