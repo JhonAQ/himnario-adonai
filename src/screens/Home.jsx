@@ -31,17 +31,17 @@ const recentlyViewed = [
 const Home = () => {
   const {setHideBar} = useTabBar();
 
-  useEffect(() => {
-    const fetchData = async () => {
-      console.log("antes")
-      const result = await getHymnById(1);
-      console.log("By id:")
-      console.log(result.verses[0].lines[0].content[0].value);
-    };
+  // Prueba log de fetch data
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     console.log("antes")
+  //     const result = await getHymnById(1);
+  //     console.log("By id:")
+  //     console.log(result.verses[0].lines[0].content[0].value);
+  //   };
 
-    fetchData();
-  }, []);
-
+  //   fetchData();
+  // }, []);
 
   useFocusEffect(() => {
     setHideBar(false);

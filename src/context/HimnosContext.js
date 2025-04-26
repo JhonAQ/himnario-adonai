@@ -36,15 +36,16 @@ export const HimnosProvider = ({ children }) => {
     fetchData()
   }, []);
 
-  useEffect(() => {
-    if(metaHimnos){
-      console.log(metaHimnos[0])
-      console.log("Si, eran las metadatas xd")
-    }
-  }, [metaHimnos])
+  // Prueba log de la carga de mtadata
+  // useEffect(() => {
+  //   if(metaHimnos){
+  //     console.log(metaHimnos[0])
+  //     console.log("Si, eran las metadatas xd")
+  //   }
+  // }, [metaHimnos])
 
   return (
-    <HimnosContext.Provider value={{ metaHimnos, setMetaHimnos }}>
+    <HimnosContext.Provider value={{ metaHimnos, setMetaHimnos, categories }}>
       {children}
     </HimnosContext.Provider>
   );
