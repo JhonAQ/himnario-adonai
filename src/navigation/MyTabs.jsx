@@ -42,7 +42,6 @@ export default function MyTabs() {
       })}
       screenListeners={{
         tabPress: () => {
-          // Limpiar la búsqueda cuando se cambia de pestaña
           setSearchQuery("");
         }
       }}

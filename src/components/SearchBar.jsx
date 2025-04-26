@@ -11,15 +11,13 @@ const SearchBar = ({ className }) => {
   
   const handleSearch = async () => {
     if (searchQuery.trim()) {
-      setLocalSearching(true); // Indicador local inmediato
+      setLocalSearching(true); // I
       
       try {
         await searchHymns(searchQuery);
         
-        // Navegar siempre a la vista de resultados, incluso si no hay resultados
         navigation.navigate('SearchResults', { query: searchQuery });
         
-        // Limpiar el texto de búsqueda después de navegar
         setSearchQuery("");
       } catch (error) {
         console.error("Error en búsqueda:", error);
@@ -29,17 +27,14 @@ const SearchBar = ({ className }) => {
     }
   };
 
-  // Función para limpiar la búsqueda
   const clearSearch = () => {
     setSearchQuery("");
   };
 
-  // Determinar si se está buscando (local o global)
   const searching = isSearching || localSearching;
 
   return (
     <View className={`relative ${className}`}>
-      {/* Barra de búsqueda */}
       <View className="relative flex-row items-center">
         <TextInput
           className={`bg-gray-200 rounded-full py-3 px-5 pr-12 w-full font-josefin ${searching ? "opacity-70" : ""}`}
@@ -73,7 +68,6 @@ const SearchBar = ({ className }) => {
         )}
       </View>
       
-      {/* Indicador de búsqueda más visible */}
       {searching && (
         <Text className="text-center text-xs text-gray-500 mt-2 font-josefin">
           Buscando himnos que coincidan...

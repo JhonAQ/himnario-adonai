@@ -13,18 +13,15 @@ const SearchResults = () => {
   const { setHideBar } = useTabBar();
   const route = useRoute();
   const { query } = route.params;
-  
-  // Cuando la pantalla obtiene el foco
+
   useFocusEffect(
     useCallback(() => {
       setHideBar(true);
-      
-      // Realizar la búsqueda cuando se carga la pantalla
+
       if (query) {
         searchHymns(query);
       }
-      
-      // Cuando la pantalla pierde el foco (limpieza al salir)
+
       return () => {
         setSearchQuery("");
       };
@@ -39,7 +36,7 @@ const SearchResults = () => {
     <View className='w-full h-full flex-col justify-start bg-UIbase'>
       <View className='header w-full mt-4 py-3 pt-10 px-8 '>
         <Title title={`Resultados para "${query}"`} />
-        <SearchBar className={"mt-4"}/>
+        <SearchBar className={"mt-4"} />
         <Text className='mt-4 font-josefin text-UIgray2 text-medium'>
           {searchResults.length} himnos encontrados
         </Text>
@@ -59,7 +56,7 @@ const SearchResults = () => {
           keyExtractor={item => item.id.toString()}
           numColumns={2}
           columnWrapperStyle={{ justifyContent: 'space-between' }}
-          contentContainerStyle={{ paddingHorizontal: 16, paddingTop: 10, paddingBottom: 30, gap:15 }}
+          contentContainerStyle={{ paddingHorizontal: 16, paddingTop: 10, paddingBottom: 30, gap: 15 }}
           initialNumToRender={10}
           maxToRenderPerBatch={8}
           ListEmptyComponent={() => (

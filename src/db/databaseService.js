@@ -1,7 +1,6 @@
 import * as SQLite from "expo-sqlite";
 import { setupDatabase } from "./setupDatabase";
 
-// No necesitamos una variable db adicional, ya que setupDatabase mantiene un singleton
 const initDatabase = async () => {
   return await setupDatabase();
 };
@@ -31,13 +30,11 @@ const test = async () => {
   }
 };
 
-// Modifica la función getAllHymnsMetadata para ser más eficiente
 const getAllHymnsMetadata = async () => {
   console.time('getAllHymnsMetadata'); // Para medir el tiempo de ejecución
   const database = await initDatabase();
 
   try {
-    // Primero obtenemos los himnos básicos sin categorías (consulta más rápida)
     const songs = await database.getAllAsync(`
       SELECT 
         id, title, number, songbook, note, verses_count, publisher
@@ -45,7 +42,6 @@ const getAllHymnsMetadata = async () => {
       ORDER BY number
     `);
 
-    // Luego obtenemos las categorías en una consulta separada
     const categories = await database.getAllAsync(`
       SELECT 
         sc.song_id, 
@@ -54,7 +50,6 @@ const getAllHymnsMetadata = async () => {
       JOIN categories c ON sc.category_id = c.id
     `);
 
-    // Hacemos el procesamiento en memoria (más rápido que JOIN en SQLite)
     const songCategories = {};
     categories.forEach(cat => {
       if (!songCategories[cat.song_id]) {
@@ -63,7 +58,6 @@ const getAllHymnsMetadata = async () => {
       songCategories[cat.song_id].push(cat.category_name);
     });
 
-    // Combinamos los datos
     const result = songs.map(song => ({
       ...song,
       categories: songCategories[song.id] || []
@@ -157,7 +151,5 @@ const searchHymnContent = async (query) => {
     }
   }
 };
-
-// ... resto del código ...
 
 export { initDatabase, test, getAllHymnsMetadata, getHymnById, searchHymnContent };
