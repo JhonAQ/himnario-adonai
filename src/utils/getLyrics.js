@@ -4,7 +4,6 @@ const getName = (name) => {
 }
 
 export function getLyrics(hymn){
-  console.log(hymn)
   const lyrics = hymn.verses.map( v => {
     const lines = v.lines.map((l) => l.content[0].value)
     return {

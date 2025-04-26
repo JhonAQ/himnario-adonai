@@ -36,13 +36,7 @@ const Index = () => {
 
           {
             himnos.map((h) => 
-              <CardHymn key={h.id} dataHymn={{
-                title: h.title,
-                type: title,
-                index: h.number,
-                verses: h.verses_count,
-                id : h.id
-              }}/>
+              <CardHymn key={h.id} hymn={h}/>
             )
           }
 
