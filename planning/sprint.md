@@ -50,41 +50,41 @@
 1. **Ticket 2.1: Crear el Context Global (HimnosContext)**
    - **Descripción:** Implementar un Context que cargue y almacene los metadatos de todos los himnos y genere una lista única de categorías.
    - **Subtareas:**
-     - [ ] Crear `HimnosContext.js` con el proveedor `HimnosProvider`.
-     - [ ] En el `useEffect` del proveedor, invocar `getAllHymnsMetadata()` y guardar los datos en el state.
-     - [ ] Extraer y guardar en el state una lista de categorías únicas basadas en el campo `type`.
-     - [ ] Incluir un state para “recentlyViewed” (inicialmente vacío) y otros que consideres necesarios.
-     - [ ] Probar el Context envolviendo la app y mostrar algunos datos en consola o en una vista de prueba.
+     - [x] Crear `HimnosContext.js` con el proveedor `HimnosProvider`.
+     - [x] En el `useEffect` del proveedor, invocar `getAllHymnsMetadata()` y guardar los datos en el state.
+     - [x] Extraer y guardar en el state una lista de categorías únicas basadas en el campo `type`.
+     - [x] Incluir un state para “recentlyViewed” (inicialmente vacío) y otros que consideres necesarios.
+     - [x] Probar el Context envolviendo la app y mostrar algunos datos en consola o en una vista de prueba.
 
 2. **Ticket 2.2: Integrar y Mejorar el Search Bar**
    - **Descripción:** Revisar e implementar la lógica de filtrado en el componente `SearchBar`.
    - **Subtareas:**
-     - [ ] Revisar el componente `SearchBar` para asegurarse de que maneje el estado del texto.
-     - [ ] Crear la función `filterHymns(query)` en el Context o en un helper, que filtre los metadatos según el texto ingresado.
-     - [ ] Conectar el evento `onChangeText` del Search Bar para actualizar el filtro.
-     - [ ] Mostrar visualmente un mensaje o indicador si no se encuentran himnos.
-     - [ ] Probar el comportamiento en pantalla (por ejemplo, en Home) con datos del Context.
+     - [x] Revisar el componente `SearchBar` para asegurarse de que maneje el estado del texto.
+     - [x] Crear la función `filterHymns(query)` en el Context o en un helper, que filtre los metadatos según el texto ingresado.
+     - [x] Conectar el evento `onChangeText` del Search Bar para actualizar el filtro.
+     - [x] Mostrar visualmente un mensaje o indicador si no se encuentran himnos.
+     - [x] Probar el comportamiento en pantalla (por ejemplo, en Home) con datos del Context.
 
 3. **Ticket 2.3: Integrar el Context en las Pantallas Existentes**
    - **Descripción:** Adaptar las pantallas Home, Categoría (Index) y Hymn para que usen los datos del Context.
    - **Subtareas:**
-     - [ ] En la Home Screen:  
+     - [x] En la Home Screen:  
        - Conectar al Context para mostrar la lista de categorías y los himnos recientemente vistos.
        - Integrar el Search Bar en la parte superior.
-     - [ ] En la Index Screen (por categoría):  
+     - [x] En la Index Screen (por categoría):  
        - Filtrar los himnos del Context según la categoría seleccionada.
        - Renderizar la lista filtrada usando componentes como `CardHymn` o `ListCard`.
-     - [ ] En la Hymn Screen (detalle):  
+     - [x] En la Hymn Screen (detalle):  
        - Recibir el id o metadato del himno vía navegación.
        - Invocar `getHimnoById(id)` para cargar los detalles completos de forma “on demand”.
-     - [ ] Probar la navegación y la actualización del estado "recentlyViewed" al acceder a un himno.
+     - [x] Probar la navegación y la actualización del estado "recentlyViewed" al acceder a un himno.
 
 4. **Ticket 2.4: Pruebas de Integración del Context y Search**
    - **Descripción:** Validar que la integración del Context y el Search Bar funcione en todas las pantallas.
    - **Subtareas:**
-     - [ ] Verificar que al escribir en el Search Bar se actualice la lista mostrada en Home/Index.
-     - [ ] Confirmar que los datos de categorías y metadatos se compartan correctamente en todas las vistas.
-     - [ ] Documentar cualquier ajuste o bug encontrado durante las pruebas.
+     - [x] Verificar que al escribir en el Search Bar se actualice la lista mostrada en Home/Index.
+     - [x] Confirmar que los datos de categorías y metadatos se compartan correctamente en todas las vistas.
+     - [x] Documentar cualquier ajuste o bug encontrado durante las pruebas.
 
 ---
 
