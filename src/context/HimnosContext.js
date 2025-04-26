@@ -1,12 +1,12 @@
-import { createContext, useEffect, useState } from "react";
-import { getAllHymnsMetadata } from "../db/databaseService"
+import { createContext, useEffect, useMemo, useState } from "react";
+import { getAllHymnsMetadata } from "../db/databaseService";
+import { getCategories } from "../utils/getCategories"
 
 export const HimnosContext = createContext();
 
 export const HimnosProvider = ({ children }) => {
   const [metaHimnos, setMetaHimnos] = useState(null);
-
-  const [recentlyViewed, setRecentlyViewed] = useState([])
+  const [recentlyViewed, setRecentlyViewed] = useState([]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -14,21 +14,27 @@ export const HimnosProvider = ({ children }) => {
         const metadata = await getAllHymnsMetadata();
         setMetaHimnos(metadata);
       } catch (error) {
-        console.log("error al cargar metadata al context:" , error)
+        console.error("Error al cargar metadata al context:", error);
       }
-    }
-    fetchData()
+    };
+
+    fetchData();
   }, []);
 
-  useEffect(() => {
-    if(metaHimnos){
-      console.log(metaHimnos[0])
-      console.log("Si, eran las metadatas xd")
-    }
-  }, [metaHimnos])
+  const categorizedData = useMemo(() => {
+    return metaHimnos ? getCategories(metaHimnos) : [];
+  }, [metaHimnos]);
 
   return (
-    <HimnosContext.Provider value={{ metaHimnos, setMetaHimnos }}>
+    <HimnosContext.Provider
+      value={{
+        metaHimnos,
+        setMetaHimnos,
+        recentlyViewed,
+        setRecentlyViewed,
+        categorizedData
+      }}
+    >
       {children}
     </HimnosContext.Provider>
   );
