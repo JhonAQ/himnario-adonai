@@ -36,9 +36,9 @@ const insertCategory = db.prepare(`
 `);
 
 const insertSong = db.prepare(`
-  INSERT INTO songs (number, songbook, title, author, note, verses_count, lyrics, publisher)
+  INSERT INTO songs (number, songbook, title, author, note, verses_count, verses, publisher)
   VALUES (@number, @songbook, @title, @author,
-          @note, @verses_count, @lyrics, @publisher)
+          @note, @verses_count, @verses, @publisher)
 `);
 
 const insertSongCategory = db.prepare(`
@@ -63,7 +63,7 @@ files.forEach((filename, index) => {
     const songbook = hymn.properties.songBooks[0]?.name || "Desconocido";
     const publisher = hymn.properties.publisher || "Editorial Siembra";
     const verses_count = hymn.verses.length;
-    const lyrics = JSON.stringify(hymn.verses);
+    const verses = JSON.stringify(hymn.verses);
 
     const categoryNames = hymn.properties.themes?.map((t) => t.value) || [
       "Sin categoría",
@@ -82,7 +82,7 @@ files.forEach((filename, index) => {
       author,
       note,
       verses_count,
-      lyrics,
+      verses,
       publisher,
     });
 

@@ -1,12 +1,15 @@
 import {ScrollView, View, Text, TextInput } from 'react-native';
 import SearchBar from '../components/SearchBar';
 import Section from '../components/Section';
+import { HimnosContext } from '../context/HimnosContext';
 import CardHymn from '../components/CardHymn';
 import ListCard from '../components/ListCard';
 import { useTabBar } from '../context/TabBarContext';
 import { useFocusEffect } from '@react-navigation/native';
+import { useContext } from 'react';
 import { useEffect } from 'react';
 import { test, getAllHymnsMetadata,getHymnById } from '../db/databaseService';
+import Himno from '../utils/CantoATi';
 
 // formato data hymn
 const recentlyViewed = [
@@ -30,18 +33,19 @@ const recentlyViewed = [
 
 const Home = () => {
   const {setHideBar} = useTabBar();
+  const {categorizedData} = useContext(HimnosContext)
 
-  useEffect(() => {
-    const fetchData = async () => {
-      console.log("antes")
-      const result = await getHymnById(1);
-      console.log("By id:")
-      console.log(result.lyrics[0].lines[0].content[0].value);
-    };
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     console.log("antes")
+  //     const result = await getHymnById(1);
+  //     console.log("By id:")
+  //     console.log(result.verses[0].lines[0].content[0].value);
+  //   };
 
-    fetchData();
-  }, []);
-
+  //   // fetchData();
+  //   console.log(categorizedData[4])
+  // }, []);
 
   useFocusEffect(() => {
     setHideBar(false);
@@ -62,16 +66,15 @@ const Home = () => {
           <CardHymn dataHymn={recentlyViewed[1]}/>
         </Section>
         <Section className="mt-5" title="Categorías">
-          <ListCard dataCategory={{
-            category: "Canciones de adoración",
-            hymns: 50, 
-            favorites: 4
-          }}/>
-          <ListCard dataCategory={{
-            category: "Coritos",
-            hymns: 80, 
-            favorites: 0
-          }}/>
+          {
+            categorizedData.map(cat =>
+              <ListCard key={cat.title} dataCategory={{
+                category: cat.title,
+                hymns: cat.cantidad, 
+                ids: cat.ids
+              }}/>
+            )
+          }
         </Section>
       </ScrollView>
     </View>
