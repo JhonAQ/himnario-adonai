@@ -41,7 +41,7 @@ const Index = ({index = false}) => {
 
   return (
     <View className='w-full h-full flex-col justify-start bg-UIbase'>
-      <View className='header w-full mt-4 pt-10 px-8 '>
+      <View className='header w-full mt-4 py-3 pt-10 px-8 '>
         <Title title={displayTitle} index={index}/>
         <SearchBar className={"mt-4"}/>
         <Text className='mt-4 font-josefin text-UIgray2 text-medium'>
@@ -60,7 +60,7 @@ const Index = ({index = false}) => {
           keyExtractor={item => item.id.toString()}
           numColumns={2}
           columnWrapperStyle={{ justifyContent: 'space-between' }}
-          contentContainerStyle={{ paddingHorizontal: 16, paddingTop: 20, paddingBottom: 30 }}
+          contentContainerStyle={{ paddingHorizontal: 16, paddingTop: 10, paddingBottom: 30, gap: 15 }}
           initialNumToRender={10}
           maxToRenderPerBatch={8}
           updateCellsBatchingPeriod={50}
