@@ -5,22 +5,6 @@ export const HimnosContext = createContext();
 
 export const HimnosProvider = ({ children }) => {
   const [metaHimnos, setMetaHimnos] = useState(null);
-  const categories = [
-    'Adoración y Alabanza',
-    'Espíritu Santo',
-    'Vida de Cristo',
-    'Iglesia y Comunidad',
-    'Arrepentimiento y Confesión',
-    'Esperanza y Segunda Venida',
-    'Bautismo y Santa Cena',
-    'Oración y Devoción Personal',
-    'Navidad y Pascua',
-    'Funerales y Consuelo',
-    'Niños y Escuela Dominical',
-    'Misión y Evangelismo',
-    'Consagración y Servicio',
-    'Coros'
-  ]
 
   const [recentlyViewed, setRecentlyViewed] = useState([])
 
@@ -36,16 +20,15 @@ export const HimnosProvider = ({ children }) => {
     fetchData()
   }, []);
 
-  // Prueba log de la carga de mtadata
-  // useEffect(() => {
-  //   if(metaHimnos){
-  //     console.log(metaHimnos[0])
-  //     console.log("Si, eran las metadatas xd")
-  //   }
-  // }, [metaHimnos])
+  useEffect(() => {
+    if(metaHimnos){
+      console.log(metaHimnos[0])
+      console.log("Si, eran las metadatas xd")
+    }
+  }, [metaHimnos])
 
   return (
-    <HimnosContext.Provider value={{ metaHimnos, setMetaHimnos, categories }}>
+    <HimnosContext.Provider value={{ metaHimnos, setMetaHimnos }}>
       {children}
     </HimnosContext.Provider>
   );
