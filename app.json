@@ -37,8 +37,9 @@
         "projectId": "5650ead3-2854-40ac-984d-764233e0f8c2"
       }
     },
-    "assets": [
-      "./assets/database/himnario.db"
+    "assetBundlePatterns": [
+      "assets/**/*",
+      "assets/database/*"
     ]
   }
 }
