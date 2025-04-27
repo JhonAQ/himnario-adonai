@@ -1,5 +1,4 @@
-import { StyleSheet, Text, View, Alert } from "react-native";
-import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import { StyleSheet, Text, View } from "react-native";
 import "./global.css";
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
@@ -8,14 +7,11 @@ import { NavigationContainer } from "@react-navigation/native";
 import MyTabs from "./src/navigation/MyTabs";
 import { TabBarProvider } from "./src/context/TabBarContext";
 import { Platform } from "react-native";
-import { setupDatabase } from "./src/db/setupDatabase";
-import { test } from "./src/db/databaseService"; // Añadir esta importación
 import { HimnosProvider } from "./src/context/HimnosContext";
+import { DatabaseProvider } from "./src/context/DatabaseProvider";
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
-
-const Tab = createBottomTabNavigator();
 
 export default function App() {
   const [loadedFonts] = useFonts({
@@ -27,54 +23,31 @@ export default function App() {
     "JosefinSans-SemiBold": require("./assets/fonts/JosefinSans-SemiBold.ttf"),
   });
 
-  const [dbReady, setDbReady] = useState(false);
+  const [appReady, setAppReady] = useState(false);
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    // En la función prepareApp() de App.js
     async function prepareApp() {
       try {
         console.log("🔧 Iniciando carga de la app...");
     
         if (loadedFonts) {
-          if (Platform.OS !== "web") {
-            console.log("📦 Copiando/cargando base de datos...");
-            try {
-              // Primero inicializa la base de datos
-              await setupDatabase();
-              
-              // Luego espera un pequeño intervalo para asegurar que todo esté listo
-              await new Promise(resolve => setTimeout(resolve, 100));
-              
-              // Ahora prueba la base de datos
-              const testResult = await test();
-              console.log("📊 Resultado de prueba de base de datos:", testResult);
-              
-              if (!testResult.status) {
-                throw new Error("La prueba de base de datos falló");
-              }
-            } catch (dbError) {
-              console.error("Error de base de datos:", dbError);
-              setError("No se pudo cargar la base de datos de himnos. Por favor reinstale la aplicación.");
-            }
-          }
-    
-          console.log("✅ Fuentes y BD listas. Ocultando splash...");
+          console.log("✅ Fuentes cargadas correctamente");
           await SplashScreen.hideAsync();
-          setDbReady(true);
+          setAppReady(true);
         }
       } catch (err) {
         console.error("❌ Error durante carga inicial:", err);
-        await SplashScreen.hideAsync();
         setError("Ocurrió un error al iniciar la aplicación");
-        setDbReady(true);
+        await SplashScreen.hideAsync();
+        setAppReady(true);
       }
     }
 
     prepareApp();
   }, [loadedFonts]);
 
-  if (!loadedFonts || !dbReady) {
+  if (!loadedFonts || !appReady) {
     return null;
   }
 
@@ -88,12 +61,7 @@ export default function App() {
   }
 
   return (
-    <View
-      className={
-        "h-full " +
-        (Platform.OS === "web" ? "w-full max-w-[400px] mx-auto" : "w-full")
-      }
-    >
+    <DatabaseProvider>
       <HimnosProvider>
         <TabBarProvider>
           <NavigationContainer>
@@ -101,7 +69,7 @@ export default function App() {
           </NavigationContainer>
         </TabBarProvider>
       </HimnosProvider>
-    </View>
+    </DatabaseProvider>
   );
 }
 

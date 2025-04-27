@@ -1,48 +1,22 @@
-import * as SQLite from "expo-sqlite";
-import { setupDatabase } from "./setupDatabase";
+import { useSQLiteContext } from "expo-sqlite";
 
-const initDatabase = async () => {
-  return await setupDatabase();
-};
+// Este hook permite acceder a la base de datos desde cualquier componente
+export function useDatabase() {
+  return useSQLiteContext();
+}
 
-const test = async () => {
-  try {
-    const database = await initDatabase();
-    try {
-      const isLoadedTest = await database.getFirstAsync("SELECT * FROM songs");
-      if (isLoadedTest) {
-        return { status: true };
-      } else {
-        return { status: false };
-      }
-    } catch (error) {
-      console.error("Error en la consulta SQL:", error);
-
-      const tables = await database.getAllAsync(
-        "SELECT name FROM sqlite_master WHERE type='table';"
-      );
-      console.log("Tablas disponibles en la base de datos:", tables);
-      return { status: false };
-    }
-  } catch (dbError) {
-    console.error("Error al inicializar la base de datos:", dbError);
-    return { status: false };
-  }
-};
-
-const getAllHymnsMetadata = async () => {
-  console.time('getAllHymnsMetadata'); // Para medir el tiempo de ejecución
-  const database = await initDatabase();
+export const getAllHymnsMetadata = async (db) => {
+  console.time('getAllHymnsMetadata');
 
   try {
-    const songs = await database.getAllAsync(`
+    const songs = await db.getAllAsync(`
       SELECT 
         id, title, number, songbook, note, verses_count, publisher
       FROM songs
       ORDER BY number
     `);
 
-    const categories = await database.getAllAsync(`
+    const categories = await db.getAllAsync(`
       SELECT 
         sc.song_id, 
         c.name as category_name
@@ -71,11 +45,9 @@ const getAllHymnsMetadata = async () => {
   }
 };
 
-const getHymnById = async (id) => {
-  const database = await initDatabase();
-
+export const getHymnById = async (db, id) => {
   console.log("ID:", id);
-  const song = await database.getFirstAsync(
+  const song = await db.getFirstAsync(
     `
     SELECT 
       songs.id,
@@ -107,9 +79,7 @@ const getHymnById = async (id) => {
   };
 };
 
-
-const searchHymnContent = async (query) => {
-  const database = await initDatabase();
+export const searchHymnContent = async (db, query) => {
   console.log(`Buscando "${query}" en contenido de himnos`);
   
   try {
@@ -120,36 +90,30 @@ const searchHymnContent = async (query) => {
       LIMIT 20
     `;
     
-    const results = await database.getAllAsync(searchQuery, [`%${query}%`]);
+    const results = await db.getAllAsync(searchQuery, [`%${query}%`]);
     return results.map(r => r.id);
   } catch (error) {
     console.error('Error al buscar en contenido:', error);
-    
-    try {
-      console.log('Intentando búsqueda en memoria...');
-      const allSongs = await getAllHymnsMetadata();
-      
-      const results = [];
-      for (const song of allSongs.slice(0, 60)) {
-        try {
-          const fullHymn = await getHymnById(song.id);
-          if (fullHymn && fullHymn.verses) {
-            // Convertir a texto plano para búsqueda simple
-            const versesText = JSON.stringify(fullHymn.verses);
-            if (versesText.toLowerCase().includes(query.toLowerCase())) {
-              results.push(song.id);
-            }
-          }
-        } catch (hymn_error) {
-          console.log(`Error al procesar himno ${song.id}`, hymn_error);
-        }
-      }
-      return results;
-    } catch (backupError) {
-      console.error('Error en búsqueda de respaldo:', backupError);
-      return [];
-    }
+    return [];
   }
 };
 
-export { initDatabase, test, getAllHymnsMetadata, getHymnById, searchHymnContent };
+// Función de prueba
+export const test = async (db) => {
+  try {
+    const isLoadedTest = await db.getFirstAsync("SELECT * FROM songs");
+    if (isLoadedTest) {
+      return { status: true };
+    } else {
+      return { status: false };
+    }
+  } catch (error) {
+    console.error("Error en la consulta SQL:", error);
+
+    const tables = await db.getAllAsync(
+      "SELECT name FROM sqlite_master WHERE type='table';"
+    );
+    console.log("Tablas disponibles en la base de datos:", tables);
+    return { status: false };
+  }
+};

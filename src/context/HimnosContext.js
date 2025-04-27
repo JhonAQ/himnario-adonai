@@ -1,11 +1,13 @@
 import { createContext, useEffect, useMemo, useState } from "react";
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { useDatabase } from "../db/databaseService";
 import { getAllHymnsMetadata, getHymnById, searchHymnContent } from "../db/databaseService";
-import { getCategories } from "../utils/getCategories"
+import { getCategories } from "../utils/getCategories";
 
 export const HimnosContext = createContext();
 
 export const HimnosProvider = ({ children }) => {
+  const db = useDatabase();
   const [metaHimnos, setMetaHimnos] = useState(null);
   const [recentlyID, setRecentlyID] = useState(["1", "2"]);
   const [isLoading, setIsLoading] = useState(true);
@@ -40,7 +42,7 @@ export const HimnosProvider = ({ children }) => {
       results = [...new Set([...results, ...titleResults])];
       
       if (results.length < 5) {
-        const contentResults = await searchHymnContent(cleanQuery);
+        const contentResults = await searchHymnContent(db, cleanQuery);
         
         const contentHymns = contentResults.map(id => {
           return metaHimnos.find(h => h.id.toString() === id.toString());
@@ -77,7 +79,6 @@ export const HimnosProvider = ({ children }) => {
     }
   };
 
-
   const CACHE_KEY = 'himnosMetadata';
   const CACHE_EXPIRY = 24 * 60 * 60 * 1000; // 24 horas
 
@@ -99,7 +100,7 @@ export const HimnosProvider = ({ children }) => {
         }
         
         console.log('Cargando datos frescos');
-        const metadata = await getAllHymnsMetadata();
+        const metadata = await getAllHymnsMetadata(db);
         setMetaHimnos(metadata);
         
         await AsyncStorage.setItem(CACHE_KEY, JSON.stringify({
@@ -113,8 +114,10 @@ export const HimnosProvider = ({ children }) => {
       }
     };
 
-    fetchData();
-  }, []);
+    if (db) {
+      fetchData();
+    }
+  }, [db]);
     
   const getHymnsByIds = (ids) => {
     if (!metaHimnos || !ids) return [];
@@ -154,6 +157,17 @@ export const HimnosProvider = ({ children }) => {
     return metaHimnos[index];
   };
 
+  // Actualizar función para obtener un himno específico
+  const fetchHymnById = async (id) => {
+    if (!db) return null;
+    try {
+      return await getHymnById(db, id);
+    } catch (error) {
+      console.error("Error fetching hymn by id:", error);
+      return null;
+    }
+  };
+
   return (
     <HimnosContext.Provider
       value={{
@@ -171,7 +185,8 @@ export const HimnosProvider = ({ children }) => {
         searchHymns,
         searchResults,
         isSearching,
-        getHymnOfTheDay
+        getHymnOfTheDay,
+        fetchHymnById
       }}
     >
       {children}

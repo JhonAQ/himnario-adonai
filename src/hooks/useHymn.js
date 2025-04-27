@@ -1,27 +1,41 @@
-import { useState, useEffect } from 'react';
-import { getHymnById } from '../db/databaseService';
+import { useState, useEffect, useContext } from 'react';
+import { HimnosContext } from '../context/HimnosContext';
 
-export const useHymn = (id) => {
+export function useHymn(id) {
   const [hymn, setHymn] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
+  const { fetchHymnById } = useContext(HimnosContext);
 
   useEffect(() => {
-    const fetchHymn = async () => {
+    let isMounted = true;
+
+    const loadHymn = async () => {
       try {
         setLoading(true);
-        const hymnData = await getHymnById(id);
-        setHymn(hymnData);
+        setError(null);
+        
+        const hymnData = await fetchHymnById(id);
+        
+        if (isMounted) {
+          setHymn(hymnData);
+          setLoading(false);
+        }
       } catch (err) {
-        console.error('Error al cargar el himno:', err);
-        setError(err);
-      } finally {
-        setLoading(false);
+        console.error('Error loading hymn:', err);
+        if (isMounted) {
+          setError(err);
+          setLoading(false);
+        }
       }
     };
 
-    fetchHymn();
-  }, [id]);
+    loadHymn();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [id, fetchHymnById]);
 
   return { hymn, loading, error };
-};
+}

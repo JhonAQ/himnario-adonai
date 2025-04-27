@@ -28,7 +28,12 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-sqlite",
+      [
+        "expo-sqlite",
+        {
+          "enableFTS": true
+        }
+      ],
       "expo-asset"
     ],
     "githubUrl": "https://github.com/JhonAQ/himnario-adonai",
