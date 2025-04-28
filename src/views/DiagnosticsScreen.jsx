@@ -7,7 +7,7 @@ import { useDatabase } from '../db/databaseService';
 import { HimnosContext } from '../context/HimnosContext';
 import * as FileSystem from 'expo-file-system';
 
-// Componentes de diagnóstico
+// Componentes diagnóstico
 import DiagnosticsHeader from '../components/diagnostics/DiagnosticsHeader';
 import DiagnosticsControls from '../components/diagnostics/DiagnosticsControls';
 import DiagnosticsCategoryFilter from '../components/diagnostics/DiagnosticsCategoryFilter';
@@ -26,6 +26,7 @@ const DiagnosticsScreen = () => {
   const [modalVisible, setModalVisible] = useState(false);
   const db = useDatabase();
   const { metaHimnos } = useContext(HimnosContext);
+  const himnosContextValue = useContext(HimnosContext)
   
   // Obtener categorías de diagnóstico desde el servicio
   const diagnosticCategories = DiagnosticsService.getDiagnosticCategories();
@@ -60,6 +61,15 @@ const DiagnosticsScreen = () => {
       case 'filesystem':
         adaptedAction = async () => {
           await runDiagnosticWrapper(() => DiagnosticsService.runFileSystemDiagnostics(), 'FileSystem');
+        };
+        break;
+      case 'uidataflow':
+        adaptedAction = async () => {
+          // Aquí pasamos también el valor completo del contexto
+          await runDiagnosticWrapper(
+            () => DiagnosticsService.runUIDataFlowDiagnostics(db, metaHimnos, himnosContextValue), 
+            'UIDataFlow'
+          );
         };
         break;
       case 'all':

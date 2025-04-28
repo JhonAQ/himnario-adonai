@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { useDatabase } from '../../../db/databaseService';
 import { loadHymnsMetadata, reloadData } from '../services/dataService';
 import LoggerService from '../../../services/LoggerService';
+import {setLoadError} from '../../../context/HimnosContext/HimnosProvider'
 
 /**
  * Hook para gestionar los datos de himnos
@@ -20,8 +21,11 @@ export function useHimnosData() {
         setIsLoading(true);
         const data = await loadHymnsMetadata(db);
         setMetaHimnos(data);
+        if (setLoadError) setLoadError(null);
+
       } catch (error) {
         await LoggerService.error('HimnosData', 'Error al cargar datos', error);
+        if (setLoadError) setLoadError(error);
       } finally {
         setIsLoading(false);
       }

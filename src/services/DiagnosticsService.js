@@ -181,12 +181,164 @@ class DiagnosticsService {
     }
   }
   
+    /**
+   * Realiza un diagnóstico del flujo de datos a la UI
+   * Este diagnóstico rastrea el camino de los datos desde la carga hasta el renderizado
+   */
+  static async runUIDataFlowDiagnostics(db, metaHimnos, contextValue = null) {
+    await LoggerService.info('UI', '🔬 Iniciando diagnóstico de flujo de datos a la UI');
+    
+    // Limpiar logs relevantes
+    await LoggerService.clearCategoryLogs(['UIDataFlow']);
+    
+    try {
+      // 1. Verificar los datos de origen (Base de Datos)
+      await LoggerService.debug('UIDataFlow', '📊 Verificando origen de datos');
+      
+      if (!db) {
+        await LoggerService.error('UIDataFlow', '❌ Base de datos no disponible');
+        return false;
+      }
+      
+      // 2. Verificar los datos cargados en memoria (metaHimnos)
+      await LoggerService.debug('UIDataFlow', '📋 Verificando datos cargados en memoria');
+      
+      if (!metaHimnos) {
+        await LoggerService.error('UIDataFlow', '❌ Variable metaHimnos no disponible');
+        return false;
+      } else if (!Array.isArray(metaHimnos)) {
+        await LoggerService.error('UIDataFlow', `❌ metaHimnos no es un array: ${typeof metaHimnos}`);
+        return false;
+      } else if (metaHimnos.length === 0) {
+        await LoggerService.error('UIDataFlow', '❌ metaHimnos es un array vacío');
+        return false;
+      }
+      
+      await LoggerService.success('UIDataFlow', `✅ metaHimnos contiene ${metaHimnos.length} elementos`);
+      
+      // 3. Examinar un elemento para verificar estructura
+      const sampleHymn = metaHimnos[0];
+      await LoggerService.debug('UIDataFlow', '🔍 Muestra de datos:', 
+        `ID: ${sampleHymn.id}, Título: ${sampleHymn.title}, Número: ${sampleHymn.number}`);
+      
+      // 4. Verificar las propiedades críticas que se usan en los componentes UI
+      const requiredProps = ['id', 'title', 'number', 'categories'];
+      const missingProps = requiredProps.filter(prop => !sampleHymn.hasOwnProperty(prop));
+      
+      if (missingProps.length > 0) {
+        await LoggerService.error('UIDataFlow', `❌ Faltan propiedades requeridas: ${missingProps.join(', ')}`);
+      } else {
+        await LoggerService.success('UIDataFlow', '✅ Estructura de datos correcta para UI');
+      }
+      
+      // 5. Verificar si las categorías se procesan correctamente
+      await LoggerService.debug('UIDataFlow', '📑 Verificando procesamiento de categorías');
+      try {
+        const categoriesMap = new Map();
+        
+        metaHimnos.forEach(hymn => {
+          if (Array.isArray(hymn.categories)) {
+            hymn.categories.forEach(cat => {
+              categoriesMap.set(cat, (categoriesMap.get(cat) || 0) + 1);
+            });
+          }
+        });
+        
+        const categoriesCount = categoriesMap.size;
+        if (categoriesCount === 0) {
+          await LoggerService.warning('UIDataFlow', '⚠️ No se encontraron categorías');
+        } else {
+          await LoggerService.success('UIDataFlow', `✅ Se encontraron ${categoriesCount} categorías diferentes`);
+          
+          // Muestra las primeras 5 categorías y su conteo
+          const topCategories = Array.from(categoriesMap.entries())
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 5);
+            
+          await LoggerService.debug('UIDataFlow', '📊 Top 5 categorías:', 
+            topCategories.map(([cat, count]) => `${cat}: ${count}`).join(', '));
+        }
+      } catch (error) {
+        await LoggerService.error('UIDataFlow', '❌ Error al procesar categorías', error);
+      }
+      
+      // 6. Si se proporciona el contexto, verificar su contenido
+      if (contextValue) {
+        await LoggerService.debug('UIDataFlow', '🔄 Verificando estado del contexto HimnosContext');
+        
+        // Verificar propiedades clave del contexto
+        const contextKeys = ['metaHimnos', 'categorizedData', 'isLoading', 'searchQuery'];
+        const contextStatus = {};
+        
+        contextKeys.forEach(key => {
+          if (contextValue.hasOwnProperty(key)) {
+            if (key === 'metaHimnos') {
+              contextStatus[key] = Array.isArray(contextValue[key]) ? 
+                `Array(${contextValue[key].length})` : 
+                String(contextValue[key]);
+            } else if (key === 'categorizedData') {
+              contextStatus[key] = Array.isArray(contextValue[key]) ? 
+                `Array(${contextValue[key].length})` : 
+                String(contextValue[key]);
+            } else {
+              contextStatus[key] = String(contextValue[key]);
+            }
+          } else {
+            contextStatus[key] = 'MISSING';
+          }
+        });
+        
+        await LoggerService.debug('UIDataFlow', '🔄 Estado del contexto:', JSON.stringify(contextStatus, null, 2));
+        
+        // Verificar datos categorizados
+        if (contextValue.categorizedData) {
+          if (Array.isArray(contextValue.categorizedData) && contextValue.categorizedData.length > 0) {
+            await LoggerService.success('UIDataFlow', `✅ categorizedData contiene ${contextValue.categorizedData.length} categorías`);
+          } else {
+            await LoggerService.error('UIDataFlow', '❌ categorizedData está vacío o no es un array');
+          }
+        } else {
+          await LoggerService.error('UIDataFlow', '❌ categorizedData no está disponible en el contexto');
+        }
+      }
+      
+      // 7. Verificar el estado de caché para ver si está interfiriendo
+      try {
+        const AsyncStorage = require('@react-native-async-storage/async-storage').default;
+        const cachedData = await AsyncStorage.getItem('himnosMetadata');
+        
+        if (cachedData) {
+          const parsed = JSON.parse(cachedData);
+          if (parsed && parsed.data) {
+            await LoggerService.debug('UIDataFlow', `📦 Datos en caché: ${parsed.data.length} himnos, timestamp: ${new Date(parsed.timestamp).toLocaleString()}`);
+            
+            // Comparar con los datos actuales
+            if (metaHimnos.length !== parsed.data.length) {
+              await LoggerService.warning('UIDataFlow', `⚠️ Discrepancia: ${metaHimnos.length} himnos en memoria vs ${parsed.data.length} en caché`);
+            }
+          }
+        } else {
+          await LoggerService.debug('UIDataFlow', '📦 No hay datos en caché');
+        }
+      } catch (error) {
+        await LoggerService.error('UIDataFlow', '❌ Error al verificar caché', error);
+      }
+      
+      await LoggerService.success('UI', '✅ Diagnóstico de flujo de datos a UI completado');
+      return true;
+    } catch (error) {
+      await LoggerService.error('UI', '❌ Error en diagnóstico de flujo de datos a UI', error);
+      return false;
+    }
+  }
+
+  
   /**
    * Realiza un diagnóstico del sistema de búsqueda
    */
   static async runSearchDiagnostics(db, metaHimnos) {
     await LoggerService.info('UI', '🔬 Iniciando diagnóstico de búsqueda');
-    
+
     // Limpiar logs relevantes
     await LoggerService.clearCategoryLogs(['Search']);
     
@@ -335,7 +487,8 @@ class DiagnosticsService {
       { id: 'RecentHymns', name: 'Himnos recientes', icon: 'time' },
       { id: 'UI', name: 'Interfaz de usuario', icon: 'phone-portrait' },
       { id: 'FileSystem', name: 'Sistema de archivos', icon: 'folder' },
-      { id: 'Diagnostics', name: 'Diagnóstico', icon: 'analytics' }
+      { id: 'Diagnostics', name: 'Diagnóstico', icon: 'analytics' },
+      { id: 'UIDataFlow', name: 'Flujo de datos UI', icon: 'code' },
     ];
   }
   
@@ -379,6 +532,14 @@ class DiagnosticsService {
         icon: 'folder',
         action: this.runFileSystemDiagnostics
       },
+      { 
+        id: 'uidataflow', 
+        title: 'Diagnóstico de Flujo a UI', 
+        description: 'Verifica el camino de datos desde BD hasta componentes',
+        icon: 'code',
+        action: this.runUIDataFlowDiagnostics
+      },
+
       { 
         id: 'all', 
         title: 'Diagnóstico Completo', 
