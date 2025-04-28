@@ -3,7 +3,7 @@
     "name": "Himnario Adonai",
     "description": "Himnario Oficial para las reuniones del grupo Adonai",
     "slug": "himnario-adonai",
-    "version": "1.20.0",
+    "version": "1.30.0",
     "orientation": "portrait",
     "icon": "./assets/images/adonai-icon.png",
     "userInterfaceStyle": "light",
