@@ -136,10 +136,30 @@ class LoggerService {
     return this.info('App', 'Logs eliminados');
   }
 
+  
+  /**
+   * Elimina los logs de categorías específicas
+   */
+  static async clearCategoryLogs(categories) {
+    if (!Array.isArray(categories) || categories.length === 0) {
+      return false;
+    }
+  
+    try {
+      const categorySet = new Set(categories);
+      this.logs = this.logs.filter(log => !categorySet.has(log.category));
+      await this._saveLogs();
+      await this.info('App', `Logs de categorías (${categories.join(', ')}) eliminados`);
+      return true;
+    } catch (error) {
+      console.error('Error eliminando logs por categoría:', error);
+      return false;
+    }
+  }
+
   static async getLogs() {
     return this.logs;
   }
-// Añadir esta función al final de la clase LoggerService
 
   static async exportLogs() {
     try {
