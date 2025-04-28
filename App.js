@@ -9,6 +9,7 @@ import { TabBarProvider } from "./src/context/TabBarContext";
 import { Platform } from "react-native";
 import { HimnosProvider } from "./src/context/HimnosContext";
 import { DatabaseProvider } from "./src/context/DatabaseProvider";
+import LoggerService from "./src/services/LoggerService";
 
 Text.defaultProps = Text.defaultProps || {};
 Text.defaultProps.style = { fontFamily: "JosefinSans-Regular" };
@@ -29,15 +30,18 @@ export default function App() {
   useEffect(() => {
     async function prepareApp() {
       try {
-        console.log("🔧 Iniciando carga de la app...");
+        await LoggerService.initialize();
+        await LoggerService.info('App', '🔧 Iniciando carga de la app...');
+        await LoggerService.debug('App', `Plataforma: ${Platform.OS}, Modo desarrollo: ${__DEV__}`);
     
         if (loadedFonts) {
-          console.log("✅ Fuentes cargadas correctamente");
+          await LoggerService.success('App', "✅ Fuentes cargadas correctamente");
           await SplashScreen.hideAsync();
           setAppReady(true);
         }
       } catch (err) {
         console.error("❌ Error durante carga inicial:", err);
+        await LoggerService.error('App', "Error durante carga inicial", err);
         setError("Ocurrió un error al iniciar la aplicación");
         await SplashScreen.hideAsync();
         setAppReady(true);

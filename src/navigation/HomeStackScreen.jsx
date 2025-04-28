@@ -18,5 +18,5 @@ export default function HomeStackScreen() {
       <HomeStack.Screen name="RecentHymns" component={RecentHymns} />
       <HomeStack.Screen name="AllCategories" component={AllCategories} />
     </HomeStack.Navigator>
-  )
+  );
 }
