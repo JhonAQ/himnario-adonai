@@ -175,6 +175,59 @@ class LoggerService {
       return `Error al exportar logs: ${error.message}`;
     }
   }
+
+
+/**
+ * Exporta los logs a un archivo y devuelve la ruta
+ * @param {string} format - Formato de exportación ('txt' o 'json')
+ * @returns {Promise<string>} - Ruta del archivo creado
+ */
+static async exportLogsToFile(format = 'txt') {
+  try {
+    await this.info('App', `Exportando logs en formato ${format}`);
+    const logs = await this.getLogs();
+    let content = '';
+    let filename = '';
+    
+    // Generar nombre de archivo con fecha y hora
+    const date = new Date();
+    const dateStr = `${date.getFullYear()}-${(date.getMonth() + 1).toString().padStart(2, '0')}-${date.getDate().toString().padStart(2, '0')}`;
+    const timeStr = `${date.getHours().toString().padStart(2, '0')}-${date.getMinutes().toString().padStart(2, '0')}`;
+    
+    // Agregar BOM (Byte Order Mark) para UTF-8
+    const BOM = '\ufeff';
+    
+    if (format === 'json') {
+      // Formato JSON para análisis programático
+      content = BOM + JSON.stringify(logs, null, 2);
+      filename = `himnario-logs_${dateStr}_${timeStr}.json`;
+    } else {
+      // Formato texto para lectura humana
+      content = BOM + logs.map(log => {
+        const timestamp = new Date(log.timestamp).toLocaleString();
+        return `[${timestamp}] ${log.level} [${log.category}] ${log.message}\n${log.details ? `Detalles: ${log.details}\n` : ''}`;
+      }).join('\n');
+      filename = `himnario-logs_${dateStr}_${timeStr}.txt`;
+    }
+    
+    // Guardar el contenido en un archivo con opciones de codificación
+    const FileSystem = require('expo-file-system');
+    const fileUri = `${FileSystem.documentDirectory}${filename}`;
+    
+    await FileSystem.writeAsStringAsync(fileUri, content, {
+      encoding: FileSystem.EncodingType.UTF8
+    });
+    
+    await this.success('App', `Logs exportados a: ${fileUri}`);
+    
+    return { fileUri, filename };
+  } catch (error) {
+    await this.error('App', 'Error exportando logs a archivo', error);
+    throw error;
+  }
+}
+
+
 }
 
 export default LoggerService;

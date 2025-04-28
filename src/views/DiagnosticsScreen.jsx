@@ -7,6 +7,8 @@ import { useDatabase } from '../db/databaseService';
 import { HimnosContext } from '../context/HimnosContext';
 import * as FileSystem from 'expo-file-system';
 
+import ExportLogsButton from '../components/diagnostics/ExportLogsButton';
+
 // Componentes diagnóstico
 import DiagnosticsHeader from '../components/diagnostics/DiagnosticsHeader';
 import DiagnosticsControls from '../components/diagnostics/DiagnosticsControls';
@@ -196,6 +198,13 @@ const DiagnosticsScreen = () => {
         setModalVisible={setModalVisible} 
         onLogsCleared={loadLogs} 
       />
+
+    <View style={styles.actionButtonsRow}>
+      <ExportLogsButton 
+        running={running} 
+        logs={logs} 
+      />
+    </View>
       
       <DiagnosticsCategoryFilter 
         categories={diagnosticCategories}
@@ -232,6 +241,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#f5f5f5',
     paddingTop: 50,
     paddingHorizontal: 16
+  },
+  actionButtonsRow: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    marginBottom: 16
   }
 });
 

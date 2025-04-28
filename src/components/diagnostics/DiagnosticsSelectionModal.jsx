@@ -1,5 +1,5 @@
 import React from 'react';
-import { Modal, View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { Modal, View, Text, TouchableOpacity, StyleSheet, ScrollView } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
 const DiagnosticsSelectionModal = ({ 
@@ -44,9 +44,14 @@ const DiagnosticsSelectionModal = ({
             Selecciona el tipo de diagnóstico a realizar
           </Text>
           
-          <View style={styles.diagnosticTypesList}>
+          {/* Reemplazamos el View con ScrollView para permitir desplazamiento */}
+          <ScrollView 
+            style={styles.scrollContainer}
+            contentContainerStyle={styles.diagnosticTypesList}
+            showsVerticalScrollIndicator={true}
+          >
             {diagnosticTypes.map(renderDiagnosticTypeCard)}
-          </View>
+          </ScrollView>
         </View>
       </View>
     </Modal>
@@ -93,8 +98,12 @@ const styles = StyleSheet.create({
     marginBottom: 16,
     fontFamily: 'JosefinSans-Regular'
   },
+  // Nuevo estilo para el contenedor de scroll
+  scrollContainer: {
+    maxHeight: '86%', // Ajusta esto según sea necesario
+  },
   diagnosticTypesList: {
-    marginBottom: 16,
+    paddingBottom: 16,
   },
   diagnosticTypeCard: {
     backgroundColor: '#f9f9f9',
