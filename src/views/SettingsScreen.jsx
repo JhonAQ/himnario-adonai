@@ -1,20 +1,25 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { 
   View, 
   Text, 
   StyleSheet, 
   TouchableOpacity, 
   ScrollView,
-  Linking
+  Linking,
+  Alert
 } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { Ionicons } from '@expo/vector-icons';
 import { useTabBar } from '../context/TabBarContext';
 import { useEffect } from 'react';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import LoggerService from '../services/LoggerService';
+import { HimnosContext } from '../context/HimnosContext';
 
 const SettingsScreen = () => {
   const navigation = useNavigation();
   const { setHideBar } = useTabBar();
+  const { reloadHimnos } = useContext(HimnosContext);
   
   useEffect(() => {
     setHideBar(false);
@@ -26,6 +31,45 @@ const SettingsScreen = () => {
 
   const handleOpenLink = (url) => {
     Linking.openURL(url).catch(err => console.error("Error al abrir el enlace:", err));
+  };
+
+  const resetCache = async () => {
+    Alert.alert(
+      "Limpiar caché de datos",
+      "¿Estás seguro que deseas resetear la caché? La aplicación volverá a cargar los datos desde la base de datos.",
+      [
+        { text: "Cancelar", style: "cancel" },
+        { 
+          text: "Limpiar", 
+          style: "destructive",
+          onPress: async () => {
+            try {
+              await LoggerService.info('Settings', 'Iniciando limpieza de caché de himnos');
+              await AsyncStorage.removeItem('@HimnosMetadata');
+              await LoggerService.success('Settings', 'Caché de himnos eliminada');
+              
+              if (reloadHimnos) {
+                await reloadHimnos();
+                await LoggerService.success('Settings', 'Datos de himnos recargados exitosamente');
+              }
+              
+              Alert.alert(
+                "Caché limpiada",
+                "Se ha limpiado la caché correctamente. Los datos se han recargado desde la base de datos.",
+                [{ text: "OK" }]
+              );
+            } catch (error) {
+              await LoggerService.error('Settings', 'Error al limpiar caché', error);
+              Alert.alert(
+                "Error",
+                "Ocurrió un error al limpiar la caché.",
+                [{ text: "OK" }]
+              );
+            }
+          }
+        }
+      ]
+    );
   };
 
   const renderSettingItem = (icon, title, onPress, description = null, rightIcon = "chevron-forward") => (
@@ -63,6 +107,13 @@ const SettingsScreen = () => {
           "Diagnóstico del sistema", 
           () => navigateTo("Diagnostics"),
           "Resolver problemas y verificar el estado de la aplicación"
+        )}
+        
+        {renderSettingItem(
+          "refresh-outline", 
+          "Resetear caché de himnos", 
+          resetCache,
+          "Recargar datos de himnos desde la base de datos"
         )}
         
         {renderSectionTitle("Apariencia")}

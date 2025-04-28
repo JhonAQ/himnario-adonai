@@ -1,4 +1,6 @@
 import { useSQLiteContext } from "expo-sqlite";
+import LoggerService from "../services/LoggerService"
+
 
 // Este hook permite acceder a la base de datos desde cualquier componente
 export function useDatabase() {
@@ -7,15 +9,19 @@ export function useDatabase() {
 
 export const getAllHymnsMetadata = async (db) => {
   console.time('getAllHymnsMetadata');
+  await LoggerService.debug('Database', 'Iniciando carga de metadatos de himnos');
 
   try {
+    await LoggerService.debug('Database', 'Consultando tabla songs');
     const songs = await db.getAllAsync(`
       SELECT 
         id, title, number, songbook, note, verses_count, publisher
       FROM songs
       ORDER BY number
     `);
+    await LoggerService.debug('Database', `Encontrados ${songs.length} himnos en la tabla songs`);
 
+    await LoggerService.debug('Database', 'Consultando categorías de himnos');
     const categories = await db.getAllAsync(`
       SELECT 
         sc.song_id, 
@@ -23,6 +29,7 @@ export const getAllHymnsMetadata = async (db) => {
       FROM song_categories sc
       JOIN categories c ON sc.category_id = c.id
     `);
+    await LoggerService.debug('Database', `Encontradas ${categories.length} asociaciones himno-categoría`);
 
     const songCategories = {};
     categories.forEach(cat => {
@@ -37,9 +44,11 @@ export const getAllHymnsMetadata = async (db) => {
       categories: songCategories[song.id] || []
     }));
 
+    await LoggerService.success('Database', `Metadatos de himnos preparados: ${result.length} himnos totales`);
     console.timeEnd('getAllHymnsMetadata');
     return result;
   } catch (error) {
+    await LoggerService.error('Database', 'Error al obtener metadatos de himnos', error);
     console.error('Error al obtener metadatos de himnos:', error);
     throw error;
   }
