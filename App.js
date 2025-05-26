@@ -31,17 +31,23 @@ export default function App() {
     async function prepareApp() {
       try {
         await LoggerService.initialize();
-        await LoggerService.info('App', '🔧 Iniciando carga de la app...');
-        await LoggerService.debug('App', `Plataforma: ${Platform.OS}, Modo desarrollo: ${__DEV__}`);
-    
+        await LoggerService.info("App", "🔧 Iniciando carga de la app...");
+        await LoggerService.debug(
+          "App",
+          `Plataforma: ${Platform.OS}, Modo desarrollo: ${__DEV__}`
+        );
+
         if (loadedFonts) {
-          await LoggerService.success('App', "✅ Fuentes cargadas correctamente");
+          await LoggerService.success(
+            "App",
+            "✅ Fuentes cargadas correctamente"
+          );
           await SplashScreen.hideAsync();
           setAppReady(true);
         }
       } catch (err) {
         console.error("❌ Error durante carga inicial:", err);
-        await LoggerService.error('App', "Error durante carga inicial", err);
+        await LoggerService.error("App", "Error durante carga inicial", err);
         setError("Ocurrió un error al iniciar la aplicación");
         await SplashScreen.hideAsync();
         setAppReady(true);
@@ -59,7 +65,9 @@ export default function App() {
     return (
       <View style={styles.errorContainer}>
         <Text style={styles.errorText}>{error}</Text>
-        <Text style={styles.errorSubtext}>Por favor reinstale la aplicación o contacte a soporte.</Text>
+        <Text style={styles.errorSubtext}>
+          Por favor reinstale la aplicación o contacte a soporte.
+        </Text>
       </View>
     );
   }
@@ -80,22 +88,22 @@ export default function App() {
 const styles = StyleSheet.create({
   errorContainer: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
     padding: 20,
-    backgroundColor: '#f7f7f7'
+    backgroundColor: "#f7f7f7",
   },
   errorText: {
-    fontFamily: 'JosefinSans-SemiBold',
+    fontFamily: "JosefinSans-SemiBold",
     fontSize: 18,
-    textAlign: 'center',
+    textAlign: "center",
     marginBottom: 10,
-    color: '#e63946'
+    color: "#e63946",
   },
   errorSubtext: {
-    fontFamily: 'JosefinSans-Regular',
+    fontFamily: "JosefinSans-Regular",
     fontSize: 14,
-    textAlign: 'center',
-    color: '#6c757d'
-  }
+    textAlign: "center",
+    color: "#6c757d",
+  },
 });

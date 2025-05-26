@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useDatabase } from '../../../db/databaseService';
+import { useDatabase } from '../../../context/DatabaseProvider';
 import { loadHymnsMetadata, reloadData } from '../services/dataService';
 import LoggerService from '../../../services/LoggerService';
 import {setLoadError} from '../../../context/HimnosContext/HimnosProvider'

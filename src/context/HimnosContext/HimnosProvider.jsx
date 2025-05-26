@@ -5,7 +5,7 @@ import { useHimnosSearch } from './hooks/useHimnosSearch';
 import { useRecentHymns } from './hooks/useRecentHymns';
 import { fetchHymnById, getHymnsByIds } from './services/dataService';
 import { getCategories, getHymnOfTheDay } from './services/categoriesService';
-import { useDatabase } from '../../db/databaseService';
+import { useDatabase } from '../../context/DatabaseProvider';
 import { useMemo, useState } from 'react';
 
 export const HimnosProvider = ({ children }) => {

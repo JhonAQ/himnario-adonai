@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useDatabase } from '../../../db/databaseService';
+import { useDatabase } from '../../../context/DatabaseProvider';
 import { searchHimnos } from '../services/searchService';
 
 /**

@@ -3,7 +3,7 @@ import { View, StyleSheet, Alert, Platform } from 'react-native';
 import LoggerService from '../services/LoggerService';
 import DiagnosticsService from '../services/DiagnosticsService';
 import { resetDatabase } from '../db/setupDatabase';
-import { useDatabase } from '../db/databaseService';
+import { useDatabase } from '../context/DatabaseProvider';
 import { HimnosContext } from '../context/HimnosContext';
 import * as FileSystem from 'expo-file-system';
 
