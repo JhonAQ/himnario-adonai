@@ -1,14 +1,11 @@
 import { useState, useEffect } from 'react';
-import { useDatabase } from '../../../context/DatabaseProvider';
 import { loadHymnsMetadata, reloadData } from '../services/dataService';
 import LoggerService from '../../../services/LoggerService';
-import {setLoadError} from '../../../context/HimnosContext/HimnosProvider'
 
 /**
  * Hook para gestionar los datos de himnos
  */
-export function useHimnosData() {
-  const db = useDatabase();
+export function useHimnosData(db, errorSetter = null) {
   const [metaHimnos, setMetaHimnos] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
 
@@ -21,18 +18,23 @@ export function useHimnosData() {
         setIsLoading(true);
         const data = await loadHymnsMetadata(db);
         setMetaHimnos(data);
-        if (setLoadError) setLoadError(null);
-
+        // Usar el setter solo si se proporciona
+        if (errorSetter) {
+          errorSetter(null);
+        }
       } catch (error) {
         await LoggerService.error('HimnosData', 'Error al cargar datos', error);
-        if (setLoadError) setLoadError(error);
+        // Usar el setter solo si se proporciona
+        if (errorSetter) {
+          errorSetter(error);
+        }
       } finally {
         setIsLoading(false);
       }
     }
 
     fetchData();
-  }, [db]);
+  }, [db, errorSetter]);
 
   // Función para forzar recarga de datos
   const reloadHimnos = async () => {

@@ -1,6 +1,8 @@
 import * as SQLite from "expo-sqlite";
 import { Alert, Platform } from "react-native";
 import LoggerService from "../../services/LoggerService";
+import * as FileSystem from "expo-file-system";
+import * as Asset from "expo-asset";
 import { 
   DB_NAME, 
   DB_PATH,
@@ -169,50 +171,82 @@ export async function initializeDatabase() {
   }
   
   try {
-    // Verificar asset de la base de datos
-    await verifyDatabaseAsset();
+    await LoggerService.info('Setup', '🔓 Iniciando inicialización de base de datos');
     
-    // Verificar sistema de archivos
-    const fsStatus = await verifyFileSystem();
-    
-    // Abrir o crear la base de datos según corresponda
-    await LoggerService.info('Setup', '🔓 Intentando abrir la base de datos');
-    
+    // Enfoque directo con expo-sqlite que funciona en desarrollo y producción
     let db;
+    
     try {
-      if (fsStatus.dbExists) {
-        db = await openExistingDatabase();
-      } else {
-        db = await copyDatabaseFromAssets();
+      // Método que funciona en ambos entornos
+      db = await SQLite.openDatabaseAsync({
+        name: DB_NAME,
+        // Importante: esta sintaxis funciona tanto en desarrollo como producción
+        assetImportMode: "native",
+        assetAsString: true,
+        asset: require("../../../assets/database/himnario.db"),
+      });
+      
+      await LoggerService.success('Setup', '✅ Base de datos abierta correctamente');
+      
+      // Activar optimizaciones WAL
+      await db.execAsync("PRAGMA journal_mode = WAL;");
+      
+      // Verificar que podemos acceder a los datos
+      const result = await db.getFirstAsync("SELECT COUNT(*) as count FROM songs");
+      await LoggerService.success('Setup', `📊 Base de datos contiene ${result.count} canciones`);
+      
+      // Guardar la instancia
+      setDatabaseInstance(db);
+      return db;
+    } catch (error) {
+      await LoggerService.error('Setup', '❌ Error al abrir la base de datos', error);
+      
+      // Si es el error específico de path.replace, intentar con método alternativo
+      if (error.message && error.message.includes('path.replace')) {
+        await LoggerService.debug('Setup', '⚠️ Intentando método alternativo de inicialización...');
+        
+        try {
+          // En Android podemos intentar copiar manualmente el archivo
+          if (Platform.OS === 'android') {
+            // Obtenemos referencia al asset
+            const asset = Asset.Asset.fromModule(require("../../../assets/database/himnario.db"));
+            await asset.downloadAsync();
+            
+            // Definimos las rutas
+            const dbDir = `${FileSystem.documentDirectory}SQLite`;
+            const dbPath = `${dbDir}/${DB_NAME}`;
+            
+            // Crear directorio si no existe
+            const dirInfo = await FileSystem.getInfoAsync(dbDir);
+            if (!dirInfo.exists) {
+              await FileSystem.makeDirectoryAsync(dbDir, { intermediates: true });
+            }
+            
+            // Copiar archivo desde asset
+            await FileSystem.copyAsync({
+              from: asset.localUri,
+              to: dbPath
+            });
+            
+            // Abrir base de datos copiada
+            db = await SQLite.openDatabaseAsync(DB_NAME);
+            
+            await LoggerService.success('Setup', '✅ Base de datos copiada y abierta manualmente');
+            setDatabaseInstance(db);
+            return db;
+          } else {
+            throw new Error('No se pudo abrir la base de datos en esta plataforma');
+          }
+        } catch (alternativeError) {
+          await LoggerService.error('Setup', '❌ Error en método alternativo', alternativeError);
+          throw alternativeError;
+        }
       }
       
-      // Verificar integridad
-      await verifyDatabaseIntegrity(db);
-      
-      // Guardar instancia
-      setDatabaseInstance(db);
-      await LoggerService.success('Setup', '✅ Proceso de setupDatabase() completado exitosamente');
-      return db;
-    } catch (openError) {
-      // Intentar recuperar de errores comunes
-      db = await recoverFromDatabaseError(openError);
-      setDatabaseInstance(db);
-      return db;
+      throw error;
     }
   } catch (error) {
-    await LoggerService.error('Setup', '❌ Error general en inicialización de base de datos', error);
-    
-    // En una app de producción, mostrar un error al usuario
-    if (Platform.OS !== "web" && !__DEV__) {
-      setTimeout(() => {
-        Alert.alert(
-          "Error al iniciar",
-          "No se pudo cargar la base de datos de himnos. Por favor reinstale la aplicación o contacte a soporte.",
-          [{ text: "OK" }]
-        );
-      }, 1000);
-    }
-    
+    await LoggerService.error('Setup', '❌ Error general en inicialización de la base de datos', error);
     throw error;
   }
 }
