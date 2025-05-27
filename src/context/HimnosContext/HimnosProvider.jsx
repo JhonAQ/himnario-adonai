@@ -1,5 +1,5 @@
 import React from 'react';
-import { HimnosContext } from './index';
+import { HimnosContext } from './HimnosContext';
 import { useHimnosData } from './hooks/useHimnosData';
 import { useHimnosSearch } from './hooks/useHimnosSearch';
 import { useRecentHymns } from './hooks/useRecentHymns';

@@ -1,9 +1,16 @@
 import React, { createContext, useContext, useEffect, useState } from "react";
-import { ActivityIndicator, View, Text } from "react-native";
-import { initializeDatabase } from "../db/modules/databaseInitializer";
+import { ActivityIndicator, View, Text, Alert, Platform } from "react-native";
+import * as SQLite from "expo-sqlite";
+import * as FileSystem from "expo-file-system";
+import * as Asset from "expo-asset";
 
 // Crear contexto para la base de datos
 const DatabaseContext = createContext(null);
+
+// Constantes de base de datos
+const DB_NAME = "himnario.db";
+const DB_DIR = FileSystem.documentDirectory + 'SQLite/';
+const DB_PATH = DB_DIR + DB_NAME;
 
 // Hook para usar la base de datos
 export function useDatabase() {
@@ -18,8 +25,45 @@ export function DatabaseProvider({ children }) {
   useEffect(() => {
     async function setupDb() {
       try {
-        // Inicializar la base de datos usando el método que funciona en producción
-        const database = await initializeDatabase();
+        console.log("[DB] Iniciando configuración de base de datos...");
+        
+        // Asegurar que existe el directorio
+        const dirInfo = await FileSystem.getInfoAsync(DB_DIR);
+        if (!dirInfo.exists) {
+          await FileSystem.makeDirectoryAsync(DB_DIR, { intermediates: true });
+          console.log("[DB] Directorio SQLite creado");
+        }
+        
+        // Verificar si existe la base de datos
+        const fileInfo = await FileSystem.getInfoAsync(DB_PATH);
+        
+        // Si no existe, copiarla desde assets
+        if (!fileInfo.exists) {
+          console.log("[DB] Base de datos no encontrada, copiando desde assets...");
+          
+          // Obtener referencia al asset
+          const asset = Asset.Asset.fromModule(require("../../assets/database/himnario.db"));
+          await asset.downloadAsync();
+          
+          // Copiar archivo
+          await FileSystem.copyAsync({
+            from: asset.localUri,
+            to: DB_PATH
+          });
+          console.log("[DB] Base de datos copiada");
+        }
+        
+        // Usar el método de apertura que funciona en ambos entornos
+        const database = await SQLite.openDatabaseAsync(DB_NAME);
+        console.log("[DB] Base de datos abierta correctamente");
+        
+        // Activar optimización WAL
+        await database.execAsync("PRAGMA journal_mode = WAL;");
+        
+        // Verificar que se puede acceder a los datos
+        const result = await database.getFirstAsync("SELECT COUNT(*) as count FROM songs");
+        console.log(`[DB] Base de datos contiene ${result?.count || 0} canciones`);
+        
         setDb(database);
       } catch (err) {
         console.error("Error al inicializar la base de datos:", err);
