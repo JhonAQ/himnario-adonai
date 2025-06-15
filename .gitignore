@@ -37,6 +37,3 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
-
-# database
-*.sqlite
