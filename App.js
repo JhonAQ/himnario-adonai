@@ -1,4 +1,4 @@
-import { StyleSheet, Text, View } from "react-native";
+import { Text, View } from "react-native";
 import "./global.css";
 import { useFonts } from "expo-font";
 import * as SplashScreen from "expo-splash-screen";
@@ -63,9 +63,11 @@ export default function App() {
 
   if (error) {
     return (
-      <View style={styles.errorContainer}>
-        <Text style={styles.errorText}>{error}</Text>
-        <Text style={styles.errorSubtext}>
+      <View className="flex-1 justify-center items-center p-6 bg-background">
+        <Text className="font-josefinSemibold text-lg text-center mb-4 text-error">
+          {error}
+        </Text>
+        <Text className="font-josefin text-base text-center text-foreground-secondary">
           Por favor reinstale la aplicación o contacte a soporte.
         </Text>
       </View>
@@ -84,26 +86,3 @@ export default function App() {
     </DatabaseProvider>
   );
 }
-
-const styles = StyleSheet.create({
-  errorContainer: {
-    flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-    padding: 20,
-    backgroundColor: "#f7f7f7",
-  },
-  errorText: {
-    fontFamily: "JosefinSans-SemiBold",
-    fontSize: 18,
-    textAlign: "center",
-    marginBottom: 10,
-    color: "#e63946",
-  },
-  errorSubtext: {
-    fontFamily: "JosefinSans-Regular",
-    fontSize: 14,
-    textAlign: "center",
-    color: "#6c757d",
-  },
-});

@@ -7,6 +7,7 @@ import SearchBar from '../components/SearchBar';
 import CardHymn from '../components/CardHymn';
 import { useTabBar } from '../context/TabBarContext';
 import { useCallback } from 'react';
+import { Ionicons } from '@expo/vector-icons';
 
 const SearchResults = () => {
   const { searchHymns, searchResults, isSearching, setSearchQuery } = useContext(HimnosContext);
@@ -33,19 +34,21 @@ const SearchResults = () => {
   );
 
   return (
-    <View className='w-full h-full flex-col justify-start bg-UIbase'>
-      <View className='header w-full mt-4 py-3 pt-10 px-8 '>
+    <View className='w-full h-full flex-col justify-start bg-background'>
+      {/* Modern header section */}
+      <View className='w-full px-6 pt-12 pb-4 bg-surface border-b border-neutral-100'>
         <Title title={`Resultados para "${query}"`} />
-        <SearchBar className={"mt-4"} />
-        <Text className='mt-4 font-josefin text-UIgray2 text-medium'>
+        <SearchBar className="mt-4" />
+        <Text className='mt-3 font-josefin text-sm text-foreground-secondary'>
           {searchResults.length} himnos encontrados
         </Text>
       </View>
 
+      {/* Content area */}
       {isSearching ? (
-        <View className="flex-1 justify-center items-center">
-          <ActivityIndicator size="large" color="#666" />
-          <Text className="font-josefin text-gray-500 mt-4 text-center">
+        <View className="flex-1 justify-center items-center px-8">
+          <ActivityIndicator size="large" color="#3B82F6" />
+          <Text className="font-josefin text-foreground-secondary mt-4 text-center">
             Buscando himnos que coincidan con "{query}"...
           </Text>
         </View>
@@ -56,12 +59,22 @@ const SearchResults = () => {
           keyExtractor={item => item.id.toString()}
           numColumns={2}
           columnWrapperStyle={{ justifyContent: 'space-between' }}
-          contentContainerStyle={{ paddingHorizontal: 16, paddingTop: 10, paddingBottom: 30, gap: 15 }}
+          contentContainerStyle={{ 
+            paddingHorizontal: 20, 
+            paddingTop: 20, 
+            paddingBottom: 100,
+            gap: 16
+          }}
           initialNumToRender={10}
           maxToRenderPerBatch={8}
+          showsVerticalScrollIndicator={false}
           ListEmptyComponent={() => (
             <View className="flex-1 justify-center items-center p-8">
-              <Text className="font-josefin text-center text-gray-500">
+              <Ionicons name="search" size={48} color="#D1D5DB" />
+              <Text className="font-josefinSemibold text-lg text-center text-foreground mt-4">
+                Sin resultados
+              </Text>
+              <Text className="font-josefin text-center text-foreground-secondary mt-2">
                 No se encontraron himnos que coincidan con tu búsqueda.
               </Text>
             </View>

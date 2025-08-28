@@ -29,11 +29,30 @@ export default function MyTabs() {
           }
           return <Icon name={iconName} size={size} color={color} />;
         },
-        tabBarActiveTintColor: 'black',
-        tabBarInactiveTintColor: 'gray',
+        tabBarActiveTintColor: '#3B82F6',
+        tabBarInactiveTintColor: '#9CA3AF',
+        tabBarLabelStyle: {
+          fontFamily: 'JosefinSans-Medium',
+          fontSize: 11,
+          marginTop: -2
+        },
         headerShown: false,
-        tabBarStyle:{
-          display: hideBar ? 'none' : 'flex'
+        tabBarStyle: {
+          display: hideBar ? 'none' : 'flex',
+          backgroundColor: '#FFFFFF',
+          borderTopWidth: 1,
+          borderTopColor: '#E5E5E5',
+          paddingTop: 8,
+          paddingBottom: 8,
+          height: 65,
+          shadowColor: "#000",
+          shadowOffset: {
+            width: 0,
+            height: -2,
+          },
+          shadowOpacity: 0.05,
+          shadowRadius: 3,
+          elevation: 5
         }
       })}
       screenListeners={{
@@ -42,8 +61,8 @@ export default function MyTabs() {
         }
       }}
     >
-      <Tab.Screen name="Home" component={HomeStackScreen} />
-      <Tab.Screen name="Index" component={IndexStackScreen}/>
+      <Tab.Screen name="Home" component={HomeStackScreen} options={{ title: 'Inicio' }} />
+      <Tab.Screen name="Index" component={IndexStackScreen} options={{ title: 'Himnos' }} />
       <Tab.Screen name="Settings" component={SettingsStackScreen} options={{ title: 'Configuración' }} />
       {/* prealphaversion */}
       {/* <Tab.Screen name="Favoritos" component={FavoritesStackScreen} /> */}

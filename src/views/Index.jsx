@@ -21,11 +21,11 @@ const Index = ({index = false}) => {
   
   const totalHimnos = index ? (metaHimnos?.length || 0) : cantidad;
   
-  const displayTitle = index ? "Todos los himnos" : `Categoria: ${title}`;
+  const displayTitle = index ? "Todos los himnos" : `${title}`;
   
   const descripcionTexto = index 
-    ? `Hay ${totalHimnos} himnos en total`
-    : `Hay ${cantidad} himnos en esta categoría`;
+    ? `${totalHimnos} himnos en total`
+    : `${cantidad} himnos en esta categoría`;
 
   useEffect(() => {
     setHideBar(!index);
@@ -36,18 +36,23 @@ const Index = ({index = false}) => {
   );
 
   return (
-    <View className='w-full h-full flex-col justify-start bg-UIbase'>
-      <View className='header w-full mt-4 py-3 pt-10 px-8 '>
+    <View className='w-full h-full flex-col justify-start bg-background'>
+      {/* Modern header section */}
+      <View className='w-full px-6 pt-12 pb-4 bg-surface border-b border-neutral-100'>
         <Title title={displayTitle} index={index}/>
-        <SearchBar className={"mt-4"}/>
-        <Text className='mt-4 font-josefin text-UIgray2 text-medium'>
+        <SearchBar className="mt-4"/>
+        <Text className='mt-3 font-josefin text-sm text-foreground-secondary'>
           {descripcionTexto}
         </Text>
       </View>
 
+      {/* Content area */}
       {isLoading ? (
         <View className="flex-1 justify-center items-center">
-          <ActivityIndicator size="large" />
+          <ActivityIndicator size="large" color="#3B82F6" />
+          <Text className="mt-4 font-josefin text-foreground-secondary">
+            Cargando himnos...
+          </Text>
         </View>
       ) : (
         <FlatList
@@ -56,13 +61,19 @@ const Index = ({index = false}) => {
           keyExtractor={item => item.id.toString()}
           numColumns={2}
           columnWrapperStyle={{ justifyContent: 'space-between' }}
-          contentContainerStyle={{ paddingHorizontal: 16, paddingTop: 10, paddingBottom: 30, gap: 15 }}
+          contentContainerStyle={{ 
+            paddingHorizontal: 20, 
+            paddingTop: 20, 
+            paddingBottom: 100,
+            gap: 16
+          }}
           initialNumToRender={10}
           maxToRenderPerBatch={8}
           updateCellsBatchingPeriod={50}
           windowSize={5}
           removeClippedSubviews={true}
           onEndReachedThreshold={0.5}
+          showsVerticalScrollIndicator={false}
         />
       )}
     </View>

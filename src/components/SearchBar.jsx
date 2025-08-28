@@ -11,13 +11,11 @@ const SearchBar = ({ className }) => {
   
   const handleSearch = async () => {
     if (searchQuery.trim()) {
-      setLocalSearching(true); // I
+      setLocalSearching(true);
       
       try {
         await searchHymns(searchQuery);
-        
         navigation.navigate('SearchResults', { query: searchQuery });
-        
         setSearchQuery("");
       } catch (error) {
         console.error("Error en búsqueda:", error);
@@ -36,40 +34,60 @@ const SearchBar = ({ className }) => {
   return (
     <View className={`relative ${className}`}>
       <View className="relative flex-row items-center">
+        {/* Modern search input with better styling */}
         <TextInput
-          className={`bg-gray-200 rounded-full py-3 px-5 pr-12 w-full font-josefin ${searching ? "opacity-70" : ""}`}
+          className={`
+            bg-surface-secondary rounded-xl py-4 px-5 pr-14 w-full 
+            font-josefin text-base text-foreground
+            border border-neutral-200 
+            ${searching ? "opacity-70" : ""}
+            focus:border-primary-300 focus:bg-surface
+          `}
           placeholder={searching ? "Buscando..." : "Busca por número o título"}
+          placeholderTextColor="#9CA3AF"
           value={searchQuery}
           onChangeText={setSearchQuery}
           onSubmitEditing={handleSearch}
           editable={!searching}
+          style={{
+            shadowColor: "#000",
+            shadowOffset: { width: 0, height: 1 },
+            shadowOpacity: 0.05,
+            shadowRadius: 2,
+            elevation: 1
+          }}
         />
         
+        {/* Clear button */}
         {searchQuery && !searching ? (
           <TouchableOpacity 
             onPress={clearSearch}
-            className="absolute right-12"
+            className="absolute right-14 p-1"
+            activeOpacity={0.7}
           >
-            <Ionicons name="close-circle" size={18} color="gray" />
+            <Ionicons name="close-circle" size={20} color="#9CA3AF" />
           </TouchableOpacity>
         ) : null}
         
+        {/* Search button / Loading indicator */}
         {searching ? (
           <View className="absolute right-4 flex-row items-center">
-            <ActivityIndicator size="small" color="#666" />
+            <ActivityIndicator size="small" color="#3B82F6" />
           </View>
         ) : (
           <TouchableOpacity 
             onPress={handleSearch}
-            className="absolute right-4"
+            className="absolute right-4 p-2"
+            activeOpacity={0.7}
           >
-            <Ionicons name="search" size={20} color="gray" />
+            <Ionicons name="search" size={20} color="#6B7280" />
           </TouchableOpacity>
         )}
       </View>
       
+      {/* Status text */}
       {searching && (
-        <Text className="text-center text-xs text-gray-500 mt-2 font-josefin">
+        <Text className="text-center text-sm text-foreground-secondary mt-3 font-josefin">
           Buscando himnos que coincidan...
         </Text>
       )}

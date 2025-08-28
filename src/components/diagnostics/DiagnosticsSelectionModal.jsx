@@ -1,5 +1,5 @@
 import React from 'react';
-import { Modal, View, Text, TouchableOpacity, StyleSheet, ScrollView } from 'react-native';
+import { Modal, View, Text, TouchableOpacity, ScrollView } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 
 const DiagnosticsSelectionModal = ({ 
@@ -11,15 +11,27 @@ const DiagnosticsSelectionModal = ({
   const renderDiagnosticTypeCard = (type) => (
     <TouchableOpacity
       key={type.id}
-      style={styles.diagnosticTypeCard}
       onPress={() => onSelectDiagnostic(type)}
+      className="flex-row items-center bg-surface-secondary p-4 rounded-xl border border-neutral-200 mb-3"
+      activeOpacity={0.7}
+      style={{
+        shadowColor: "#000",
+        shadowOffset: { width: 0, height: 1 },
+        shadowOpacity: 0.05,
+        shadowRadius: 2,
+        elevation: 2
+      }}
     >
-      <View style={styles.diagnosticTypeIcon}>
-        <Ionicons name={type.icon} size={24} color="#007AFF" />
+      <View className="w-12 h-12 rounded-xl bg-primary-100 items-center justify-center mr-4">
+        <Ionicons name={type.icon} size={24} color="#3B82F6" />
       </View>
-      <View style={styles.diagnosticTypeContent}>
-        <Text style={styles.diagnosticTypeTitle}>{type.title}</Text>
-        <Text style={styles.diagnosticTypeDescription}>{type.description}</Text>
+      <View className="flex-1">
+        <Text className="font-josefinSemibold text-base text-foreground mb-1">
+          {type.title}
+        </Text>
+        <Text className="font-josefin text-sm text-foreground-secondary">
+          {type.description}
+        </Text>
       </View>
     </TouchableOpacity>
   );
@@ -31,23 +43,37 @@ const DiagnosticsSelectionModal = ({
       visible={visible}
       onRequestClose={onClose}
     >
-      <View style={styles.centeredView}>
-        <View style={styles.modalView}>
-          <View style={styles.modalHeader}>
-            <Text style={styles.modalTitle}>Seleccionar Diagnóstico</Text>
-            <TouchableOpacity onPress={onClose}>
-              <Ionicons name="close" size={24} color="#666" />
+      <View className="flex-1 justify-center items-center bg-black/50">
+        <View 
+          className="m-5 bg-surface rounded-2xl w-11/12 max-h-4/5 p-6"
+          style={{
+            shadowColor: "#000",
+            shadowOffset: { width: 0, height: 4 },
+            shadowOpacity: 0.15,
+            shadowRadius: 8,
+            elevation: 8
+          }}
+        >
+          <View className="flex-row justify-between items-center mb-4">
+            <Text className="font-josefinBold text-xl text-foreground">
+              Seleccionar Diagnóstico
+            </Text>
+            <TouchableOpacity 
+              onPress={onClose}
+              className="p-2 rounded-full bg-surface-secondary"
+              activeOpacity={0.7}
+            >
+              <Ionicons name="close" size={20} color="#6B7280" />
             </TouchableOpacity>
           </View>
           
-          <Text style={styles.modalSubtitle}>
+          <Text className="font-josefin text-sm text-foreground-secondary mb-6">
             Selecciona el tipo de diagnóstico a realizar
           </Text>
           
-          {/* Reemplazamos el View con ScrollView para permitir desplazamiento */}
           <ScrollView 
-            style={styles.scrollContainer}
-            contentContainerStyle={styles.diagnosticTypesList}
+            className="max-h-full"
+            contentContainerStyle={{ paddingBottom: 16 }}
             showsVerticalScrollIndicator={true}
           >
             {diagnosticTypes.map(renderDiagnosticTypeCard)}
@@ -57,88 +83,5 @@ const DiagnosticsSelectionModal = ({
     </Modal>
   );
 };
-
-const styles = StyleSheet.create({
-  centeredView: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: 'rgba(0, 0, 0, 0.5)'
-  },
-  modalView: {
-    margin: 20,
-    backgroundColor: "white",
-    borderRadius: 16,
-    width: '90%',
-    maxHeight: '80%',
-    padding: 16,
-    shadowColor: "#000",
-    shadowOffset: {
-      width: 0,
-      height: 2
-    },
-    shadowOpacity: 0.25,
-    shadowRadius: 4,
-    elevation: 5
-  },
-  modalHeader: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    marginBottom: 12,
-  },
-  modalTitle: {
-    fontSize: 20,
-    fontWeight: 'bold',
-    fontFamily: 'JosefinSans-Bold'
-  },
-  modalSubtitle: {
-    fontSize: 14,
-    color: '#666',
-    marginBottom: 16,
-    fontFamily: 'JosefinSans-Regular'
-  },
-  // Nuevo estilo para el contenedor de scroll
-  scrollContainer: {
-    maxHeight: '86%', // Ajusta esto según sea necesario
-  },
-  diagnosticTypesList: {
-    paddingBottom: 16,
-  },
-  diagnosticTypeCard: {
-    backgroundColor: '#f9f9f9',
-    padding: 12,
-    borderRadius: 8,
-    marginBottom: 12,
-    flexDirection: 'row',
-    alignItems: 'center',
-    borderLeftWidth: 4,
-    borderLeftColor: '#007AFF'
-  },
-  diagnosticTypeIcon: {
-    marginRight: 12,
-    width: 40,
-    height: 40,
-    borderRadius: 20,
-    backgroundColor: 'rgba(0, 122, 255, 0.1)',
-    justifyContent: 'center',
-    alignItems: 'center'
-  },
-  diagnosticTypeContent: {
-    flex: 1,
-    paddingRight: 8,
-  },
-  diagnosticTypeTitle: {
-    fontSize: 16,
-    fontWeight: '600',
-    marginBottom: 4,
-    fontFamily: 'JosefinSans-SemiBold'
-  },
-  diagnosticTypeDescription: {
-    fontSize: 12,
-    color: '#666',
-    fontFamily: 'JosefinSans-Light'
-  }
-});
 
 export default DiagnosticsSelectionModal;
