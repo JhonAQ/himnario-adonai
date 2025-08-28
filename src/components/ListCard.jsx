@@ -23,7 +23,7 @@ const ListCard = ({dataCategory}) => {
       }}
     >
       {/* Modern category image with icon */}
-      <View className="h-20 w-20 bg-gradient-to-br from-primary-100 to-primary-200 flex items-center justify-center">
+      <View className="h-20 w-20 bg-primary-100 flex items-center justify-center">
         <Ionicons name="musical-notes" size={24} color="#3B82F6" />
       </View>
       

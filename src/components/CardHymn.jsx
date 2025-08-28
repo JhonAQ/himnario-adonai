@@ -17,7 +17,7 @@ const CardHymn = ({hymn}) => {
       className="bg-surface w-[48%] rounded-xl shadow-sm border border-neutral-100 overflow-hidden"
     >
       {/* Modern card image with gradient overlay */}
-      <View className="relative h-28 bg-gradient-to-br from-primary-400 to-primary-600 flex items-center justify-center">
+      <View className="relative h-28 bg-primary-500 flex items-center justify-center">
         <Text className="text-white text-2xl font-josefinBold opacity-90">
           {number}
         </Text>

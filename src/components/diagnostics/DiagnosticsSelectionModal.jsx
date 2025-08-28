@@ -43,7 +43,10 @@ const DiagnosticsSelectionModal = ({
       visible={visible}
       onRequestClose={onClose}
     >
-      <View className="flex-1 justify-center items-center bg-black/50">
+      <View 
+        className="flex-1 justify-center items-center"
+        style={{ backgroundColor: 'rgba(0, 0, 0, 0.5)' }}
+      >
         <View 
           className="m-5 bg-surface rounded-2xl w-11/12 max-h-4/5 p-6"
           style={{

@@ -48,7 +48,7 @@ const Home = () => {
       >
         {/* Header section with hymn of the day */}
         <TouchableOpacity 
-          className="mt-16 p-6 bg-gradient-to-r from-primary-500 to-primary-600 rounded-2xl shadow-md" 
+          className="mt-16 p-6 bg-primary-500 rounded-2xl shadow-md" 
           activeOpacity={0.8} 
           onPress={openDailyHymn}
           style={{
@@ -110,13 +110,15 @@ const Home = () => {
           title="Categorías"
           onViewAll={handleViewAllCategories}
         >
-          <View className="w-full space-y-3">
-            {categorizedData.slice(0, 4).map(cat => (
-              <ListCard key={cat.title} dataCategory={{
-                category: cat.title,
-                hymns: cat.cantidad, 
-                ids: cat.ids
-              }}/>
+          <View className="w-full">
+            {categorizedData.slice(0, 4).map((cat, index) => (
+              <View key={cat.title} className={index > 0 ? "mt-3" : ""}>
+                <ListCard dataCategory={{
+                  category: cat.title,
+                  hymns: cat.cantidad, 
+                  ids: cat.ids
+                }}/>
+              </View>
             ))}
           </View>
         </Section>
