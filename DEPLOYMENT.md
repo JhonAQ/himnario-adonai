@@ -79,6 +79,8 @@ To enable it:
 
 The workflow file is located at `.github/workflows/deploy.yml`.
 
+**Note**: The workflow includes the `actions/configure-pages@v4` step which helps automatically configure GitHub Pages for the repository. If you encounter deployment issues, ensure that GitHub Pages is enabled in your repository settings with "GitHub Actions" selected as the source.
+
 ### Option 4: Static Hosting (S3, Cloudflare Pages, etc.)
 
 The `out/` directory contains all static files. Simply upload the contents to any static hosting service.
