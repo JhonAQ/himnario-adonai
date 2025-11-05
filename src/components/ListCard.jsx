@@ -1,25 +1,45 @@
 import { useNavigation } from "@react-navigation/native";
 import { Text, TouchableOpacity, View } from "react-native";
-
+import { Ionicons } from '@expo/vector-icons';
 
 const ListCard = ({dataCategory}) => {
-
   const navigation = useNavigation();
 
   return (
-    <TouchableOpacity activeOpacity={0.6} onPress={()=> navigation.navigate("IndexStack", {title: dataCategory.category, cantidad: dataCategory.hymns, ids: dataCategory.ids})} className="flex-row rounded-lg bg-UIwhite w-full">
-      <View className="card-image rounded-lg h-24 w-[40%] bg-slate-400">
+    <TouchableOpacity 
+      activeOpacity={0.7} 
+      onPress={()=> navigation.navigate("IndexStack", {
+        title: dataCategory.category, 
+        cantidad: dataCategory.hymns, 
+        ids: dataCategory.ids
+      })} 
+      className="flex-row rounded-xl bg-surface w-full shadow-sm border border-neutral-100 overflow-hidden"
+      style={{
+        shadowColor: "#000",
+        shadowOffset: { width: 0, height: 1 },
+        shadowOpacity: 0.05,
+        shadowRadius: 3,
+        elevation: 2
+      }}
+    >
+      {/* Modern category image with icon */}
+      <View className="h-20 w-20 bg-primary-100 flex items-center justify-center">
+        <Ionicons name="musical-notes" size={24} color="#3B82F6" />
       </View>
-      <View className="card-info grow py-4 pl-6 flex-col items-start justify-center gap-0.5">
-        <Text className="font-josefin mb-1 font-medium">
+      
+      {/* Category info */}
+      <View className="flex-1 py-4 px-4 flex-col justify-center">
+        <Text className="font-josefinSemibold text-base text-foreground mb-1">
           {dataCategory.category}
         </Text>
-        <Text numberOfLines={1} className="font-josefin font-light text-sm text-UIgray2">
-          {dataCategory.hymns} Himnos
+        <Text className="font-josefin text-sm text-foreground-secondary">
+          {dataCategory.hymns} himnos
         </Text>
-        {/* <Text className="font-josefin font-extralight text-xs text-UIgray2">
-          {dataCategory.favorites} Favoritos
-        </Text> */}
+      </View>
+      
+      {/* Chevron arrow */}
+      <View className="flex items-center justify-center px-4">
+        <Ionicons name="chevron-forward" size={20} color="#9CA3AF" />
       </View>
     </TouchableOpacity>
   )

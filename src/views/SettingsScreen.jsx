@@ -2,7 +2,6 @@ import React, { useContext } from 'react';
 import { 
   View, 
   Text, 
-  StyleSheet, 
   TouchableOpacity, 
   ScrollView,
   Linking,
@@ -74,32 +73,43 @@ const SettingsScreen = () => {
 
   const renderSettingItem = (icon, title, onPress, description = null, rightIcon = "chevron-forward") => (
     <TouchableOpacity 
-      style={styles.settingItem}
       onPress={onPress}
       activeOpacity={0.7}
+      className="flex-row items-center bg-surface px-5 py-4 border-b border-neutral-100"
     >
-      <View style={styles.settingIconContainer}>
-        <Ionicons name={icon} size={22} color="#555" />
+      <View className="w-10 h-10 rounded-xl bg-surface-secondary items-center justify-center mr-4">
+        <Ionicons name={icon} size={22} color="#6B7280" />
       </View>
-      <View style={styles.settingContent}>
-        <Text style={styles.settingTitle}>{title}</Text>
-        {description && <Text style={styles.settingDescription}>{description}</Text>}
+      <View className="flex-1">
+        <Text className="font-josefinSemibold text-base text-foreground">
+          {title}
+        </Text>
+        {description && (
+          <Text className="font-josefin text-sm text-foreground-secondary mt-1">
+            {description}
+          </Text>
+        )}
       </View>
-      <Ionicons name={rightIcon} size={20} color="#aaa" />
+      <Ionicons name={rightIcon} size={20} color="#9CA3AF" />
     </TouchableOpacity>
   );
 
   const renderSectionTitle = (title) => (
-    <Text style={styles.sectionTitle}>{title}</Text>
+    <Text className="font-josefinSemibold text-sm text-foreground-muted uppercase tracking-wide mt-8 mb-2 mx-5">
+      {title}
+    </Text>
   );
 
   return (
-    <View style={styles.container}>
-      <View style={styles.header}>
-        <Text style={styles.headerTitle}>Configuración</Text>
+    <View className="flex-1 bg-background">
+      {/* Modern header */}
+      <View className="pt-16 pb-6 px-5 bg-surface border-b border-neutral-100">
+        <Text className="font-josefinBold text-2xl text-foreground">
+          Configuración
+        </Text>
       </View>
 
-      <ScrollView style={styles.scrollContainer}>
+      <ScrollView className="flex-1" showsVerticalScrollIndicator={false}>
         {renderSectionTitle("Herramientas")}
         
         {renderSettingItem(
@@ -147,72 +157,12 @@ const SettingsScreen = () => {
           () => handleOpenLink("https://github.com/JhonAQ/himnario-adonai"),
           "Preguntas frecuentes y soporte"
         )}
+        
+        {/* Bottom spacing */}
+        <View className="h-20" />
       </ScrollView>
     </View>
   );
 };
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#f5f5f5',
-  },
-  header: {
-    paddingTop: 50,
-    paddingBottom: 16,
-    paddingHorizontal: 20,
-    backgroundColor: '#fff',
-    borderBottomWidth: 1,
-    borderBottomColor: '#eee',
-  },
-  headerTitle: {
-    fontSize: 22,
-    fontWeight: 'bold',
-    fontFamily: 'JosefinSans-Bold'
-  },
-  scrollContainer: {
-    flex: 1,
-  },
-  sectionTitle: {
-    fontSize: 14,
-    fontFamily: 'JosefinSans-SemiBold',
-    color: '#777',
-    marginTop: 24,
-    marginBottom: 8,
-    marginLeft: 20,
-    textTransform: 'uppercase',
-  },
-  settingItem: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: '#fff',
-    paddingVertical: 14,
-    paddingHorizontal: 20,
-    borderBottomWidth: 1,
-    borderBottomColor: '#eee',
-  },
-  settingIconContainer: {
-    width: 36,
-    height: 36,
-    borderRadius: 18,
-    backgroundColor: '#f0f0f0',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginRight: 16,
-  },
-  settingContent: {
-    flex: 1,
-  },
-  settingTitle: {
-    fontSize: 16,
-    fontFamily: 'JosefinSans-Regular',
-  },
-  settingDescription: {
-    fontSize: 12,
-    color: '#888',
-    fontFamily: 'JosefinSans-Light',
-    marginTop: 2,
-  },
-});
 
 export default SettingsScreen;

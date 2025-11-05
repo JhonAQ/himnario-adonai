@@ -11,14 +11,20 @@ const Section = ({ title, className, children, onViewAll }) => {
   };
   
   return (
-    <View className={"" + " " + className}>
-      <View className="flex-row justify-between items-end">
-        <Text className="font-josefin text-xl">{title}</Text>
-        <TouchableOpacity onPress={handleViewAll}>
-          <Text className="font-josefin font-light text-sm text-gray-500">{"Ver todos >"}</Text>
-        </TouchableOpacity>
+    <View className={className}>
+      <View className="flex-row justify-between items-center mb-4">
+        <Text className="font-josefinSemibold text-xl text-foreground">
+          {title}
+        </Text>
+        {onViewAll && (
+          <TouchableOpacity onPress={handleViewAll} activeOpacity={0.7}>
+            <Text className="font-josefin text-sm text-primary-600">
+              Ver todos →
+            </Text>
+          </TouchableOpacity>
+        )}
       </View>
-      <View className="flex-row justify-between flex-wrap gap-y-4 pt-5 ">
+      <View className="flex-row justify-between flex-wrap gap-y-4">
         {children}
       </View>
     </View>

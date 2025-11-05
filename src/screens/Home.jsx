@@ -8,6 +8,7 @@ import { useTabBar } from '../context/TabBarContext';
 import { useFocusEffect } from '@react-navigation/native';
 import { useContext } from 'react';
 import { useNavigation } from "@react-navigation/native";
+import { Ionicons } from '@expo/vector-icons';
 
 const Home = () => {
   const { setHideBar } = useTabBar();
@@ -15,7 +16,7 @@ const Home = () => {
   const navigation = useNavigation();
   
   const recentlyViewedHymns = getRecentlyViewedHymns();
-  const hymnOfTheDay = getHymnOfTheDay(); // Obtenemos el himno del día
+  const hymnOfTheDay = getHymnOfTheDay();
 
   useFocusEffect(() => {
     setHideBar(false);
@@ -36,57 +37,90 @@ const Home = () => {
   };
 
   return (
-    <View className="w-full h-full bg-slate-500 flex items-center justify-center">
-      <ScrollView className="content h-full w-full p-7 flex bg-UIbase">
-        {/* Sección del Himno del Día */}
+    <View className="w-full h-full bg-background">
+      <ScrollView 
+        className="flex-1" 
+        contentContainerStyle={{
+          paddingHorizontal: 20,
+          paddingBottom: 100
+        }}
+        showsVerticalScrollIndicator={false}
+      >
+        {/* Header section with hymn of the day */}
         <TouchableOpacity 
-          className="header mt-10 gap-0.5 bg-UIbase rounded-lg shadow-sm" 
-          activeOpacity={0.7} 
+          className="mt-16 p-6 bg-primary-500 rounded-2xl shadow-md" 
+          activeOpacity={0.8} 
           onPress={openDailyHymn}
+          style={{
+            shadowColor: "#3B82F6",
+            shadowOffset: { width: 0, height: 4 },
+            shadowOpacity: 0.15,
+            shadowRadius: 8,
+            elevation: 6
+          }}
         >
-          <Text className="font-josefinSemibold text-2xl">Himno del día</Text>
+          <View className="flex-row items-center mb-2">
+            <Ionicons name="star" size={20} color="white" />
+            <Text className="font-josefinSemibold text-lg text-white ml-2">
+              Himno del día
+            </Text>
+          </View>
           {hymnOfTheDay ? (
-            <>
-              <Text className="font-josefin font-medium">
-                Himno {hymnOfTheDay.number} • {hymnOfTheDay.title}
+            <View>
+              <Text className="font-josefinBold text-xl text-white mb-1">
+                Himno {hymnOfTheDay.number}
               </Text>
-              <Text className="font-josefin font-light text-sm text-gray-500">
-                Toca para abrir
+              <Text className="font-josefin text-base text-white/90 mb-2">
+                {hymnOfTheDay.title}
               </Text>
-            </>
+              <Text className="font-josefin text-sm text-white/70">
+                Toca para abrir →
+              </Text>
+            </View>
           ) : (
-            <Text className="font-josefin font-medium">Cargando...</Text>
+            <Text className="font-josefin text-white">Cargando...</Text>
           )}
         </TouchableOpacity>
         
-        <SearchBar className="mt-7" />
+        {/* Modern search bar */}
+        <SearchBar className="mt-6" />
+        
+        {/* Recently viewed section */}
         <Section 
           title="Vistos recientemente" 
           className="mt-8" 
-          onViewAll={handleViewAllRecent}
+          onViewAll={recentlyViewedHymns.length > 0 ? handleViewAllRecent : null}
         >
           {recentlyViewedHymns.length > 0 ? (
             recentlyViewedHymns.slice(0, 2).map(hymn => (
               <CardHymn key={hymn.id} hymn={hymn} />
             ))
           ) : (
-            <Text className="font-josefin text-gray-500">No hay himnos vistos recientemente</Text>
+            <View className="w-full p-6 bg-surface-secondary rounded-xl border-2 border-dashed border-neutral-200">
+              <Text className="font-josefin text-foreground-secondary text-center">
+                No hay himnos vistos recientemente
+              </Text>
+            </View>
           )}
         </Section>
+        
+        {/* Categories section */}
         <Section 
-          className="mt-5 mb-12" 
+          className="mt-8" 
           title="Categorías"
           onViewAll={handleViewAllCategories}
         >
-          {
-            categorizedData.slice(0, 4).map(cat =>
-              <ListCard key={cat.title} dataCategory={{
-                category: cat.title,
-                hymns: cat.cantidad, 
-                ids: cat.ids
-              }}/>
-            )
-          }
+          <View className="w-full">
+            {categorizedData.slice(0, 4).map((cat, index) => (
+              <View key={cat.title} className={index > 0 ? "mt-3" : ""}>
+                <ListCard dataCategory={{
+                  category: cat.title,
+                  hymns: cat.cantidad, 
+                  ids: cat.ids
+                }}/>
+              </View>
+            ))}
+          </View>
         </Section>
       </ScrollView>
     </View>

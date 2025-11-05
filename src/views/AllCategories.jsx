@@ -26,30 +26,41 @@ const AllCategories = () => {
   );
 
   return (
-    <View className='w-full h-full flex-col justify-start bg-UIbase'>
-      <View className='header w-full mt-4 py-3 pt-10 px-8'>
+    <View className='w-full h-full flex-col justify-start bg-background'>
+      {/* Modern header section */}
+      <View className='w-full px-6 pt-12 pb-4 bg-surface border-b border-neutral-100'>
         <Title title="Todas las categorías" />
-        <SearchBar className={"mt-4"} />
-        <Text className='mt-4 font-josefin text-UIgray2 text-medium'>
+        <SearchBar className="mt-4" />
+        <Text className='mt-3 font-josefin text-sm text-foreground-secondary'>
           {categorizedData.length} categorías disponibles
         </Text>
       </View>
 
+      {/* Content area */}
       {isLoading ? (
         <View className="flex-1 justify-center items-center">
-          <ActivityIndicator size="large" />
+          <ActivityIndicator size="large" color="#3B82F6" />
+          <Text className="mt-4 font-josefin text-foreground-secondary">
+            Cargando categorías...
+          </Text>
         </View>
       ) : (
         <FlatList
           data={categorizedData}
           renderItem={renderItem}
           keyExtractor={item => item.title}
-          contentContainerStyle={{ paddingHorizontal: 16, paddingTop: 10, paddingBottom: 30, gap: 15 }}
+          contentContainerStyle={{ 
+            paddingHorizontal: 20, 
+            paddingTop: 20, 
+            paddingBottom: 100 
+          }}
+          ItemSeparatorComponent={() => <View className="h-3" />}
           initialNumToRender={10}
           maxToRenderPerBatch={8}
+          showsVerticalScrollIndicator={false}
           ListEmptyComponent={() => (
             <View className="flex-1 justify-center items-center p-8">
-              <Text className="font-josefin text-center text-gray-500">
+              <Text className="font-josefin text-center text-foreground-secondary">
                 No hay categorías disponibles
               </Text>
             </View>
