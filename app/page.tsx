@@ -1,15 +1,22 @@
 'use client';
 
 import { DatabaseProvider } from '@/src/context/DatabaseProvider.web';
-import { HimnosProvider } from '@/src/context/HimnosContext';
 import { useEffect, useState } from 'react';
 import { useDatabase } from '@/src/context/DatabaseProvider.web';
 
+// Define interface for Hymn type
+interface Hymn {
+  id: number;
+  number: number;
+  title: string;
+  categories?: string | string[];
+}
+
 function AppContent() {
   const { executeQuery, loading } = useDatabase();
-  const [hymns, setHymns] = useState<any[]>([]);
+  const [hymns, setHymns] = useState<Hymn[]>([]);
   const [searchQuery, setSearchQuery] = useState('');
-  const [filteredHymns, setFilteredHymns] = useState<any[]>([]);
+  const [filteredHymns, setFilteredHymns] = useState<Hymn[]>([]);
 
   useEffect(() => {
     if (!loading && executeQuery) {
@@ -19,7 +26,10 @@ function AppContent() {
 
   const loadHymns = async () => {
     try {
-      const results = await executeQuery('SELECT * FROM songs ORDER BY number LIMIT 50');
+      // Select only required columns for better performance
+      const results = await executeQuery(
+        'SELECT id, number, title, categories FROM songs ORDER BY number LIMIT 50'
+      );
       setHymns(results);
       setFilteredHymns(results);
     } catch (err) {

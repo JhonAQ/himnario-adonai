@@ -108,5 +108,13 @@ No environment variables are required for basic deployment. The database is bund
 
 - This is a static Next.js application that can be deployed anywhere
 - The SQLite database is loaded in the browser using sql.js
+- SQL.js WASM files are loaded from jsDelivr CDN (https://cdn.jsdelivr.net/npm/sql.js/)
 - All fonts are included in the public directory
 - The application is fully functional without a backend server
+
+## Troubleshooting
+
+If you encounter issues with the database loading:
+- Ensure the CDN is accessible from your deployment environment
+- Check browser console for any CORS or loading errors
+- Verify that the `/database/himnario.db` file is being served correctly

@@ -31,9 +31,12 @@ export function DatabaseProvider({ children }: { children: React.ReactNode }) {
       try {
         console.log('[DB] Initializing SQL.js...');
         
-        // Initialize SQL.js
+        // Initialize SQL.js with CDN fallback
         const SQL = await initSqlJs({
-          locateFile: (file) => `https://sql.js.org/dist/${file}`
+          locateFile: (file) => {
+            // Try multiple CDNs for reliability
+            return `https://cdn.jsdelivr.net/npm/sql.js@1.10.2/dist/${file}`;
+          }
         });
 
         // Load database file
