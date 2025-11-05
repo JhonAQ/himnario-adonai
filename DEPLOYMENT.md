@@ -57,12 +57,27 @@ Or connect your GitHub repository to Vercel for automatic deployments:
 
 ### Option 3: GitHub Pages
 
+#### Manual Deployment
+
 1. Build the project:
    ```bash
    npm run build
    ```
 
 2. Deploy the `out/` directory to GitHub Pages using your preferred method.
+
+#### Automatic Deployment with GitHub Actions
+
+A GitHub Actions workflow is included that automatically deploys to GitHub Pages on every push to the main branch.
+
+To enable it:
+
+1. Go to your repository settings on GitHub
+2. Navigate to Pages section
+3. Under "Build and deployment", select "GitHub Actions" as the source
+4. Push to the main branch and the workflow will automatically deploy
+
+The workflow file is located at `.github/workflows/deploy.yml`.
 
 ### Option 4: Static Hosting (S3, Cloudflare Pages, etc.)
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://himnario-adonai.vercel.app/sitemap.xml
