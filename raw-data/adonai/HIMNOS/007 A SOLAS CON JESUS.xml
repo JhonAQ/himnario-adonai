@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>A SOLAS CON JESUS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>A solas al huerto yo voy,</br>
+        <br>Cuando duerme aún la floresta;</br>
+        <br>Y en quietud y paz con Jesús estoy</br>
+        <br>Oyendo absorto allí su voz.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>El conmigo está, puedo oír su voz,</br>
+        <br>Y que suyo dice seré;</br>
+        <br>Y el encanto que hallo en Él allí,</br>
+        <br>Con nadie tener podré.</br>
+        <br>Tan dulce es la voz del Señor,</br>
+        <br>Que las aves guardan silencio,</br>
+        <br>Y tan sólo se oye esa voz de amor,</br>
+        <br>Que inmensa paz al alma da.</br>
+        <br>Con él encantado yo estoy,</br>
+        <br>Aunque en torno lleguen la noche;</br>
+        <br>Mas me ordena a ir que a escuchar yo voy</br>
+        <br>Su voz doquier la pena esté.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

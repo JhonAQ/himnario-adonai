@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EL VINO A MI CORAZON</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¡Cuán glorioso es el cambio operado en mí ser</br>
+        <br>¡Viniendo a mi vida el Señor!</br>
+        <br>Hay en mi alma una paz que yo ansiaba tener:</br>
+        <br>La paz que me trajo su amor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Él vino a mi corazón!</br>
+        <br>¡Él vino a mi corazón!</br>
+        <br>Soy feliz con la vida que Cristo me dio,</br>
+        <br>Cuando el vino a mi corazón</br>
+        <br>Ya no voy por la senda que el malo trazo,</br>
+        <br>Do solo encontré confusión;</br>
+        <br>Mis errores pasados Jesús los borró,</br>
+        <br>Cuando el vino a mi corazón.</br>
+        <br>Ni una sombra de duda oscurece su amor,</br>
+        <br>Amor que me trajo el perdón:</br>
+        <br>La esperanza que aliento la debo al Señor,</br>
+        <br>Cuando el vino a mi corazón.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

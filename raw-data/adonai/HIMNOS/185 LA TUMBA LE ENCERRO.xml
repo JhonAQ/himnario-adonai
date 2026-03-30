@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LA TUMBA LE ENCERRO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>La tumba le encerró, Cristo, mi Cristo;</br>
+        <br>El alba allí esperó Cristo el Señor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Cristo a tumba venció,</br>
+        <br>Y con gran poder resucitó;</br>
+        <br>De sepulcro y muerte Cristo es vencedor,</br>
+        <br>Vive para siempre nuestro Salvador;</br>
+        <br>¡Gloria a Dios! ¡Gloria a Dios!</br>
+        <br>El Señor resucitó.</br>
+        <br>2</br>
+        <br>De guardas escapó, Cristo, mi Cristo;</br>
+        <br>El sello destruyó Cristo el Señor.</br>
+        <br>3</br>
+        <br>La muerte dominó Cristo, mi Cristo;</br>
+        <br>Y su poder venció Cristo el Señor.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>, EL REY DE LA GLORIA</br>
+        <br>Ved a Cristo, Rey de gloria,</br>
+        <br>Es del mundo el vencedor;</br>
+        <br>De la guerra vuelve invicto,</br>
+        <br>Todos démosle loor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Coronadle, santos todos,</br>
+        <br>Coronadle al Rey de reyes;</br>
+        <br>Coronadle, santos todos,</br>
+        <br>Coronad al Salvador.</br>
+        <br>Exaltadle, sí, exaltadle,</br>
+        <br>Ricos triunfos de Jesús;</br>
+        <br>Entonadle allá en los cielos,</br>
+        <br>En la refulgente luz.</br>
+        <br>Hombres malos se burlaron</br>
+        <br>Coronando al Salvador,</br>
+        <br>Hoy los ángeles y santos</br>
+        <br>Lo proclaman su Señor.</br>
+        <br>Escuchad las alabanzas,</br>
+        <br>Que se elevan hacia Él;</br>
+        <br>Victorioso reina Cristo,</br>
+        <br>¡Dad la gloria a Emmanuel!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

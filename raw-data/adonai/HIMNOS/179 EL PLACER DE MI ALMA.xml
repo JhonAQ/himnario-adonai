@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EL PLACER DE MI ALMA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¿Quién podrá con su presencia</br>
+        <br>Impartirme bendición?</br>
+        <br>Sólo Cristo y su clemencia</br>
+        <br>Pueden dar consolación.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Solo Cristo satisface</br>
+        <br>Mi transido corazón;</br>
+        <br>Es el lirio de los valles</br>
+        <br>Y la rosa de Sarón.</br>
+        <br>Su amor no se limita,</br>
+        <br>Es su gracia sin igual;</br>
+        <br>Su merced es infinita,</br>
+        <br>Más profunda que mi mal.</br>
+        <br>Redención sublime y santa,</br>
+        <br>Imposible de explicar;</br>
+        <br>Que su sangre sacrosanta</br>
+        <br>Mi alma pudo rescatar.</br>
+        <br>Cristo suple en abundancia</br>
+        <br>Toda mi necesidad;</br>
+        <br>Ser de él, es mi ganancia,</br>
+        <br>Inefable es su bondad.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

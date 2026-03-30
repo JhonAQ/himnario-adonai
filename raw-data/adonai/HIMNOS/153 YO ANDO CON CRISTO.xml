@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>YO ANDO CON CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>.</br>
+        <br>Muy triste en pecado y en noche me vi,</br>
+        <br>Mas ya vivo alegre, a Cristo volví;</br>
+        <br>Y todos los días yo canto a Jesús,</br>
+        <br>Yo ando con Cristo y tengo su luz.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Yo voy con el Rey, ¡Aleluya!</br>
+        <br>Yo ando con Cristo el Rey;</br>
+        <br>No vago ya más, al cielo me voy:</br>
+        <br>Tan sólo de Cristo yo soy.</br>
+        <br>Por años y años sin Cristo viví,</br>
+        <br>Y nunca en mi vida feliz yo me vi;</br>
+        <br>Mas hoy con las aves elevo mi voz,</br>
+        <br>Y canto feliz, pues del Rey voy en pos.</br>
+        <br>¡Oh alma que estas en el valle sin luz,</br>
+        <br>Si miras arriba verás a Jesús!</br>
+        <br>¡Ven sube, más cerca, ven pronto al Señor!</br>
+        <br>Es Cristo tu luz y tu fiel Salvador.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

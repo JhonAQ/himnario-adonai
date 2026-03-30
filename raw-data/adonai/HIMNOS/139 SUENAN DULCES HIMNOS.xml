@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>SUENAN DULCES HIMNOS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¡Suenen dulces himnos, gratos al Señor,</br>
+        <br>Y óiganse en concierto universal!</br>
+        <br>Desde el alto cielo baja el Salvador</br>
+        <br>Para el beneficio del mortal.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Gloria!, ¡gloria sea a nuestro Dios!</br>
+        <br>¡Gloria, sí, cantemos a una voz!</br>
+        <br>Y el cantar de gloria que se oyó en Belén</br>
+        <br>Sea nuestro cántico también.</br>
+        <br>Montes y collados fluyan leche y miel,</br>
+        <br>Y abundancia esparzan y solaz;</br>
+        <br>Gócense los pueblos, gócese Israel,</br>
+        <br>Que a la tierra viene ya la paz.</br>
+        <br>Salte de alegría, lleno el corazón,</br>
+        <br>La abatida y pobre humanidad;</br>
+        <br>Dios se compadece viendo su aflicción,</br>
+        <br>Y le muestra buena voluntad.</br>
+        <br>Lata en nuestros pechos noble gratitud</br>
+        <br>Hacia quien nos brinda redención:</br>
+        <br>Y a Jesús el Cristo que nos da salud,</br>
+        <br>Tributemos nuestra adoración.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

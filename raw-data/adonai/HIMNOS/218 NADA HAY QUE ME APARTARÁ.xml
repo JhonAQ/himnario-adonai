@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>NADA HAY QUE ME APARTARÁ</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>Nada hay que me apartara,</br>
+        <br>De Cristo y de su amor,</br>
+        <br>Pues Él de veras amara,</br>
+        <br>Al pobre pecador.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Yo te amo ¡oh, mi Salvador!</br>
+        <br>Más que a lo terrenal,</br>
+        <br>Me das consuelo, paz y amor,</br>
+        <br>Y el Reino celestial.</br>
+        <br>2</br>
+        <br>Saber que Cristo es me sostén,</br>
+        <br>Me alegra el corazón,</br>
+        <br>Pues Él es mi supremo bien,</br>
+        <br>Me da la salvación.</br>
+        <br>3</br>
+        <br>Señor, si cerca estás de mí,</br>
+        <br>Se ahuyenta el temor,</br>
+        <br>Perdón completo encuentro en Ti,</br>
+        <br>El pobre pecador.</br>
+        <br>4</br>
+        <br>Jesús, mi amable y buen Pastor,</br>
+        <br>De Dios supremo Don,</br>
+        <br>Aparta mi alma de dolor,</br>
+        <br>Me da consolación.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

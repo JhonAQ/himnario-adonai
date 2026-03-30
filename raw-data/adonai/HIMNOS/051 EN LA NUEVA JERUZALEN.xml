@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EN LA NUEVA JERUZALEN</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Cuando cesen los conflictos de la vida terrenal</br>
+        <br>Y dejemos este mundo de aflicción,</br>
+        <br>Entraremos por las puertas de la patria celestial</br>
+        <br>En la nueva Jerusalén.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Cantaremos con los santos la canción de redención,</br>
+        <br>En Jerusalén…, En Jerusalén…,</br>
+        <br>Con acentos de alegría alabando al Salvador,</br>
+        <br>En la gran Jerusalén.</br>
+        <br>Aunque el mar embravecido y las olas del turbión</br>
+        <br>Siempre agiten nuestra pobre embarcación,</br>
+        <br>Fiando en Cristo llegaremos a la playa celestial</br>
+        <br>De la nueva Jerusalén.</br>
+        <br>Consagremos nuestras vidas al servicio del Señor,</br>
+        <br>Siempre hablemos de su grande salvación;</br>
+        <br>Si en su viña trabajamos nos espera galardón</br>
+        <br>En la nueva Jerusalén.</br>
+        <br>En aquel país hermoso do jamás se dice “adiós”,</br>
+        <br>Gozaremos del descanso sin afán;</br>
+        <br>Cara a cara allá veremos a Jesús, quien nos salvó,</br>
+        <br>En la nueva Jerusalén.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

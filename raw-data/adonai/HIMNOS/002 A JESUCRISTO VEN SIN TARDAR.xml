@@ -1,0 +1,37 @@
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>A JESUCRISTO VEN SIN TARDAR</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+    <verseOrder>v1 c v2 c v3 c</verseOrder>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A Jesucristo ven sin tardar,
+Que entre nosotros hoy él está,
+Y te convida con dulce afán,
+Tierno diciendo: “Ven”.</lines>
+    </verse>
+    <verse name="c">
+      <lines>¡Oh!, cuán grata nuestra reunión,
+Cuando allá, Señor, en tu mansión,
+Contigo estemos en comunión,
+Gozando eterno bien.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Piensa que él solo puede colmar
+Tu triste pecho de gozo y paz;
+Y por que anhela tu bienestar,
+Vuelve a decirte: “Ven”.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Su voz escucha sin vacilar,
+Y grato acepta lo que hoy te da.
+Tal vez mañana no habrá lugar
+No te detengas, Ven.</lines>
+    </verse>
+  </lyrics>
+</song>

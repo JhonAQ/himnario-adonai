@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LA SIEMBRA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Sembraré la simiente preciosa</br>
+        <br>Del glorioso evangelio de amor;</br>
+        <br>Sembraré, sembraré mientras viva,</br>
+        <br>Dejaré el resultado al Señor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Sembraré, sembraré,</br>
+        <br>Mientras viva, simiente de amor.</br>
+        <br>Segaré, segaré,</br>
+        <br>Mas allá en la mansión del Señor.</br>
+        <br>Sembraré en corazones sensibles</br>
+        <br>La doctrina del Dios de perdón.</br>
+        <br>Sembraré, sembraré mientras viva,</br>
+        <br>Dejaré el resultado al Señor.</br>
+        <br>Sembraré en corazones de mármol</br>
+        <br>La bendita palabra de Dios;</br>
+        <br>Sembraré, sembraré mientras viva,</br>
+        <br>Dejare el resultado al Señor.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

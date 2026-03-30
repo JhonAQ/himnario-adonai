@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EN BUSCA DE OBREROS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Cristo está buscando obreros hoy</br>
+        <br>Que quieran  ir con él,</br>
+        <br>¿Quién  dirá: “Señor contigo voy</br>
+        <br>Yo quiero serte fiel”?</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Oh Señor, es mucha la labor,</br>
+        <br>Y obreros faltan ya;</br>
+        <br>Danos luz, ardiente fe y valor,</br>
+        <br>Y obreros siempre habrá!</br>
+        <br>Cristo quiere mensajeros hoy,</br>
+        <br>Que  anuncien su verdad;</br>
+        <br>¿Quién dirá: “Señor yo listo estoy,</br>
+        <br>Haré tu voluntad”?</br>
+        <br>Hay lugar si quieres trabajar,</br>
+        <br>De cristo en la labor;</br>
+        <br>Puedes de su gloria al mundo hablar,</br>
+        <br>De su bondad y amor.</br>
+        <br>¿Vives ya salvado por Jesús,</br>
+        <br>Su amor conoces ya?</br>
+        <br>¡Habla, pues, anuncia que en la luz</br>
+        <br>De Cristo vives ya!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

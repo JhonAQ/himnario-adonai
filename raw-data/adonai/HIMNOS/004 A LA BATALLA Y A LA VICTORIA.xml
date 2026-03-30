@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>A LA BATALLA Y A LA VICTORIA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¡A la batalla y a la victoria!</br>
+        <br>Vamos con Dios nuestro Rey,</br>
+        <br>Que con su brazo fuerte y robusto</br>
+        <br>Siempre defiende su grey.</br>
+        <br>Pues sin temor avancemos</br>
+        <br>Entusiasmados por fe,</br>
+        <br>Mientras alegres cantemos</br>
+        <br>Gloria a Dios nuestro Rey.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>No es la victoria de los ligeros,</br>
+        <br>No de los fuertes la paz;</br>
+        <br>Más de los fieles en Cristo</br>
+        <br>Es el eterno solaz.</br>
+        <br>¡A la batalla y a la victoria!</br>
+        <br>¿Quién será este buen Rey?</br>
+        <br>¿Cuáles las tropas que así lo siguen</br>
+        <br>En esta lucha de fe?</br>
+        <br>Es Jehová el valiente</br>
+        <br>De los señores Señor,</br>
+        <br>Acompañado por todos</br>
+        <br>Los que aprecian su amor.</br>
+        <br>¡A la batalla y a la victoria!</br>
+        <br>Bajo tan buen General</br>
+        <br>Derrotaremos, ya enseguida,</br>
+        <br>Todas las fuerzas del mal.</br>
+        <br>Reinos y tropas, aun mundos,</br>
+        <br>Todos al fin pasarán,</br>
+        <br>Mas los amados en Cristo</br>
+        <br>Vida eterna tendrán.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

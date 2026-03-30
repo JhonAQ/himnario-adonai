@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>MI MANSIÓN CELESTIAL</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Dejé la vida mundanal,</br>
+        <br>Los goces y la vanidad;</br>
+        <br>Y ¿quieres la razón saber?</br>
+        <br>Un sitio busco celestial.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>En esa patria celestial</br>
+        <br>Un bello y dulce hogar tendré,</br>
+        <br>En la mansión do Cristo está</br>
+        <br>Eterna gloria gozaré.</br>
+        <br>Muchos me quieren desviar</br>
+        <br>De la carrera que tomé;</br>
+        <br>Su voz no quiero escuchar,</br>
+        <br>Al sitio celestial iré.</br>
+        <br>¡Oh!, ven conmigo, pecador,</br>
+        <br>A esa célica mansión,</br>
+        <br>Acude a tu Salvador,</br>
+        <br>Acepta el inefable don.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

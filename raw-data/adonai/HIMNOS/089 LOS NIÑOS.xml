@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LOS NIÑOS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>, JOYAS DE CRISTO</br>
+        <br>Los niños son de Cristo, él es su Salvador,</br>
+        <br>Son joyas muy preciosas, comprólas con su amor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Joyas, joyas, joyas, joyas del Salvador,</br>
+        <br>Están en esta tierra cual luz y dulce amor.</br>
+        <br>Los niños son tesoros, pues que del cielo son;</br>
+        <br>Luz refulgente esparcen en horas de aflicción.</br>
+        <br>Los niños son estrellas de grata claridad;</br>
+        <br>Quiere Jesús que anuncie al mundo su verdad.</br>
+        <br>Los niños son de Cristo, por ellos él vendrá;</br>
+        <br>Y con él para siempre dichosos vivirán.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

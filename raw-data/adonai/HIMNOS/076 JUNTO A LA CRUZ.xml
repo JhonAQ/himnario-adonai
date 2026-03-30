@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>JUNTO A LA CRUZ</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Junto a la cruz do Jesús murió,</br>
+        <br>Junto a la cruz do salud pedí,</br>
+        <br>Ya mis maldades él perdonó,</br>
+        <br>¡A su nombre gloria!</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡A su nombre gloria!</br>
+        <br>¡A su nombre gloria!</br>
+        <br>Ya mis maldades el perdonó,</br>
+        <br>¡A su nombre gloria!</br>
+        <br>Junto a la cruz donde le busqué,</br>
+        <br>¡Cuán admirable perdón me dió!</br>
+        <br>Ya con Jesús siempre viviré,</br>
+        <br>¡A su nombre gloria!</br>
+        <br>Fuente preciosa de Salvación,</br>
+        <br>Que grande gozo yo pude hallar,</br>
+        <br>Al encontrar en Jesús perdón,</br>
+        <br>¡A su nombre gloria!</br>
+        <br>Tú, pecador, que perdido estás,</br>
+        <br>Hoy esta fuente ven a buscar,</br>
+        <br>Paz y perdón encontrar podrás,</br>
+        <br>¡A su nombre gloria!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

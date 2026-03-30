@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>PRESENTIMOS DEL MUNDO DICHOSO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Presentimos del mundo dichoso</br>
+        <br>Los placeres que Dios nos dará;</br>
+        <br>El país lo creemos hermoso:</br>
+        <br>Mas hallarnos allí ¿Qué será?</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¿Qué será? ¿Qué será?</br>
+        <br>Más hallarnos allí ¿Qué será?</br>
+        <br>¿Qué será? ¿Qué será?</br>
+        <br>Más hallarnos allí ¿Qué será?</br>
+        <br>Esperamos el gozo, la gloria,</br>
+        <br>La grandeza sin fin que tendrá</br>
+        <br>El mortal que ganó la victoria:</br>
+        <br>Más hallarnos allí ¿Qué será?</br>
+        <br>Anhelamos el día esplendente</br>
+        <br>Que en el santo país brillará</br>
+        <br>Por Jesús el Cordero inocente:</br>
+        <br>Más hallarnos allí ¿Qué será?</br>
+        <br>Bien sabemos que llanto, ni duelo,</br>
+        <br>Ni pecados ni males habrá</br>
+        <br>En la casa de Dios en el cielo:</br>
+        <br>Más hallarnos allí ¿Qué será?</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

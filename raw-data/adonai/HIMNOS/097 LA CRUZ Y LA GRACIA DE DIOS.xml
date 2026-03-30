@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LA CRUZ Y LA GRACIA DE DIOS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>La cruz no será más pesada</br>
+        <br>Que la gracia que él me da;</br>
+        <br>Y si la tormenta me espanta</br>
+        <br>No podrá esconder su faz.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>La gracia de Dios me bastará,</br>
+        <br>Su ayuda jamás me faltará:</br>
+        <br>Consolado por su amor</br>
+        <br>Que echa fuera mi temor,</br>
+        <br>Confiaré en mi Señor.</br>
+        <br>Mi cáliz nunca es tan amargo,</br>
+        <br>Como el de Getsemaní;</br>
+        <br>En mis días más apurados</br>
+        <br>No se aparta Dios de mí.</br>
+        <br>La luz de su rostro me alumbra,</br>
+        <br>En el tiempo de aflicción;</br>
+        <br>Y mi alma gozosa vislumbra</br>
+        <br>El palacio de mi Dios.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

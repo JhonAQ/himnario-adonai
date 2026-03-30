@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>HUBO QUIEN POR MIS CULPAS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Hubo quien por mis culpas muriese en la cruz</br>
+        <br>Aun indigno y vil como soy;</br>
+        <br>Soy feliz, pues su sangre vertió mi Jesús,</br>
+        <br>Y con ellas mis culpas borró.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Mis pecados llevó, en la cruz do murió</br>
+        <br>El sublime, el tierno Jesús,</br>
+        <br>Los desprecios sufrió, y mi alma salvó,</br>
+        <br>El cambió mis tinieblas en luz.</br>
+        <br>Él es tierno y amante, cual nadie lo fue,</br>
+        <br>Pues convierte al infiel corazón;</br>
+        <br>Y por esa paciencia y ternura yo sé</br>
+        <br>Que soy libre de condenación.</br>
+        <br>Es mi anhelo constante a Cristo seguir:</br>
+        <br>Mi camino su ejemplo marcó;</br>
+        <br>Y por darme la vida él quiso morir:</br>
+        <br>En su cruz mi pecado clavó.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

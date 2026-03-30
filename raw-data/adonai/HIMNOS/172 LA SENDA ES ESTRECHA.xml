@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LA SENDA ES ESTRECHA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Ya no es mi vida cual antes fue,</br>
+        <br>Borrado el pecado está:</br>
+        <br>Hoy canto feliz: ¡Aleluya!</br>
+        <br>Y voy feliz al dulce hogar.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>La senda es muy estrecha más la sigo,</br>
+        <br>La sigo, la sigo;</br>
+        <br>La senda es muy estrecha más la sigo:</br>
+        <br>Yo la sigo por las huellas de Jesús.</br>
+        <br>Mi vida fue cruel desilusión,</br>
+        <br>Ni amigo constante hallé:</br>
+        <br>Más luz y muy grato consuelo</br>
+        <br>Hallé en mi buen Salvador.</br>
+        <br>Ya no más luto ni cruel pesar,</br>
+        <br>Cual nubes huyeron ya;</br>
+        <br>Al cielo yo miro gozoso,</br>
+        <br>Do hay gloria, gloria sin fin.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

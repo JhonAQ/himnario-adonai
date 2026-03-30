@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>SOLO CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Yo halle un fiel amigo para siempre,</br>
+        <br>Más que hermano, padre o madre es él;</br>
+        <br>Más que plata, o que oro, o que cobre,</br>
+        <br>Es de todo Jesucristo el más fiel.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>//Sólo Cristo, Sólo Cristo,</br>
+        <br>Sólo Cristo, Sólo Cristo</br>
+        <br>Es el lirio de los valles, mi Jesús //</br>
+        <br>De Sarón él es la rosa tan fragante,</br>
+        <br>Y del valle de lirio puro es él;</br>
+        <br>En el alma quebrantada y tan triste</br>
+        <br>Sus olores de amor exhala Él.</br>
+        <br>Es Jesús benigno, tierno, compasivo,</br>
+        <br>Lento en ira, grande en perdonar;</br>
+        <br>El levanta con amor al abatido,</br>
+        <br>Sólo sabe Jesucristo cómo amar.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

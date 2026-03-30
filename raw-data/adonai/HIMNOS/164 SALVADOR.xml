@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>SALVADOR</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>, A TI ACUDO</br>
+        <br>Salvador, a ti acudo,</br>
+        <br>Príncipe de amor,</br>
+        <br>Solo en ti hay paz y vida</br>
+        <br>Para el pecador.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Cristo, Cristo, tierno Salvador,</br>
+        <br>Oye mi humilde ruego,</br>
+        <br>Sálvame, Señor.</br>
+        <br>Salvación y paz buscando</br>
+        <br>Vengo yo a tú cruz;</br>
+        <br>En tú sangre estoy confiando</br>
+        <br>Sálvame, Jesús.</br>
+        <br>Son tus méritos la fuente</br>
+        <br>De mi salvación;</br>
+        <br>En tú sacrificio encuentro</br>
+        <br>Gracia y perdón.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

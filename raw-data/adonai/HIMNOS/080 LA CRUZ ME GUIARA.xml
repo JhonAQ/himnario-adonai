@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LA CRUZ ME GUIARA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Al calvario solo Jesús ascendió</br>
+        <br>Llevando pesada cruz,</br>
+        <br>Y al morir en ella al mortal dejó</br>
+        <br>Un fanal de gloriosa luz.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>La cruz sólo me guiará;</br>
+        <br>La cruz sólo me guiará;</br>
+        <br>A mi hogar de paz y eterno amor,</br>
+        <br>La cruz sólo me guiará.</br>
+        <br>En la cruz el alma tan solo hallará</br>
+        <br>La fuente de inspiración;</br>
+        <br>Nada grande y digno en el mundo habrá</br>
+        <br>Que en la cruz no halle aprobación.</br>
+        <br>Yo por ella voy a mi hogar celestial,</br>
+        <br>El rumbo marcando está;</br>
+        <br>En mi oscura vida será el fanal</br>
+        <br>Y a su luz mi alma siempre irá.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>DESPLIEGUE EL CRISTIANO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Despliegue el cristiano su santa bandera</br>
+        <br>Y muéstrela ufano del mundo a la faz:</br>
+        <br>¡Soldados valientes!, el triunfo os espera;</br>
+        <br>Seguid vuestra lucha constante y tenaz.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Cristo nos guía, es nuestro jefe,</br>
+        <br>Y con nosotros siempre estará;</br>
+        <br>Nada temamos, él nos alienta,</br>
+        <br>Y a la victoria llevarnos podrá.</br>
+        <br>Despliegue el cristiano su santa bandera,</br>
+        <br>Domine baluartes y almenas a mil;</br>
+        <br>La biblia bendita conquiste doquiera,</br>
+        <br>Y ante ella se incline la turba gentil.</br>
+        <br>Despliegue el cristiano su santa bandera</br>
+        <br>Y luzca en el frente de audaz torreón:</br>
+        <br>El monte y la villa, la hermosa pradera,</br>
+        <br>Contemplen ondeando tan bello pendón.</br>
+        <br>Despliegue el cristiano su santa bandera,</br>
+        <br>Predique a los pueblos el libro inmortal;</br>
+        <br>Presente a los hombres la luz verdadera</br>
+        <br>Que vierte ese claro, luciente fanal.</br>
+        <br>Despliegue el cristiano su santa bandera,</br>
+        <br>Y muéstrese bravo batiéndose fiel:</br>
+        <br>Para él no habrá foso, para él no hay barrera:</br>
+        <br>Que lucha a su lado el divino Emanuel.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

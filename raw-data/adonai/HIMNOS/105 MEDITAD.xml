@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>MEDITAD</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Meditad en que hay un hogar,</br>
+        <br>En el margen del río de luz,</br>
+        <br>Donde van para siempre a gozar</br>
+        <br>Los creyentes en Cristo Jesús.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Más allá, más allá,</br>
+        <br>Meditad en que hay un hogar,</br>
+        <br>Más allá, más allá, más allá,</br>
+        <br>En el margen del rio de luz.</br>
+        <br>Meditad en que amigos tenéis,</br>
+        <br>De los cuales marchamos en pos,</br>
+        <br>Y pensad en que al fin los veréis,</br>
+        <br>En el alto palacio de Dios.</br>
+        <br>En que mora Jesús meditad,</br>
+        <br>Donde seres que amamos están,</br>
+        <br>Y a la patria bendita volad,</br>
+        <br>Sin angustias, temores ni afán.</br>
+        <br>Reunido a los míos seré,</br>
+        <br>Mi carrera a su fin toca ya;</br>
+        <br>Y en mi hogar celestial entraré,</br>
+        <br>Donde mi alma reposo tendrá.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

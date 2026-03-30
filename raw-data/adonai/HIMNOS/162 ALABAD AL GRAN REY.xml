@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>ALABAD AL GRAN REY</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Solemnes resuenen las voces de amor,</br>
+        <br>Con gran regocijo tributen loor</br>
+        <br>Al Rey Soberano, el Buen Salvador;</br>
+        <br>Dignísimo es él del más alto honor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Alabad, alabad, alabad al gran Rey,</br>
+        <br>Adorad, adorad, adoradle su grey.</br>
+        <br>Es nuestro Escudo, Baluarte y Sostén,</br>
+        <br>El Omnipotente por siglos, Amén.</br>
+        <br>Su amor infinito, ¿Qué lengua dirá?</br>
+        <br>Y ¿Quién sus bondades jamás sondeará?</br>
+        <br>Su Misericordia no puede faltar,</br>
+        <br>Mil himnos</br>
+        <br>alaben su nombre sin parar.</br>
+        <br>Inmensa la obra de Cristo en la cruz,</br>
+        <br>Enorme la culpa se ve por su luz:</br>
+        <br>Al mundo él vino, nos iluminó,</br>
+        <br>Y por nuestras culpas el Justo murió.</br>
+        <br>Velad, fieles todos, velad con fervor,</br>
+        <br>Que viene muy pronto Jesús, el Señor.</br>
+        <br>Con notas alegres vendrá a reinar;</br>
+        <br>A su eterna gloria os ha de llevar.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

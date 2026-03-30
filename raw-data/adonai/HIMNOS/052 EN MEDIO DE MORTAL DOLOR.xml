@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EN MEDIO DE MORTAL DOLOR</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>En medio de mortal dolor,</br>
+        <br>La cruenta cruz yo ví:</br>
+        <br>Y allí raudal de gracia hallé,</br>
+        <br>Bastante para mí</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>En la cruz fluye sin cesar,</br>
+        <br>Insondable cual es el mar,</br>
+        <br>Esta gracia que brota allí,</br>
+        <br>Basta para mí.</br>
+        <br>Sufriendo fue mi corazón,</br>
+        <br>Y apenas pude allí</br>
+        <br>Creer que gracia habría de hallar</br>
+        <br>Bastante  para mí.</br>
+        <br>Cuando en la cruz clavadas ya,</br>
+        <br>Mis culpas yo sentí,</br>
+        <br>Raudal de gracia en mí entró,</br>
+        <br>Bastante para mí.</br>
+        <br>Cuando en el cielo con Jesús,</br>
+        <br>Alegre cante allí,</br>
+        <br>Diré que aquella gracia fue</br>
+        <br>Bastante para mí.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>NÍ TIDO RAYO POR CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Nítido rayo por Cristo</br>
+        <br>Yo quiero siempre ser;</br>
+        <br>En todo quiero agradarle</br>
+        <br>Y hacerlo con placer.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Un nítido rayo,</br>
+        <br>Nítido rayo por Cristo;</br>
+        <br>Un nítido rayo,</br>
+        <br>Nítido rayo seré.</br>
+        <br>A Cristo quiero llegarme</br>
+        <br>En mi temprana edad;</br>
+        <br>Por siempre quiero amarle</br>
+        <br>Y hacer su voluntad.</br>
+        <br>Nítido rayo en tinieblas</br>
+        <br>Deseo resplandecer;</br>
+        <br>Almas perdidas a Cristo,</br>
+        <br>Anhelo conducir.</br>
+        <br>Una mansión en el cielo</br>
+        <br>Fue Cristo a preparar,</br>
+        <br>Que el niño tierno y amante</br>
+        <br>En ella pueda entrar.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>SOLDADOS DE CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Soldados de Cristo que estáis en la lid,</br>
+        <br>Luchad sin desmayo, pelead con valor:</br>
+        <br>Seguid adelante y luchando decid:</br>
+        <br>¡Rendíos a Cristo, él es el Señor!</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Oh jóvenes, niños y ancianos, marchad,</br>
+        <br>Llevando en las manos las armas de luz;</br>
+        <br>Las almas perdidas con celo buscad,</br>
+        <br>Y presto llevadlas a Cristo Jesús.</br>
+        <br>Pelead, ¡Oh cristianos!, la causa es de Dios:</br>
+        <br>Seguid adelante, luchad por Jesús;</br>
+        <br>Sed siempre valientes y alzad vuestra voz,</br>
+        <br>Diciendo que Cristo murió en una cruz.</br>
+        <br>La aurora se acerca del día final</br>
+        <br>En que han de premiarse la fe y el valor:</br>
+        <br>Entonces Jesús, galardón celestial,</br>
+        <br>Dará a los que al mundo anunciaron su amor.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

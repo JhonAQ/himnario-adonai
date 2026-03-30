@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>BRILLA EN TU LUGAR</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Nunca esperes el momento de una grande acción,</br>
+        <br>Ni que pueda lejos ir tu luz;</br>
+        <br>De la vida a los pequeños actos de atención,</br>
+        <br>Brilla en el sitio donde estés.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Brilla en el sitio donde estés,</br>
+        <br>Brilla en el sitio donde estés,</br>
+        <br>Puedes con tu luz algún perdido rescatar,</br>
+        <br>Brilla en el sitio donde estés</br>
+        <br>Puedes en tu cielo alguna nube disipar,</br>
+        <br>Haz a un lado tu egoísmo cruel;</br>
+        <br>Aunque sólo un corazón pudieres consolar,</br>
+        <br>Brilla en el sitio donde estés.</br>
+        <br>Puede tu talento alguna cosa descubrir</br>
+        <br>Do tu luz podrá resplandecer;</br>
+        <br>De tu mano el pan de vida puede aquí venir,</br>
+        <br>Brilla en el sitio donde estés.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

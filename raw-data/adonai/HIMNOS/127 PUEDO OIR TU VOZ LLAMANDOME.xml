@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>PUEDO OIR TU VOZ LLAMANDOME</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Puedo oír la voz de Cristo,</br>
+        <br>Tiernamente está llamando,</br>
+        <br>Puedo oír el llamamiento:</br>
+        <br>Trae tu cruz y ven en pos de mí.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Seguiré do tú me guíes,</br>
+        <br>Seguiré do tú me guíes,</br>
+        <br>Salvador seguirte quiero,</br>
+        <br>Donde quiera fiel te seguiré.</br>
+        <br>Yo te seguiré en el huerto,</br>
+        <br>Por la vía dolorosa,</br>
+        <br>Y con mi alma tan gozosa,</br>
+        <br>Sufriré contigo, mi Jesús.</br>
+        <br>Sufriré por ti, Maestro,</br>
+        <br>No me faltara tu mano;</br>
+        <br>Y si tú irás conmigo,</br>
+        <br>Moriré contigo, mi Jesús.</br>
+        <br>Me darás tu plena gracia,</br>
+        <br>Yo veré tu eterna gloria,</br>
+        <br>Contaré la antigua historia,</br>
+        <br>Y por siempre tú me guiaras.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

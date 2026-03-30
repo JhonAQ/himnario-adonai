@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>DIGNO ES EL CORDERO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Digno es el Cordero que inmolado fue</br>
+        <br>De tomar el reino, honra, gloria y prez;</br>
+        <br>Para abrir el libro nadie se encontró:</br>
+        <br>El fue solo digno: ¡Cante nuestra voz!</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>A Jesús loor, a Jesús loor,</br>
+        <br>A Jesús loor, porque él es digno,</br>
+        <br>A Jesús loor, a Jesús loor,</br>
+        <br>A Jesús loor, porque él es digno.</br>
+        <br>Digno es el cordero que en la cruz murió</br>
+        <br>Por llevar el mundo cerca de su Dios;</br>
+        <br>Y donde reinaba densa oscuridad</br>
+        <br>El la luz del cielo vino a derramar.</br>
+        <br>Digno es el Cordero, canten voces mil,</br>
+        <br>Que a la raza humana vino a redimir:</br>
+        <br>Digno es el Cordero: ¡Salvación a él!</br>
+        <br>Y al que está en el trono, hoy y siempre. ¡Amén!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

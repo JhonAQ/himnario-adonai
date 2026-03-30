@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>DEJO EL MUNDO Y SIGO A CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Dejo el mundo y sigo a Cristo,</br>
+        <br>Por qué el mundo pasará;</br>
+        <br>Mas su amor, amor bendito,</br>
+        <br>Por los siglos durará.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Oh, qué gran misericordia!</br>
+        <br>¡Oh, de amor sublime don!</br>
+        <br>¡Plenitud de vida eterna,</br>
+        <br>Prenda viva de perdón!</br>
+        <br>Dejo el mundo y sigo a Cristo,</br>
+        <br>Paz y gozo en el tendré,</br>
+        <br>Y al mirar que va conmigo</br>
+        <br>Siempre salvo cantaré.</br>
+        <br>Dejo el mundo y sigo a Cristo,</br>
+        <br>Su sonrisa quiero ver;</br>
+        <br>Como luz que en mi camino</br>
+        <br>Haga aquí resplandecer.</br>
+        <br>Dejo el mundo y sigo a Cristo,</br>
+        <br>Acogiéndome a su cruz;</br>
+        <br>¡Y después ir a mirarle</br>
+        <br>Cara a cara en plena luz!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>YA PERTENESCO A CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>Cristo el Señor me ama por siempre,</br>
+        <br>Mi vida guarda tan tiernamente;</br>
+        <br>Vence el pecado, cuida del mal,</br>
+        <br>Ya pertenezco a él.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Ya pertenezco a Cristo,</br>
+        <br>Y él permanece a mí;</br>
+        <br>Es mío por la eternidad</br>
+        <br>Y en esta vida aquí</br>
+        <br>2.</br>
+        <br>Cristo bajó del cielo y buscóme,</br>
+        <br>Lleno de vil pecado encontróme ;</br>
+        <br>Me levanto de vergüenzas mil,</br>
+        <br>Ya pertenezco a él.</br>
+        <br>3</br>
+        <br>Gozo indecible inunda ya mi alma,</br>
+        <br>Siento en mí ser la célica calma;</br>
+        <br>El me llenó de felicidad.</br>
+        <br>Ya pertenezco a él.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

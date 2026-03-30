@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EN LA CRUZ</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Me hirió el pecado, fui a Jesús,</br>
+        <br>Mostréle mi dolor;</br>
+        <br>Perdido, errante, vi su luz,</br>
+        <br>Bendíjome en su amor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>En la cruz, en la cruz,</br>
+        <br>Do primero vi la luz,</br>
+        <br>Y las manchas de mi alma yo lavé:</br>
+        <br>Fue allí por fe do vi a Jesús,</br>
+        <br>Y siempre feliz con él seré.</br>
+        <br>Sobre una cruz, mi buen Señor,</br>
+        <br>Su sangre derramo,</br>
+        <br>Por este pobre pecador</br>
+        <br>A quien así salvó.</br>
+        <br>Venció la muerte con poder,</br>
+        <br>Y al cielo se exaltó;</br>
+        <br>Confiar en él es mi placer,</br>
+        <br>Morir no temo yo.</br>
+        <br>Aunque él se fue solo no estoy:</br>
+        <br>Mandó al consolador,</br>
+        <br>Divino Espíritu, que hoy</br>
+        <br>Me da perfecto amor.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

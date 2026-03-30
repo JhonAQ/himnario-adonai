@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CRISTO LA ROCA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>En las olas inmensas de embravecido mar,</br>
+        <br>Que asaltan de mi alma la pobre embarcación,</br>
+        <br>De rodillas a Cristo clamé, y el huracán</br>
+        <br>Deshecho fue al instante a la voz de Dios.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Es Cristo la Roca, el ancla de mi fe;</br>
+        <br>Los males, lamentos, y ayes de temor,</br>
+        <br>Terminan por siempre, con mi supremo Rey;</br>
+        <br>Es Jesucristo mi refugio.</br>
+        <br>Me guarda de peligros, de pruebas, de dolor;</br>
+        <br>Él manda que los vientos no agiten tempestad</br>
+        <br>Los mares se detienen, la ola reposó,</br>
+        <br>Y en Cristo fijo el ancla, confiando más.</br>
+        <br>Mi dulce salvador, sí, mi hermoso amigo y Dios,</br>
+        <br>Que libra de tristezas y aleja amarga hiel:</br>
+        <br>Por fe yo iré al cielo, mansión del ser de amor,</br>
+        <br>La fuente inagotable de dicha y bien.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

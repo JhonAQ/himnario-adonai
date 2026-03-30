@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CON CRISTO YO IRE</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Ya sea en el valle do el peligro esté</br>
+        <br>O que en la luz gloriosa de paz habite yo,</br>
+        <br>A mi Jesús diré: “Tu voluntad hare”;</br>
+        <br>Si Cristo me guía doquiera yo iré.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Si Cristo conmigo va, yo iré,</br>
+        <br>Yo no temeré, con gozo iré,</br>
+        <br>Conmigo va; es grato servir a Jesús,</br>
+        <br>Llevar la cruz:</br>
+        <br>Si Cristo conmigo va, yo iré.</br>
+        <br>Si al desierto quiere Jesús que vaya yo,</br>
+        <br>Llevando buenas nuevas de santa salvación;</br>
+        <br>Si allí, en dura lid, mi campo señaló,</br>
+        <br>A Cristo yo sigo sin más dilación.</br>
+        <br>Aunque mi parte sea mi dura cruz llevar,</br>
+        <br>Diré a mis hermanos también su gran poder;</br>
+        <br>Contento quedaré, mi luz hare brillar,</br>
+        <br>¡Testigo de Cristo, doquiera yo iré!</br>
+        <br>La voluntad de Cristo yo quiero obedecer,</br>
+        <br>Pues en la santa biblia encuentro mi saber</br>
+        <br>Y con su gran poder al mundo venceré,</br>
+        <br>Si él va conmigo, doquiera yo iré.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

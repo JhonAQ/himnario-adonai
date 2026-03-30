@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>GRANDE  GOZO HAY EN MI ALMA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Grande gozo hay en mi alma hoy,</br>
+        <br>Pues Jesús conmigo esta;</br>
+        <br>Y su paz, que ya gozando estoy</br>
+        <br>Por siempre durará.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Grande gozo, ¡cuán hermoso!</br>
+        <br>Paso todo el tiempo muy feliz;</br>
+        <br>Porque veo en Cristo duradera paz,</br>
+        <br>Grande gozo siento en mí.</br>
+        <br>Hay un canto en mi alma hoy;</br>
+        <br>Melodías a mi Rey:</br>
+        <br>En su amor feliz y libre soy,</br>
+        <br>Y salvo por la fe.</br>
+        <br>Paz divina hay en mi alma hoy,</br>
+        <br>Porque Cristo me salvó;</br>
+        <br>Salvo y libre, gloria a Él le doy,</br>
+        <br>Jesús me libertó.</br>
+        <br>Gratitud hay en mi alma hoy,</br>
+        <br>Y alabanzas a Jesús;</br>
+        <br>A la gloria por su gracia voy,</br>
+        <br>Gozándome en la luz.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

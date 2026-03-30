@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EN LOS NEGOCIOS DEL REY</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Soy peregrino aquí, mi hogar lejano está,</br>
+        <br>En la mansión de luz, eterna paz y amor;</br>
+        <br>Embajador yo soy del reino celestial</br>
+        <br>En los negocios de mi Rey.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Este mensaje fiel oíd,</br>
+        <br>Que anuncia la celeste voz:</br>
+        <br>“Reconciliaos hoy” dice el Señor y Rey,</br>
+        <br>¡Reconciliaos hoy con Dios!</br>
+        <br>Que del pecado vil arrepentidos ya,</br>
+        <br>Han de reinar con el los que obedientes son:</br>
+        <br>Es el mensaje fiel que debo proclamar,</br>
+        <br>En los negocios de mi Rey.</br>
+        <br>Mi hogar más bello es que el valle de Sarón,</br>
+        <br>Eterno gozo y paz reinan por siempre en él,</br>
+        <br>Y allí Jesús dará eterna habitación;</br>
+        <br>Es el mensaje de mi Rey.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

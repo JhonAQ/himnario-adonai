@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LUGAR PARA CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Tú dejaste tu trono y corona por mí</br>
+        <br>Al venir a Belén a nacer;</br>
+        <br>Mas a ti no fue dado el entrar al mesón,</br>
+        <br>Y en pesebre te hicieron nacer.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Ven a mi corazón, ¡oh Cristo!,</br>
+        <br>Pues en él hay lugar para ti;</br>
+        <br>Ven a mi corazón, ¡oh Cristo!, ven.</br>
+        <br>Pues en él hay lugar para ti.</br>
+        <br>Alabanzas celestes los ángeles dan,</br>
+        <br>En que rinden al verbo loor;</br>
+        <br>Más humilde viniste a la tierra, Señor,</br>
+        <br>A dar vida al más vil pecador.</br>
+        <br>Siempre pueden las zorras sus cuevas tener,</br>
+        <br>Y las aves sus nidos también;</br>
+        <br>Mas el hijo del hombre no tuvo un lugar</br>
+        <br>En el cual reclinara su sien.</br>
+        <br>Alabanzas sublimes los cielos darán,</br>
+        <br>Cuando vengas glorioso de allí;</br>
+        <br>Y tu voz entre nubes dirá: “Ven a mí,</br>
+        <br>Que hay lugar junto a mí para ti”.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

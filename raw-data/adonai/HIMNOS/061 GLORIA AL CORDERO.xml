@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>GLORIA AL CORDERO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Cristo mío, me salvaste,</br>
+        <br>Tuyo soy, tuyo seré;</br>
+        <br>Por su sangre derramada</br>
+        <br>Vida eterna gozaré.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Gloria, gloria al Cordero!</br>
+        <br>¡Gloria, gloria a Jesús!</br>
+        <br>Ya soy limpio por su sangre,</br>
+        <br>¡Gloria, gloria a Jesús!</br>
+        <br>Mucho tiempo solo anduve,</br>
+        <br>Lejos de tu dulce amor,</br>
+        <br>Más ahora por tu gracia</br>
+        <br>Tengo paz en ti Señor.</br>
+        <br>En la fuente de la vida,</br>
+        <br>Fui limpiado por la fe;</br>
+        <br>Consagrado a tu servicio,</br>
+        <br>Para ti ya viviré.</br>
+        <br>¡Gloria a Cristo, el Cordero!</br>
+        <br>Que murió en una cruz;</br>
+        <br>¡Gloria Él!, me guarda siempre</br>
+        <br>En su gozo, paz y luz.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

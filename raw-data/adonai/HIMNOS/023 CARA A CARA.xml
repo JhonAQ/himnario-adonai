@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CARA A CARA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Yo anhelo ver tu rostro;</br>
+        <br>Contemplarte en tu esplendor;</br>
+        <br>En el cielo donde moras,</br>
+        <br>Oh, Jesús, mi Salvador.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Cara a cara nos veremos.</br>
+        <br>En el reino del amor,</br>
+        <br>Y en coro cantaremos</br>
+        <br>Alabanzas al Señor.</br>
+        <br>Vagamente ahora vemos</br>
+        <br>Por la fe que tú nos das,</br>
+        <br>Más entonces te veremos</br>
+        <br>En la gloria donde estás</br>
+        <br>¡Oh, qué dicha tan inmensa</br>
+        <br>Será verte, mi Jesús,</br>
+        <br>Y gozar en tu presencia</br>
+        <br>Con los ángeles en luz!</br>
+        <br>Cara a cara; cuan glorioso</br>
+        <br>Es pensar en día tal,</br>
+        <br>cuando alabarte pueda</br>
+        <br>Con el coro angelical.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

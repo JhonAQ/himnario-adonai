@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CUANDO ALLÁ SE PASE LISTA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Cuando la trompeta suene</br>
+        <br>En aquel día final,</br>
+        <br>Y que el alba eterna rompa en claridad;</br>
+        <br>Cuando las naciones salvas</br>
+        <br>A su patria lleguen ya,</br>
+        <br>Y que sea pasada lista, allí he de estar.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Cuando allá se pase lista,</br>
+        <br>Cuando allá se pase lista,</br>
+        <br>Cuando allá se pase lista:</br>
+        <br>A mi nombre yo feliz responderé.</br>
+        <br>En aquel día sin nieblas,</br>
+        <br>En qué muerte ya no habrá</br>
+        <br>Y su gloria el salvador impartirá;</br>
+        <br>Cuando los llamados entren</br>
+        <br>A su celestial hogar.</br>
+        <br>Y que sea pasada lista, allí he de estar.</br>
+        <br>Trabajemos por el Maestro,</br>
+        <br>Desde el alba al vislumbrar;</br>
+        <br>Siempre hablemos de su amor y fiel bondad</br>
+        <br>Cuando todo aquí fenezca</br>
+        <br>Y nuestra obra cese ya,</br>
+        <br>Y que sea pasada lista, allí he de estar.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LA LUCHA SIGUE</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Luchando estáis; aún suena la trompeta hoy</br>
+        <br>Llamando a los soldados a la lid;</br>
+        <br>A Jesucristo con valor decid: “Yo voy”;</br>
+        <br>Y él os dirá: “¡Venid, oh sí, venid!”</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>La lucha sigue, oh cristianos,</br>
+        <br>Y brazo a brazo lucharéis;</br>
+        <br>En Jesucristo seguid confiando</br>
+        <br>Y por la fe en el venceréis;</br>
+        <br>La lucha sigue, oh cristianos,</br>
+        <br>Sed fieles y en Jesús confiad;</br>
+        <br>La lucha siempre seguid, hermanos,</br>
+        <br>Y la victoria esperad.</br>
+        <br>Luchando estáis, soldados del Señor Jesús,</br>
+        <br>Luchando estáis en contra de satán;</br>
+        <br>Es Jesucristo nuestra fortaleza y luz,</br>
+        <br>Y él también es nuestro capitán.</br>
+        <br>Luchando estáis; confiados en Jesús marchad,</br>
+        <br>Haciendo huir al enemigo vil,</br>
+        <br>Y Jesucristo nuestro jefe, amante y fiel,</br>
+        <br>Sostén será de todos en la lid.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

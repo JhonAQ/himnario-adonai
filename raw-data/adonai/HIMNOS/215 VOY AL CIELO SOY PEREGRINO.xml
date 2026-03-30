@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>VOY AL CIELO SOY PEREGRINO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>Voy al cielo, soy peregrino,</br>
+        <br>A vivir eternamente con Jesús;</br>
+        <br>Él nos abrió ya, el real camino;</br>
+        <br>Al expirar por nosotros en la cruz.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Voy al cielo, soy peregrino,</br>
+        <br>A vivir eternamente con Jesús.</br>
+        <br>2</br>
+        <br>Duelo, muerte ni amarga pena,</br>
+        <br>Nunca, nunca habremos de sufrir allá;</br>
+        <br>Gloriosa vida de gozo llena;</br>
+        <br>El alma mía sin fin disfrutara.</br>
+        <br>3</br>
+        <br>Patria santa, hermosa y pura,</br>
+        <br>Entrare en tu dicha salvo por Jesús;</br>
+        <br>Y gozare siempre la ventura;</br>
+        <br>Con el viviendo en resplandeciente luz.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

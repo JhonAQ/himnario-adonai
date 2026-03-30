@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>A COMBATIR RESUENA LA GUERRERA VOZ</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¡A combatir! Resuena la guerrera voz</br>
+        <br>Del buen Jesús, que hoy llamando está;</br>
+        <br>Sin desmayar seguidle siempre con valor,</br>
+        <br>Y la victoria plena os dará.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡A la batalla, oh cristiano!</br>
+        <br>Con el escudo de la cruz;</br>
+        <br>Sé buen soldado, pues a tu lado</br>
+        <br>Está el príncipe Jesús.</br>
+        <br>El con su gracia te sostiene,</br>
+        <br>Y con potencia sin igual</br>
+        <br>Su brazo extiende y te defiende</br>
+        <br>En esta lucha contra el mal.</br>
+        <br>¡A combatir! Nos llama nuestro Salvador,</br>
+        <br>Salid, luchad con nuestro Capitán.</br>
+        <br>En la constante lid seguid sin vacilar</br>
+        <br>Y venceréis las huestes de satán.</br>
+        <br>Al rey de reyes, nuestro Salvador Jesús,</br>
+        <br>Honor y gloria todos tributad,</br>
+        <br>Pues ya los suyos gozan de su plenitud</br>
+        <br>Y pronto reinara la santidad.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>VALOR Y FE</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Si en tu senda las nubes</br>
+        <br>Agolparse ves,</br>
+        <br>No vaciles por ello,</br>
+        <br>Ni flaqueen tus pies;</br>
+        <br>Cada nube que venga</br>
+        <br>No podrá traer</br>
+        <br>Más que pruebas que pasan</br>
+        <br>Si hay valor y fe.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Si hay valor y fe, si hay valor y fe,</br>
+        <br>En la más oscura noche</br>
+        <br>Siempre hay luz!</br>
+        <br>¡Si hay valor y fe, si hay valor y fe;</br>
+        <br>Gozo y paz traerá la lucha</br>
+        <br>Si hay valor y fe!</br>
+        <br>Si es tu vida una carga</br>
+        <br>De cuidados mil,</br>
+        <br>Olvidado de todo</br>
+        <br>Te podrás sentir:</br>
+        <br>Si tu ayuda acudieres</br>
+        <br>A llevar doquier,</br>
+        <br>Esto endulza la vida</br>
+        <br>Si hay valor y fe.</br>
+        <br>Pon en alto los ojos</br>
+        <br>Sin dudar jamás,</br>
+        <br>Que en las lides del mundo</br>
+        <br>Vencedor saldrás;</br>
+        <br>Que si hay flores y encantos</br>
+        <br>Tras invierno cruel,</br>
+        <br>Trae encantos la vida</br>
+        <br>Si hay valor y fe.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LA MERCED DE NUESTRO PADRE</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>La merced de nuestro Padre</br>
+        <br>Es un faro en su brillar,</br>
+        <br>El nos cuida y nos protege</br>
+        <br>Con las luces de alta mar.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Mantened el faro ardiendo!</br>
+        <br>¡Arrojad su luz al mar!</br>
+        <br>Que si hay nautas pereciendo</br>
+        <br>Los podréis así salvar.</br>
+        <br>2</br>
+        <br>Reina noche de pecado,</br>
+        <br>Ruge airada negra mar,</br>
+        <br>Almas hay que van buscando</br>
+        <br>Esas luces de alta mar.</br>
+        <br>3</br>
+        <br>Ten tu lámpara encendida</br>
+        <br>Que en la tempestad habrá</br>
+        <br>Algún náufrago perdido</br>
+        <br>Y tú luz lo salvará.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

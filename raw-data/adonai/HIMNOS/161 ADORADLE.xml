@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>ADORADLE</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Dad al Padre toda gloria,</br>
+        <br>Dad al Hijo todo honor;</br>
+        <br>Y al Espíritu divino</br>
+        <br>Alabanzas de loor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Adoradle, adoradle,</br>
+        <br>Adorad al Salvador;</br>
+        <br>Tributadle toda gloria,</br>
+        <br>Pueblo suyo por su grande amor.</br>
+        <br>Adoradle, ¡oh Iglesia!,</br>
+        <br>Redimida por Jesús;</br>
+        <br>Rescatada por su gracia,</br>
+        <br>Guiada por su amor y luz.</br>
+        <br>Entonadle un canto nuevo,</br>
+        <br>Huestes libres del Señor;</br>
+        <br>Tierra, cielos, mar y luna,</br>
+        <br>Gloria dan al trino Dios.</br>
+        <br>2º CORO</br>
+        <br>Yo te adoro, yo te adoro</br>
+        <br>Yo te adoro, buen Jesús;</br>
+        <br>Yo te adoro reverente,</br>
+        <br>¡Oh cordero santo de mi Dios!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

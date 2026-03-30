@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CRISTO ME AMA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Cristo me ama, bien lo sé;</br>
+        <br>Su palabra me hace ver,</br>
+        <br>Que los niños son de aquel,</br>
+        <br>Quien es nuestro amigo fiel.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Cristo me ama, Cristo me ama;</br>
+        <br>Cristo me ama, la biblia dice así.</br>
+        <br>Cristo me ama, pues murió,</br>
+        <br>Y el cielo me abrió;</br>
+        <br>El mis culpas quitará,</br>
+        <br>Y la entrada me dará.</br>
+        <br>Cristo me ama es verdad</br>
+        <br>Y me cuida en su bondad,</br>
+        <br>Cuando muera, si soy fiel,</br>
+        <br>Viviré allá con él.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

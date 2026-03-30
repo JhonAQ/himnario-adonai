@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>CORO 159</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>// Te alabaran oh Jehová todos los reyes,
+Todos los reyes de la tierra,
+Porque han oído los dichos de tu boca,
+Y cantarán de los caminos de Jehová. //,
+// Porque la gloria de Jehová es grande,
+Porque Jehová es excelso en sus caminos,
+Porque Jehová atiende al humilde,
+Más mira de lejos al altivo. //,</lines>
+    </verse>
+  </lyrics>
+</song>

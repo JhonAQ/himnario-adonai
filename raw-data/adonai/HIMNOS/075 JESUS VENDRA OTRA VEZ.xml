@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>JESUS VENDRA OTRA VEZ</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Yo espero el día alegre cuando Cristo volverá,</br>
+        <br>Pues vendrá al mundo pronto y nos arrebatará,</br>
+        <br>¡Oh, qué gozo este pensamiento a mi alma da:</br>
+        <br>El que Cristo venga al mundo otra vez!</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Oh! Jesús vendrá al mundo otra vez,</br>
+        <br>Sí, Jesús vendrá al mundo otra vez;</br>
+        <br>Le veremos en las nubes con los ángeles de luz,</br>
+        <br>Cuando Cristo venga al mundo otra vez.</br>
+        <br>La venida de Jesús será el remedio del dolor</br>
+        <br>Que aflige siempre a este pobre mundo pecador;</br>
+        <br>Toda lágrima se enjugará por nuestro Salvador,</br>
+        <br>Cuando Cristo venga al mundo otra vez.</br>
+        <br>Llegarán los santos a Sión con gozo eternal;</br>
+        <br>Y en todo el santo monte nada daña ni hace mal,</br>
+        <br>Pues conocerán a Dios, entonces, todos por igual,</br>
+        <br>Cuando Cristo venga al mundo otra vez.</br>
+        <br>El pecado, pena y muerte en este mundo cesarán</br>
+        <br>Mártires y santos con Jesús por siempre reinarán,</br>
+        <br>Cada alma gozara de paz perfecta, sin afán,</br>
+        <br>Cuando Cristo venga al mundo otra vez.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

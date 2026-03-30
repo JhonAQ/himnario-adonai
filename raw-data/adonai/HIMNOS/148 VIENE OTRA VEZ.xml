@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>VIENE OTRA VEZ</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Cantan los ángeles con dulce voz,</br>
+        <br>Canten los hombres con sonora voz:</br>
+        <br>Cristo vendrá nuestro Rey vencedor,</br>
+        <br>Cristo vendrá otra vez.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Viene otra vez, viene otra vez,</br>
+        <br>En gloria viene al mundo otra vez:</br>
+        <br>Viene otra vez, viene otra vez,</br>
+        <br>El viene pronto a reinar!</br>
+        <br>Ved en la tierra, los aires y el mar</br>
+        <br>Grandes señales cumpliéndose ya,</br>
+        <br>Todo indicando que pronto vendrá</br>
+        <br>Nuestro glorioso Señor.</br>
+        <br>Todos los muertos en Cristo saldrán</br>
+        <br>De sus sepulcros, y alegres irán,</br>
+        <br>Para encontrar a su Rey subirán;</br>
+        <br>Cristo vendrá otra vez.</br>
+        <br>Ven en las nubes, ¡oh buen Salvador!</br>
+        <br>¡Ven a la tierra, te ruego, Señor!</br>
+        <br>¡Ven, que tu iglesia te espera, Jesús!</br>
+        <br>Cristo vendrá otra vez.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

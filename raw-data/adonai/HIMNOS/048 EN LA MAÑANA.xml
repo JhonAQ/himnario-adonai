@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EN LA MAÑANA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>En el mundo la iglesia</br>
+        <br>Peregrina ha de estar;</br>
+        <br>Anhelante ella espera</br>
+        <br>Su feliz, eterno hogar.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Nos veremos, nos veremos</br>
+        <br>Pronto en gloria, pronto en gloria,</br>
+        <br>Nos veremos en la tierra más allá;</br>
+        <br>Nos veremos, nos veremos</br>
+        <br>Pronto en gloria, pronto en gloria,</br>
+        <br>Junto al rio cristalino más allá.</br>
+        <br>Nada aquí es permanente,</br>
+        <br>Todo ha de terminar;</br>
+        <br>Mas miramos adelante,</br>
+        <br>En el cielo nuestro hogar.</br>
+        <br>Las familias en la tierra</br>
+        <br>Se desunen al morir;</br>
+        <br>Mas esperan la mañana</br>
+        <br>En que se han de reunir.</br>
+        <br>Con Jesús cual unos reyes</br>
+        <br>Pronto habremos de estar;</br>
+        <br>Junto, miles de millares,</br>
+        <br>Con Jesús para morar.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

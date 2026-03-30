@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>NADA DE SOMBRAS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>No habrá sombras en el valle de la muerte</br>
+        <br>Cuando cese de la vida el batallar,</br>
+        <br>Y escuchemos del Señor el llamamiento,</br>
+        <br>Ya llevándolos con él a descansar.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Sombras, nada de sombras</br>
+        <br>Al dejar el mundo de dolor;</br>
+        <br>Sombras, nada de sombras</br>
+        <br>Cuando al cielo llegue vencedor.</br>
+        <br>Al dejarnos los que amamos no habrá sombras,</br>
+        <br>Si su fe depositaron en Jesús;</br>
+        <br>Porque irán para vivir por las edades,</br>
+        <br>Con quien quiso redimirlos en la cruz.</br>
+        <br>Cuando venga por los suyos no habrá sombras,</br>
+        <br>Pues su gloria y majestad las destruirán:</br>
+        <br>Y las huestes redimidas con su jefe,</br>
+        <br>A las célicas mansiones entrarán.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

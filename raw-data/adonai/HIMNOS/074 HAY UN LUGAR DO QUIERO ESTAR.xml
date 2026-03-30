@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>HAY UN LUGAR DO QUIERO ESTAR</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Hay un lugar do quiero estar,</br>
+        <br>Muy cerca de mi Redentor:</br>
+        <br>Allí podré yo descansar,</br>
+        <br>Al Fiel amparo de su amor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Muy cerca de mi Redentor</br>
+        <br>Seguro asilo encontraré:</br>
+        <br>Me guardara del tentador</br>
+        <br>Y ya de nada temeré.</br>
+        <br>Quitarme el mundo no podrá</br>
+        <br>La paz que halló mi corazón;</br>
+        <br>Jesús amante me dará</br>
+        <br>La más segura protección.</br>
+        <br>Ni dudas ni temor tendré</br>
+        <br>Estando cerca de Jesús;</br>
+        <br>Rodeado siempre me veré</br>
+        <br>Con los fulgores de su luz.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

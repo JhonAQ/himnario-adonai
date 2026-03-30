@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EL CONSOLADOR HA VENIDO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Doquier el hombre esté, la nueva proclamad,</br>
+        <br>Doquier haya aflicción, miserias y dolor;</br>
+        <br>Cristianas, anunciad que el Padre nos envió,</br>
+        <br>El fiel Consolador.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>El fiel consolador, el fiel consolador,</br>
+        <br>Que Dios nos prometió, al mundo descendió:</br>
+        <br>Doquier el hombre este, decid que vino ya,</br>
+        <br>El fiel Consolador.</br>
+        <br>La noche ya paso, y al fin brilló la luz,</br>
+        <br>Que vino a disipar las sombras del temor,</br>
+        <br>Así del alma fue aurora celestial,</br>
+        <br>El fiel Consolador.</br>
+        <br>Él es quien da salud, y plena libertad,</br>
+        <br>A los que encadeno el fiero tentador;</br>
+        <br>Los rotos hierros hoy dirán que vino ya</br>
+        <br>El fiel Consolador.</br>
+        <br>¡Oh grande eterno amor!, mi lengua débil es</br>
+        <br>Para poder hablar del don que recibí,</br>
+        <br>Al renovar en mí, la imagen celestial,</br>
+        <br>El fiel Consolador.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

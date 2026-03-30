@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EL QUE HABITA AL ABRIGO DE DIOS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>El que habita al abrigo de Dios</br>
+        <br>Morará bajo sombras de amor,</br>
+        <br>Su esperanza y castillo Jehová será,</br>
+        <br>Y en sus alas feliz vivirá.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Oh, yo quiero habitar al abrigo de Dios,</br>
+        <br>Solo allí encontraré paz y profundo amor.</br>
+        <br>Mi delicia es con él comunión disfrutar,</br>
+        <br>Y por siempre su nombre alabar.</br>
+        <br>El que habita al abrigo de Dios</br>
+        <br>Muy feliz ciertamente será;</br>
+        <br>Dios dará, con sus ángeles, protección,</br>
+        <br>Y sus pies nunca resbalarán.</br>
+        <br>El que habita al abrigo de Dios</br>
+        <br>Consagrado a su voluntad,</br>
+        <br>Puesto en alto, saciado en su plenitud,</br>
+        <br>De Jehová gozará la salud.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

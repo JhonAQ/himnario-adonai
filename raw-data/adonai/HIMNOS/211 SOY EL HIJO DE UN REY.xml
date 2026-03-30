@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>SOY EL HIJO DE UN REY</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Mi Padre es un Rey, muy rico sin par,</br>
+        <br>El tiene caudales inmensos doquier;</br>
+        <br>Su oro y diamantes no puedo contar,</br>
+        <br>Tesoros que nadie podrá contener.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>//Soy el hijo de un Rey, el hijo de un Rey</br>
+        <br>Por Cristo bendito, soy el hijo de un Rey.//</br>
+        <br>2</br>
+        <br>El hijo de Dios, mi buen Salvador,</br>
+        <br>Al mundo viniendo, muy pobre vivió;</br>
+        <br>Hoy reina en la gloria, cubierto de honor,</br>
+        <br>Y hogar en los cielos, con Dios me ofreció.</br>
+        <br>3</br>
+        <br>Errante viví, sin patria ni hogar,</br>
+        <br>Un vil extranjero, sin Dios y sin fe;</br>
+        <br>Mas Cristo bendito, me quiso adoptar;</br>
+        <br>Corona y Mansión, en los cielos tendré.</br>
+        <br>4</br>
+        <br>¡Qué importa que yo no tenga un hogar!</br>
+        <br>¡Yo tengo un Palacio, del sol más allá!</br>
+        <br>Y mientras que llego, yo puedo cantar,</br>
+        <br>¡Soy el hijo de un Rey, Aleluya a Jehová!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

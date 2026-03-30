@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>GUIAME</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¡OH! SALVADOR</br>
+        <br>Guíame, ¡oh Salvador!,</br>
+        <br>Por la vía de salud;</br>
+        <br>A tu lado no hay temor:</br>
+        <br>Sólo hay gozo, paz, quietud.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Cristo! ¡Cristo!</br>
+        <br>No me dejes, ¡oh Señor!</br>
+        <br>Siendo tú mí guía fiel,</br>
+        <br>Seré más que vencedor.</br>
+        <br>Tú de mi alma salvación,</br>
+        <br>En la ruda tempestad:</br>
+        <br>Al venir la tentación,</br>
+        <br>Guárdame por tu bondad.</br>
+        <br>No me dejes, ¡oh Señor!,</br>
+        <br>Mientras en el mundo este;</br>
+        <br>Y haz que arribe sin temor,</br>
+        <br>Do feliz por fin seré.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

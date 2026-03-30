@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>DILO A CRISTO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Cuando estés cansado y abatido,</br>
+        <br>Dilo a Cristo, dilo a Cristo,</br>
+        <br>Si te sientes débil, confundido,</br>
+        <br>Dilo a Cristo el Señor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Dilo a Cristo, dilo a Cristo,</br>
+        <br>Él es tu amigo más fiel;</br>
+        <br>No hay otro amigo como Cristo,</br>
+        <br>Dilo tan sólo a Él.</br>
+        <br>Cuando estés de tentación cercado,</br>
+        <br>Mira hacia Cristo, mira hacia Cristo,</br>
+        <br>Cuando rujan huestes de pecado,</br>
+        <br>Mira hacia  Cristo el Señor.</br>
+        <br>CORO: Mira hacia Cristo, etc.</br>
+        <br>Si se apartan otros de la senda,</br>
+        <br>Sigue a Cristo, sigue a Cristo,</br>
+        <br>Si acrecienta en torno la contienda,</br>
+        <br>Sigue a Cristo el Señor.</br>
+        <br>CORO: Sigue a Cristo, etc.</br>
+        <br>Cuando llegue la final jornada,</br>
+        <br>Fía en Cristo, fía en Cristo.</br>
+        <br>Te dará en el reino franca entrada,</br>
+        <br>Fía en Cristo el Señor.</br>
+        <br>CORO: Fía en Cristo, etc.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>MELODÍAS CELESTIALES</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>Dulces melodías cantaré,</br>
+        <br>Y alabanzas al Señor;</br>
+        <br>A su nombre gloria yo daré,</br>
+        <br>Por su incomparable amor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>De Jesús el nombre,</br>
+        <br>Siempre alabare,</br>
+        <br>Canta mi alma alegre;</br>
+        <br>Melodías a mi Rey.</br>
+        <br>2</br>
+        <br>Yo vivía en sombras y en dolor,</br>
+        <br>Triste, herido, pobre, vil;</br>
+        <br>Mas la tierna mano del Señor</br>
+        <br>Me condujo a su redil.</br>
+        <br>3</br>
+        <br>Fuente perennal de gracia halle</br>
+        <br>Al amparo de su amor;</br>
+        <br>Su sonriente faz me imparte fe,</br>
+        <br>Esperanza y gran valor.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

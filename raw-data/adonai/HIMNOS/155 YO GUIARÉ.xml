@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>YO GUIARÉ</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Yo guiaré al peregrino extraviado,</br>
+        <br>Bondadoso hasta el pie de la cruz;</br>
+        <br>Yo diré al corazón angustiado:</br>
+        <br>Hallarás tu consuelo en Jesús.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Yo guiaré, yo guiaré,</br>
+        <br>Al sediento de vida y de luz;</br>
+        <br>Yo guiaré, yo guiaré,</br>
+        <br>Al perdido a los pies de Jesús.</br>
+        <br>Yo diré al que buscare la calma,</br>
+        <br>Que se llegue al amante Jesús;</br>
+        <br>Yo diré con placer a aquella alma:</br>
+        <br>¡Que te inunden sus ondas de luz!</br>
+        <br>Al que vague buscando una fuente</br>
+        <br>Do apagar de su sed el ardor:</br>
+        <br>Lo guiaré con amor diligente</br>
+        <br>A Jesús, la gran fuente de amor.</br>
+        <br>Al cansado que busque reposo,</br>
+        <br>Sin hallarlo en su duro penar,</br>
+        <br>Le diré que reciba al bondadoso:</br>
+        <br>“Ven a mí, yo te haré descansar.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

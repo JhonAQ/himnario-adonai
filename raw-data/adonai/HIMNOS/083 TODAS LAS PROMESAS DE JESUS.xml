@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>TODAS LAS PROMESAS DE JESUS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Todas las promesas del Señor Jesús</br>
+        <br>Son apoyo poderoso de mi fe;</br>
+        <br>Mientras siga andando en su preciosa luz,</br>
+        <br>Siempre en sus promesas confiaré.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Grandes, fieles,</br>
+        <br>Las promesas que el Señor Jesús ha dado;</br>
+        <br>Grandes, fieles,</br>
+        <br>En ellas para siempre confiaré.</br>
+        <br>Todas sus promesas para el hombre fiel,</br>
+        <br>El Señor, en sus bondades cumplirá;</br>
+        <br>Y confiado sé que para siempre en él</br>
+        <br>Paz eterna mi alma gozará.</br>
+        <br>Todas las promesas del Señor serán</br>
+        <br>Gozo y fuerza en nuestra vida terrenal,</br>
+        <br>Ellas en la dura lid nos sostendrán,</br>
+        <br>Y triunfar podremos sobre el mal.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

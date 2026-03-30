@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LA FUENTE SANADORA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¡Ved la fuente sanadora,</br>
+        <br>¡La que abrió el Salvador!</br>
+        <br>Cuyas aguas refrescantes</br>
+        <br>Son de perennal valor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Oh preciosa fuente sanadora!</br>
+        <br>Para todos fluye libre;</br>
+        <br>¡Oh preciosa fuente sanadora!</br>
+        <br>¡Gloria a Dios!, me sana a mí.</br>
+        <br>En la fuente que nos sana,</br>
+        <br>He hallado el perdón,</br>
+        <br>Y lavado toda mancha</br>
+        <br>De mi pobre corazón.</br>
+        <br>En la fuente que nos sana,</br>
+        <br>Cristo ofrece la salud;</br>
+        <br>Pues venid, enfermos todos,</br>
+        <br>Probaréis su gran virtud.</br>
+        <br>Esta fuente que nos sana</br>
+        <br>Aún hoy día es eficaz:</br>
+        <br>Ven, sumérgete en ella,</br>
+        <br>Cree, y sano quedaras.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

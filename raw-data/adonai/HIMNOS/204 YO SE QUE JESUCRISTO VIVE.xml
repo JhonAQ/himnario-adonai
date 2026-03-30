@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>YO SE QUE JESUCRISTO VIVE</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>Yo sé que Jesucristo vive</br>
+        <br>Y que en la tierra reinará.</br>
+        <br>Yo sé que él siempre me recibe.</br>
+        <br>Con gracia y fuerza me guiará.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Yo sé, yo sé que Cristo vive</br>
+        <br>Y en la tierra reinará.</br>
+        <br>Yo sé, yo sé que él me recibe</br>
+        <br>Y por su amor me salvará.</br>
+        <br>2</br>
+        <br>Yo sé que el cumple su promesa,</br>
+        <br>Pues su palabra es verdad.</br>
+        <br>Su muerte me causo honda pena,</br>
+        <br>Pues él me amó por su bondad.</br>
+        <br>3</br>
+        <br>Yo sé que un palacio en gloria</br>
+        <br>El preparó para mi hogar.</br>
+        <br>Grato es saber la bella historia</br>
+        <br>De mi Jesús que sabe amar.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

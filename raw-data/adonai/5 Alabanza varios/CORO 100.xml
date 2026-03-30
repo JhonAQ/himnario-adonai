@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>CORO 100</title>
+    </titles>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Mira lo que hizo mi Jesús //,
+El me salvo y me liberto,
+Mira lo que hizo mi Jesús.,
+//Caminando por la senda voy//,
+//de prueba en prueba, victoria tras victoria,
+Caminando por la senda voy.//,
+// El enemigo ya vencido está,//,
+//Jesús lo venció, muriendo en la cruz,,
+El enemigo ya vencido está.//,</lines>
+    </verse>
+  </lyrics>
+</song>

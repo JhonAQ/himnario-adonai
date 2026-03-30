@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LIBRE ESTOY</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Yo vagaba mucho tiempo en el error</br>
+        <br>Agobiado en el pecado y el temor;</br>
+        <br>Cuando vi al Salvador</br>
+        <br>Y escuché su tierna voz,</br>
+        <br>Mi Jesús me hizo libre por su amor.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Libre estoy, libre estoy</br>
+        <br>Por la gracia de Jesús libre estoy;</br>
+        <br>Libre estoy, libre estoy,</br>
+        <br>¡Aleluya, por la fe, libre estoy!</br>
+        <br>Yo vagaba mucho tiempo en el error,</br>
+        <br>Sin pensar en el amor del Salvador;</br>
+        <br>Yo vagaba más y más,</br>
+        <br>Lejos de mi Redentor,</br>
+        <br>¡Mas ahora por su muerte libre estoy!</br>
+        <br>Yo vagaba mucho tiempo en el error,</br>
+        <br>Mas ahora quiero andar con mi Señor;</br>
+        <br>Quiero oír su tierna voz,</br>
+        <br>Y seguirle siempre en pos,</br>
+        <br>¡Gloria, gloria sea a nuestro buen pastor!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>SIERVOS DE JESUS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Siervos de Jesús, hombres de verdad,</br>
+        <br>Guardas del deber, somos, sí;</br>
+        <br>Libres de maldad, ricos en bondad,</br>
+        <br>Fieles en la lid, seremos, sí.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Firmes! ¡Fuertes! Alcen la bandera</br>
+        <br>Grande, noble emblema del deber.</br>
+        <br>¡Prontos! ¡Bravos! Pasen la consigna:</br>
+        <br>Marchen, todos, vamos a vencer.</br>
+        <br>¡Cuán hermosos son los que sin temor</br>
+        <br>Listos, al llamar del clarín,</br>
+        <br>Luchan con valor, sufren sin cesar,</br>
+        <br>Guardas del deber hasta el fin!</br>
+        <br>Nuestro Capitán es ya vencedor,</br>
+        <br>Él nos redimió por su cruz.</br>
+        <br>Guardas del deber, Él nos da poder,</br>
+        <br>Él nos guiará hasta la luz.</br>
+        <br>Invencibles son los que con afán</br>
+        <br>Cada día van al deber;</br>
+        <br>Grande luz tendrán y recibirán</br>
+        <br>Magno galardón del Redentor.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

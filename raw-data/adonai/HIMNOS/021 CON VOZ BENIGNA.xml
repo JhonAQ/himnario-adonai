@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CON VOZ BENIGNA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Con voz benigna te llama Jesús,</br>
+        <br>Invitación de puro amor;</br>
+        <br>¿Por qué le dejas en vano llamar?</br>
+        <br>¿Sordo serás, pecador?</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Hoy te convida, Hoy te convida,</br>
+        <br>Voz bendecida,</br>
+        <br>Benigna convídate hoy.</br>
+        <br>A los cansados convida Jesús;</br>
+        <br>Con compasión mira el dolor;</br>
+        <br>Tráele tu carga, te bendecirá,</br>
+        <br>Te ayudará, el Señor.</br>
+        <br>Siempre aguardando contempla a Jesús:</br>
+        <br>¡Tanto esperar!, ¡con tanto amor!</br>
+        <br>Hasta sus plantas ven, mísero, y trae</br>
+        <br>Tu tentación, tu dolor.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

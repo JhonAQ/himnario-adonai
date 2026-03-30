@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CANTARE LA MARAVILLA</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Cantare la maravilla</br>
+        <br>Que Jesús murió por mí;</br>
+        <br>Como allá en el calvario</br>
+        <br>Dio su sangre carmesí.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Cantaré la bella historia</br>
+        <br>De Jesús mi salvador,</br>
+        <br>Y con santos en la gloria,</br>
+        <br>A Jesús daré loor.</br>
+        <br>Cristo vino a rescatarme,</br>
+        <br>Vil, perdido me encontró;</br>
+        <br>Con su mano fiel y tierna,</br>
+        <br>Al redil él me llevó.</br>
+        <br>Mis heridas y dolores</br>
+        <br>El Señor Jesús sanó;</br>
+        <br>Del pecado y los temores</br>
+        <br>Su poder me libertó.</br>
+        <br>En el río de la muerte</br>
+        <br>El Señor me guardará:</br>
+        <br>Es su amor tan fiel y fuerte,</br>
+        <br>Que jamás me dejara.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

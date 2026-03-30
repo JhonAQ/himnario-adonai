@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>LAS SANTAS ESCRITURAS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Padre tu palabra es</br>
+        <br>Mi delicia y mi solaz:</br>
+        <br>Guíe siempre aquí mis pies,</br>
+        <br>Y a mi pecho traiga paz.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Es tu ley, Señor,</br>
+        <br>Faro celestial</br>
+        <br>Que, perenne resplandor,</br>
+        <br>Norte y guía da al mortal.</br>
+        <br>Sí, obediente oí tu voz;</br>
+        <br>En tu gracia fuerza halle,</br>
+        <br>Y con firme pie y veloz,</br>
+        <br>Por tu senda caminaré.</br>
+        <br>Tu verdad es mi sostén,</br>
+        <br>Contra duda y tentación,</br>
+        <br>Y destila calma y bien</br>
+        <br>Cuando asalta la aflicción.</br>
+        <br>Son tus dichos para mí</br>
+        <br>Prendas fieles de salud;</br>
+        <br>Dame, pues, que te oiga a ti,</br>
+        <br>Con filial solicitud.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

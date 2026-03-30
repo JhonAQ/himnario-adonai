@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>CONFIANDO SOLO EN JESÚS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Aunque la furiosa tempestad</br>
+        <br>Amenace ruina sin piedad,</br>
+        <br>Con Jesús, tendré seguridad</br>
+        <br>Fiando en Jesús</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Confiando sólo en Jesús,</br>
+        <br>Sé que su promesa cumplirá,</br>
+        <br>Yo confiando sólo en Jesús,</br>
+        <br>Él me salvará.</br>
+        <br>Penas y dolor podré tener</br>
+        <br>Que congojas causen a mí ser,</br>
+        <br>Sobre todos yo podré vencer,</br>
+        <br>Fiando en Jesús.</br>
+        <br>Otras esperanzas pasarán,</br>
+        <br>Otros goces, sí, fenecerán,</br>
+        <br>Mi esperanza y gozo durarán</br>
+        <br>Fiando en Jesús.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

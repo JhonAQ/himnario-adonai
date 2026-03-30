@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>HOGAR DE MIS RECUERDOS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Hogar de mis recuerdos,</br>
+        <br>A ti volver anhelo;</br>
+        <br>No hay sitio bajo el cielo</br>
+        <br>Más dulce que el hogar.</br>
+        <br>Posara yo en palacios,</br>
+        <br>Corriendo el mundo entero,</br>
+        <br>A todos yo prefiero</br>
+        <br>Mi hogar, mi dulce hogar.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Mi hogar, mi hogar, mi dulce hogar!</br>
+        <br>No hay sitio bajo el cielo</br>
+        <br>Más dulce que el hogar.</br>
+        <br>¡Allí la luz del cielo</br>
+        <br>Desciende más serena,</br>
+        <br>De mil delicias llena</br>
+        <br>La dicha del hogar!</br>
+        <br>Allí las horas corren</br>
+        <br>Más breves y gozosas;</br>
+        <br>Allí todas las cosas</br>
+        <br>Recuerdan sin cesar.</br>
+        <br>Más quiero que placeres</br>
+        <br>Gozar en tierra extraña,</br>
+        <br>Volver a la cabaña</br>
+        <br>De mi tranquilo hogar,</br>
+        <br>Allí mis pajarillos</br>
+        <br>Me alegran con sus cantos</br>
+        <br>Allí con mil encantos</br>
+        <br>Está la luz de paz.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

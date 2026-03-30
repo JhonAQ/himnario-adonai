@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>HAY PODER EN JESUS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¿Quieres ser salvo de toda maldad?</br>
+        <br>Tan sólo hay poder en mi Jesús;</br>
+        <br>¿Quieres por El alcanzar santidad?</br>
+        <br>Tan sólo hay poder en Jesús.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Hay poder, poder, sin igual poder,</br>
+        <br>En Jesús, quien murió;</br>
+        <br>Hay poder, poder, sin igual poder,</br>
+        <br>En la sangre que el vertió.</br>
+        <br>¿Quieres ser libre de orgullo y pasión?</br>
+        <br>Tan sólo hay poder en mi Jesús;</br>
+        <br>¿Quieres vencer toda cruel tentación?</br>
+        <br>Tan sólo hay poder en Jesús.</br>
+        <br>¿Quieres servir al gran Rey y Señor?</br>
+        <br>Tan sólo hay poder en mi Jesús;</br>
+        <br>Ven, y salvado serás por su amor,</br>
+        <br>Tan sólo hay poder en Jesús.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

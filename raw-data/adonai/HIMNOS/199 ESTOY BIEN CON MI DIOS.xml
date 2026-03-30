@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>ESTOY BIEN CON MI DIOS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>De paz inmunda mi senda ya esté</br>
+        <br>O cúbrala un mar de aflicción</br>
+        <br>Mi suerte, cualquiera que sea, diré:</br>
+        <br>“Estoy bien, estoy bien, con mi Dios”.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Estoy bien, con mi Dios.</br>
+        <br>Estoy bien, estoy bien con mi Dios.</br>
+        <br>2</br>
+        <br>Ya venga la prueba o me tiente Satán,</br>
+        <br>No amengua mi fe ni mi amor;</br>
+        <br>Pues Cristo comprende mis luchas, mi afán</br>
+        <br>Y su sangre obrará en mi favor.</br>
+        <br>3</br>
+        <br>Feliz yo me siento al saber que Jesús</br>
+        <br>Líbrame de yugo opresor,</br>
+        <br>Quitó mi pecado, clavólo en la cruz.</br>
+        <br>Gloria demos al buen Salvador.</br>
+        <br>3</br>
+        <br>La fe tornárase en feliz realidad</br>
+        <br>Al irse la niebla veloz,</br>
+        <br>Desciende Jesús con su gran majestad.</br>
+        <br>¡Aleluya, estoy bien con mi Dios!</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

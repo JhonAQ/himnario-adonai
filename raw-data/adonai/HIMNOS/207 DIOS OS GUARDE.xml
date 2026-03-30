@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>DIOS OS GUARDE</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>1</br>
+        <br>Dios os guarde siempre en santo amor,</br>
+        <br>Hasta el día en que lleguemos</br>
+        <br>A la patria do estaremos</br>
+        <br>Para siempre con el Salvador.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Al venir Jesús nos veremos,</br>
+        <br>A los pies de nuestro Salvador;</br>
+        <br>Reunidos todos seremos,</br>
+        <br>Un redil con nuestro buen Pastor.</br>
+        <br>2</br>
+        <br>Dios os guarde siempre en santo amor;</br>
+        <br>En la senda peligrosa,</br>
+        <br>De esta vida tormentosa,</br>
+        <br>Os conserve en paz y sin temor.</br>
+        <br>3</br>
+        <br>Dios os guarde siempre en santo amor;</br>
+        <br>Os conduzca su bandera;</br>
+        <br>Y os esfuerce en gran manera,</br>
+        <br>Con su Espíritu Consolador.</br>
+        <br>4</br>
+        <br>Dios os guarde siempre en santo amor;</br>
+        <br>Con su gracia él os sostenga,</br>
+        <br>Hasta que el Maestro venga,</br>
+        <br>A fundar su reino en esplendor.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

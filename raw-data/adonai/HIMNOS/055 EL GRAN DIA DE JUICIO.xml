@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EL GRAN DIA DE JUICIO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Soñé que el gran día del juicio,</br>
+        <br>Llegó, y sonó el clarín;</br>
+        <br>Soñé ver los pueblos reunidos</br>
+        <br>Para oír de su suerte sin fin;</br>
+        <br>Del cielo bajó un gran ángel,</br>
+        <br>Y, parado en tierra y mar,</br>
+        <br>Juro con su diestra alzada,</br>
+        <br>Que el tiempo ya no más será.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Con llanto y duelo entonces</br>
+        <br>Los perdidos su cuenta darán:</br>
+        <br>//Clamarán a las rocas: “cubridnos.”</br>
+        <br>Orarán, pero tarde será//.</br>
+        <br>El rico llegó, más su oro</br>
+        <br>Se fue y se desvaneció;</br>
+        <br>Cual pobre paróce ante el trono,</br>
+        <br>De sus deudas a Dios se acordó;</br>
+        <br>El grande, también, más la muerte</br>
+        <br>Le había quitado su honor:</br>
+        <br>Y el ángel, abriendo los libros,</br>
+        <br>No halló nada en su favor.</br>
+        <br>Vino al moralista al juicio,</br>
+        <br>Mas vana fue su pretensión:</br>
+        <br>También los que a Cristo mataron</br>
+        <br>Hicieron moral profesión;</br>
+        <br>Y el alma que daba la excusa</br>
+        <br>“-Hoy no, otro día mejor-”</br>
+        <br>Halló que por siglos eternos</br>
+        <br>Sufriría por su gran error.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

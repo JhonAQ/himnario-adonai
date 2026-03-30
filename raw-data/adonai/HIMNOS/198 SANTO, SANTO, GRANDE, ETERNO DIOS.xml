@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title></title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>¡SANTO, SANTO, GRANDE, ETERNO DIOS!</br>
+        <br>1</br>
+        <br>¡Santo, Santo, grande, eterno Dios!</br>
+        <br>Con alegría hoy te alabamos;</br>
+        <br>Rey de reyes, grande Capitán,</br>
+        <br>Todopoderoso Guerrero.</br>
+        <br>Honor y gloria, luz y dominio,</br>
+        <br>Tributaremos todos a Ti.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>¡Santo, Santo, eres Tú, Señor!</br>
+        <br>¡Dios de las batallas, Glorioso!</br>
+        <br>2</br>
+        <br>Alabadle cielos, tierra y mar,</br>
+        <br>Toda su iglesia, sus mensajeros;</br>
+        <br>Alabanzas, cantos de loor,</br>
+        <br>Hoy unidos elevaremos.</br>
+        <br>Juez majestuoso y reverendo</br>
+        <br>Fuego y vida eres, Señor.</br>
+        <br>Rey de siglos, sólo eterno Dios,</br>
+        <br>Veraz y justo, incomprensible;</br>
+        <br>Inmortal, Autor de todo bien,</br>
+        <br>Eres Tú el Anciano de Días.</br>
+        <br>Y para siempre entonaremos</br>
+        <br>El canto eterno de Redención.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

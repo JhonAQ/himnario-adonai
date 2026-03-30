@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>BUSCANDO A JESUS</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Débil, pobre, ciego soy,</br>
+        <br>Nada puede en mí valer,</br>
+        <br>Y a tu cruz ansioso voy,</br>
+        <br>Do salud podré tener.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Yo confió sólo en ti,</br>
+        <br>¡Oh Jesús, mi Salvador!</br>
+        <br>Dame paz, dame perdón;</br>
+        <br>Dame hoy tu salvación.</br>
+        <br>Mucho tiempo el mal en mí</br>
+        <br>Ha reinado sin cesar,</br>
+        <br>Y hoy, Señor, acudo a ti</br>
+        <br>Anhelando descansar.</br>
+        <br>Toma tú mi entero ser,</br>
+        <br>Alma y cuerpo tuyos son;</br>
+        <br>No los vaya a retener</br>
+        <br>En su red la tentación.</br>
+        <br>Cristo, ven al corazón,</br>
+        <br>A morar por siempre en él,</br>
+        <br>Y obtenido tu perdón,</br>
+        <br>Haz que pueda serte fiel.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

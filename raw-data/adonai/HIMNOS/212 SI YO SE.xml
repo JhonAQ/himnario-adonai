@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>SI YO SE</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Pecador, sin esperanza,</br>
+        <br>Jesucristo te ama a ti</br>
+        <br>Cuando estaba yo perdido</br>
+        <br>Mi Jesús salvóme a mí.</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>Y yo sé, sí, yo sé</br>
+        <br>Que la sangre de Jesús es eficaz;</br>
+        <br>Que Jesús con su sangre</br>
+        <br>Limpia al pecador más vil</br>
+        <br>Y paz le da.</br>
+        <br>2</br>
+        <br>Da poder al desmayado</br>
+        <br>Por los montes le guiará</br>
+        <br>Agua brinda en el desierto</br>
+        <br>En la noche luz le da.</br>
+        <br>3</br>
+        <br>Cuando vienen tentaciones</br>
+        <br>A tu lado Cristo está</br>
+        <br>Al seguro alberque guía</br>
+        <br>En las pruebas gracia da.</br>
+        <br>4</br>
+        <br>Te guiará hasta que llegares</br>
+        <br>A la celestial ciudad.</br>
+        <br>Donde eterna vida y dicha</br>
+        <br>Gozarás por su bondad.</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>

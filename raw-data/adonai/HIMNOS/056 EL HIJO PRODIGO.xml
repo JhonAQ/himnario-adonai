@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<song xmlns="http://openlyrics.info/namespace/2009/song">
+  <properties>
+    <titles>
+      <title>EL HIJO PRODIGO</title>
+    </titles>
+    <authors>
+      <author>DESCONOCIDO</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>
+        <br>Ven, ¡Oh pródigo!, ven sin tardar, te llama Dios;</br>
+        <br>Oyele llamando, llamándote a ti; (a ti)</br>
+        <br>Tú que vagas errante, escucha su tierna voz,</br>
+        <br>Escucha su voz de amor, (de amor).</br>
+      </lines>
+    </verse>
+    <verse name="c">
+      <lines>
+        <br>//Llamando por ti,</br>
+        <br>Perdido pródigo ven;//</br>
+        <br>Con paciencia y ternura te llaman, ven a él;</br>
+        <br>Óyelo llamando, llamándote a ti, (a ti);</br>
+        <br>Mientras él te llama, ven: no seas infiel,</br>
+        <br>Escucha su voz de amor, (de amor).</br>
+        <br>De tu padre en la casa abundancia hay de pan,</br>
+        <br>Óyelo llamando, llamándote a ti, (a ti);</br>
+        <br>Ya la mesa está lista, la bienvenida dan,</br>
+        <br>Escucha su voz de amor, (de amor).</br>
+      </lines>
+    </verse>
+  </lyrics>
+</song>
